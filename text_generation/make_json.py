@@ -1,5 +1,4 @@
 #################################
-# Parse the text into title, prompt and text
 # Create Json files:
 #   1. To overview the available text lengths excluding the prompt -> for sampling
 #   2. To separate title, prompt and text -> for the Generation with GPT

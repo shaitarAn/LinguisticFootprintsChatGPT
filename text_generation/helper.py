@@ -65,19 +65,5 @@ class Tokenizer:
                 return " ".join(sent.text for sent in sents[:i]), " ".join(sent.text for sent in sents[i:])
 
 
-def create_overview(corpus_name):
-    """Create a Json overview file of the raw files"""
-    filenames = os.listdir(f"raw/{corpus_name}")
-    file_dict = {}
-    for filename in filenames:
-        date, _, num_tokens, _ = parse_filename(filename)
-        file_dict[filename] = {
-            "year": date,
-            "num_tokens": int(num_tokens)
-        }
 
-    with open(f"overview/{corpus_name}.json", "w", encoding="utf-8") as outfile:
-        json.dump(file_dict, outfile)
 
-if __name__ == "__main__":
-    create_overview("pubmed_de")
