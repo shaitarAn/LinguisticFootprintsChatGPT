@@ -1,0 +1,3 @@
+A clinical case descriptions refers to detailed accounts or narratives that document the clinical features, diagnostic process, treatment approaches, and outcomes of individual patients with specific medical conditions or diseases. Please complete the following clinical case description.
+<title>
+<prompt>

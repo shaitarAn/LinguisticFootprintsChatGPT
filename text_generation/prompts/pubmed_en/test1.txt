@@ -1,0 +1,8 @@
+PubMed is a widely used online database that provides access to a vast collection of biomedical literature. It contains millions of citations and abstracts from scientific journals, books, and other sources in the fields of medicine, healthcare, life sciences, and related disciplines.
+Please complete the introduction section of an article published on PubMed. 
+The title is: 
+<title>
+The abstract is:
+<prompt>
+
+1. Introduction

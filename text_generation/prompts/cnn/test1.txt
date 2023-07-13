@@ -1,0 +1,6 @@
+CNN is an American news-based television channel and media organization that was founded in 1980 and was the first television channel to provide 24 hour news coverage.
+It has a high reputation for its journalistic coverage and has received numerous awards for its reporting covering a wide range of news topics, including politics, world events, business, technology, entertainment, and more. 
+In addition to its television channel, CNN has a comprehensive online presence through its website, CNN.com. Please complete the following article that was published on said website:
+<title>
+
+<prompt>
