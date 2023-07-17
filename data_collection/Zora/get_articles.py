@@ -9,7 +9,12 @@ import hashlib
 import argparse
 import os
     
-
+def file_path(string):
+    """Check if string is a valid filepath"""
+    if os.path.isfile(string):
+        return string
+    else:
+        raise FileNotFoundError(string)
 
 def parse_html(uri, get_request=False):
     """get an lxml root element, either of the web, or from a downloaded html file
@@ -53,7 +58,7 @@ if __name__ == "__main__":
     parser.add_argument("scopus_page", type=str, help="Either a link, or filepath")
     parser.add_argument("dest_folder", type=str)
     parser.add_argument("--request", "-r", action="store_true", default=False, help="getting the scopus page from the web?")
-    parser.add_argument("--exclude", "-e", type=list[str], help="File with a list of Journals to ignore")
+    parser.add_argument("--exclude", "-e", type=file_path, help="File with a list of Journals to ignore")
     parser.add_argument("--skip", "-s", type=int, default=0, help="skip the first entries")
     args = parser.parse_args()
 
