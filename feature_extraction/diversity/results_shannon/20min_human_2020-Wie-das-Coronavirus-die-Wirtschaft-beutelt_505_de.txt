@@ -1,0 +1,75 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 265
+WHAT AM I PRININTING?  human_2020-Wie-das-Coronavirus-die-Wirtschaft-beutelt_505_de
+human_2020-Wie-das-Coronavirus-die-Wirtschaft-beutelt_505_de
+computing lemmas
+Length of all lemmas: 233
+Length of singleton lemmas: 220
+Length of matched lemmas: 11
+Length of singleton maching lemmas: 220
+sein
+dict_values([4, 1, 3])
+sum of wordFormDict.values() 8
+der
+dict_values([7, 25, 4, 18, 11, 7])
+sum of wordFormDict.values() 72
+ein
+dict_values([3, 2, 1, 1, 1])
+sum of wordFormDict.values() 8
+reagieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+notieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 1, 3])
+sum of wordFormDict.values() 8
+der
+dict_values([7, 25, 4, 18, 11, 7])
+sum of wordFormDict.values() 72
+ein
+dict_values([3, 2, 1, 1, 1])
+sum of wordFormDict.values() 8
+reagieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+notieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2

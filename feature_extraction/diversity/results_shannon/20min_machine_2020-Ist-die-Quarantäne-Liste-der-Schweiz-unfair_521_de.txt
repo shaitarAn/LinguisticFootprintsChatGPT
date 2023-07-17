@@ -1,0 +1,57 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 161
+WHAT AM I PRININTING?  machine_2020-Ist-die-Quarantäne-Liste-der-Schweiz-unfair_521_de
+machine_2020-Ist-die-Quarantäne-Liste-der-Schweiz-unfair_521_de
+computing lemmas
+Length of all lemmas: 144
+Length of singleton lemmas: 136
+Length of matched lemmas: 8
+Length of singleton maching lemmas: 136
+der
+dict_values([20, 4, 38, 5])
+sum of wordFormDict.values() 67
+werden
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([2, 6, 1])
+sum of wordFormDict.values() 9
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fair
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+schützen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+wirtschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([20, 4, 38, 5])
+sum of wordFormDict.values() 67
+werden
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([2, 6, 1])
+sum of wordFormDict.values() 9
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fair
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+schützen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+wirtschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3

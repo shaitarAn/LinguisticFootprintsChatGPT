@@ -1,0 +1,141 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 211
+WHAT AM I PRININTING?  machine_2018-«Es-ist-die-Safari-meines-Lebens»_546_de
+machine_2018-«Es-ist-die-Safari-meines-Lebens»_546_de
+computing lemmas
+Length of all lemmas: 157
+Length of singleton lemmas: 128
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 128
+der
+dict_values([15, 10, 1, 5, 7])
+sum of wordFormDict.values() 38
+letzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mein
+dict_values([3, 2, 5, 1])
+sum of wordFormDict.values() 11
+sein
+dict_values([1, 9, 1, 10, 6, 1, 1])
+sum of wordFormDict.values() 29
+atemberaubend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ich
+dict_values([28, 1, 6, 3])
+sum of wordFormDict.values() 38
+haben
+dict_values([1, 5, 2, 4])
+sum of wordFormDict.values() 12
+ein
+dict_values([1, 4, 1, 5])
+sum of wordFormDict.values() 11
+unvergeßlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+dies
+dict_values([6, 1, 2, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([6, 3, 1])
+sum of wordFormDict.values() 10
+unvergesslich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zurückkehren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+erleben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+einlassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erobern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 10, 1, 5, 7])
+sum of wordFormDict.values() 38
+letzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mein
+dict_values([3, 2, 5, 1])
+sum of wordFormDict.values() 11
+sein
+dict_values([1, 9, 1, 10, 6, 1, 1])
+sum of wordFormDict.values() 29
+atemberaubend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ich
+dict_values([28, 1, 6, 3])
+sum of wordFormDict.values() 38
+haben
+dict_values([1, 5, 2, 4])
+sum of wordFormDict.values() 12
+ein
+dict_values([1, 4, 1, 5])
+sum of wordFormDict.values() 11
+unvergeßlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+dies
+dict_values([6, 1, 2, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([6, 3, 1])
+sum of wordFormDict.values() 10
+unvergesslich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zurückkehren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+erleben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+einlassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erobern
+dict_values([1, 1])
+sum of wordFormDict.values() 2

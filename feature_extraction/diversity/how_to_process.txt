@@ -1,0 +1,23 @@
+### Step 1 Extract vocabulary of most frequent words
+# for one file:
+python3 most_frequent.py -f ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simple_prompt/20min/human/2022-«Der-Hund-hat-fast-ihren-Arm-und-ihr-Bein-abgerissen»_507_de.txt
+
+# for multiple files in a directory:
+# give a csv file with parallel sentences, target lang is the 2 column
+
+bash create_most_freq_vocs.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simple_prompt/20min/human/*
+
+
+### Step 2 Run diversity analysis
+#for single file
+python3 shannon_pairwise.py -f ~/switchdrive/IMAGINE_files/datasets/wmtnews21/wmtnews_test_de_A.txt -l de -sys A_wmt -v freq_voc/wmtnews_test_de_A.freq_voc > test.txt
+
+# for multiple files in a directory
+# if considering the top 1000 most frequent lemmas with more than 1 morphological form
+
+bash shannon_1000_mostfrequent_script.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simple_prompt/20min/human/*
+
+# if chosing all lemmas with more than one morphological form
+
+bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simple_prompt/20min/human/*
+

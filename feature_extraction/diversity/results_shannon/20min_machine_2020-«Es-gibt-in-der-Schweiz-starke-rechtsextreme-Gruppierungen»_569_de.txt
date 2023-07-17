@@ -1,0 +1,93 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 199
+WHAT AM I PRININTING?  machine_2020-«Es-gibt-in-der-Schweiz-starke-rechtsextreme-Gruppierungen»_569_de
+machine_2020-«Es-gibt-in-der-Schweiz-starke-rechtsextreme-Gruppierungen»_569_de
+computing lemmas
+Length of all lemmas: 175
+Length of singleton lemmas: 161
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 161
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([12, 10, 1, 2, 1])
+sum of wordFormDict.values() 26
+rechtsextrem
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ein
+dict_values([17, 2])
+sum of wordFormDict.values() 19
+einsetzen
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 9, 1, 1])
+sum of wordFormDict.values() 13
+demokratisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+wir
+dict_values([20, 18])
+sum of wordFormDict.values() 38
+vielfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+unser
+dict_values([2, 7])
+sum of wordFormDict.values() 9
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([12, 10, 1, 2, 1])
+sum of wordFormDict.values() 26
+rechtsextrem
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ein
+dict_values([17, 2])
+sum of wordFormDict.values() 19
+einsetzen
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 9, 1, 1])
+sum of wordFormDict.values() 13
+demokratisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+wir
+dict_values([20, 18])
+sum of wordFormDict.values() 38
+vielfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+unser
+dict_values([2, 7])
+sum of wordFormDict.values() 9
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2

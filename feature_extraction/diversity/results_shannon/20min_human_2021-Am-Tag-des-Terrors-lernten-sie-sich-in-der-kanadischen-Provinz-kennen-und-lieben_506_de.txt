@@ -1,0 +1,105 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 286
+WHAT AM I PRININTING?  human_2021-Am-Tag-des-Terrors-lernten-sie-sich-in-der-kanadischen-Provinz-kennen-und-lieben_506_de
+human_2021-Am-Tag-des-Terrors-lernten-sie-sich-in-der-kanadischen-Provinz-kennen-und-lieben_506_de
+computing lemmas
+Length of all lemmas: 239
+Length of singleton lemmas: 220
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 220
+der
+dict_values([17, 8, 4, 5, 3, 1])
+sum of wordFormDict.values() 38
+sein
+dict_values([6, 1, 1, 1, 1])
+sum of wordFormDict.values() 10
+ihr
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+realisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 2, 2, 3, 1])
+sum of wordFormDict.values() 9
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+beide
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+er
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+Ihr|ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 8, 4, 5, 3, 1])
+sum of wordFormDict.values() 38
+sein
+dict_values([6, 1, 1, 1, 1])
+sum of wordFormDict.values() 10
+ihr
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+realisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 2, 2, 3, 1])
+sum of wordFormDict.values() 9
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+beide
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+er
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+Ihr|ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2

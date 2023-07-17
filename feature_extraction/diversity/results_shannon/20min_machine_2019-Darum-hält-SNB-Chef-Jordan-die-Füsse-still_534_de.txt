@@ -1,0 +1,93 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 283
+WHAT AM I PRININTING?  machine_2019-Darum-hält-SNB-Chef-Jordan-die-Füsse-still_534_de
+machine_2019-Darum-hält-SNB-Chef-Jordan-die-Füsse-still_534_de
+computing lemmas
+Length of all lemmas: 264
+Length of singleton lemmas: 248
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 248
+der
+dict_values([17, 7, 10, 3, 1])
+sum of wordFormDict.values() 38
+ein
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+beeinträchtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beobachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 3])
+sum of wordFormDict.values() 5
+The
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+remain
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 7, 10, 3, 1])
+sum of wordFormDict.values() 38
+ein
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+beeinträchtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beobachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 3])
+sum of wordFormDict.values() 5
+The
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+remain
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,39 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 108
+WHAT AM I PRININTING?  machine_2019-Zwischen-zwei-Welten_568_de
+machine_2019-Zwischen-zwei-Welten_568_de
+computing lemmas
+Length of all lemmas: 94
+Length of singleton lemmas: 87
+Length of matched lemmas: 5
+Length of singleton maching lemmas: 87
+der
+dict_values([33, 4, 17, 4, 8, 7])
+sum of wordFormDict.values() 73
+sein
+dict_values([17, 2])
+sum of wordFormDict.values() 19
+ein
+dict_values([19, 4, 3])
+sum of wordFormDict.values() 26
+wichtig
+dict_values([4, 6])
+sum of wordFormDict.values() 10
+dies
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+der
+dict_values([33, 4, 17, 4, 8, 7])
+sum of wordFormDict.values() 73
+sein
+dict_values([17, 2])
+sum of wordFormDict.values() 19
+ein
+dict_values([19, 4, 3])
+sum of wordFormDict.values() 26
+wichtig
+dict_values([4, 6])
+sum of wordFormDict.values() 10
+dies
+dict_values([5, 3])
+sum of wordFormDict.values() 8

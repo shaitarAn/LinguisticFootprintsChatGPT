@@ -1,0 +1,93 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 185
+WHAT AM I PRININTING?  machine_2021-«Ich-habe-wegen-ihr-über-11’500-Franken-investiert-und-alles-verloren»_554_de
+machine_2021-«Ich-habe-wegen-ihr-über-11’500-Franken-investiert-und-alles-verloren»_554_de
+computing lemmas
+Length of all lemmas: 155
+Length of singleton lemmas: 141
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 141
+investieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([9, 9, 8, 1])
+sum of wordFormDict.values() 27
+werden
+dict_values([1, 2, 1, 3])
+sum of wordFormDict.values() 7
+er
+dict_values([25, 1, 2])
+sum of wordFormDict.values() 28
+sein
+dict_values([8, 7, 1, 4, 1, 3, 2, 1])
+sum of wordFormDict.values() 27
+haben
+dict_values([1, 3, 6])
+sum of wordFormDict.values() 10
+ein
+dict_values([1, 4, 2, 1])
+sum of wordFormDict.values() 8
+ander
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+warnen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+glauben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+überreden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zurückbekommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+treffen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+investieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([9, 9, 8, 1])
+sum of wordFormDict.values() 27
+werden
+dict_values([1, 2, 1, 3])
+sum of wordFormDict.values() 7
+er
+dict_values([25, 1, 2])
+sum of wordFormDict.values() 28
+sein
+dict_values([8, 7, 1, 4, 1, 3, 2, 1])
+sum of wordFormDict.values() 27
+haben
+dict_values([1, 3, 6])
+sum of wordFormDict.values() 10
+ein
+dict_values([1, 4, 2, 1])
+sum of wordFormDict.values() 8
+ander
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+warnen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+glauben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+überreden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zurückbekommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+treffen
+dict_values([2, 1])
+sum of wordFormDict.values() 3

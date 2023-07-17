@@ -1,0 +1,99 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 219
+WHAT AM I PRININTING?  machine_2020-«Stellen-Sie-nicht-Ihr-Leben-auf-den-Kopf»_554_de
+machine_2020-«Stellen-Sie-nicht-Ihr-Leben-auf-den-Kopf»_554_de
+computing lemmas
+Length of all lemmas: 187
+Length of singleton lemmas: 172
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 172
+der
+dict_values([31, 3, 6, 6, 3, 3])
+sum of wordFormDict.values() 52
+werden
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([10, 1, 1, 2])
+sum of wordFormDict.values() 14
+halten
+dict_values([4, 1, 3])
+sum of wordFormDict.values() 8
+ein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+gemeinsam
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+wir
+dict_values([8, 6])
+sum of wordFormDict.values() 14
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+achten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+suchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+unser
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([31, 3, 6, 6, 3, 3])
+sum of wordFormDict.values() 52
+werden
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([10, 1, 1, 2])
+sum of wordFormDict.values() 14
+halten
+dict_values([4, 1, 3])
+sum of wordFormDict.values() 8
+ein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+gemeinsam
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+wir
+dict_values([8, 6])
+sum of wordFormDict.values() 14
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+achten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+suchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+unser
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

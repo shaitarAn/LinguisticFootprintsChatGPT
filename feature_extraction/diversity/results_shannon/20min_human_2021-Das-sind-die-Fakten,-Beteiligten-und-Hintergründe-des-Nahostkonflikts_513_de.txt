@@ -1,0 +1,87 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 281
+WHAT AM I PRININTING?  human_2021-Das-sind-die-Fakten,-Beteiligten-und-Hintergründe-des-Nahostkonflikts_513_de
+human_2021-Das-sind-die-Fakten,-Beteiligten-und-Hintergründe-des-Nahostkonflikts_513_de
+computing lemmas
+Length of all lemmas: 241
+Length of singleton lemmas: 219
+Length of matched lemmas: 13
+Length of singleton maching lemmas: 219
+der
+dict_values([19, 13, 17, 4, 6, 11])
+sum of wordFormDict.values() 70
+entstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 1, 2, 3, 1])
+sum of wordFormDict.values() 8
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spät
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 4, 1, 1])
+sum of wordFormDict.values() 8
+jüdisch
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+arabisch
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+fliehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erobern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+israelisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 13, 17, 4, 6, 11])
+sum of wordFormDict.values() 70
+entstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 1, 2, 3, 1])
+sum of wordFormDict.values() 8
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spät
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 4, 1, 1])
+sum of wordFormDict.values() 8
+jüdisch
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+arabisch
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+fliehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erobern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+israelisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

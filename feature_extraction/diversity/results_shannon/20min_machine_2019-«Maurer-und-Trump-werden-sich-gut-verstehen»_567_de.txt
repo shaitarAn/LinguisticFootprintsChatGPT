@@ -1,0 +1,93 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 175
+WHAT AM I PRININTING?  machine_2019-«Maurer-und-Trump-werden-sich-gut-verstehen»_567_de
+machine_2019-«Maurer-und-Trump-werden-sich-gut-verstehen»_567_de
+computing lemmas
+Length of all lemmas: 142
+Length of singleton lemmas: 123
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 123
+sein
+dict_values([3, 1, 11, 2])
+sum of wordFormDict.values() 17
+der
+dict_values([4, 5, 11, 9, 4])
+sum of wordFormDict.values() 33
+werden
+dict_values([11, 1, 21, 2])
+sum of wordFormDict.values() 35
+beide
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([6, 11, 1, 2, 2, 1])
+sum of wordFormDict.values() 23
+ähnlich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ihr
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+diskutieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betonen
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+international
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+wirtschaftlich
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+historisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1, 11, 2])
+sum of wordFormDict.values() 17
+der
+dict_values([4, 5, 11, 9, 4])
+sum of wordFormDict.values() 33
+werden
+dict_values([11, 1, 21, 2])
+sum of wordFormDict.values() 35
+beide
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([6, 11, 1, 2, 2, 1])
+sum of wordFormDict.values() 23
+ähnlich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ihr
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+diskutieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betonen
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+international
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+wirtschaftlich
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+historisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
