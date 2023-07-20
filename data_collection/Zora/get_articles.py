@@ -110,9 +110,11 @@ if __name__ == "__main__":
             continue
 
         hash = hashlib.sha1(citation.encode()).hexdigest()
-        download_count += download_pdf(download_link, f"{args.dest_folder}/downloads/{year}-{hash}.pdf")
-        with open(f"{args.dest_folder}/downloaded_papers.txt", "a", encoding="utf-8") as outfile:
-            outfile.write(f"{citation}\n")
+        download_success = download_pdf(download_link, f"{args.dest_folder}/downloads/{year}-{hash}.pdf")
+        if download_success:
+            with open(f"{args.dest_folder}/downloaded_papers.txt", "a", encoding="utf-8") as outfile:
+                outfile.write(f"{citation}\n")
+                download_count += 1
 
     print("total files: ", len(results))
     print("files from the forbidden jounals: ", exception_count)
