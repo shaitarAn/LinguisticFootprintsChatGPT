@@ -1,0 +1,63 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 111
+WHAT AM I PRININTING?  machine_2021-«Oder-muss-es-zuerst-Tote-geben»_513_de
+machine_2021-«Oder-muss-es-zuerst-Tote-geben»_513_de
+computing lemmas
+Length of all lemmas: 99
+Length of singleton lemmas: 89
+Length of matched lemmas: 9
+Length of singleton maching lemmas: 89
+der
+dict_values([29, 22, 4])
+sum of wordFormDict.values() 55
+müssen
+dict_values([9, 2])
+sum of wordFormDict.values() 11
+verbessern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 9, 2])
+sum of wordFormDict.values() 13
+haben
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+ein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+kommen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+notwendig
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+finden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([29, 22, 4])
+sum of wordFormDict.values() 55
+müssen
+dict_values([9, 2])
+sum of wordFormDict.values() 11
+verbessern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 9, 2])
+sum of wordFormDict.values() 13
+haben
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+ein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+kommen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+notwendig
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+finden
+dict_values([3, 1])
+sum of wordFormDict.values() 4

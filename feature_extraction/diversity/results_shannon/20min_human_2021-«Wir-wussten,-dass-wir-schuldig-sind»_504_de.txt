@@ -1,0 +1,99 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 253
+WHAT AM I PRININTING?  human_2021-«Wir-wussten,-dass-wir-schuldig-sind»_504_de
+human_2021-«Wir-wussten,-dass-wir-schuldig-sind»_504_de
+computing lemmas
+Length of all lemmas: 210
+Length of singleton lemmas: 194
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 194
+wir
+dict_values([11, 2])
+sum of wordFormDict.values() 13
+haben
+dict_values([1, 7, 3])
+sum of wordFormDict.values() 11
+ein
+dict_values([1, 2, 2, 3])
+sum of wordFormDict.values() 8
+sein
+dict_values([3, 2, 5, 5])
+sum of wordFormDict.values() 15
+der
+dict_values([17, 12, 14, 11, 4])
+sum of wordFormDict.values() 58
+können
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+mein
+dict_values([1, 2, 2, 1])
+sum of wordFormDict.values() 6
+ich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+Sie|sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([11, 2])
+sum of wordFormDict.values() 13
+haben
+dict_values([1, 7, 3])
+sum of wordFormDict.values() 11
+ein
+dict_values([1, 2, 2, 3])
+sum of wordFormDict.values() 8
+sein
+dict_values([3, 2, 5, 5])
+sum of wordFormDict.values() 15
+der
+dict_values([17, 12, 14, 11, 4])
+sum of wordFormDict.values() 58
+können
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+mein
+dict_values([1, 2, 2, 1])
+sum of wordFormDict.values() 6
+ich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+Sie|sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,99 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 295
+WHAT AM I PRININTING?  human_2021-Lissabon-riegelt-Stadt-wegen-Delta-Variante-ab,-Weltärzteverband-warnt_516_de
+human_2021-Lissabon-riegelt-Stadt-wegen-Delta-Variante-ab,-Weltärzteverband-warnt_516_de
+computing lemmas
+Length of all lemmas: 259
+Length of singleton lemmas: 239
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 239
+der
+dict_values([14, 18, 2, 19, 4, 3])
+sum of wordFormDict.values() 60
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+sie
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+angekündigt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+verzeichnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1, 2, 1])
+sum of wordFormDict.values() 7
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+entdecken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 18, 2, 19, 4, 3])
+sum of wordFormDict.values() 60
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+sie
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+angekündigt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+verzeichnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1, 2, 1])
+sum of wordFormDict.values() 7
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+entdecken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

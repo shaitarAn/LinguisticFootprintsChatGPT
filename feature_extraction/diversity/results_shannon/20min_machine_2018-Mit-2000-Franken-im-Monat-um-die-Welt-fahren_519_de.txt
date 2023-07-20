@@ -1,0 +1,99 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 176
+WHAT AM I PRININTING?  machine_2018-Mit-2000-Franken-im-Monat-um-die-Welt-fahren_519_de
+machine_2018-Mit-2000-Franken-im-Monat-um-die-Welt-fahren_519_de
+computing lemmas
+Length of all lemmas: 149
+Length of singleton lemmas: 134
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 134
+der
+dict_values([14, 10, 5, 1, 4, 1])
+sum of wordFormDict.values() 35
+wir
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([1, 4, 6])
+sum of wordFormDict.values() 11
+unser
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+es
+dict_values([1, 8])
+sum of wordFormDict.values() 9
+günstig
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+kommen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([8, 3])
+sum of wordFormDict.values() 11
+sein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+Essen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bewußt
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sparsam
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+klein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 10, 5, 1, 4, 1])
+sum of wordFormDict.values() 35
+wir
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([1, 4, 6])
+sum of wordFormDict.values() 11
+unser
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+es
+dict_values([1, 8])
+sum of wordFormDict.values() 9
+günstig
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+kommen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([8, 3])
+sum of wordFormDict.values() 11
+sein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+Essen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bewußt
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sparsam
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+klein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

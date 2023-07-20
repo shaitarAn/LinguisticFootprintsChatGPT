@@ -1,0 +1,45 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 144
+WHAT AM I PRININTING?  machine_2018-«Ein-Teil-des-SCB-wird-für-immer-in-mir-sein»_509_de
+machine_2018-«Ein-Teil-des-SCB-wird-für-immer-in-mir-sein»_509_de
+computing lemmas
+Length of all lemmas: 121
+Length of singleton lemmas: 114
+Length of matched lemmas: 6
+Length of singleton maching lemmas: 114
+sein
+dict_values([6, 1, 4, 3, 2, 10, 7, 4])
+sum of wordFormDict.values() 37
+der
+dict_values([13, 10, 7, 6, 7])
+sum of wordFormDict.values() 43
+bleiben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+er
+dict_values([21, 2, 2])
+sum of wordFormDict.values() 25
+ein
+dict_values([7, 4, 2])
+sum of wordFormDict.values() 13
+werden
+dict_values([21, 1])
+sum of wordFormDict.values() 22
+sein
+dict_values([6, 1, 4, 3, 2, 10, 7, 4])
+sum of wordFormDict.values() 37
+der
+dict_values([13, 10, 7, 6, 7])
+sum of wordFormDict.values() 43
+bleiben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+er
+dict_values([21, 2, 2])
+sum of wordFormDict.values() 25
+ein
+dict_values([7, 4, 2])
+sum of wordFormDict.values() 13
+werden
+dict_values([21, 1])
+sum of wordFormDict.values() 22

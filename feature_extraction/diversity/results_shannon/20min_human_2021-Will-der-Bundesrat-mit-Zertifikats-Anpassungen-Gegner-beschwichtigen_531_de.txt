@@ -1,0 +1,93 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 305
+WHAT AM I PRININTING?  human_2021-Will-der-Bundesrat-mit-Zertifikats-Anpassungen-Gegner-beschwichtigen_531_de
+human_2021-Will-der-Bundesrat-mit-Zertifikats-Anpassungen-Gegner-beschwichtigen_531_de
+computing lemmas
+Length of all lemmas: 256
+Length of singleton lemmas: 239
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 239
+der
+dict_values([24, 7, 16, 8, 3, 2])
+sum of wordFormDict.values() 60
+sein
+dict_values([2, 2, 1, 2, 1, 5, 1])
+sum of wordFormDict.values() 14
+werden
+dict_values([2, 2, 3, 1, 1])
+sum of wordFormDict.values() 9
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+beenden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 7
+hoch
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([24, 7, 16, 8, 3, 2])
+sum of wordFormDict.values() 60
+sein
+dict_values([2, 2, 1, 2, 1, 5, 1])
+sum of wordFormDict.values() 14
+werden
+dict_values([2, 2, 3, 1, 1])
+sum of wordFormDict.values() 9
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+beenden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 7
+hoch
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 2])
+sum of wordFormDict.values() 3

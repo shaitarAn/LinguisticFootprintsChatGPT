@@ -1,0 +1,69 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 147
+WHAT AM I PRININTING?  machine_2021-Mit-dieser-Flasche-trickst-du-dein-Gehirn-aus_563_de
+machine_2021-Mit-dieser-Flasche-trickst-du-dein-Gehirn-aus_563_de
+computing lemmas
+Length of all lemmas: 122
+Length of singleton lemmas: 108
+Length of matched lemmas: 10
+Length of singleton maching lemmas: 108
+der
+dict_values([11, 19, 17, 2, 5, 2])
+sum of wordFormDict.values() 56
+sein
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ein
+dict_values([11, 4, 2, 2])
+sum of wordFormDict.values() 19
+bieten
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+synthetisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+natürlich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([11, 19, 17, 2, 5, 2])
+sum of wordFormDict.values() 56
+sein
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ein
+dict_values([11, 4, 2, 2])
+sum of wordFormDict.values() 19
+bieten
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+synthetisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+natürlich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

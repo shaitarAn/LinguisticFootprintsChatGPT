@@ -1,0 +1,93 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 271
+WHAT AM I PRININTING?  human_2021-«Tat-liegt-nahe-bei-Mord»-–-Jeton-G.-muss-16,5-Jahre-ins-Gefängnis_550_de
+human_2021-«Tat-liegt-nahe-bei-Mord»-–-Jeton-G.-muss-16,5-Jahre-ins-Gefängnis_550_de
+computing lemmas
+Length of all lemmas: 226
+Length of singleton lemmas: 210
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 210
+haben
+dict_values([4, 3, 2, 1])
+sum of wordFormDict.values() 10
+der
+dict_values([19, 6, 8, 9, 8, 1, 1])
+sum of wordFormDict.values() 52
+sagen
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 2, 2, 3, 1, 3, 1, 3, 3, 1, 1])
+sum of wordFormDict.values() 21
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([9, 3, 3, 3, 3])
+sum of wordFormDict.values() 21
+werden
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verlangen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+abgeben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 3, 2, 1])
+sum of wordFormDict.values() 10
+der
+dict_values([19, 6, 8, 9, 8, 1, 1])
+sum of wordFormDict.values() 52
+sagen
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 2, 2, 3, 1, 3, 1, 3, 3, 1, 1])
+sum of wordFormDict.values() 21
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([9, 3, 3, 3, 3])
+sum of wordFormDict.values() 21
+werden
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verlangen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+abgeben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
