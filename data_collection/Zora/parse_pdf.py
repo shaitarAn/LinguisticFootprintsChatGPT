@@ -1,5 +1,7 @@
 import argparse
 import os
+import sys
+
 from tqdm import tqdm
 from multiprocessing import Pool
 
@@ -50,18 +52,9 @@ def get_language(filename):
     return detect_lang(text)
 
 def get_language_overview(folder):
+    """get"""
     files = [os.path.join(folder, file) for file in os.listdir(folder)]
     lang_dict = {}
-
-    # for file in tqdm(files):
-    #     text = pdfreader(file)
-    #     lang = detect_lang(text)
-    #     if lang in lang_dict:
-    #         lang_dict[lang] += 1
-    #     else:
-    #         lang_dict[lang] = 1
-    # return lang_dict
-
 
     with Pool(processes=8) as pool:
         results_iter = pool.imap_unordered(get_language, files)
@@ -73,11 +66,24 @@ def get_language_overview(folder):
 
     return lang_dict
 
+
+def extract(filepath):
+    """Extract the txts
+    returns: language, new filename, text"""
+
+    filename = os.path.basename(filepath)
+    text = convert_pdf_to_txt(filepath)
+    lang = detect_lang(text)
+    new_filename = filename.split(".")[0] +f"_{lang}"+".txt"
+    return lang, new_filename, text
+
+
 def testrun(testfile, outfile, testfunc):
     """for testing different methods to convert pdfs"""
     content = testfunc(testfile)
     with open(outfile, "w", encoding="utf-8") as outfile:
         outfile.write(content)
+
 
 def test():
     """calling the testrun"""
@@ -90,10 +96,29 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("mode", type=str, choices=["lang_overview", "extract"], help="lang_overview gives ")
     parser.add_argument("infolder", type=file_path)
+    parser.add_argument("--outfolder", "-o", type=str, required="extract" in sys.argv)
     args = parser.parse_args()
 
-    if args.mode == "lang_overview":
+    infolder = args.infolder
+    mode = args.mode
+    outfolder = args.outfolder
 
+    if mode == "lang_overview":
         print(get_language_overview(args.infolder))
 
+    elif mode == "extract":
+        if not os.path.exists(outfolder):
+            os.makedirs(outfolder)
+            os.makedirs(os.path.join(outfolder, "en"))
+            os.makedirs(os.path.join(outfolder, "de"))
+        elif not os.path.exists(os.path.join(outfolder, "en")) or not os.path.exists(os.path.join(outfolder, "de")):
+            print("Wrong outfolder?\nYou need subdirectories en/ and de/")
+            exit()
 
+        filepaths = [os.path.join(infolder, filename) for filename in os.listdir(infolder)]
+        with Pool(processes=8) as pool:
+            results = pool.imap_unordered(extract, filepaths)
+            for lang, new_filename, text in tqdm(results, total=len(filepaths)):
+                if lang in ("en", "de"):
+                    with open(os.path.join(outfolder, lang, new_filename), "w", encoding="utf-8") as outfile:
+                        outfile.write(text)
