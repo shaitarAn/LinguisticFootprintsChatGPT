@@ -12,6 +12,7 @@ from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfpage import PDFPage
 from io import BytesIO, StringIO
 from langdetect import detect as detect_lang
+import shutil
 
 
 def file_path(string):
@@ -67,6 +68,13 @@ def get_language_overview(folder):
     return lang_dict
 
 
+def sort_lang(infilepath, outfolder):
+    lang = get_language(infilepath)
+    if not os.path.exists(os.path.join(outfolder, lang)):
+        os.makedirs(os.path.join(outfolder, lang))
+    shutil.copy(infilepath, os.path.join(outfolder, lang))
+
+
 def extract(filepath):
     """Extract the txts
     returns: language, new filename, text"""
@@ -94,9 +102,12 @@ def test():
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("mode", type=str, choices=["lang_overview", "extract"], help="lang_overview gives ")
+    parser.add_argument("mode", type=str, choices=["lang_overview", "extract", "sort_langs"],
+                        help="lang_overview gives back a dictionary of how often which language appears,"
+                             "extract creates txt files,"
+                             "sort_langs sorts the pdfs into directories for each language")
     parser.add_argument("infolder", type=file_path)
-    parser.add_argument("--outfolder", "-o", type=str, required="extract" in sys.argv)
+    parser.add_argument("--outfolder", "-o", type=str, required="extract" in sys.argv or "sort_langs" in sys.argv)
     args = parser.parse_args()
 
     infolder = args.infolder
@@ -105,6 +116,7 @@ if __name__ == "__main__":
 
     if mode == "lang_overview":
         print(get_language_overview(args.infolder))
+
 
     elif mode == "extract":
         if not os.path.exists(outfolder):
@@ -122,3 +134,25 @@ if __name__ == "__main__":
                 if lang in ("en", "de"):
                     with open(os.path.join(outfolder, lang, new_filename), "w", encoding="utf-8") as outfile:
                         outfile.write(text)
+
+
+    elif mode == "sort_langs":
+        if not os.path.exists(outfolder):
+            os.makedirs(outfolder)
+        elif len(os.listdir(outfolder)) > 0:
+            answer = input("Outfolder is not empty, continue anyway? (y/n): ")
+            if answer.lower() == "n" or answer=="":
+                exit()
+            elif answer.lower() == "y":
+                pass
+            else:
+                print("invalid input")
+                exit()
+
+        filepaths = [os.path.join(infolder, filename) for filename in os.listdir(infolder)]
+
+        for filepath in tqdm(filepaths):
+            sort_lang(filepath, outfolder)
+
+
+
