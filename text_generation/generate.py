@@ -25,6 +25,7 @@ class OpenAiModels:
             self.headers["OpenAI-Organization"] = org_id
 
     def generate(self, prompt, temp=0.7):
+        """returns completion time in tokens per second and the generated text"""
 
         if self.model_name == "gpt-3.5-turbo":
             data = {
@@ -34,12 +35,16 @@ class OpenAiModels:
             }
 
             for i in range(10):
+                time_0 = time.perf_counter()
                 response = requests.post('https://api.openai.com/v1/chat/completions', headers=self.headers, data=json.dumps(data))
+                time_1 = time.perf_counter()
                 if response.status_code == 200:
                     result = response.json()
 
                     if not "error" in result:
-                        return result["choices"][0]["message"]["content"]  # result["choices"][0]["text"]
+                        completion_tokens = result["usage"]["completion_tokens"]
+                        tokens_per_second = completion_tokens/(time_1-time_0)
+                        return tokens_per_second, result["choices"][0]["message"]["content"]  # result["choices"][0]["text"]
                     else:
                         print("\n\nOpenAI error: ", result["error"])
 
@@ -79,18 +84,18 @@ def generate(model, prompt, lang, min_len = 500):
     
     # print(f"\ngenerating, iteration num: {iter}", end="\r")
     tokenizer = Tokenizer(lang)
-    text = model.generate(prompt)
+    tokens_per_second, text = model.generate(prompt)
     num_toks, _ = tokenizer.tokenize_text(text)
 
     while num_toks < min_len:
         
         
         prompt += text
-        text += model.generate(prompt)
+        text += model.generate(prompt)[1]
         num_toks, _ = tokenizer.tokenize_text(text)
 
     # print("", end="\r\r")
-    return text
+    return tokens_per_second, text
 
 
 def write_texts(machine, human, filename, outfolder):
@@ -116,6 +121,8 @@ if __name__ == "__main__":
 
     parser.add_argument("--outfolder", type=str, default="")
     parser.add_argument("--start_from", type=int, default=0, help="If part of the files are already done, this is the one to start from")
+    parser.add_argument("--time_log", type=str, default="", help="create a csv file, saving the completion time in "
+                                                                "tokens per second for each text of the corpus. Provide the domain name [20min, cnn, etc] here.")
     args = parser.parse_args()
     model_name = args.model
     source_file = args.source_file
@@ -150,6 +157,14 @@ if __name__ == "__main__":
     if not outfolder:
         outfolder = "output" + datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
+    # record completion time
+    completion_filename = args.time_log + datetime.now().strftime("%Y-%m-%d_%H-%M-%S") + ".csv"
+    completion_filepath = os.path.join("completion_time", completion_filename)
+    if args.time_log:
+        if not os.path.exists("completion_time"):
+            os.makedirs("completion_time")
+        with open(completion_filepath, "w", encoding="utf-8") as outfile:
+            outfile.write("Completion time in Tokens per second:\n")
 
     # Go over all the documents
     for filename in tqdm(list(source_dict.keys())[start_from:]):
@@ -158,13 +173,14 @@ if __name__ == "__main__":
 
         prompt = re.sub("<title>", source_dict[filename]["title"], prompt_source)
         prompt = re.sub("<prompt>", source_dict[filename]["prompt"], prompt)
-        machine_text = generate(model, prompt, lang)
+        tokens_per_second, machine_text = generate(model, prompt, lang)
+        if args.time_log:
+            with open(completion_filepath, "a", encoding="utf-8") as outfile:
+                outfile.write(f"{tokens_per_second}\n")
 
         # truncate and tokenize the texts
         machine, human, num_toks = truncate_texts(machine_text, source_dict[filename]["text"], tokenizer)
 
-
         new_filename = f"{year}-{title}_{num_toks}_{lang}.txt"
         write_texts(machine, human, new_filename, outfolder)
-
 
