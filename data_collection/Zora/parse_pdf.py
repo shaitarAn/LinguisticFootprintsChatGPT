@@ -23,6 +23,21 @@ def file_path(string):
         raise NotADirectoryError
 
 
+def create_directory(outfolder):
+    """Create a new directory, or if it exists, chech if it is empty"""
+    if not os.path.exists(outfolder):
+        os.makedirs(outfolder)
+    elif len(os.listdir(outfolder)) > 0:
+        answer = input("Outfolder is not empty, continue anyway? (y/n): ")
+        if answer.lower() == "n" or answer == "":
+            exit()
+        elif answer.lower() == "y":
+            return
+        else:
+            print("invalid input")
+            exit()
+
+
 def convert_pdf_to_txt(pdf_path):
     output_string = StringIO()
     with open(pdf_path, 'rb') as fp:
@@ -47,10 +62,12 @@ def pdfreader(filename):
         text += page.extract_text()
     return text
 
+
 def get_language(filename):
     """detect the language of a pdf file"""
     text = pdfreader(filename)
     return detect_lang(text)
+
 
 def get_language_overview(folder):
     """get"""
@@ -77,13 +94,12 @@ def sort_lang(infilepath, outfolder):
 
 def extract(filepath):
     """Extract the txts
-    returns: language, new filename, text"""
+    returns: new filename (with .txt extension) and the extracted text"""
 
     filename = os.path.basename(filepath)
     text = convert_pdf_to_txt(filepath)
-    lang = detect_lang(text)
-    new_filename = filename.split(".")[0] +f"_{lang}"+".txt"
-    return lang, new_filename, text
+    new_filename = filename.split(".")[0] +".txt"
+    return new_filename, text
 
 
 def testrun(testfile, outfile, testfunc):
@@ -119,36 +135,17 @@ if __name__ == "__main__":
 
 
     elif mode == "extract":
-        if not os.path.exists(outfolder):
-            os.makedirs(outfolder)
-            os.makedirs(os.path.join(outfolder, "en"))
-            os.makedirs(os.path.join(outfolder, "de"))
-        elif not os.path.exists(os.path.join(outfolder, "en")) or not os.path.exists(os.path.join(outfolder, "de")):
-            print("Wrong outfolder?\nYou need subdirectories en/ and de/")
-            exit()
-
+        create_directory(outfolder)
         filepaths = [os.path.join(infolder, filename) for filename in os.listdir(infolder)]
         with Pool(processes=8) as pool:
             results = pool.imap_unordered(extract, filepaths)
-            for lang, new_filename, text in tqdm(results, total=len(filepaths)):
-                if lang in ("en", "de"):
-                    with open(os.path.join(outfolder, lang, new_filename), "w", encoding="utf-8") as outfile:
-                        outfile.write(text)
+            for new_filename, text in tqdm(results, total=len(filepaths)):
+                with open(os.path.join(outfolder, new_filename), "w", encoding="utf-8") as outfile:
+                    outfile.write(text)
 
 
     elif mode == "sort_langs":
-        if not os.path.exists(outfolder):
-            os.makedirs(outfolder)
-        elif len(os.listdir(outfolder)) > 0:
-            answer = input("Outfolder is not empty, continue anyway? (y/n): ")
-            if answer.lower() == "n" or answer=="":
-                exit()
-            elif answer.lower() == "y":
-                pass
-            else:
-                print("invalid input")
-                exit()
-
+        create_directory(outfolder)
         filepaths = [os.path.join(infolder, filename) for filename in os.listdir(infolder)]
 
         for filepath in tqdm(filepaths):
