@@ -109,21 +109,25 @@ def testrun(testfile, outfile, testfunc):
         outfile.write(content)
 
 
-def test():
+def test(filepath):
     """calling the testrun"""
-    testfile = "C:/Users/nik_b/Documents/UZH/student_assistant/Zora/data/linguistics_and_language/downloads/2006-3445b27b230257a81f9d6326373e94de9a00abfc.pdf"
+    testfile = "C:/Users/nik_b/Documents/UZH/student_assistant/Zora/data/General_Material_Science/downloads/2015-baa629d43439df500116bed7b6a2a92e18c34b91.pdf"
 
-    testrun(testfile, "pdfminer_test3.txt", convert_pdf_to_txt)
-    testrun(testfile, "pypdf_test3.txt", pdfreader)
+    testrun(filepath, "2015-baa629d43439df500116bed7b6a2a92e18c34b91.txt", pdfreader)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("mode", type=str, choices=["lang_overview", "extract", "sort_langs"],
+    parser.add_argument("mode", type=str, choices=["lang_overview", "extract", "sort_langs", "extract_one"],
                         help="lang_overview gives back a dictionary of how often which language appears,"
                              "extract creates txt files,"
                              "sort_langs sorts the pdfs into directories for each language")
-    parser.add_argument("infolder", type=file_path)
+    parser.add_argument("--infolder", type=file_path, required="extract_one" not in sys.argv)
     parser.add_argument("--outfolder", "-o", type=str, required="extract" in sys.argv or "sort_langs" in sys.argv)
+    parser.add_argument("--infile", type=file_path, required="extract_one" in sys.argv)
+    parser.add_argument("--outfile", type=str, required="extract_one" in sys.argv)
+    parser.add_argument("--parser", type=str, choices=["convert_txt_to_pdf", "pdfreader"], required="extract_one" in sys.argv,
+                        help="Use 'convert_txt_to_pdf' to use pdf-miner"
+                             "Use 'pdfreader' to use pypdf")
     args = parser.parse_args()
 
     infolder = args.infolder
@@ -150,6 +154,10 @@ if __name__ == "__main__":
 
         for filepath in tqdm(filepaths):
             sort_lang(filepath, outfolder)
+
+    elif mode == "extract_one":
+        # redo files, that did not get extracted by the script
+        testrun(args.infile, args.outfile, args.parser)
 
 
 
