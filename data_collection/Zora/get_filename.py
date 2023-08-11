@@ -16,7 +16,7 @@ def make_dict(infilepath):
     hash_dict = {}
     with open(infilepath, "r", encoding="utf-8") as infile:
         for citation in infile:
-            hash_dict[get_filename(citation.strip())] = citation
+            hash_dict[get_filename(citation.strip())] = citation.strip()
 
     # sort the dict by year
     return dict(sorted(hash_dict.items()))
