@@ -44,6 +44,16 @@ def parse_pubmed(filepath):
     return title, prompt, text
 
 
+def parse_zora(filepath):
+    with open(filepath, "r", encoding="utf-8") as infile:
+        title = infile.readline().strip()
+        infile.readline()
+        prompt = infile.readline().strip()
+        prompt += infile.readline()+infile.readline()+infile.readline()
+        text = infile.read().strip()
+        return title, prompt, text
+
+
 def parse_e3c(filepath):
     tokenizer = Tokenizer("en")
     with open(filepath, "r", encoding="utf-8") as infile:
@@ -96,7 +106,9 @@ def make_json_overview(infolder, outfolder, corpus):
         "cnn": parse_cnn,
         "e3c": parse_e3c,
         "pubmed_de": parse_pubmed,
-        "pubmed_en": parse_pubmed
+        "pubmed_en": parse_pubmed,
+        "zora_en": parse_zora,
+        "zora_de": parse_zora
 
     }
     file_dict = {}
@@ -126,10 +138,12 @@ def make_json_for_generation(infolder:str, outfolder:str, corpus:str,):
         "e3c": parse_e3c,
         "GGPONC": parse_GGPONC,
         "pubmed_de": parse_pubmed,
-        "pubmed_en": parse_pubmed
+        "pubmed_en": parse_pubmed,
+        "zora_en": parse_zora,
+        "zora_de": parse_zora
 
     }
-    wd = f"{infolder}/{corpus}"  # working directory
+    wd = os.path.join(infolder, corpus) # working directory
     filenames = os.listdir(wd)
     text_dict = {}
     for filename in tqdm(filenames):
@@ -153,7 +167,7 @@ if __name__ == "__main__":
     parser.add_argument("method", type=str, choices=["overview", "generation"], help="Create Json files for what purpose")
     parser.add_argument("infolder", type=str, help="Folder above the Corpus folder")
     parser.add_argument("outfolder", type=str, help="Folder in which to store the JSON files")
-    parser.add_argument("corpus", type=str, choices=["20min", "cnn", "e3c", "GGPONC", "pubmed_de", "pubmed_en"])
+    parser.add_argument("corpus", type=str, choices=["20min", "cnn", "e3c", "GGPONC", "pubmed_de", "pubmed_en", "zora_en", "zora_de"])
     args = parser.parse_args()
 
     if args.method == "overview":
