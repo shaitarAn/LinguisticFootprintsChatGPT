@@ -1,5 +1,4 @@
 
-
 import os
 import re
 import argparse
@@ -13,12 +12,17 @@ def file_path(string):
         raise NotADirectoryError
 
 
-def replace_ref(text:str):
+def replace_ref(text :str):
     """standardize pubmed citations"""
-    return re.sub(r"\[\d+(, ?\d+|(.\d+)?)*\]", r"[REF]", text)
+    # Note I have not dealt with citations with numbers in parentheses
+        # -> have not found a way to match them without also matching enumerations
+    pattern = r"\[\d+(, ?\d+|(.\d+)?)*\]|" \ 
+              r"\(([^\)]|\n)+,? \n?\d{4}(: \d+(\S\d+)?)?\)"  # APA style
+
+    return re.sub(pattern, r"[REF]", text)
 
 
-def replace_multiple_ref(text:str):
+def replace_multiple_ref(text :str):
     """replace multiple citations in GGPONC"""
     return re.sub(r"\[REF\](,  ?\[REF\])+", r"[REF]", text)
 
@@ -33,7 +37,7 @@ def rewrite_file(infilepath, outfilepath, rewrite_function):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("domain", type=str, choices=["pubmed", "GGPONC"])
+    parser.add_argument("mode", type=str, choices=["replace", "replace_multiple"])
     parser.add_argument("infolder", type=file_path)
     parser.add_argument("outfolder", type=str)
 
@@ -42,7 +46,7 @@ if __name__ == "__main__":
     if not os.path.isdir(args.outfolder):
         os.makedirs(args.outfolder)
 
-    if args.domain =="pubmed":
+    if args.mode == "replace":
         rewrite_function = replace_ref
     else:
         rewrite_function = replace_multiple_ref
@@ -52,4 +56,3 @@ if __name__ == "__main__":
         infilepath = os.path.join(args.infolder, filename)
         outfilepath = os.path.join(args.outfolder, filename)
         rewrite_file(infilepath, outfilepath, rewrite_function)
-
