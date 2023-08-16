@@ -34,15 +34,22 @@ def parse_cnn(filepath):
     return title, prompt, text
 
 
-def parse_pubmed(filepath):
+def parse_pubmed(filepath, section_title):
     with open(filepath, "r", encoding="utf-8") as infile:
         title = infile.readline().strip()[1:]
         infile.readline()
         prompt = infile.readline().strip()
+        prompt = "Abstract: " + prompt + f"\n\n{section_title}\n"
         infile.readline()
         text = infile.read().strip()
     return title, prompt, text
 
+
+def parse_pubmed_de(filepath):
+    return parse_pubmed(filepath, "1. Einleitung")
+
+def parse_pubmed_en(filepath):
+    return parse_pubmed(filepath, "1. Introduction")
 
 def parse_zora(filepath):
     with open(filepath, "r", encoding="utf-8") as infile:
@@ -99,18 +106,22 @@ def GGPONC_overview(infolder, outfolder):
         json.dump(file_dict, outfile)
 
 
+parse_function = {
+    "20min": parse_20min,
+    "cnn": parse_cnn,
+    "e3c": parse_e3c,
+    "GGPONC": parse_GGPONC,
+    "pubmed_de": parse_pubmed_de,
+    "pubmed_en": parse_pubmed_en,
+    "zora_en": parse_zora,
+    "zora_de": parse_zora
+
+}
+
 def make_json_overview(infolder, outfolder, corpus):
     """Create Overview with the number of tokens after extracting the prompt"""
-    parse_function = {
-        "20min": parse_20min,
-        "cnn": parse_cnn,
-        "e3c": parse_e3c,
-        "pubmed_de": parse_pubmed,
-        "pubmed_en": parse_pubmed,
-        "zora_en": parse_zora,
-        "zora_de": parse_zora
 
-    }
+
     file_dict = {}
     for filename in tqdm(os.listdir(f"{infolder}/{corpus}")):
         filepath = f"{infolder}/{corpus}/{filename}"
@@ -132,17 +143,6 @@ def make_json_overview(infolder, outfolder, corpus):
 def make_json_for_generation(infolder:str, outfolder:str, corpus:str,):
 
 
-    parse_function = {
-        "20min": parse_20min,
-        "cnn": parse_cnn,
-        "e3c": parse_e3c,
-        "GGPONC": parse_GGPONC,
-        "pubmed_de": parse_pubmed,
-        "pubmed_en": parse_pubmed,
-        "zora_en": parse_zora,
-        "zora_de": parse_zora
-
-    }
     wd = os.path.join(infolder, corpus) # working directory
     filenames = os.listdir(wd)
     text_dict = {}
