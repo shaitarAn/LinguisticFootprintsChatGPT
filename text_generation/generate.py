@@ -50,6 +50,10 @@ class OpenAiModels:
 
                 elif response.status_code < 500:
                     print("\n\nHTTP ERROR:", response.status_code)
+
+                    if response.status_code == 400:
+                        print(f"\nPrompt:\n{prompt}\n############################\n")
+
                     try:
                         error_dict = response.json()
                         print(error_dict)
@@ -88,8 +92,8 @@ def generate(model, prompt, lang, min_len = 500):
     num_toks, _ = tokenizer.tokenize_text(text)
 
     while num_toks < min_len:
-        
-        
+
+
         prompt += text
         text += model.generate(prompt)[1]
         num_toks, _ = tokenizer.tokenize_text(text)
@@ -155,17 +159,19 @@ if __name__ == "__main__":
     tokenizer = Tokenizer(lang)
 
     # make default output directory
+    # Todo: save only the day in the filename and then add the time as a second column
     if not outfolder:
-        outfolder = "output" + datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        outfolder = "output" + datetime.now().strftime("%Y-%m-%d")
 
     # record completion time
-    completion_filename = args.time_log + datetime.now().strftime("%Y-%m-%d_%H-%M-%S") + ".csv"
+    completion_filename = args.time_log + datetime.now().strftime("%Y-%m-%d") + ".csv"
     completion_filepath = os.path.join("completion_time", completion_filename)
     if args.time_log:
         if not os.path.exists("completion_time"):
             os.makedirs("completion_time")
-        with open(completion_filepath, "w", encoding="utf-8") as outfile:
-            outfile.write("Completion time in Tokens per second:\n")
+        if not os.path.exists(completion_filepath):
+            with open(completion_filepath, "w", encoding="utf-8") as outfile:
+                outfile.write("Completion time in Tokens per second,time of the call in H-M-S\n")
 
     # Go over all the documents
     for filename in tqdm(list(source_dict.keys())[start_from:]):
@@ -177,7 +183,7 @@ if __name__ == "__main__":
         tokens_per_second, machine_text = generate(model, prompt, lang)
         if args.time_log:
             with open(completion_filepath, "a", encoding="utf-8") as outfile:
-                outfile.write(f"{tokens_per_second}\n")
+                outfile.write(f"{tokens_per_second},{datetime.now().strftime('%H-%M-%S')}\n")
 
         # truncate and tokenize the texts
         machine, human, num_toks = truncate_texts(machine_text, source_dict[filename]["text"], tokenizer)
