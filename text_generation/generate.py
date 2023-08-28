@@ -112,7 +112,8 @@ def write_texts(machine, human, filename, outfolder):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("model", type=str, choices=["gpt-3.5-turbo"], help="OpenAI model to use")
+    parser.add_argument("model", type=str, choices=["gpt-3.5-turbo"], help="OpenAI model to use, takes api-key form environment varialbe called"
+                                                                           "OPENAI_KEY and optionally ORG_ID")
     parser.add_argument("source_file", type=str, help="Filepath of the JSON file with the human texts in following format:"
                                                         "{filename:{'title': '...', 'prompt': '...', 'text': '...'}}")
     parser.add_argument("lang", type=str, choices=["de", "en"], help="language")
