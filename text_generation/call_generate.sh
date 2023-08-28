@@ -1,13 +1,18 @@
 #!/bin/bash
 
+infolder="../data/sample_5_JSON"  # Folder with all the JSON for generation
+outfolder="../data/final_files_simple_prompt_2/test"
+
 #list of inputs
 inputs=(
-	"gpt-3.5-turbo 100_files/JSON/20min.json de --outfolder prompt_test1/20min --start_from 96 --prompt_file prompts/20min/test1.txt"
-	# "gpt-3.5-turbo 100_files/JSON/cnn.json en --outfolder prompt_test1/cnn --start_from 95 --prompt_file prompts/cnn/test1.txt"
-	# "gpt-3.5-turbo 100_files/JSON/e3c.json en --outfolder prompt_test1/e3c --start_from 95 --prompt_file prompts/e3c/test1.txt"
-	# "gpt-3.5-turbo 100_files/JSON/GGPONC.json de --outfolder prompt_test1/GGPONC --start_from 95 --prompt_file prompts/GGPONC/test1.txt"
-	# "gpt-3.5-turbo 100_files/JSON/pubmed_de.json de --outfolder prompt_test1/pubmed_de --start_from 91 --prompt_file prompts/pubmed_de/test1.txt"
-	# "gpt-3.5-turbo 100_files/JSON/pubmed_en.json en --outfolder prompt_test1/pubmed_en --start_from 95 --prompt_file prompts/pubmed_en/test1.txt"
+  # "gpt-3.5-turbo $infolder/zora_de.json de --outfolder $outfolder/zora_de --time_log zora_de"
+  # "gpt-3.5-turbo $infolder/zora_en.json en --outfolder $outfolder/zora_en --time_log zora_en"
+	# "gpt-3.5-turbo $infolder/20min.json de --outfolder $outfolder/20min --time_log 20min"
+	# "gpt-3.5-turbo $infolder/cnn.json en --outfolder $outfolder/cnn --time_log cnn --start_from 60"
+	# "gpt-3.5-turbo $infolder/e3c.json en --outfolder $outfolder/e3c --time_log cnn"
+	# "gpt-3.5-turbo $infolder/GGPONC.json de --outfolder $outfolder/GGPONC --time_log GGPONC --start_from 87"
+	"gpt-3.5-turbo $infolder/pubmed_de.json de --outfolder $outfolder/pubmed_de --time_log pubmed_de"
+	# "gpt-3.5-turbo $infolder/pubmed_en.json en --outfolder $outfolder/pubmed_en --time_log pubmed_en"
 )
 # loop through the inputs and call python file
 for input in "${inputs[@]}";
