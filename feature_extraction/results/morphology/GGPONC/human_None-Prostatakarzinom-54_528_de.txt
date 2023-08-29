@@ -1,0 +1,94 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 256
+human_None-Prostatakarzinom-54_528_de
+de
+computing lemmas
+Length of all lemmas: 220
+Length of singleton lemmas: 202
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 202
+der
+dict_values([7, 2, 1, 14, 2, 3])
+sum of wordFormDict.values() 29
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 7, 5, 3, 2])
+sum of wordFormDict.values() 22
+werden
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+retrospektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+randomisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kurativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+günstig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 2, 1, 14, 2, 3])
+sum of wordFormDict.values() 29
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 7, 5, 3, 2])
+sum of wordFormDict.values() 22
+werden
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+retrospektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+randomisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kurativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+günstig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

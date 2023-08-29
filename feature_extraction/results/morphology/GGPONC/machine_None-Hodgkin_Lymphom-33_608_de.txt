@@ -1,0 +1,34 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 125
+machine_None-Hodgkin_Lymphom-33_608_de
+de
+computing lemmas
+Length of all lemmas: 115
+Length of singleton lemmas: 111
+Length of matched lemmas: 4
+Length of singleton maching lemmas: 111
+ein
+dict_values([18, 6, 4, 4])
+sum of wordFormDict.values() 32
+der
+dict_values([19, 13, 12, 4, 12])
+sum of wordFormDict.values() 60
+sein
+dict_values([5, 9])
+sum of wordFormDict.values() 14
+häufig
+dict_values([4, 5])
+sum of wordFormDict.values() 9
+ein
+dict_values([18, 6, 4, 4])
+sum of wordFormDict.values() 32
+der
+dict_values([19, 13, 12, 4, 12])
+sum of wordFormDict.values() 60
+sein
+dict_values([5, 9])
+sum of wordFormDict.values() 14
+häufig
+dict_values([4, 5])
+sum of wordFormDict.values() 9

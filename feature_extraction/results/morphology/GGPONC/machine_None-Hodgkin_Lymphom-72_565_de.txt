@@ -1,0 +1,58 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 147
+machine_None-Hodgkin_Lymphom-72_565_de
+de
+computing lemmas
+Length of all lemmas: 136
+Length of singleton lemmas: 126
+Length of matched lemmas: 8
+Length of singleton maching lemmas: 126
+der
+dict_values([22, 3, 9, 1, 8])
+sum of wordFormDict.values() 43
+kardiotoxisch
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kardial
+dict_values([4, 7, 2])
+sum of wordFormDict.values() 13
+können
+dict_values([2, 5])
+sum of wordFormDict.values() 7
+ein
+dict_values([9, 1, 7])
+sum of wordFormDict.values() 17
+lassen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+der
+dict_values([22, 3, 9, 1, 8])
+sum of wordFormDict.values() 43
+kardiotoxisch
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kardial
+dict_values([4, 7, 2])
+sum of wordFormDict.values() 13
+können
+dict_values([2, 5])
+sum of wordFormDict.values() 7
+ein
+dict_values([9, 1, 7])
+sum of wordFormDict.values() 17
+lassen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([3, 2])
+sum of wordFormDict.values() 5

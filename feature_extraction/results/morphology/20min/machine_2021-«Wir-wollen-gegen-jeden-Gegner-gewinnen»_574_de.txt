@@ -1,0 +1,142 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 207
+machine_2021-«Wir-wollen-gegen-jeden-Gegner-gewinnen»_574_de
+de
+computing lemmas
+Length of all lemmas: 153
+Length of singleton lemmas: 128
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 128
+ich
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+gut
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([28, 15])
+sum of wordFormDict.values() 43
+ein
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+wichtig
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([1, 5, 1, 6, 3, 4, 1])
+sum of wordFormDict.values() 21
+mein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([5, 2, 3, 2, 3, 12])
+sum of wordFormDict.values() 27
+vorbereiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+unser
+dict_values([3, 3, 1, 1])
+sum of wordFormDict.values() 8
+konzentrieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gewinnen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+jed
+dict_values([2, 4, 3])
+sum of wordFormDict.values() 9
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+motivieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2, 6])
+sum of wordFormDict.values() 9
+alle
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+er
+dict_values([4, 5, 3])
+sum of wordFormDict.values() 12
+gemeinsam
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ich
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+gut
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([28, 15])
+sum of wordFormDict.values() 43
+ein
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+wichtig
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([1, 5, 1, 6, 3, 4, 1])
+sum of wordFormDict.values() 21
+mein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([5, 2, 3, 2, 3, 12])
+sum of wordFormDict.values() 27
+vorbereiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+unser
+dict_values([3, 3, 1, 1])
+sum of wordFormDict.values() 8
+konzentrieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gewinnen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+jed
+dict_values([2, 4, 3])
+sum of wordFormDict.values() 9
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+motivieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2, 6])
+sum of wordFormDict.values() 9
+alle
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+er
+dict_values([4, 5, 3])
+sum of wordFormDict.values() 12
+gemeinsam
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

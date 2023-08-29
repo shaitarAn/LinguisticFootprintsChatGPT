@@ -1,0 +1,118 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 287
+human_2018-Mit-2000-Franken-im-Monat-um-die-Welt-fahren_519_de
+de
+computing lemmas
+Length of all lemmas: 245
+Length of singleton lemmas: 226
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 226
+der
+dict_values([13, 8, 6, 8, 3, 3])
+sum of wordFormDict.values() 41
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 4, 1, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+reisen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([16, 3])
+sum of wordFormDict.values() 19
+alle
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+günstig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+täglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([13, 8, 6, 8, 3, 3])
+sum of wordFormDict.values() 41
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 4, 1, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+reisen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([16, 3])
+sum of wordFormDict.values() 19
+alle
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+günstig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+täglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

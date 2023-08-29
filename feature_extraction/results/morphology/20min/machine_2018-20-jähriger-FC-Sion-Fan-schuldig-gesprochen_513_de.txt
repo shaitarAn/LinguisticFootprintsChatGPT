@@ -1,0 +1,40 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 125
+machine_2018-20-jähriger-FC-Sion-Fan-schuldig-gesprochen_513_de
+de
+computing lemmas
+Length of all lemmas: 109
+Length of singleton lemmas: 101
+Length of matched lemmas: 5
+Length of singleton maching lemmas: 101
+der
+dict_values([24, 1, 25, 4, 16, 8])
+sum of wordFormDict.values() 78
+werden
+dict_values([7, 5])
+sum of wordFormDict.values() 12
+ein
+dict_values([5, 3, 3])
+sum of wordFormDict.values() 11
+direkt
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 7])
+sum of wordFormDict.values() 10
+der
+dict_values([24, 1, 25, 4, 16, 8])
+sum of wordFormDict.values() 78
+werden
+dict_values([7, 5])
+sum of wordFormDict.values() 12
+ein
+dict_values([5, 3, 3])
+sum of wordFormDict.values() 11
+direkt
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 7])
+sum of wordFormDict.values() 10

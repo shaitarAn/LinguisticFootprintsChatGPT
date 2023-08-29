@@ -1,0 +1,46 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 131
+machine_2018-«Meine-Frau-fand,-ich-sehe-zu-fies-aus»_634_de
+de
+computing lemmas
+Length of all lemmas: 115
+Length of singleton lemmas: 109
+Length of matched lemmas: 6
+Length of singleton maching lemmas: 109
+sein
+dict_values([13, 5, 5, 1, 8, 2, 3, 3])
+sum of wordFormDict.values() 40
+er
+dict_values([32, 6])
+sum of wordFormDict.values() 38
+der
+dict_values([21, 7, 3, 8, 9, 1])
+sum of wordFormDict.values() 49
+werden
+dict_values([2, 6])
+sum of wordFormDict.values() 8
+perfekt
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+ein
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+sein
+dict_values([13, 5, 5, 1, 8, 2, 3, 3])
+sum of wordFormDict.values() 40
+er
+dict_values([32, 6])
+sum of wordFormDict.values() 38
+der
+dict_values([21, 7, 3, 8, 9, 1])
+sum of wordFormDict.values() 49
+werden
+dict_values([2, 6])
+sum of wordFormDict.values() 8
+perfekt
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+ein
+dict_values([5, 3])
+sum of wordFormDict.values() 8

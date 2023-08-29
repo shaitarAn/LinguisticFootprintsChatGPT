@@ -1,0 +1,52 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 153
+machine_None-Mammakarzinom-104_535_de
+de
+computing lemmas
+Length of all lemmas: 139
+Length of singleton lemmas: 129
+Length of matched lemmas: 7
+Length of singleton maching lemmas: 129
+der
+dict_values([4, 34, 14, 9, 2, 2])
+sum of wordFormDict.values() 65
+endokrin
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([17, 5, 2])
+sum of wordFormDict.values() 24
+können
+dict_values([2, 5])
+sum of wordFormDict.values() 7
+sein
+dict_values([6, 7])
+sum of wordFormDict.values() 13
+werden
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+zielgerichtet
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+der
+dict_values([4, 34, 14, 9, 2, 2])
+sum of wordFormDict.values() 65
+endokrin
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([17, 5, 2])
+sum of wordFormDict.values() 24
+können
+dict_values([2, 5])
+sum of wordFormDict.values() 7
+sein
+dict_values([6, 7])
+sum of wordFormDict.values() 13
+werden
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+zielgerichtet
+dict_values([2, 3])
+sum of wordFormDict.values() 5

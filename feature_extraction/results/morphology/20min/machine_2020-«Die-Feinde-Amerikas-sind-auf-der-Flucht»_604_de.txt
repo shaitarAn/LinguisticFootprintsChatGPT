@@ -1,0 +1,64 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 214
+machine_2020-«Die-Feinde-Amerikas-sind-auf-der-Flucht»_604_de
+de
+computing lemmas
+Length of all lemmas: 200
+Length of singleton lemmas: 189
+Length of matched lemmas: 9
+Length of singleton maching lemmas: 189
+er
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+der
+dict_values([18, 10, 6, 2, 4])
+sum of wordFormDict.values() 40
+sein
+dict_values([2, 4, 9, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+stark
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strong
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+er
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+der
+dict_values([18, 10, 6, 2, 4])
+sum of wordFormDict.values() 40
+sein
+dict_values([2, 4, 9, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+stark
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strong
+dict_values([4, 1])
+sum of wordFormDict.values() 5

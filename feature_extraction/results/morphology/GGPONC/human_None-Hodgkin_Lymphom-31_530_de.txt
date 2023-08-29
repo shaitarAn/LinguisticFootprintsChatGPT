@@ -1,0 +1,76 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 222
+human_None-Hodgkin_Lymphom-31_530_de
+de
+computing lemmas
+Length of all lemmas: 191
+Length of singleton lemmas: 178
+Length of matched lemmas: 11
+Length of singleton maching lemmas: 178
+der
+dict_values([2, 8, 6, 8, 5])
+sum of wordFormDict.values() 29
+alt
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([2, 2, 1, 1, 1])
+sum of wordFormDict.values() 7
+jung
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([1, 16, 5, 1, 1])
+sum of wordFormDict.values() 24
+werden
+dict_values([7, 1, 1])
+sum of wordFormDict.values() 9
+bestehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+tolerabel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alternativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([2, 8, 6, 8, 5])
+sum of wordFormDict.values() 29
+alt
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([2, 2, 1, 1, 1])
+sum of wordFormDict.values() 7
+jung
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([1, 16, 5, 1, 1])
+sum of wordFormDict.values() 24
+werden
+dict_values([7, 1, 1])
+sum of wordFormDict.values() 9
+bestehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+tolerabel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alternativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([1, 2])
+sum of wordFormDict.values() 3

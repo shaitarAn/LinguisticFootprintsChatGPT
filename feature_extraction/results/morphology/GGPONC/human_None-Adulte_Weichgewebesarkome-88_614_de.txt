@@ -1,0 +1,82 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 292
+human_None-Adulte_Weichgewebesarkome-88_614_de
+de
+computing lemmas
+Length of all lemmas: 261
+Length of singleton lemmas: 247
+Length of matched lemmas: 12
+Length of singleton maching lemmas: 247
+der
+dict_values([7, 25, 20, 6, 3, 2])
+sum of wordFormDict.values() 63
+ein
+dict_values([7, 4, 2, 1, 2])
+sum of wordFormDict.values() 16
+neoadjuvant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+behandeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alleinig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+präoperativ
+dict_values([2, 5, 1])
+sum of wordFormDict.values() 8
+randomisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1, 1, 1, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+adjuvant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+histologiespezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 25, 20, 6, 3, 2])
+sum of wordFormDict.values() 63
+ein
+dict_values([7, 4, 2, 1, 2])
+sum of wordFormDict.values() 16
+neoadjuvant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+behandeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alleinig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+präoperativ
+dict_values([2, 5, 1])
+sum of wordFormDict.values() 8
+randomisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1, 1, 1, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+adjuvant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+histologiespezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

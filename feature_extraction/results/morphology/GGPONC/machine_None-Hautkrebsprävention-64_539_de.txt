@@ -1,0 +1,76 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 163
+machine_None-Hautkrebsprävention-64_539_de
+de
+computing lemmas
+Length of all lemmas: 139
+Length of singleton lemmas: 125
+Length of matched lemmas: 11
+Length of singleton maching lemmas: 125
+der
+dict_values([4, 18, 11, 13, 3])
+sum of wordFormDict.values() 49
+sollen
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+sein
+dict_values([4, 6, 2])
+sum of wordFormDict.values() 12
+werden
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+ein
+dict_values([10, 2])
+sum of wordFormDict.values() 12
+wichtig
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+können
+dict_values([4, 5])
+sum of wordFormDict.values() 9
+erhöhen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ausgewogen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vermeiden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([4, 18, 11, 13, 3])
+sum of wordFormDict.values() 49
+sollen
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+sein
+dict_values([4, 6, 2])
+sum of wordFormDict.values() 12
+werden
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+ein
+dict_values([10, 2])
+sum of wordFormDict.values() 12
+wichtig
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+können
+dict_values([4, 5])
+sum of wordFormDict.values() 9
+erhöhen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ausgewogen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vermeiden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

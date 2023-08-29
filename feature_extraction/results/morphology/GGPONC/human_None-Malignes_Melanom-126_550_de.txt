@@ -1,0 +1,76 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 268
+human_None-Malignes_Melanom-126_550_de
+de
+computing lemmas
+Length of all lemmas: 246
+Length of singleton lemmas: 232
+Length of matched lemmas: 11
+Length of singleton maching lemmas: 232
+ein
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+der
+dict_values([4, 26, 10, 4, 5, 2])
+sum of wordFormDict.values() 51
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 7, 1])
+sum of wordFormDict.values() 9
+indirekt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+multidimensional
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gesundheitsbezogen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+subjektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+der
+dict_values([4, 26, 10, 4, 5, 2])
+sum of wordFormDict.values() 51
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 7, 1])
+sum of wordFormDict.values() 9
+indirekt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+multidimensional
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gesundheitsbezogen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+subjektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2

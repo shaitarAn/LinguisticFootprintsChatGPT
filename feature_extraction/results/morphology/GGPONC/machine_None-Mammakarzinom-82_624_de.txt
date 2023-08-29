@@ -1,0 +1,64 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 167
+machine_None-Mammakarzinom-82_624_de
+de
+computing lemmas
+Length of all lemmas: 148
+Length of singleton lemmas: 138
+Length of matched lemmas: 9
+Length of singleton maching lemmas: 138
+ein
+dict_values([13, 4, 3, 1, 2])
+sum of wordFormDict.values() 23
+adjuvant
+dict_values([7, 8])
+sum of wordFormDict.values() 15
+sein
+dict_values([5, 2, 2])
+sum of wordFormDict.values() 9
+der
+dict_values([24, 22, 6, 4, 4])
+sum of wordFormDict.values() 60
+werden
+dict_values([3, 5, 2])
+sum of wordFormDict.values() 10
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+ein
+dict_values([13, 4, 3, 1, 2])
+sum of wordFormDict.values() 23
+adjuvant
+dict_values([7, 8])
+sum of wordFormDict.values() 15
+sein
+dict_values([5, 2, 2])
+sum of wordFormDict.values() 9
+der
+dict_values([24, 22, 6, 4, 4])
+sum of wordFormDict.values() 60
+werden
+dict_values([3, 5, 2])
+sum of wordFormDict.values() 10
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 4])
+sum of wordFormDict.values() 6

@@ -1,0 +1,70 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 145
+machine_None-Larynxkarzinom-31_552_de
+de
+computing lemmas
+Length of all lemmas: 131
+Length of singleton lemmas: 121
+Length of matched lemmas: 10
+Length of singleton maching lemmas: 121
+der
+dict_values([22, 11, 28, 1])
+sum of wordFormDict.values() 62
+ein
+dict_values([9, 17])
+sum of wordFormDict.values() 26
+simultan
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([7, 10])
+sum of wordFormDict.values() 17
+können
+dict_values([5, 7])
+sum of wordFormDict.values() 12
+regelmäßig
+dict_values([2, 5])
+sum of wordFormDict.values() 7
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+möglich
+dict_values([1, 3, 3])
+sum of wordFormDict.values() 7
+lokal
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([22, 11, 28, 1])
+sum of wordFormDict.values() 62
+ein
+dict_values([9, 17])
+sum of wordFormDict.values() 26
+simultan
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([7, 10])
+sum of wordFormDict.values() 17
+können
+dict_values([5, 7])
+sum of wordFormDict.values() 12
+regelmäßig
+dict_values([2, 5])
+sum of wordFormDict.values() 7
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+möglich
+dict_values([1, 3, 3])
+sum of wordFormDict.values() 7
+lokal
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2

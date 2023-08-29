@@ -1,0 +1,81 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 188
+de
+computing lemmas
+Length of all lemmas: 161
+Length of singleton lemmas: 146
+Length of matched lemmas: 12
+Length of singleton maching lemmas: 146
+der
+dict_values([15, 4, 21, 4, 2, 2, 1])
+sum of wordFormDict.values() 49
+fokal
+dict_values([3, 8])
+sum of wordFormDict.values() 11
+gezielt
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zerstören
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([7, 7, 1])
+sum of wordFormDict.values() 15
+eignen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 12, 1, 3, 1])
+sum of wordFormDict.values() 22
+begrenzt
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+sein
+dict_values([10, 7])
+sum of wordFormDict.values() 17
+niedrig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 4, 21, 4, 2, 2, 1])
+sum of wordFormDict.values() 49
+fokal
+dict_values([3, 8])
+sum of wordFormDict.values() 11
+gezielt
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zerstören
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([7, 7, 1])
+sum of wordFormDict.values() 15
+eignen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 12, 1, 3, 1])
+sum of wordFormDict.values() 22
+begrenzt
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+sein
+dict_values([10, 7])
+sum of wordFormDict.values() 17
+niedrig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,82 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 174
+machine_None-Malignes_Melanom-125_518_de
+de
+computing lemmas
+Length of all lemmas: 154
+Length of singleton lemmas: 140
+Length of matched lemmas: 12
+Length of singleton maching lemmas: 140
+der
+dict_values([1, 21, 21, 7, 1])
+sum of wordFormDict.values() 51
+sein
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([12, 1])
+sum of wordFormDict.values() 13
+können
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+wichtig
+dict_values([7, 1, 1])
+sum of wordFormDict.values() 9
+spielen
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+psychologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+psychoonkologisch
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+betreffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+der
+dict_values([1, 21, 21, 7, 1])
+sum of wordFormDict.values() 51
+sein
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([12, 1])
+sum of wordFormDict.values() 13
+können
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+wichtig
+dict_values([7, 1, 1])
+sum of wordFormDict.values() 9
+spielen
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+psychologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+psychoonkologisch
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+betreffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 3])
+sum of wordFormDict.values() 4
