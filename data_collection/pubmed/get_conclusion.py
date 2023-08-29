@@ -5,13 +5,17 @@ import os
 
 
 
-def extract_conclusion(infilepath, outfolder):
+def extract_conclusion(infilepath, outfolder, n=500):
+    """Takes an xml document from pubmed and saves the title and the conclusion in a txt in the specified outfolder.
+    Only saves conclusion longer than n tokens (naive tokenization)
+    """
+
     xml = etree.parse(infilepath)
     articles = xml.xpath("//article[//sec[title='Conclusion']]")
     for article in articles:
         text = ''.join(article.xpath(".//sec[title='Conclusion']//text()"))  # getting the conlcusion as string
         num_toks = len(text.split())
-        if num_toks > 500:
+        if num_toks > n:
             title = article.xpath(".//title-group/article-title/text()")[0]
             pmid = article.xpath(".//article-id[@pub-id-type='pmid']/text()")[0]
             year = article.xpath(".//pub-date[1]/year/text()")[0]
