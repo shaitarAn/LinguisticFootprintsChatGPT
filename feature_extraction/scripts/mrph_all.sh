@@ -2,7 +2,7 @@
 
 # Check if at least two arguments were provided
 if [ "$#" -lt 2 ]; then
-    echo "Usage: $0 arg1 arg2"
+    echo "Usage: $0 corpus_directory language"
     exit 1
 fi
 
