@@ -141,7 +141,10 @@ def get_formatted_texts(filename, source_dict, prompt_source, model, tokenizer, 
     # truncate and tokenize the texts
     machine, human, num_toks = truncate_texts(machine_text, source_dict[filename]["text"], tokenizer)
 
-    new_filename = f"{year}-{title}_{num_toks}_{lang}.txt"
+    if year:
+        new_filename = f"{year}-{title}_{num_toks}_{lang}.txt"
+    else:  # The GGPONC corpus has no years,
+        new_filename = f"{title}_{num_toks}_{lang}.txt"
 
     return machine, human, new_filename
 
