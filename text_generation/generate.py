@@ -44,6 +44,7 @@ class OpenAiModels:
                     if not "error" in result:
                         completion_tokens = result["usage"]["completion_tokens"]
                         tokens_per_second = completion_tokens/(time_1-time_0)
+                        # todo: add checkpoint if the prompt is in the generated text and if so, run again
                         return tokens_per_second, result["choices"][0]["message"]["content"]  # result["choices"][0]["text"]
                     else:
                         print("\n\nOpenAI error: ", result["error"])
@@ -112,7 +113,37 @@ def write_texts(machine, human, filename, outfolder):
         with open(filepath, "w", encoding="utf-8") as outfile:
             outfile.write(text)
 
+def get_prompt(lang, prompt_file=None):
+    """Returns the prompt, either from a file, or creates the simple prompt"""
+    if prompt_file:
+        with open(prompt_file, "r", encoding="utf-8") as infile:
+            prompt_source = infile.read()
+    else:
+        if lang == "en":
+            prompt_source = "Complete the following text:\n<title>\n\n<prompt>"
+        if lang == "de":
+            prompt_source = "Vervollständige den folgenden text:\n<title>\n\n<prompt>"
 
+    return prompt_source
+
+
+def get_formatted_texts(filename, source_dict, prompt_source, model, tokenizer, time_log = False):
+
+    year, title, _, lang = parse_filename(filename)
+
+    prompt = re.sub("<title>", source_dict[filename]["title"], prompt_source)
+    prompt = re.sub("<prompt>", source_dict[filename]["prompt"], prompt)
+    tokens_per_second, machine_text = generate(model, prompt, lang)
+    if time_log:
+        with open(completion_filepath, "a", encoding="utf-8") as outfile:
+            outfile.write(f"{tokens_per_second},{datetime.now().strftime('%H-%M-%S')}\n")
+
+    # truncate and tokenize the texts
+    machine, human, num_toks = truncate_texts(machine_text, source_dict[filename]["text"], tokenizer)
+
+    new_filename = f"{year}-{title}_{num_toks}_{lang}.txt"
+
+    return machine, human, new_filename
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -128,6 +159,8 @@ if __name__ == "__main__":
     parser.add_argument("--start_from", type=int, default=0, help="If part of the files are already done, this is the one to start from")
     parser.add_argument("--time_log", type=str, default="", help="create a csv file, saving the completion time in "
                                                                 "tokens per second for each text of the corpus. Provide the domain name [20min, cnn, etc] here.")
+    parser.add_argument("--one_file", default="", type=str, help="just generate one specific file. "
+                                                     "give the filename that will be found in the json_file")
     args = parser.parse_args()
     model_name = args.model
     source_file = args.source_file
@@ -141,14 +174,8 @@ if __name__ == "__main__":
         source_dict = json.load(infile)
 
     # Open the prompt file, if specified, otherwise apply a simple prompt
-    if prompt_file:
-        with open(prompt_file, "r", encoding="utf-8") as infile:
-            prompt_source = infile.read()
-    else:
-        if lang == "en":
-            prompt_source = "Complete the following text:\n<title>\n\n<prompt>"
-        if lang == "de":
-            prompt_source = "Vervollständige den folgenden text:\n<title>\n\n<prompt>"
+    prompt_source = get_prompt(lang, prompt_file)
+
 
     # Initialize the specified model
     api_key = os.getenv("OPENAI_KEY")
@@ -159,7 +186,7 @@ if __name__ == "__main__":
     tokenizer = Tokenizer(lang)
 
     # make default output directory
-    # Todo: save only the day in the filename and then add the time as a second column
+    # save only the day in the filename and then add the time as a second column
     if not outfolder:
         outfolder = "output" + datetime.now().strftime("%Y-%m-%d")
 
@@ -173,21 +200,14 @@ if __name__ == "__main__":
             with open(completion_filepath, "w", encoding="utf-8") as outfile:
                 outfile.write("Completion time in Tokens per second,time of the call in H-M-S\n")
 
-    # Go over all the documents
-    for filename in tqdm(list(source_dict.keys())[start_from:]):
-
-        year, title, _, lang = parse_filename(filename)
-
-        prompt = re.sub("<title>", source_dict[filename]["title"], prompt_source)
-        prompt = re.sub("<prompt>", source_dict[filename]["prompt"], prompt)
-        tokens_per_second, machine_text = generate(model, prompt, lang)
-        if args.time_log:
-            with open(completion_filepath, "a", encoding="utf-8") as outfile:
-                outfile.write(f"{tokens_per_second},{datetime.now().strftime('%H-%M-%S')}\n")
-
-        # truncate and tokenize the texts
-        machine, human, num_toks = truncate_texts(machine_text, source_dict[filename]["text"], tokenizer)
-
-        new_filename = f"{year}-{title}_{num_toks}_{lang}.txt"
+    if args.one_file:
+        machine, human, new_filename = get_formatted_texts(args.one_file, source_dict, prompt_source, model, tokenizer,
+                                                           args.time_log)
         write_texts(machine, human, new_filename, outfolder)
+    else:
+        # Go over all the documents
+        for filename in tqdm(list(source_dict.keys())[start_from:]):
+            machine, human, new_filename = get_formatted_texts(filename, source_dict, prompt_source, model, tokenizer,
+                                                               args.time_log)
+            write_texts(machine, human, new_filename, outfolder)
 
