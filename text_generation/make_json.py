@@ -34,29 +34,25 @@ def parse_cnn(filepath):
     return title, prompt, text
 
 
-def parse_pubmed(filepath, section_title):
+def parse_pubmed(filepath):
     with open(filepath, "r", encoding="utf-8") as infile:
         title = infile.readline().strip()[1:]
         infile.readline()
         prompt = infile.readline().strip()
-        prompt = "Abstract: " + prompt + f"\n\n{section_title}\n"
+        prompt = "Abstract: " + prompt
         infile.readline()
         text = infile.read().strip()
     return title, prompt, text
 
 
-def parse_pubmed_de(filepath):
-    return parse_pubmed(filepath, "1. Einleitung")
 
-def parse_pubmed_en(filepath):
-    return parse_pubmed(filepath, "1. Introduction")
 
 def parse_zora(filepath):
     with open(filepath, "r", encoding="utf-8") as infile:
         title = infile.readline().strip()
-        infile.readline()
-        prompt = infile.readline().strip()
-        prompt += infile.readline()+infile.readline()+infile.readline()
+        infile.readline()  # empty line
+        prompt = infile.readline().strip()  # abstract
+        infile.readline()+infile.readline()+infile.readline()  # empty line, empty line, section title
         text = infile.read().strip()
         return title, prompt, text
 
@@ -111,8 +107,8 @@ parse_function = {
     "cnn": parse_cnn,
     "e3c": parse_e3c,
     "GGPONC": parse_GGPONC,
-    "pubmed_de": parse_pubmed_de,
-    "pubmed_en": parse_pubmed_en,
+    "pubmed_de": parse_pubmed,
+    "pubmed_en": parse_pubmed,
     "zora_en": parse_zora,
     "zora_de": parse_zora
 
@@ -170,7 +166,10 @@ if __name__ == "__main__":
     parser.add_argument("corpus", type=str, choices=["20min", "cnn", "e3c", "GGPONC", "pubmed_de", "pubmed_en", "zora_en", "zora_de"])
     args = parser.parse_args()
 
+    if not os.path.exists(args.outfolder):
+        os.mkdir(args.outfolder)
     if args.method == "overview":
+
         if args.corpus == "GGPONC":
             GGPONC_overview(args.infolder, args.outfolder)
         else:
