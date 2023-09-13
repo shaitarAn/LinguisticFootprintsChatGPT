@@ -1,0 +1,36 @@
+data = {
+  'model': 'gpt-3.5-turbo',
+  'messages':[
+    {
+      "role": "system",
+      "content": "You are a nurse who is writing an imaginary clinical case, using a real clinical case as an example."
+      },
+      {
+        "role": "user",
+      "content": f"Use this clinical case as an example: {intext}. Imagine a patient with a similar condition. Write a clinical case about this patient. Match the length and the writing style of the example case."
+    }
+  ],
+  # "max_tokens":4095,
+  "top_p":1,
+  "frequency_penalty":0,
+  "presence_penalty":0,
+}
+
+----------------------------
+An 18-year-old male patient with a diagnosis of Sturge-Weber Syndrome (SWS) presented to our clinic complaining of chronic headaches. The patient had been experiencing frequent non-pulsating headaches for the past 2 years. These headaches were typically relieved by non-steroidal anti-inflammatory drugs and did not worsen with physical activity. There were no accompanying symptoms of nausea or aura. The headaches lasted for several hours and were described as bilateral, generalized, and pressing in quality. The patient had no family history of headaches.
+
+In addition to the headache history, the patient had a significant medical history of seizures. The seizures began during the first week of the patient's life and were characterized by tonic-clonic contractions. The diagnosis of SWS was made at that time. At the age of 6, the patient underwent a callosotomy procedure to control the seizures. Up until the age of 18, the patient remained seizure-free, but during a laser treatment to remove a port wine birthmark, the patient experienced a seizure for the first time since the callosotomy. Following this event, the patient was prescribed carbamazepine 400 mg daily as an anticonvulsant, resulting in the absence of any further seizures.
+
+Developmentally, the patient had a normal infancy, but their academic achievements were significantly impaired. The patient barely graduated from elementary school and struggled with literacy. The patient's family history was unremarkable, except for the presence of a port wine stain on their elder sister's face. No further investigations were conducted regarding the sister's birthmark.
+
+Apart from SWS and the associated seizures, the patient also suffered from anxiety disorder. They were prescribed daily doses of ketiapin 25 mg for anxiety and venlafaxine 75 mg to manage both anxiety and chronic headaches. Additionally, the patient received NSAID medication for headache relief. Although the heaviness of the headaches slightly decreased after starting this treatment regimen, the frequency of the headaches remained unchanged.
+
+Physical examination of the patient revealed a facial nevus on the right forehead, right eyelid, nasal wing, and cheek, which were likely a result of choroid angioma. Intraoral examination revealed angiomatous enlargement of the gingiva on the right side. The gingival overgrowth appeared bright red in color and exhibited blanching upon the application of pressure. Mild asymmetry was also observed in the patient's extremities, with the left arm and leg appearing slightly smaller in size and demonstrating hemiparesis. Ophthalmological evaluation diagnosed the patient with glaucoma in the right eye. Psychiatric examination confirmed the presence of anxiety disorder. Neurological examination, apart from the hemiparesis, did not reveal any remarkable findings.
+
+Radiological imaging studies, including cranial CT scans and gadolinium-enhanced brain MRI, showed diffuse atrophy in the right hemisphere. Irregular double-contoured gyriform cortical calcifications were observed in the right occipital area. Furthermore, the MRI revealed multiple dilated pial venous vascular structures on the right hemisphere, along with diffuse atrophy on the same side. Axial T1 weighted cranial MRI demonstrated increased calvarial thickness on the right side compared to the left, and right hemispheric asymmetry was observed, with the right side being smaller. T2 weighted MRI exhibited extensive venous formations around the corpus of the right lateral ventricle, as well as in the Gallen vein localization, perivascular space anterior to the third ventricle at Willis polygon localization, and the right temporooccipital area at quadrigeminal cistern localization.
+
+To assess the patient's cognitive abilities, a proteus intelligence test was performed, resulting in a score of 75, indicating mild mental retardation.
+
+####################################################
+
+

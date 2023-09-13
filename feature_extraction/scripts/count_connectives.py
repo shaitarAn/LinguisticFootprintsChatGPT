@@ -139,22 +139,22 @@ def main():
             'machine_upper': machine_file_dict.get(key, {}).get('capitalized', 0),
             'machine_total': machine_file_dict.get(key, {}).get('total', 0),}
 
-        with open(f'../output/connectives_{corpus}.csv', 'w') as f:
+        with open(f'../output/connectives_all_{corpus}.csv', 'w') as f:
             writer = csv.writer(f)
             writer.writerow(['connective', 'human_upper', 'human_total', 'gpt_upper', 'gpt_total'])
             for key, values in combined_dict.items():
                 writer.writerow([key, values["human_upper"], values["human_total"], values["machine_upper"], values["machine_total"]])
 
-        with open(f'../output/connectives_upper_{corpus}.csv', 'w') as f:
+        with open(f'../output/paired_features_{corpus}/connectives_upper.csv', 'w') as f:
             writer = csv.writer(f)
-            writer.writerow(['file', 'human_upper', 'machine_upper'])
+            writer.writerow(['gpt', 'human'])
             for key, values in combined_file_dict.items():
-                writer.writerow([key, values["human_upper"], values["machine_upper"]])
+                writer.writerow([values["machine_upper"], values["human_upper"]])
 
-        with open(f'../output/connectives_total_{corpus}.csv', 'w') as f:
+        with open(f'../output/paired_features_{corpus}/connectives_total.csv', 'w') as f:
             writer = csv.writer(f)
-            writer.writerow(['file', 'human_total', 'machine_total'])
+            writer.writerow(['gpt', 'human'])
             for key, values in combined_file_dict.items():
-                writer.writerow([key, values["human_total"], values["machine_total"]])
+                writer.writerow([values["machine_total"], values["human_total"]])
 
 main()

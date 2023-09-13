@@ -1,0 +1,30 @@
+connective,human_upper,human_total,gpt_upper,gpt_total
+indeed,0,0,0,2
+but,0,11,0,5
+although,0,3,0,0
+later,0,0,0,1
+in fact,0,2,0,0
+then,0,2,0,2
+since,3,6,0,0
+on the other hand,0,0,1,1
+when,2,14,0,1
+by contrast,0,1,0,0
+therefore,0,2,0,0
+before,0,1,0,0
+still,1,4,0,0
+after,1,3,0,0
+however,6,8,14,14
+in addition,1,2,0,0
+also,0,14,0,11
+thus,0,3,0,0
+though,0,1,0,0
+previously,0,1,0,1
+for example,4,4,1,1
+while,2,3,2,9
+finally,0,0,5,5
+as,2,59,1,32
+for instance,3,4,1,1
+instead,0,0,1,1
+moreover,2,2,0,0
+nevertheless,0,1,1,1
+if,2,3,0,0
