@@ -1,3 +1,269 @@
+####################### pubmed_en explain #############################
+data = {
+  'model': 'gpt-3.5-turbo',
+  'messages':[
+    {
+      "role": "system",
+      "content": "You are an academic who is experienced with science communication."
+      },
+      {
+        "role": "user",
+        "content": f"Please explain this pubmed article to me. The title is: {intext[0]}. The abstarct: {intext[1]}, and the introduction: {intext[2]}."
+    }
+  ],
+  # "max_tokens":4095,
+  "top_p":1,
+  "frequency_penalty":0,
+  "presence_penalty":0,
+}
+
+----------------------------
+
+This article is a narrative review that discusses current practices and outcomes of endovascular thrombectomy techniques for the treatment of thrombosed arteriovenous grafts (AVGs) and fistulas (AVFs) in patients with end-stage renal disease (ESRD). Arteriovenous access is crucial for ESRD patients to receive hemodialysis, but thrombosis of these access sites can lead to delay in treatment or the need for catheter placement.
+
+The review focuses on the endovascular approach, which has become the preferred treatment option for thrombosed access over surgery. The interventions discussed in the article include removing thrombus from the AV circuit and treating underlying anatomical abnormalities that contribute to thrombosis. Thrombolysis, which involves dissolving the thrombus, is done using infusion catheters or pulse injector devices to administer fibrinolytic agents. Thrombectomy, on the other hand, involves mechanically removing the thrombus using embolectomy balloon catheters, rotating baskets or wires, rheolytic, or aspiration mechanisms.
+
+The review also mentions adjunctive methods that are used to treat stenoses (narrowing) in the AV circuit. These include cutting balloon angioplasty, drug-coated balloon angioplasty, and stent placement. However, complications can arise from these procedures, such as vessel rupture, arterial embolism, pulmonary embolism, and paradoxical embolism to the brain.
+
+The article states that the narrative review was based on a literature search from electronic databases, primarily PubMed and Google Scholar. The understanding of thrombectomy techniques and their complications is crucial for the management of patients with thrombosed AV access.
+
+The introduction of the article provides background information on the prevalence of chronic kidney disease (CKD) and the importance of hemodialysis as a renal replacement modality for ESRD patients. It highlights the preference for AVF and AVG over central venous catheters due to lower risks of hospitalization and mortality. However, maintaining access patency for these long-term vascular accesses requires frequent interventions, impacting healthcare resources and patients' quality of life.
+
+Thrombosis is identified as the leading cause of access loss in AVF and AVG, accounting for a significant percentage of cases. The article mentions systemic factors and cannulation complications that can increase the risk of access thrombosis. Thrombosed access leads to treatment delays, inpatient admissions, and the need for dialysis catheter placement.
+
+The article concludes by stating that endovascular thrombectomy has become the standard of care for thrombosed access, replacing surgical thrombectomy. The success rates of endovascular thrombectomy reported in prior studies range from 70% to 90%. The article aims to review current practices, outcomes, and potential complications associated with endovascular thrombectomy techniques for thrombosed AVGs and AVFs.
+
+Overall, this article provides an overview of the current state of endovascular thrombectomy techniques in the management of thrombosed AV access in ESRD patients. It highlights the importance of timely treatment to prevent delays in dialysis and outlines various interventions and potential complications associated with these procedures.
+
+####################### pubmed_en create #############################
+data = {
+  'model': 'gpt-3.5-turbo',
+  'messages':[
+    {
+      "role": "system",
+      "content": "You are an academic, writing a new article for publication."
+      },
+      {
+        "role": "user",
+        "content": f"Read the provided title: {intext[0]} and the abstarct: {intext[1]}. Write an entirely new introduction section for your academic paper, using the title and abstract as a guide."
+    }
+  ],
+  "max_tokens":1000,
+  "top_p":1,
+  "frequency_penalty":0,
+  "presence_penalty":0,
+}
+
+----------------------------
+
+Introduction:
+End-stage renal disease (ESRD) is a debilitating condition that requires renal replacement therapy, such as hemodialysis, to maintain a patient's life. Arteriovenous (AV) access, comprising of arteriovenous grafts (AVGs) and fistulas (AVFs), play a significant role in facilitating hemodialysis in patients with ESRD. However, one of the common challenges faced in the management of AV access is the occurrence of thrombosis, which can lead to delayed hemodialysis or even the abandonment of the access, necessitating the placement of dialysis catheters.
+
+In recent years, there has been a paradigm shift in the treatment approach for thrombosed AV access. While surgery was traditionally the primary option, endovascular techniques, particularly thrombectomy, have emerged as preferred treatment modalities. Thrombectomy involves the mechanical removal of thrombus using various tools and devices, providing efficient and effective restoration of AV access patency. This narrative review aims to delve into the current practices and outcomes of endovascular thrombectomy techniques in the management of thrombosed AVGs and AVFs in the ESRD population.
+
+Thrombolysis, which involves the dissolution of thrombus using fibrinolytic agents, and thrombectomy both play vital roles in reestablishing AV access. The article will explore the different approaches to thrombectomy, including the use of embolectomy balloon catheters, rotating baskets or wires, rheolytic, and aspiration mechanisms. Additionally, adjunctive methods such as cutting balloon angioplasty, drug-coated balloon (DCB) angioplasty, and stent placement will be discussed, as they offer valuable strategies for addressing stenoses within the AV circuit.
+
+Understanding the techniques employed in thrombectomy and their potential complications is crucial for the optimal management of patients with thrombosed AV access. Complications such as vessel rupture, arterial embolism, pulmonary embolism (PE), and paradoxical embolism to the brain will be thoroughly examined in this review. Recognizing these potential risks is essential in mitigating adverse outcomes and enhancing patient safety during these procedures.
+
+This narrative review is based on an extensive literature search utilizing electronic databases, including PubMed and Google Scholar. By examining the available evidence, this review aims to consolidate and disseminate the current knowledge regarding thrombectomy techniques for access maintenance in the ESRD population. It is hoped that this review will provide clinicians with a comprehensive understanding of the various approaches employed in thrombectomy, enabling them to make informed decisions tailored to individual patient needs. Ultimately, this will contribute to the provision of improved care and outcomes for patients with thrombosed AV access in the end-stage renal disease population.
+
+####################### ggponc explain #############################
+data = {
+  'model': 'gpt-3.5-turbo',
+  'messages':[
+    {
+      "role": "system",
+      "content": "Sie sind Mediziner und haben sich auf Wissenschaftskommunikation spezialisiert."
+      },
+      {
+        "role": "user",
+        "content": f"Bitte erklären Sie mir diesen Text aus den Leitlinien: {intext}."
+    }
+  ],
+  # "max_tokens":4095,
+  "top_p":1,
+  "frequency_penalty":0,
+  "presence_penalty":0,
+}
+
+----------------------------
+
+In den Leitlinien geht es um die postoperative Strahlentherapie bei Erwachsenen mit Weichgewebesarkomen. In randomisierten Studien wurde gezeigt, dass die Strahlentherapie die lokale Rückfallrate signifikant senken kann. Dies gilt insbesondere für Patienten mit Sarkomen der Grade 2 und 3, während bei Sarkomen des Grades 1 kein signifikanter Effekt beobachtet wurde. Große Datenbankanalysen bestätigen diesen Effekt. Eine Metaanalyse zeigt, dass die adjuvante Strahlentherapie die lokale Rückfallrate halbiert. Ein Überlebensvorteil konnte jedoch nicht nachgewiesen werden. Eine mögliche Erklärung dafür könnte der "prescription bias" sein, d.h. dass die Strahlentherapie häufiger bei Patienten mit hohem Rückfallrisiko eingesetzt wurde. In Studien mit geringem Bias wurde jedoch ein signifikanter Überlebensvorteil festgestellt.
+
+Wenn bei einer Resektion R1-Resektion handelt es sich um eine Inkomplette Resektion, bei der Tumorreste im Körper verbleiben. Nach einer R1-Resektion ist die Lokalrezidivrate erhöht. Bei vorhersehbarer R1-Resektion sollten daher neoadjuvante Behandlungsoptionen diskutiert werden. Eine Nachresektion wird empfohlen, sofern dies chirurgisch vertretbar ist. Ist eine Nachresektion mit deutlichen Funktionseinbußen verbunden, sollte Nutzen und Risiko abgewogen werden. Bei R1-Resektionen in den Extremitäten wird trotz zusätzlicher Strahlentherapie über Rückfallraten von 15% - 35% berichtet. In einer retrospektiven Analyse wurde gezeigt, dass Strahlendosen von > 64 Gy nach R1-Resektion die lokale Rückfallrate signifikant reduzieren können.
+
+Bei atypischen lipomatösen Tumoren konnte eine adjuvante Strahlentherapie nach R0-Resektion die Lokalrezidivrate nicht signifikant verringern. Nach marginaler Resektion führte die adjuvante Strahlentherapie dagegen zu einer signifikanten Reduktion der Rückfallrate.
+
+Der Beginn der postoperativen Strahlentherapie sollte zeitnah erfolgen, um das weitere Wachstum von Tumorzellen zu verhindern. Die Wundheilung sollte jedoch weitestgehend abgeschlossen sein, so dass die Bestrahlung frühestens 3 Wochen nach der Operation beginnen kann. Es gibt keine klaren Daten, dass ein langes Intervall zwischen Chirurgie und Beginn der Strahlentherapie negative Auswirkungen hat. Es wird jedoch empfohlen, die Strahlentherapie innerhalb von 6 Wochen nach der Resektion zu starten. Bei der adjuvanten Brachytherapie sollte die Behandlung 5 Tage nach der Operation beginnen, um das Risiko akuter Komplikationen zu verringern.
+
+####################### ggponc create #############################
+data = {
+  'model': 'gpt-3.5-turbo',
+  'messages':[
+    {
+      "role": "system",
+      "content": "Sie sind ein Mediziner, der den Auftrag hat, einen fiktiven klinischen Fall auf der Grundlage der vorgegebenen medizinischen Leitlinien zu schreiben."
+      },
+      {
+        "role": "user",
+        "content": f"Bitte erstellen Sie einen fiktiven klinischen Fall auf der Grundlage des Textes aus dem deutschen Leitlinienprogramm für die Onkologie: {intext}."
+    }
+  ],
+  # "max_tokens":4095,
+  "top_p":1,
+  "frequency_penalty":0,
+  "presence_penalty":0,
+}
+
+----------------------------
+
+Klinischer Fall:
+
+Patienteninformation:
+Name: Herr Schmidt
+Alter: 55 Jahre
+Geschlecht: männlich
+Medizinische Vorgeschichte: Herr Schmidt ist sonst gesund und hatte keine relevanten Vorerkrankungen.
+
+Anamnese:
+Herr Schmidt stellte sich in der Klinik vor, weil er seit einigen Wochen eine schmerzhafte Schwellung am linken Oberschenkel bemerkt hatte. Er berichtete, dass die Schwellung allmählich größer geworden sei und mit der Zeit schmerzhafter geworden sei. Er habe außerdem bemerkt, dass sich die Haut über der Schwellung verfärbt habe und an manchen Stellen gerötet und leicht geschwollen sei. Herr Schmidt gab an, dass er in den letzten Monaten keine Verletzungen oder traumatischen Ereignisse am linken Oberschenkel erlebt habe.
+
+Klinische Untersuchungen:
+Bei der körperlichen Untersuchung war eine große, feste, schmerzhafte Schwellung am linken Oberschenkel zu erkennen. Die Haut über der Schwellung war gerötet und leicht geschwollen. Es gab keine auffälligen Lymphknotenvergrößerungen in der Umgebung. Der allgemeine Gesundheitszustand von Herrn Schmidt war normal, er hatte keine Gewichtsveränderungen oder andere Symptome.
+
+Diagnose:
+Aufgrund der klinischen Symptome und der körperlichen Untersuchung wurde der Verdacht auf ein Weichgewebesarkom gestellt. Zur weiteren Abklärung wurden bildgebende Untersuchungen, einschließlich einer MRT des linken Oberschenkels, durchgeführt. Die MRT zeigte einen großen, solitären Tumor im Oberschenkelmuskel. Es wurden keine Anzeichen von Metastasen in den anderen Körperregionen festgestellt. Eine Biopsie des Tumors wurde durchgeführt und der histologische Befund ergab ein hochmalignes Weichgewebesarkom.
+
+Behandlungsentscheidung:
+Nach der Diagnosestellung wurde Herr Schmidt über die verschiedenen Behandlungsmöglichkeiten informiert. Da der Tumor hochmaligne war und eine R0-Resektion durchgeführt werden konnte, wurde eine adjuvante perkutane Strahlentherapie empfohlen. Die Strahlentherapie sollte eine Dosis von 45 Gy in Einzeldosen von 1,8 Gy erhalten, gefolgt von einem Boost von 18 Gy in Einzeldosen von 1,8 Gy. Der Beginn der Strahlentherapie sollte innerhalb von 6 Wochen nach der Operation erfolgen, um eine effektive Kontrolle des Tumors zu gewährleisten.
+
+Der Fall wurde im Rahmen einer interdisziplinären Konferenz mit den Kollegen der Strahlentherapie besprochen und die Entscheidung zur adjuvanten Strahlentherapie wurde gemeinsam getroffen. Aufgrund der hohen Malignität des Tumors und des hohen Risikos für ein Lokalrezidiv wurde die Strahlentherapie als eine wichtige Komponente der adjuvanten Behandlung angesehen.
+
+Verlauf:
+Herr Schmidt entschied sich für die adjuvante Strahlentherapie und begann die Behandlung innerhalb von 4 Wochen nach der Operation. Die Strahlentherapie verlief ohne Komplikationen und Herr Schmidt vertrug die Behandlung gut. Er wurde regelmäßig überwacht und es wurden regelmäßige MRT-Untersuchungen durchgeführt, um das lokale Tumoransprechen zu beurteilen. Nach einem Jahr war keine Rezidivbildung zu sehen und Herr Schmidt befand sich in einem guten Allgemeinzustand.
+
+Zusammenfassung:
+Bei Herrn Schmidt wurde ein hochmalignes Weichgewebesarkom im linken Oberschenkel diagnostiziert. Aufgrund der histologischen Befunde und des Risikos eines Lokalrezidivs wurde eine adjuvante perkutane Strahlentherapie empfohlen. Die Strahlentherapie wurde innerhalb von 6 Wochen nach der Operation begonnen und Herr Schmidt zeigte eine gute Behandlungsantwort ohne Anzeichen für ein Rezidiv nach einem Jahr der Nachsorge.
+
+####################### cnn explain #############################
+
+data = {
+  'model': 'gpt-3.5-turbo',
+  'messages':[
+    {
+      "role": "system",
+      "content": "You are a friendly assistant."
+      },
+      {
+        "role": "user",
+        "content": f"Please explain this news article to me: {intext}"
+    }
+  ],
+  # "max_tokens":4095,
+  "top_p":1,
+  "frequency_penalty":0,
+  "presence_penalty":0,
+}
+
+----------------------------
+
+This news article describes a plot by a 25-year-old man named Sami Osmakac to carry out a terrorist attack in Tampa, Florida. Osmakac planned to use explosives and weapons to create mayhem and harm Americans. The plot was foiled thanks to the assistance of the local Muslim community and law enforcement.
+
+Osmakac believed he had an operable AK-47, real explosives, and a car bomb that he planned to use against Americans. He made a martyrdom video message expressing his desire to "pay back" for perceived wrongs done to Muslims. The local Muslim community provided information about Osmakac's ideology and intentions to law enforcement.
+
+Osmakac had no apparent ties to al Qaeda and seems to have self-radicalized. The investigation began after a confidential source reported to the FBI that Osmakac had asked for al Qaeda flags. He later sought guns and explosives from an undercover FBI employee. However, the weapons and explosives provided by the FBI were rendered inoperable and posed no threat to the public.
+
+Osmakac planned to target nightclubs in the Ybor City area, the operations center of the Hillsborough County Sheriff's Office, and a business in South Tampa. After the car bombing, he intended to retrieve more weapons and explosives from a hotel room and take hostages. He demanded the release of prisoners before allegedly planning to detonate an explosive belt attached to his waist.
+
+Osmakac was arrested just after he recorded a video explaining his motives. The U.S. attorney emphasized that there was no real danger to the community once law enforcement became involved. The cooperation of the local Muslim community played a significant role in foiling the plot. It is important to note that this case is not about the Muslim religion or the Muslim community but about an individual who committed a crime.
+
+######################## cnn create ############################
+
+data = {
+  'model': 'gpt-3.5-turbo',
+  'messages':[
+    {
+      "role": "system",
+      "content": "You are a journalist writing for CNN, which has a high reputation for its journalistic coverage of a wide range of news topics, including politics, world events, business, technology, entertainment, and more."
+      },
+      {
+        "role": "user",
+        "content": f"Read the real CNN article here: {intext}. Write a new, imaginary news piece from the place that is mentioned in the article. Make sure to change the names of the people. Match the length and the writing style of the given article."
+    }
+  ],
+  # "max_tokens":4095,
+  "top_p":1,
+  "frequency_penalty":0,
+  "presence_penalty":0,
+}
+
+----------------------------
+
+Title: Orlando Man Arrested in Foiled Terror Plot to Target Popular Theme Park
+
+Orlando, FL - A 27-year-old resident of Orlando, identified as John Smith, was apprehended by authorities in a foiled terror plot aimed at targeting a popular theme park in the city, officials announced Monday. The collaborative effort between the local Muslim community and law enforcement agencies played a vital role in uncovering and thwarting the plan.
+
+During a press conference, Jane Sullivan, U.S. attorney for the Central District of Florida, stated, "This case underscores the importance of community engagement in preventing potential acts of violence. Thanks to the vigilance of our local Muslim community and the swift action of law enforcement, we were able to prevent an imminent threat to public safety."
+
+Smith, a naturalized American citizen born in another country, allegedly planned to detonate explosives at a crowded amusement park, intending to cause widespread panic and carnage. Grateful for the help of the Muslim community, Sullivan added, "By working together, we can protect our communities from individuals who seek to harm innocent people."
+
+According to a criminal complaint unsealed on Monday, undercover agents infiltrated Smith's circle after receiving a tip about his extremist views. The suspect engaged in conversations about potential targets, expressing a desire for retribution against perceived wrongs and ideological grievances. The complaint revealed that Smith allegedly commented, "I want to die a martyr, taking revenge for the harm done to our people."
+
+The Federal Bureau of Investigation (FBI), in cooperation with local law enforcement, escalated surveillance on Smith once credible intelligence on his intentions emerged. The suspect allegedly sought firearms, explosives, and assistance from an undercover agent, aiming to carry out his nefarious plans. The authorities ensured that the weapons provided were inoperable and posed no threat to public safety.
+
+While addressing journalists, Special Agent in Charge of the FBI Orlando, Sarah Thompson, emphasized the decisive role played by community cooperation. "We applaud the local Muslim community for their assistance, ensuring a safer environment for everyone. It's imperative to differentiate between an individual's actions and the beliefs of an entire community."
+
+Officials stressed that Smith acted alone and had no direct ties to any known terrorist organizations. The investigation revealed he was self-radicalized, further indicating that he was not acting under the direction of any external group. Despite his potential for causing significant harm, authorities assured the public that there was no immediate danger once the suspect was identified and apprehended.
+
+The probe began several months ago when law enforcement received information that Smith was displaying signs of radicalization. Working closely with the Orlando Muslim community, authorities gathered vital intelligence that enabled them to intercede before any harm could be inflicted.
+
+During her statement, Thompson acknowledged the proactive nature of the investigation. "Due to the prompt response from the Orlando Muslim community, along with the dedicated efforts of law enforcement, we were able to prevent a tragedy. This case serves as a reminder of the importance of community engagement, and we encourage citizens to remain vigilant and report any suspicious activities."
+
+Smith is facing charges of attempted use of a weapon of mass destruction and planning acts of terrorism. If convicted, he could face severe penalties, including long-term imprisonment.
+
+Authorities reiterated that investigations are ongoing and encouraged citizens to stay informed, report concerning activities, and remain steadfast against ideologies promoting hatred and violence.
+
+######################## e3c explain ############################
+
+data = {
+  'model': 'gpt-3.5-turbo',
+  'messages':[
+    {
+      "role": "system",
+      "content": "You are a nurse who is experienced with science communication."
+      },
+      {
+        "role": "user",
+        "content": f"Please explain this clinical case to me: {intext}"
+    }
+  ],
+  # "max_tokens":4095,
+  "top_p":1,
+  "frequency_penalty":0,
+  "presence_penalty":0,
+}
+----------------------------
+
+This clinical case involves a 21-year-old female patient who has been diagnosed with Sturge-Weber Syndrome (SWS). SWS is a rare disorder characterized by abnormal blood vessels affecting the skin, eyes, and brain. In this case, the patient has a port wine birthmark (facial nevus) on her right forehead, eyelid, nasal wing, and cheek, which is a common feature of SWS.
+
+The patient has been experiencing frequent headaches for two years. These headaches are non-pulsating, bilateral (both sides of the head), pressing in quality, and last for hours. However, the headaches are relieved by non-steroidal anti-inflammatory drugs (NSAIDs) and are not worsened by physical activity. The absence of nausea, aura, and a negative family history of headache suggest that these headaches may be related to SWS rather than a primary headache disorder.
+
+The patient also has a history of seizures that began in the fifteenth day of her life. These seizures were characterized by tonic-clonic contractions and led to her diagnosis of SWS. At the age of 6, she underwent a procedure called callosotomy to control her seizures. However, at the age of 18, she had another seizure during a laser treatment for her port wine birthmark. Since then, she has been prescribed carbamazepine, an anti-seizure medication, and has not had any seizures.
+
+In terms of her physical examination, the patient has a right-sided overgrowth of the gingiva (the gums) that is bright red in color and shows blanching upon pressure. This suggests an angiomatous enlargement of the blood vessels in the gingiva, which is another common manifestation of SWS. Additionally, there is mild asymmetry in her extremities, with her left arm and leg being slightly smaller and exhibiting hemiparesis (weakness or paralysis on one side of the body). On ophthalmological evaluation, glaucoma (increased pressure within the eye) was diagnosed in her right eye.
+
+Neuroimaging studies, including cranial CT scans and Gadolinium-enhanced brain MRI, revealed various abnormalities in the patient's brain. These include diffuse atrophy (shrinkage) on the right hemisphere, irregular double-contoured gyriform cortical calcifications (calcium deposits in the brain) in the right occipital area, and multiple dilated pial venous vascular structures on the right hemisphere. The asymmetry of the right calvarial thickness (thickness of the skull) and the smaller size of the right hemisphere compared to the left are also observed.
+
+Furthermore, the T2-weighted MRI shows extensive venous formations around the corpus of the right lateral ventricle, at Gallen vein localization, at the perivascular space anterior to the third ventricle at Willis polygon localization, and at the right temporooccipital area at quadrigeminal cistern localization. These findings further support the presence of abnormal blood vessels in the brain associated with SWS.
+
+Psychiatric examination reveals signs of an anxiety disorder in the patient, for which she is prescribed ketiapin and venlafaxine. She is also prescribed NSAID drugs for her headaches. After a week of treatment, her headaches showed slight improvement in terms of heaviness, but the frequency remained the same.
+
+In terms of her cognitive assessment, the patient underwent a Proteus intelligence test, which revealed a score of 75 points, indicating mild mental retardation.
+
+In summary, this clinical case involves a young female patient with Sturge-Weber Syndrome, characterized by a port wine birthmark, seizures, extensive brain abnormalities, glaucoma, hemiparesis, gingival overgrowth, and headaches. The patient also presents with signs of an anxiety disorder and mild mental retardation. Treatment with anti-seizure medication and medications for anxiety and headaches has been initiated, but the headaches have not significantly improved.
+
+######################## e3c create ############################
+
 data = {
   'model': 'gpt-3.5-turbo',
   'messages':[
