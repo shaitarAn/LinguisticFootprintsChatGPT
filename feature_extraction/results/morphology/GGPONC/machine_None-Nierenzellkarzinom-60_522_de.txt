@@ -1,0 +1,70 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 169
+machine_None-Nierenzellkarzinom-60_522_de
+de
+computing lemmas
+Length of all lemmas: 149
+Length of singleton lemmas: 138
+Length of matched lemmas: 10
+Length of singleton maching lemmas: 138
+der
+dict_values([12, 5, 5, 8, 5, 7])
+sum of wordFormDict.values() 42
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+kein
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([13, 15, 4, 2])
+sum of wordFormDict.values() 34
+organerhaltend
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+lokal
+dict_values([1, 8])
+sum of wordFormDict.values() 9
+sein
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+der
+dict_values([12, 5, 5, 8, 5, 7])
+sum of wordFormDict.values() 42
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+kein
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([13, 15, 4, 2])
+sum of wordFormDict.values() 34
+organerhaltend
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+lokal
+dict_values([1, 8])
+sum of wordFormDict.values() 9
+sein
+dict_values([7, 2])
+sum of wordFormDict.values() 9

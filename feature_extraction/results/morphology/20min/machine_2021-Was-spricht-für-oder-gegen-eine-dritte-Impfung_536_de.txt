@@ -1,0 +1,58 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 138
+machine_2021-Was-spricht-für-oder-gegen-eine-dritte-Impfung_536_de
+de
+computing lemmas
+Length of all lemmas: 123
+Length of singleton lemmas: 114
+Length of matched lemmas: 8
+Length of singleton maching lemmas: 114
+sein
+dict_values([12, 4, 2])
+sum of wordFormDict.values() 18
+der
+dict_values([13, 13, 3, 4])
+sum of wordFormDict.values() 33
+ein
+dict_values([4, 22])
+sum of wordFormDict.values() 26
+klar
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+dritt
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+sollen
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+einige
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+können
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([12, 4, 2])
+sum of wordFormDict.values() 18
+der
+dict_values([13, 13, 3, 4])
+sum of wordFormDict.values() 33
+ein
+dict_values([4, 22])
+sum of wordFormDict.values() 26
+klar
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+dritt
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+sollen
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+einige
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+können
+dict_values([5, 1])
+sum of wordFormDict.values() 6

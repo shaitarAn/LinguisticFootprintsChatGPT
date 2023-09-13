@@ -1,0 +1,82 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 312
+human_2021-Anya-Taylor-Joy-rüttelt-in-Thriller-über-Gewalt-an-Frauen-auf_570_de
+de
+computing lemmas
+Length of all lemmas: 273
+Length of singleton lemmas: 256
+Length of matched lemmas: 12
+Length of singleton maching lemmas: 256
+der
+dict_values([6, 7, 17, 5, 13, 1])
+sum of wordFormDict.values() 49
+werden
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+leben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+er
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([1, 5, 3, 1, 1, 1, 1])
+sum of wordFormDict.values() 13
+ein
+dict_values([2, 1, 3, 3, 1])
+sum of wordFormDict.values() 10
+machen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+du
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([6, 7, 17, 5, 13, 1])
+sum of wordFormDict.values() 49
+werden
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+leben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+er
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([1, 5, 3, 1, 1, 1, 1])
+sum of wordFormDict.values() 13
+ein
+dict_values([2, 1, 3, 3, 1])
+sum of wordFormDict.values() 10
+machen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+du
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,100 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 324
+human_2019-Zwischen-zwei-Welten_568_de
+de
+computing lemmas
+Length of all lemmas: 288
+Length of singleton lemmas: 273
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 273
+sein
+dict_values([5, 2, 2, 1, 1, 1])
+sum of wordFormDict.values() 12
+der
+dict_values([16, 4, 18, 6, 4, 11])
+sum of wordFormDict.values() 59
+acht
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+ein
+dict_values([4, 6, 1, 1, 1])
+sum of wordFormDict.values() 13
+klassisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+beweisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+elektrisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 2, 2, 1, 1, 1])
+sum of wordFormDict.values() 12
+der
+dict_values([16, 4, 18, 6, 4, 11])
+sum of wordFormDict.values() 59
+acht
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+ein
+dict_values([4, 6, 1, 1, 1])
+sum of wordFormDict.values() 13
+klassisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+beweisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+elektrisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,76 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 137
+machine_None-Malignes_Melanom-126_550_de
+de
+computing lemmas
+Length of all lemmas: 115
+Length of singleton lemmas: 104
+Length of matched lemmas: 11
+Length of singleton maching lemmas: 104
+der
+dict_values([16, 4, 23, 10, 6, 3])
+sum of wordFormDict.values() 62
+sollen
+dict_values([8, 3])
+sum of wordFormDict.values() 11
+systematisch
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+werden
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+differenziert
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([2, 13, 2])
+sum of wordFormDict.values() 17
+sein
+dict_values([2, 6, 2, 2])
+sum of wordFormDict.values() 12
+wichtig
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+umsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+integral
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([16, 4, 23, 10, 6, 3])
+sum of wordFormDict.values() 62
+sollen
+dict_values([8, 3])
+sum of wordFormDict.values() 11
+systematisch
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+werden
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+differenziert
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([2, 13, 2])
+sum of wordFormDict.values() 17
+sein
+dict_values([2, 6, 2, 2])
+sum of wordFormDict.values() 12
+wichtig
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+umsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+integral
+dict_values([2, 1])
+sum of wordFormDict.values() 3

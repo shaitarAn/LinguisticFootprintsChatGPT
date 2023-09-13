@@ -1,0 +1,100 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 304
+human_None-Palliativmedizin-20_610_de
+de
+computing lemmas
+Length of all lemmas: 263
+Length of singleton lemmas: 242
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 242
+verschieden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([7, 21, 15, 8, 2, 3])
+sum of wordFormDict.values() 56
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([13, 2, 5, 1, 5, 3])
+sum of wordFormDict.values() 29
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+von
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+multidisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ambulanen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezialisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([7, 21, 15, 8, 2, 3])
+sum of wordFormDict.values() 56
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([13, 2, 5, 1, 5, 3])
+sum of wordFormDict.values() 29
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+von
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+multidisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ambulanen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezialisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2

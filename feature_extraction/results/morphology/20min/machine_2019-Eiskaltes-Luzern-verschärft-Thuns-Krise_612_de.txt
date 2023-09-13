@@ -1,0 +1,58 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 288
+machine_2019-Eiskaltes-Luzern-verschärft-Thuns-Krise_612_de
+de
+computing lemmas
+Length of all lemmas: 283
+Length of singleton lemmas: 275
+Length of matched lemmas: 8
+Length of singleton maching lemmas: 275
+der
+dict_values([2, 14, 5, 7, 8])
+sum of wordFormDict.values() 36
+sein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+kämpfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+remain
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+th
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+team
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([2, 14, 5, 7, 8])
+sum of wordFormDict.values() 36
+sein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+kämpfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+remain
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+th
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+team
+dict_values([1, 1])
+sum of wordFormDict.values() 2

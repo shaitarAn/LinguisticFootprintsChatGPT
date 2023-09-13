@@ -1,0 +1,40 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 101
+machine_None-Mammakarzinom-219_628_de
+de
+computing lemmas
+Length of all lemmas: 88
+Length of singleton lemmas: 79
+Length of matched lemmas: 5
+Length of singleton maching lemmas: 79
+der
+dict_values([43, 10, 7, 74, 6])
+sum of wordFormDict.values() 140
+pathomorphologisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([11, 7])
+sum of wordFormDict.values() 18
+geben
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+histologisch
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+der
+dict_values([43, 10, 7, 74, 6])
+sum of wordFormDict.values() 140
+pathomorphologisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([11, 7])
+sum of wordFormDict.values() 18
+geben
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+histologisch
+dict_values([1, 4])
+sum of wordFormDict.values() 5

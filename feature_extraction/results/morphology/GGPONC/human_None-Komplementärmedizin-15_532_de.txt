@@ -1,0 +1,118 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 235
+human_None-Komplementärmedizin-15_532_de
+de
+computing lemmas
+Length of all lemmas: 195
+Length of singleton lemmas: 173
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 173
+erheben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 3, 19, 6, 8, 4])
+sum of wordFormDict.values() 59
+werden
+dict_values([3, 1, 5, 2])
+sum of wordFormDict.values() 11
+ein
+dict_values([6, 1, 9, 2, 1, 1])
+sum of wordFormDict.values() 20
+unterziehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+beide
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+betrachten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bekommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erheben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 3, 19, 6, 8, 4])
+sum of wordFormDict.values() 59
+werden
+dict_values([3, 1, 5, 2])
+sum of wordFormDict.values() 11
+ein
+dict_values([6, 1, 9, 2, 1, 1])
+sum of wordFormDict.values() 20
+unterziehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+beide
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+betrachten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bekommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2

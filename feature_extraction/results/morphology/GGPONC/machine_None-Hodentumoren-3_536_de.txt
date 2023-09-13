@@ -1,0 +1,52 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 163
+machine_None-Hodentumoren-3_536_de
+de
+computing lemmas
+Length of all lemmas: 147
+Length of singleton lemmas: 136
+Length of matched lemmas: 7
+Length of singleton maching lemmas: 136
+der
+dict_values([20, 8, 12, 12, 4, 3])
+sum of wordFormDict.values() 59
+häufig
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([9, 3])
+sum of wordFormDict.values() 12
+werden
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([10, 3, 1, 2])
+sum of wordFormDict.values() 16
+regelmäßig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([20, 8, 12, 12, 4, 3])
+sum of wordFormDict.values() 59
+häufig
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([9, 3])
+sum of wordFormDict.values() 12
+werden
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([10, 3, 1, 2])
+sum of wordFormDict.values() 16
+regelmäßig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([4, 1])
+sum of wordFormDict.values() 5

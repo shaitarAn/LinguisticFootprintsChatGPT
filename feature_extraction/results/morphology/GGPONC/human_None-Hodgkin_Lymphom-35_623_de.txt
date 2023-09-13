@@ -1,0 +1,88 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 298
+human_None-Hodgkin_Lymphom-35_623_de
+de
+computing lemmas
+Length of all lemmas: 260
+Length of singleton lemmas: 243
+Length of matched lemmas: 13
+Length of singleton maching lemmas: 243
+ein
+dict_values([7, 8, 1, 5, 3])
+sum of wordFormDict.values() 24
+werden
+dict_values([5, 6, 2, 1])
+sum of wordFormDict.values() 14
+der
+dict_values([2, 24, 10, 6, 3, 3, 13])
+sum of wordFormDict.values() 61
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prinzipiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mütterlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kindlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 8, 1, 5, 3])
+sum of wordFormDict.values() 24
+werden
+dict_values([5, 6, 2, 1])
+sum of wordFormDict.values() 14
+der
+dict_values([2, 24, 10, 6, 3, 3, 13])
+sum of wordFormDict.values() 61
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prinzipiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mütterlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kindlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

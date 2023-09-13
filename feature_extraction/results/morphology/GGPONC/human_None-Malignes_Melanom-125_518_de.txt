@@ -1,0 +1,136 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 261
+human_None-Malignes_Melanom-125_518_de
+de
+computing lemmas
+Length of all lemmas: 220
+Length of singleton lemmas: 198
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 198
+der
+dict_values([6, 13, 4, 3, 8, 2])
+sum of wordFormDict.values() 36
+ander
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([1, 1, 5, 1])
+sum of wordFormDict.values() 8
+psychosozial
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+wenig
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+fortgeschritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+körperlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gering
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+negativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kognitiv
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sozial
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+aktiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([6, 13, 4, 3, 8, 2])
+sum of wordFormDict.values() 36
+ander
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([1, 1, 5, 1])
+sum of wordFormDict.values() 8
+psychosozial
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+wenig
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+fortgeschritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+körperlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gering
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+negativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kognitiv
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sozial
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+aktiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

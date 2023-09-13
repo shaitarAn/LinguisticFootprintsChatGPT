@@ -1,0 +1,100 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 269
+human_None-Harnblasenkarzinom-79_586_de
+de
+computing lemmas
+Length of all lemmas: 232
+Length of singleton lemmas: 214
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 214
+sein
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+der
+dict_values([15, 6, 12, 5, 4])
+sum of wordFormDict.values() 42
+ein
+dict_values([12, 6, 3, 4, 1])
+sum of wordFormDict.values() 26
+krankheitsfrei
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 5, 4, 2])
+sum of wordFormDict.values() 15
+voll
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+empfohlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+reduzieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chemisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+der
+dict_values([15, 6, 12, 5, 4])
+sum of wordFormDict.values() 42
+ein
+dict_values([12, 6, 3, 4, 1])
+sum of wordFormDict.values() 26
+krankheitsfrei
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 5, 4, 2])
+sum of wordFormDict.values() 15
+voll
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+empfohlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+reduzieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chemisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2

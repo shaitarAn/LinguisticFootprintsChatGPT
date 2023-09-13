@@ -1,0 +1,69 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 160
+de
+computing lemmas
+Length of all lemmas: 141
+Length of singleton lemmas: 130
+Length of matched lemmas: 10
+Length of singleton maching lemmas: 130
+der
+dict_values([33, 5, 28, 2])
+sum of wordFormDict.values() 68
+fortgeschritten
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+verbessern
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+belastend
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([17, 1, 5])
+sum of wordFormDict.values() 23
+wichtig
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+berücksichtigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+behandeln
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+symptomatisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([33, 5, 28, 2])
+sum of wordFormDict.values() 68
+fortgeschritten
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+verbessern
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+belastend
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([17, 1, 5])
+sum of wordFormDict.values() 23
+wichtig
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+berücksichtigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+behandeln
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+symptomatisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3

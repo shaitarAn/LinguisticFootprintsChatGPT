@@ -1,0 +1,76 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 179
+machine_2021-Sturmjäger-wird-von-Blitz-getroffen-und-macht-trotzdem-weiter_589_de
+de
+computing lemmas
+Length of all lemmas: 143
+Length of singleton lemmas: 127
+Length of matched lemmas: 11
+Length of singleton maching lemmas: 127
+sein
+dict_values([4, 3, 3, 9, 2, 2, 12])
+sum of wordFormDict.values() 35
+werden
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+der
+dict_values([5, 10, 6, 8, 18, 3])
+sum of wordFormDict.values() 50
+ein
+dict_values([3, 3, 1, 2])
+sum of wordFormDict.values() 9
+machen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+kurz
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+perfekt
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+geben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+er
+dict_values([6, 12, 2])
+sum of wordFormDict.values() 20
+fortsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 3, 3, 9, 2, 2, 12])
+sum of wordFormDict.values() 35
+werden
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+der
+dict_values([5, 10, 6, 8, 18, 3])
+sum of wordFormDict.values() 50
+ein
+dict_values([3, 3, 1, 2])
+sum of wordFormDict.values() 9
+machen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+kurz
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+perfekt
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+geben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+er
+dict_values([6, 12, 2])
+sum of wordFormDict.values() 20
+fortsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

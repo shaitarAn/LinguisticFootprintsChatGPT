@@ -1,0 +1,82 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 250
+human_None-Endometriumkarzinom-7_570_de
+de
+computing lemmas
+Length of all lemmas: 221
+Length of singleton lemmas: 206
+Length of matched lemmas: 12
+Length of singleton maching lemmas: 206
+sein
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+der
+dict_values([4, 12, 11, 2, 2, 1])
+sum of wordFormDict.values() 32
+kontinuierlich
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([8, 1, 9, 1, 1, 2])
+sum of wordFormDict.values() 22
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mikronisiert
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+der
+dict_values([4, 12, 11, 2, 2, 1])
+sum of wordFormDict.values() 32
+kontinuierlich
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([8, 1, 9, 1, 1, 2])
+sum of wordFormDict.values() 22
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mikronisiert
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2

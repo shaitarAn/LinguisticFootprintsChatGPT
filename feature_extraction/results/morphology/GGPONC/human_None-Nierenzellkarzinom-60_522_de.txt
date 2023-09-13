@@ -1,0 +1,64 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 218
+human_None-Nierenzellkarzinom-60_522_de
+de
+computing lemmas
+Length of all lemmas: 194
+Length of singleton lemmas: 181
+Length of matched lemmas: 9
+Length of singleton maching lemmas: 181
+der
+dict_values([7, 18, 3, 5, 4, 1, 1])
+sum of wordFormDict.values() 39
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+scheinen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 1, 2, 2, 1])
+sum of wordFormDict.values() 8
+partiell
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterscheiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 18, 3, 5, 4, 1, 1])
+sum of wordFormDict.values() 39
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+scheinen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 1, 2, 2, 1])
+sum of wordFormDict.values() 8
+partiell
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterscheiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2

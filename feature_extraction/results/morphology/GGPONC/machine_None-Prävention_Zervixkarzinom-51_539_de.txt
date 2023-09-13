@@ -1,0 +1,39 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 180
+de
+computing lemmas
+Length of all lemmas: 173
+Length of singleton lemmas: 168
+Length of matched lemmas: 5
+Length of singleton maching lemmas: 168
+der
+dict_values([19, 22, 6])
+sum of wordFormDict.values() 47
+Review
+dict_values([4, 7])
+sum of wordFormDict.values() 11
+verschieden
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+sein
+dict_values([8, 1])
+sum of wordFormDict.values() 9
+lassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([19, 22, 6])
+sum of wordFormDict.values() 47
+Review
+dict_values([4, 7])
+sum of wordFormDict.values() 11
+verschieden
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+sein
+dict_values([8, 1])
+sum of wordFormDict.values() 9
+lassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3

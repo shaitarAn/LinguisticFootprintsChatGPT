@@ -1,0 +1,52 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 243
+human_None-Harnblasenkarzinom-121_574_de
+de
+computing lemmas
+Length of all lemmas: 224
+Length of singleton lemmas: 212
+Length of matched lemmas: 7
+Length of singleton maching lemmas: 212
+der
+dict_values([18, 13, 3, 10, 4, 2])
+sum of wordFormDict.values() 50
+ein
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+werden
+dict_values([4, 3, 4])
+sum of wordFormDict.values() 11
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([18, 13, 3, 10, 4, 2])
+sum of wordFormDict.values() 50
+ein
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+werden
+dict_values([4, 3, 4])
+sum of wordFormDict.values() 11
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2

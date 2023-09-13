@@ -1,0 +1,52 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 278
+human_2019-Arsenal-stürzt-ohne-Xhaka-in-die-Krise_528_de
+de
+computing lemmas
+Length of all lemmas: 249
+Length of singleton lemmas: 241
+Length of matched lemmas: 7
+Length of singleton maching lemmas: 241
+haben
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([6, 16, 9, 5, 2, 1])
+sum of wordFormDict.values() 39
+ein
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ehemalig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dürfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([6, 16, 9, 5, 2, 1])
+sum of wordFormDict.values() 39
+ein
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ehemalig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dürfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

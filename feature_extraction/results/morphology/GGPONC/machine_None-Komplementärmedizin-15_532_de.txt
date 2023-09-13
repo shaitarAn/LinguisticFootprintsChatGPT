@@ -1,0 +1,82 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 160
+machine_None-Komplementärmedizin-15_532_de
+de
+computing lemmas
+Length of all lemmas: 140
+Length of singleton lemmas: 126
+Length of matched lemmas: 12
+Length of singleton maching lemmas: 126
+ein
+dict_values([1, 14, 2])
+sum of wordFormDict.values() 17
+weit
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+werden
+dict_values([1, 8, 1, 3])
+sum of wordFormDict.values() 13
+können
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+signifikant
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([21, 4, 28])
+sum of wordFormDict.values() 53
+ihr
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+sein
+dict_values([9, 2])
+sum of wordFormDict.values() 11
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konventionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 14, 2])
+sum of wordFormDict.values() 17
+weit
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+werden
+dict_values([1, 8, 1, 3])
+sum of wordFormDict.values() 13
+können
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+signifikant
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([21, 4, 28])
+sum of wordFormDict.values() 53
+ihr
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+sein
+dict_values([9, 2])
+sum of wordFormDict.values() 11
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konventionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

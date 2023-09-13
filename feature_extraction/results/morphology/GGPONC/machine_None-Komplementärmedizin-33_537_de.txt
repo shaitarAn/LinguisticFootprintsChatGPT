@@ -1,0 +1,64 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 173
+machine_None-Komplementärmedizin-33_537_de
+de
+computing lemmas
+Length of all lemmas: 153
+Length of singleton lemmas: 142
+Length of matched lemmas: 9
+Length of singleton maching lemmas: 142
+werden
+dict_values([4, 5])
+sum of wordFormDict.values() 9
+körperlich
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+können
+dict_values([11, 2])
+sum of wordFormDict.values() 13
+sein
+dict_values([13, 2, 2, 1])
+sum of wordFormDict.values() 18
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([13, 1, 1])
+sum of wordFormDict.values() 15
+der
+dict_values([11, 3, 13, 3])
+sum of wordFormDict.values() 30
+qualifiziert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ausführen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+werden
+dict_values([4, 5])
+sum of wordFormDict.values() 9
+körperlich
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+können
+dict_values([11, 2])
+sum of wordFormDict.values() 13
+sein
+dict_values([13, 2, 2, 1])
+sum of wordFormDict.values() 18
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([13, 1, 1])
+sum of wordFormDict.values() 15
+der
+dict_values([11, 3, 13, 3])
+sum of wordFormDict.values() 30
+qualifiziert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ausführen
+dict_values([1, 3])
+sum of wordFormDict.values() 4

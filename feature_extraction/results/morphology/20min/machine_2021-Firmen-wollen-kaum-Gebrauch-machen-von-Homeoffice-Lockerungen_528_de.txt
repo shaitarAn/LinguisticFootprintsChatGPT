@@ -1,0 +1,52 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 130
+machine_2021-Firmen-wollen-kaum-Gebrauch-machen-von-Homeoffice-Lockerungen_528_de
+de
+computing lemmas
+Length of all lemmas: 114
+Length of singleton lemmas: 105
+Length of matched lemmas: 7
+Length of singleton maching lemmas: 105
+der
+dict_values([8, 28, 11, 22, 9, 3])
+sum of wordFormDict.values() 81
+werden
+dict_values([11, 6])
+sum of wordFormDict.values() 17
+scheinen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+hoch
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+mangelnd
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+anstreben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([8, 28, 11, 22, 9, 3])
+sum of wordFormDict.values() 81
+werden
+dict_values([11, 6])
+sum of wordFormDict.values() 17
+scheinen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+hoch
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+mangelnd
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+anstreben
+dict_values([1, 1])
+sum of wordFormDict.values() 2

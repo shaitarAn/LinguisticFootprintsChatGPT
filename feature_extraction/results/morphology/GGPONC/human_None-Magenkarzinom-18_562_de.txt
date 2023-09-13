@@ -1,0 +1,88 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 262
+human_None-Magenkarzinom-18_562_de
+de
+computing lemmas
+Length of all lemmas: 229
+Length of singleton lemmas: 212
+Length of matched lemmas: 13
+Length of singleton maching lemmas: 212
+sein
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([3, 7, 6, 1, 3, 1])
+sum of wordFormDict.values() 21
+korrekt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 22, 10, 5, 5])
+sum of wordFormDict.values() 57
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([3, 7, 6, 1, 3, 1])
+sum of wordFormDict.values() 21
+korrekt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 22, 10, 5, 5])
+sum of wordFormDict.values() 57
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2

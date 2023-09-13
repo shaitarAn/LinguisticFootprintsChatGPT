@@ -1,0 +1,40 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 105
+machine_None-Nierenzellkarzinom-65_556_de
+de
+computing lemmas
+Length of all lemmas: 93
+Length of singleton lemmas: 87
+Length of matched lemmas: 5
+Length of singleton maching lemmas: 87
+der
+dict_values([19, 9, 11, 2, 10])
+sum of wordFormDict.values() 51
+werden
+dict_values([2, 5, 3, 4])
+sum of wordFormDict.values() 14
+unspezifisch
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+können
+dict_values([1, 4, 4, 2])
+sum of wordFormDict.values() 11
+der
+dict_values([19, 9, 11, 2, 10])
+sum of wordFormDict.values() 51
+werden
+dict_values([2, 5, 3, 4])
+sum of wordFormDict.values() 14
+unspezifisch
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+können
+dict_values([1, 4, 4, 2])
+sum of wordFormDict.values() 11

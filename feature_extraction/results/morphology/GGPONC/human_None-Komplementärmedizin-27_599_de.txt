@@ -1,0 +1,76 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 328
+human_None-Komplementärmedizin-27_599_de
+de
+computing lemmas
+Length of all lemmas: 294
+Length of singleton lemmas: 276
+Length of matched lemmas: 11
+Length of singleton maching lemmas: 276
+der
+dict_values([6, 22, 7, 15, 4, 1])
+sum of wordFormDict.values() 55
+werden
+dict_values([3, 5, 2, 5])
+sum of wordFormDict.values() 15
+aerobisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+körperlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([9, 1, 1])
+sum of wordFormDict.values() 11
+systematisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+motorisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([6, 22, 7, 15, 4, 1])
+sum of wordFormDict.values() 55
+werden
+dict_values([3, 5, 2, 5])
+sum of wordFormDict.values() 15
+aerobisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+körperlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([9, 1, 1])
+sum of wordFormDict.values() 11
+systematisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+motorisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

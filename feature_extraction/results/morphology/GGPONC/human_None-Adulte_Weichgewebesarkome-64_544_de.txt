@@ -1,0 +1,106 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 295
+human_None-Adulte_Weichgewebesarkome-64_544_de
+de
+computing lemmas
+Length of all lemmas: 256
+Length of singleton lemmas: 235
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 235
+können
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+ein
+dict_values([11, 1, 7, 2, 3])
+sum of wordFormDict.values() 24
+der
+dict_values([30, 6, 12, 15, 4, 3])
+sum of wordFormDict.values() 70
+werden
+dict_values([3, 7])
+sum of wordFormDict.values() 10
+sein
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicher
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+achten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+frei
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+adjuvant
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+einzeitig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+ein
+dict_values([11, 1, 7, 2, 3])
+sum of wordFormDict.values() 24
+der
+dict_values([30, 6, 12, 15, 4, 3])
+sum of wordFormDict.values() 70
+werden
+dict_values([3, 7])
+sum of wordFormDict.values() 10
+sein
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicher
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+achten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+frei
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+adjuvant
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+einzeitig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,46 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 97
+machine_None-Kolorektales_Karzinom-124_566_de
+de
+computing lemmas
+Length of all lemmas: 92
+Length of singleton lemmas: 86
+Length of matched lemmas: 6
+Length of singleton maching lemmas: 86
+der
+dict_values([24, 13, 9, 3])
+sum of wordFormDict.values() 49
+zeigen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+ein
+dict_values([19, 4, 2])
+sum of wordFormDict.values() 25
+adjuvant
+dict_values([4, 9])
+sum of wordFormDict.values() 13
+werden
+dict_values([10, 4])
+sum of wordFormDict.values() 14
+liefern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([24, 13, 9, 3])
+sum of wordFormDict.values() 49
+zeigen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+ein
+dict_values([19, 4, 2])
+sum of wordFormDict.values() 25
+adjuvant
+dict_values([4, 9])
+sum of wordFormDict.values() 13
+werden
+dict_values([10, 4])
+sum of wordFormDict.values() 14
+liefern
+dict_values([1, 2])
+sum of wordFormDict.values() 3

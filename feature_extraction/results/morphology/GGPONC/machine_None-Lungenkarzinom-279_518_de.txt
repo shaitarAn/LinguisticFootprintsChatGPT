@@ -1,0 +1,76 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 167
+machine_None-Lungenkarzinom-279_518_de
+de
+computing lemmas
+Length of all lemmas: 143
+Length of singleton lemmas: 127
+Length of matched lemmas: 11
+Length of singleton maching lemmas: 127
+der
+dict_values([16, 14, 8, 12])
+sum of wordFormDict.values() 50
+können
+dict_values([5, 8])
+sum of wordFormDict.values() 13
+ein
+dict_values([11, 3, 1])
+sum of wordFormDict.values() 15
+werden
+dict_values([15, 1])
+sum of wordFormDict.values() 16
+sollen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+individuell
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+ander
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+simultan
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 14, 8, 12])
+sum of wordFormDict.values() 50
+können
+dict_values([5, 8])
+sum of wordFormDict.values() 13
+ein
+dict_values([11, 3, 1])
+sum of wordFormDict.values() 15
+werden
+dict_values([15, 1])
+sum of wordFormDict.values() 16
+sollen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+individuell
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+ander
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+simultan
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

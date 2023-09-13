@@ -1,0 +1,58 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 135
+machine_None-Magenkarzinom-18_562_de
+de
+computing lemmas
+Length of all lemmas: 117
+Length of singleton lemmas: 108
+Length of matched lemmas: 8
+Length of singleton maching lemmas: 108
+der
+dict_values([7, 4, 11, 10, 6])
+sum of wordFormDict.values() 38
+können
+dict_values([11, 4])
+sum of wordFormDict.values() 15
+ein
+dict_values([38, 4, 2, 4])
+sum of wordFormDict.values() 48
+werden
+dict_values([12, 1])
+sum of wordFormDict.values() 13
+sein
+dict_values([10, 3])
+sum of wordFormDict.values() 13
+wichtig
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+schauen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entnehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 4, 11, 10, 6])
+sum of wordFormDict.values() 38
+können
+dict_values([11, 4])
+sum of wordFormDict.values() 15
+ein
+dict_values([38, 4, 2, 4])
+sum of wordFormDict.values() 48
+werden
+dict_values([12, 1])
+sum of wordFormDict.values() 13
+sein
+dict_values([10, 3])
+sum of wordFormDict.values() 13
+wichtig
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+schauen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entnehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

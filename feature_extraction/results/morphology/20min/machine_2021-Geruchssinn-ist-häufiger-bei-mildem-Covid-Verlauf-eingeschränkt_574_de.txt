@@ -1,0 +1,76 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 154
+machine_2021-Geruchssinn-ist-häufiger-bei-mildem-Covid-Verlauf-eingeschränkt_574_de
+de
+computing lemmas
+Length of all lemmas: 126
+Length of singleton lemmas: 112
+Length of matched lemmas: 11
+Length of singleton maching lemmas: 112
+der
+dict_values([10, 2, 4, 12, 15, 5])
+sum of wordFormDict.values() 48
+können
+dict_values([6, 9])
+sum of wordFormDict.values() 15
+ein
+dict_values([2, 15, 2, 8, 5])
+sum of wordFormDict.values() 32
+schnell
+dict_values([6, 5])
+sum of wordFormDict.values() 11
+sein
+dict_values([9, 5, 1])
+sum of wordFormDict.values() 15
+wichtig
+dict_values([7, 2, 1])
+sum of wordFormDict.values() 10
+lassen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+nehmen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+betonen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([10, 2, 4, 12, 15, 5])
+sum of wordFormDict.values() 48
+können
+dict_values([6, 9])
+sum of wordFormDict.values() 15
+ein
+dict_values([2, 15, 2, 8, 5])
+sum of wordFormDict.values() 32
+schnell
+dict_values([6, 5])
+sum of wordFormDict.values() 11
+sein
+dict_values([9, 5, 1])
+sum of wordFormDict.values() 15
+wichtig
+dict_values([7, 2, 1])
+sum of wordFormDict.values() 10
+lassen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+nehmen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+betonen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3

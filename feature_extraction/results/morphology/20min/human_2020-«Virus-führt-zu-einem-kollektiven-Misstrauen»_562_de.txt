@@ -1,0 +1,94 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 264
+human_2020-«Virus-führt-zu-einem-kollektiven-Misstrauen»_562_de
+de
+computing lemmas
+Length of all lemmas: 233
+Length of singleton lemmas: 216
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 216
+viel
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([3, 15, 16, 4, 10, 1])
+sum of wordFormDict.values() 49
+sein
+dict_values([8, 1, 3, 2])
+sum of wordFormDict.values() 14
+werden
+dict_values([1, 3, 3])
+sum of wordFormDict.values() 7
+dies
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+gleich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+entgegenbringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 2, 2, 1, 1])
+sum of wordFormDict.values() 10
+häuslich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+er
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([3, 15, 16, 4, 10, 1])
+sum of wordFormDict.values() 49
+sein
+dict_values([8, 1, 3, 2])
+sum of wordFormDict.values() 14
+werden
+dict_values([1, 3, 3])
+sum of wordFormDict.values() 7
+dies
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+gleich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+entgegenbringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 2, 2, 1, 1])
+sum of wordFormDict.values() 10
+häuslich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+er
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2

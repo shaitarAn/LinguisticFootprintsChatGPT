@@ -1,0 +1,106 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 213
+machine_2021-«Du-bist-doch-schwul,-du-weisst-es-einfach-noch-nicht»_502_de
+de
+computing lemmas
+Length of all lemmas: 175
+Length of singleton lemmas: 157
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 157
+ich
+dict_values([22, 6, 3])
+sum of wordFormDict.values() 31
+haben
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+der
+dict_values([3, 6, 7, 8, 1])
+sum of wordFormDict.values() 25
+sein
+dict_values([4, 4, 2, 1, 6, 2, 2])
+sum of wordFormDict.values() 21
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+mein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 1, 3, 2])
+sum of wordFormDict.values() 9
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 3, 3])
+sum of wordFormDict.values() 7
+wir
+dict_values([12, 6])
+sum of wordFormDict.values() 18
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([22, 6, 3])
+sum of wordFormDict.values() 31
+haben
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+der
+dict_values([3, 6, 7, 8, 1])
+sum of wordFormDict.values() 25
+sein
+dict_values([4, 4, 2, 1, 6, 2, 2])
+sum of wordFormDict.values() 21
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+mein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 1, 3, 2])
+sum of wordFormDict.values() 9
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 3, 3])
+sum of wordFormDict.values() 7
+wir
+dict_values([12, 6])
+sum of wordFormDict.values() 18
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2

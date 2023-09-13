@@ -1,0 +1,112 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 242
+machine_2021-Drmic-und-Frey-treffen-schon-wieder-–-Xhaka-sieht-bei-Arsenal-Klatsche-Rot_596_de
+de
+computing lemmas
+Length of all lemmas: 203
+Length of singleton lemmas: 182
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 182
+sein
+dict_values([3, 2, 5, 1, 1, 2, 1])
+sum of wordFormDict.values() 15
+der
+dict_values([15, 10, 10, 8, 3])
+sum of wordFormDict.values() 46
+beide
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 1, 11, 2, 1])
+sum of wordFormDict.values() 20
+werden
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+zweit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gewinnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+feiern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 2, 5, 1, 1, 2, 1])
+sum of wordFormDict.values() 15
+der
+dict_values([15, 10, 10, 8, 3])
+sum of wordFormDict.values() 46
+beide
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 1, 11, 2, 1])
+sum of wordFormDict.values() 20
+werden
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+zweit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gewinnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+feiern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2

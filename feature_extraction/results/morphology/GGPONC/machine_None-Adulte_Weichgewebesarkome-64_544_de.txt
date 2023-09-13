@@ -1,0 +1,70 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 184
+machine_None-Adulte_Weichgewebesarkome-64_544_de
+de
+computing lemmas
+Length of all lemmas: 156
+Length of singleton lemmas: 141
+Length of matched lemmas: 10
+Length of singleton maching lemmas: 141
+der
+dict_values([9, 10, 19, 6, 8, 2])
+sum of wordFormDict.values() 54
+sein
+dict_values([2, 1, 4, 6, 1])
+sum of wordFormDict.values() 14
+ein
+dict_values([4, 17, 2])
+sum of wordFormDict.values() 23
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+verschieden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+verfügen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+bestmöglich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([9, 10, 19, 6, 8, 2])
+sum of wordFormDict.values() 54
+sein
+dict_values([2, 1, 4, 6, 1])
+sum of wordFormDict.values() 14
+ein
+dict_values([4, 17, 2])
+sum of wordFormDict.values() 23
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+verschieden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+verfügen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+bestmöglich
+dict_values([1, 2])
+sum of wordFormDict.values() 3

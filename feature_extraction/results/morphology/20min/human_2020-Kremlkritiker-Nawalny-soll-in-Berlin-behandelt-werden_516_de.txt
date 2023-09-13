@@ -1,0 +1,94 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 270
+human_2020-Kremlkritiker-Nawalny-soll-in-Berlin-behandelt-werden_516_de
+de
+computing lemmas
+Length of all lemmas: 224
+Length of singleton lemmas: 205
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 205
+sein
+dict_values([1, 8, 2, 2, 2, 2, 1, 1, 3])
+sum of wordFormDict.values() 22
+er
+dict_values([12, 2, 1])
+sum of wordFormDict.values() 15
+werden
+dict_values([1, 5, 2])
+sum of wordFormDict.values() 8
+sagen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([11, 2, 7, 16, 6, 2])
+sum of wordFormDict.values() 44
+haben
+dict_values([6, 3, 3])
+sum of wordFormDict.values() 12
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 5, 1, 1, 1, 2])
+sum of wordFormDict.values() 13
+organisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+russisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 8, 2, 2, 2, 2, 1, 1, 3])
+sum of wordFormDict.values() 22
+er
+dict_values([12, 2, 1])
+sum of wordFormDict.values() 15
+werden
+dict_values([1, 5, 2])
+sum of wordFormDict.values() 8
+sagen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([11, 2, 7, 16, 6, 2])
+sum of wordFormDict.values() 44
+haben
+dict_values([6, 3, 3])
+sum of wordFormDict.values() 12
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 5, 1, 1, 1, 2])
+sum of wordFormDict.values() 13
+organisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+russisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2

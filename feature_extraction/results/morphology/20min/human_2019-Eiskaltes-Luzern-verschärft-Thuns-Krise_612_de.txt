@@ -1,0 +1,100 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 331
+human_2019-Eiskaltes-Luzern-verschärft-Thuns-Krise_612_de
+de
+computing lemmas
+Length of all lemmas: 282
+Length of singleton lemmas: 262
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 262
+er
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+kommen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([8, 11, 10, 24, 10])
+sum of wordFormDict.values() 63
+viel
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+geben
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+scheitern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([6, 2, 3])
+sum of wordFormDict.values() 11
+sein
+dict_values([2, 5, 2, 1])
+sum of wordFormDict.values() 10
+erst
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dass
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+kommen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([8, 11, 10, 24, 10])
+sum of wordFormDict.values() 63
+viel
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+geben
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+scheitern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([6, 2, 3])
+sum of wordFormDict.values() 11
+sein
+dict_values([2, 5, 2, 1])
+sum of wordFormDict.values() 10
+erst
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dass
+dict_values([1, 1])
+sum of wordFormDict.values() 2

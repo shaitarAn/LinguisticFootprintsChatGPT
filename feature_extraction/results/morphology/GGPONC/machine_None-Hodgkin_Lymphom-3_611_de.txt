@@ -1,0 +1,82 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 187
+machine_None-Hodgkin_Lymphom-3_611_de
+de
+computing lemmas
+Length of all lemmas: 164
+Length of singleton lemmas: 149
+Length of matched lemmas: 12
+Length of singleton maching lemmas: 149
+ein
+dict_values([41, 1, 1, 1])
+sum of wordFormDict.values() 44
+ausführlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([9, 3])
+sum of wordFormDict.values() 12
+der
+dict_values([19, 14, 18, 3, 7])
+sum of wordFormDict.values() 61
+sein
+dict_values([12, 5, 1])
+sum of wordFormDict.values() 18
+immunhistochemisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bildgebend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+erfassen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+frühzeitig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([41, 1, 1, 1])
+sum of wordFormDict.values() 44
+ausführlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([9, 3])
+sum of wordFormDict.values() 12
+der
+dict_values([19, 14, 18, 3, 7])
+sum of wordFormDict.values() 61
+sein
+dict_values([12, 5, 1])
+sum of wordFormDict.values() 18
+immunhistochemisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bildgebend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+erfassen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+frühzeitig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,124 @@
+Already downloaded a model for the 'de' language
+Already downloaded a model for the 'en' language
+Frequency Dictionary size: 311
+human_2021-Geruchssinn-ist-häufiger-bei-mildem-Covid-Verlauf-eingeschränkt_574_de
+de
+computing lemmas
+Length of all lemmas: 263
+Length of singleton lemmas: 237
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 237
+der
+dict_values([13, 23, 5, 9, 9, 3, 1, 1])
+sum of wordFormDict.values() 64
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 6, 3, 7])
+sum of wordFormDict.values() 19
+werden
+dict_values([1, 2, 3, 1])
+sum of wordFormDict.values() 7
+haben
+dict_values([1, 1, 4])
+sum of wordFormDict.values() 6
+mild
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+schwer
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+moderat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ernsthaft
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kritisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1, 1, 1])
+sum of wordFormDict.values() 5
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+alle
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([13, 23, 5, 9, 9, 3, 1, 1])
+sum of wordFormDict.values() 64
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 6, 3, 7])
+sum of wordFormDict.values() 19
+werden
+dict_values([1, 2, 3, 1])
+sum of wordFormDict.values() 7
+haben
+dict_values([1, 1, 4])
+sum of wordFormDict.values() 6
+mild
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+schwer
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+moderat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ernsthaft
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kritisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1, 1, 1])
+sum of wordFormDict.values() 5
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+alle
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
