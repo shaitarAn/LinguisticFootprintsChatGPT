@@ -10,6 +10,14 @@ import json
 from tqdm import tqdm
 import argparse
 
+def parse_cs(filepath):
+    with open(filepath, "r", encoding="utf-8") as infile:
+        title = infile.readline().strip()
+        infile.readline()
+        prompt = infile.readline()  # first paragraph
+        text = infile.read()
+        return title, prompt, text
+
 
 def parse_20min(filepath):
     """parse an article from 20 min"""
@@ -110,7 +118,9 @@ parse_function = {
     "pubmed_de": parse_pubmed,
     "pubmed_en": parse_pubmed,
     "zora_en": parse_zora,
-    "zora_de": parse_zora
+    "zora_de": parse_zora,
+    "cs_en": parse_cs,
+    "cs_de": parse_cs
 
 }
 
@@ -163,7 +173,7 @@ if __name__ == "__main__":
     parser.add_argument("method", type=str, choices=["overview", "generation"], help="Create Json files for what purpose")
     parser.add_argument("infolder", type=str, help="Folder above the Corpus folder")
     parser.add_argument("outfolder", type=str, help="Folder in which to store the JSON files")
-    parser.add_argument("corpus", type=str, choices=["20min", "cnn", "e3c", "GGPONC", "pubmed_de", "pubmed_en", "zora_en", "zora_de"])
+    parser.add_argument("corpus", type=str, choices=["20min", "cnn", "e3c", "GGPONC", "pubmed_de", "pubmed_en", "zora_en", "zora_de", "cs_en", "cs_de"])
     args = parser.parse_args()
 
     if not os.path.exists(args.outfolder):
