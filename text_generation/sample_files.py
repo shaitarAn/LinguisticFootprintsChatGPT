@@ -9,6 +9,7 @@ import json
 import os
 import argparse
 
+
 def sample_files(corpus_dict,source_folder , destination_folder, category, num=100, exclude=[]):
 
     filenames = []
@@ -39,6 +40,7 @@ def sample_files(corpus_dict,source_folder , destination_folder, category, num=1
     for filename in sample["filename"]:
         shutil.copyfile(f"{source_folder}/{filename}", f"{destination_folder}/{filename}")
 
+
 def from_raw_to_100(corpus:str):
     with open(f"{corpus}.json", "r", encoding="utf-8") as infile:
         corpus_dict = json.load(infile)
@@ -57,10 +59,11 @@ def from_raw_to_100(corpus:str):
 if __name__ == "__main__":
     
     parser = argparse.ArgumentParser()
-    parser.add_argument("corpus", type=str, choices=["20min", "cnn", "e3c", "GGPONC", "pubmed_en", "pubmed_de"])
-    parser.add_argument("source_folder", type=str, help="directory above the corpus")
-    parser.add_argument("dest_folder", type=str)
-    parser.add_argument("--number", "-n", type=int, help="number of files to be sampled")
+    parser.add_argument("corpus", type=str, choices=["20min", "cnn", "e3c", "GGPONC", "pubmed_en", "pubmed_de", "cs_en", "cs_de"])
+    parser.add_argument("source_folder", type=str, help="Folder above the corpus folder")
+    parser.add_argument("json_overview", type=str, help="Json file with the overview of the corpus created with make_json.py")
+    parser.add_argument("dest_folder", type=str, help="A subdirectory with the name of the corpus will be created here")
+    parser.add_argument("--number", "-n", type=int, default=100, help="number of files to be sampled, defaults to 100")
     parser.add_argument("--exclude", "-e", type=str, help="path to folder with files that are to be excluded" )
 
     args = parser.parse_args()
@@ -71,7 +74,7 @@ if __name__ == "__main__":
     else:
         exclude = []
 
-    with open(f"overview/{args.corpus}.json", "r", encoding="utf-8") as infile:
+    with open(args.json_overview, "r", encoding="utf-8") as infile:
         corpus_dict = json.load(infile)
 
     if args.corpus == "GGPONC":
