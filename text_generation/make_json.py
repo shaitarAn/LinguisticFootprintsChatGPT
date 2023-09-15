@@ -14,8 +14,9 @@ def parse_cs(filepath):
     with open(filepath, "r", encoding="utf-8") as infile:
         title = infile.readline().strip()
         infile.readline()
-        prompt = infile.readline()  # first paragraph
-        text = infile.read()
+        infile.readline()
+        full_text = infile.read()
+        prompt, text = " ".join(full_text.split()[:100]), " ".join(full_text.split()[100:])
         return title, prompt, text
 
 
@@ -132,9 +133,12 @@ def make_json_overview(infolder, outfolder, corpus):
     for filename in tqdm(os.listdir(f"{infolder}/{corpus}")):
         filepath = f"{infolder}/{corpus}/{filename}"
         year, title, num_tokens, lang = parse_filename(filename)
-        tokenizer = Tokenizer(lang)
         title, prompt, text = parse_function[corpus](filepath)
-        num_tokens, _ = tokenizer.tokenize_text(text)  # number of tokens without the prompt!!
+        if corpus == "cs_en" or corpus == "cs_de":
+            num_tokens = len(text.split())  # cs corpus is already tokenized
+        else:
+            tokenizer = Tokenizer(lang)
+            num_tokens, _ = tokenizer.tokenize_text(text)
         file_dict[filename] = {
             "year": year,
             "num_tokens": num_tokens
