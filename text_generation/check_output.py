@@ -21,11 +21,11 @@ if __name__ == "__main__":
                                          "It should be the top folder under which the domains with both human and machine files are"
                                          " (e.g. final_files_simple_prompt")
     parser.add_argument("junkfolder", help="folder in which to store the faulty files. A subfolder with the domain name will be created")
-    parser.add_argument("domain", choices=["20min", "cnn", "e3c", "GGPONC", "pubmed_de", "pubmed_en", "zora_de", "zora_en"])
+    parser.add_argument("domain", choices=["20min", "cnn", "e3c", "GGPONC", "pubmed_de", "pubmed_en", "zora_de", "zora_en", "cs_en", "cs_de"])
     parser.add_argument("lang", choices=["de", "en"])
     parser.add_argument("--prompt_file", type=str, default="", help="File containing the prompt. The prompt can include placeholders"
                                                         "<title> and <prompt> for including text from the human files.")
-    parser.add_argument("--json", default=r"..\data\sample_100_json",
+    parser.add_argument("--json", default=r"../data/sample_100_json",
                         help="Folder with the JSON files (if a text needs to be recreated)."
                              " Default is ../data/sample_100_json")
     parser.add_argument("--model_name", default="gpt-3.5-turbo", choices=["gpt-3.5-turbo"])
