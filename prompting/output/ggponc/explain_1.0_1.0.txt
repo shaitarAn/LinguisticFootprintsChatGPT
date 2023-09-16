@@ -1,0 +1,15 @@
+In den Leitlinien wird die postoperative Strahlentherapie bei erwachsenen Weichgewebesarkomen diskutiert. Studien haben gezeigt, dass die lokale Rückfallrate durch die Strahlentherapie signifikant gesenkt werden kann.
+
+Es wurden randomisierte Studien durchgeführt, bei denen hauptsächlich Patienten mit vollständig entfernten (R0) Sarkomen behandelt wurden. In diesen Studien konnte gezeigt werden, dass sowohl perkutane Strahlentherapie als auch Brachytherapie die lokale Rückfallrate deutlich verringern können.
+
+Die Wirksamkeit der Strahlentherapie hängt von verschiedenen Faktoren ab. Bei Sarkomen mit niedriger Malignität und geringem Risiko für einen erneuten Tumorwuchs wurde kein signifikanter Effekt der Strahlentherapie festgestellt. Bei Sarkomen mit hoher Malignität und einem erhöhten Risiko für einen erneuten Tumorwuchs konnte jedoch eine deutliche Verbesserung der lokalen Kontrolle beobachtet werden.
+
+Es gibt jedoch keinen statistisch signifikanten Überlebensvorteil durch die adjuvante Strahlentherapie in randomisierten Studien oder großen Datenanalysen. Eine mögliche Erklärung hierfür könnte sein, dass in nicht-randomisierten Vergleichen eher Patienten mit einem höheren Rückfallrisiko für eine Strahlentherapie ausgewählt wurden.
+
+Bei nicht vollständig entferntem Tumor (R1-Resektion) ist das Risiko eines erneuten Tumorwachstums nach adjuvanter Strahlentherapie etwa um den Faktor 2-3 höher im Vergleich zu vollständig entfernten Tumoren. Eine Nachresektion wird empfohlen, sofern sie chirurgisch vertretbar ist.
+
+Eine hohe Strahlendosis nach einer R1-Resektion kann die lokale Rückfallrate weiter verringern. Bei atypischen lipomatösen Tumoren konnte eine adjuvante Strahlentherapie nach vollständiger Entfernung (R0) keine signifikante Verringerung der lokalen Rückfallrate zeigen, während sie nach marginaler Entfernung wirksam war.
+
+Der Beginn der postoperativen Strahlentherapie sollte möglichst zeitnah erfolgen, sobald die Wundheilung weitgehend abgeschlossen ist. Ein Intervall von 3 Wochen bis 2 Monaten nach der Operation wird empfohlen. Es gibt keine eindeutigen Daten bezüglich des negativen Effekts eines längeren Intervalls zwischen Operation und Strahlentherapie.
+
+Insgesamt bestätigen die Leitlinien die Wirksamkeit der postoperativen Strahlentherapie bei erwachsenen Weichgewebesarkomen zur Verringerung des lokalen Tumorwachstums. Die Entscheidung für eine adjuvante Strahlentherapie sollte jedoch individuell unter Berücksichtigung verschiedener Faktoren getroffen werden.

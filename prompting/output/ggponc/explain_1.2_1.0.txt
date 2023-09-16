@@ -1,0 +1,9 @@
+In den Leitlinien wird über die postoperative Strahlentherapie bei adulten Weichgewebesarkomen berichtet. In verschiedenen randomisierten Studien konnte nachgewiesen werden, dass durch die adjuvante Strahlentherapie sowohl mit perkutaner Bestrahlung als auch mit Brachytherapie die lokale Rückfallrate signifikant gesenkt wurde. Eine Metaanalyse bestätigte diesen Effekt und zeigte, dass die adjuvante Strahlentherapie die lokale Rückfallrate halbieren kann.
+
+Ein statistisch signifikanter Überlebensvorteil konnte in den randomisierten Studien jedoch nicht nachgewiesen werden. Die Fallzahlen waren laut den Autoren möglicherweise zu klein, um einen solchen Vorteil aufzuzeigen. Möglicherweise könnte ein "prescription bias" eine Rolle spielen, also eine Neigung dazu, in nicht-randomisierten Vergleichen die Strahlentherapie eher bei Patienten mit einem hohen Rückfallrisiko einzusetzen.
+
+Bei Tumoren mit niedriger Malignität und weit im Gesunden reseziert wurden, konnte keine signifikante Verbesserung der lokalen Tumorkontrolle festgestellt werden. Bei R1-Resektionen (also einer Randschnittkontamination oder eines unrettbaren Tumorrests) erhöht sich trotz adjuvanter Bestrahlung das Risiko für Lokalrezidive im Vergleich zu R0-Resektionen um den Faktor 2-3.
+
+Die frühestmögliche Durchführung der Bestrahlung sollte etwa drei Wochen nach der Operation erfolgen, um sicherzustellen, dass die Wundheilung weitgehend abgeschlossen ist. Ein langes Intervall zwischen Operation und Bestrahlung soll vermieden werden, da bisherige Daten bei anderen Tumorerkrankungen gezeigt haben, dass dies negative Auswirkungen haben kann. In den vorliegenden Daten zu Weichgewebesarkomen wurden nur wenige Patienten mit langem Intervall untersucht.
+
+Die adjuvante Brachytherapie wird üblicherweise fünf Tage nach der Operation begonnen, ein früherer Start war laut einer Studie mit erhöhter akuter Komplikationsrate verbunden.

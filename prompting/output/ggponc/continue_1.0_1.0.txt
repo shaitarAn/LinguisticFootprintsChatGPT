@@ -1,0 +1,5 @@
+Der Effekt der Strahlentherapie auf das Überleben der Patienten ist in randomisierten Studien nicht eindeutig belegt. Eine Studie von Rosenberg et al. [REF] zeigte jedoch, dass die postoperative Strahlentherapie das krankheitsfreie Überleben erhöhen kann. In dieser Studie wurden 141 Patienten mit intermediären und hochgradigen Weichgewebesarkomen eingeschlossen und nach dem Zufallsprinzip entweder einer konventionellen Strahlentherapie (66 Gy in 1,8 Gy Einzeldosis) oder keiner adjuvanten Behandlung zugewiesen.
+
+Die drei-Jahres-krankheitsfreies Überleben betrug in der Gruppe mit Strahlentherapie 49 % im Vergleich zu 31 % in der Kontrollgruppe (p=0,033). Diese Ergebnisse deuten darauf hin, dass die postoperative Strahlentherapie auch bei R0-resezierten Weichgewebesarkomen einen signifikanten Nutzen haben kann.
+
+Es ist wichtig anzumerken, dass die Entscheidung für eine adjuvante Strahlentherapie individuell getroffen werden sollte und von verschiedenen Faktoren abhängt, wie beispielsweise dem Grad des Sarkoms, dem Ausmaß der Resektion und anderen prognostischen Faktoren.

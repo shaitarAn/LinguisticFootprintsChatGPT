@@ -4,7 +4,15 @@ import pandas as pd
 import numpy as np
 import spacy
 import os
+import re
+import argparse
 import textdescriptives as td
+import spacy_udpipe
+from nltk import ngrams
+from collections import defaultdict
+
+spacy_udpipe.download("en")
+spacy_udpipe.download("de")
 
 nlp = spacy.load('en_core_web_lg')
 nlp.add_pipe('textdescriptives/all')
@@ -12,7 +20,72 @@ nlp.add_pipe('textdescriptives/all')
 Dnlp = spacy.load('de_core_news_lg')
 Dnlp.add_pipe('textdescriptives/all')
 
-directory_path = "../data/"
+parser = argparse.ArgumentParser()
+# parser.add_argument("prompt", type=str, help="Prompt to use for text generation")
+parser.add_argument("--corpus", "-c", type=str, required=True, help="Corpus name to use for text generation")
+parser.add_argument("--params", type=str, required=True, help="combined params to use in file naming")
+
+args = parser.parse_args()
+
+corpus = args.corpus
+params = args.params
+
+def create_list_of_connectives(lang):
+    # import the file of connectives from Thomas Meyer
+    # the first column is the connective, the second column is the function, the third column is the frequency (if available)
+    discourse_connectives_file = f'../../feature_extraction/resources/discourse_connectives_{lang.upper()}_Thomas_Meyer_2014.txt'
+    # discourse_connectives_file = "../connectives_DE_frequency+20.txt"
+    with open(discourse_connectives_file, 'r') as f:
+        connectives = f.read().splitlines()
+        connectives = [c.split('\t')[0].lower() for c in connectives]
+        # print(connectives)
+    return connectives
+
+def make_ngrams(sentence, n):
+    return ngrams(sentence, n)
+
+def extract_connectives(language, file_name):
+    
+    # download the spacy model
+    nlp = spacy_udpipe.load(language)
+
+    # initialise a list of connectives from Thomas Meyer
+    connectives = create_list_of_connectives(language)
+
+    system_dict = defaultdict(lambda: {'lower': 0, 'capitalized': 0})
+
+    # iterate through the files in the human-written directory with the language
+
+    with open(file_name, 'r') as f:
+        text = f.read()
+        all_connectives = 0
+        upper_connectives = 0
+
+        # tokenize text with spacy_udpipe
+        doc = nlp(text)
+        for sentence in doc.sents:
+            sentence = [token.text for token in sentence]
+            # iterate through 4-grams, 3-grams, bigrams and unigrams in the sentence and count the number of connectives from the list
+            for n in range(4, 0, -1):
+                for ngram in make_ngrams(sentence, n):
+                    ngram = ' '.join(ngram)
+
+                    if ngram.lower() in connectives and ngram[0].isupper():
+                        if ngram.lower() in system_dict and system_dict[ngram.lower()]["capitalized"] != 0:
+                            system_dict[ngram.lower()]["capitalized"] += 1
+                        else:
+                            system_dict[ngram.lower()]["capitalized"] = 1
+                        all_connectives += 1
+                        upper_connectives += 1
+                            
+                    elif ngram.lower() in connectives and ngram[0].islower():
+                        if ngram.lower() in system_dict and system_dict[ngram.lower()]["lower"] != 0:
+                            system_dict[ngram.lower()]["lower"] += 1
+                        else:
+                            system_dict[ngram.lower()]["lower"] = 1
+                        all_connectives += 1
+
+    return system_dict
 
 def process_file(file_path, lang):
     with open(file_path, 'r') as file:
@@ -25,47 +98,78 @@ def process_file(file_path, lang):
         elif lang == 'de':
             doc = Dnlp(content)
         
-    return td.extract_dict(doc)
+    return td.extract_dict(doc), doc
 
+def count_oov_words(doc):
+    for token in doc:
+        if token.is_oov:
+            print(token.text)
 
-def process_text_files_in_directory(directory_path, output_csv_path, lang):
-    data = []
-    file_counter = 1
-    
-    for file_name in os.listdir(directory_path):
-        if file_name.endswith(".txt"):
-            file_path = os.path.join(directory_path, file_name)
-            feature_values_list = process_file(file_path, lang)
-            
-            for feature_values in feature_values_list:
-                feature_values["file_id"] = file_counter
-                data.append(feature_values)
-            file_counter += 1
-    
-    # Create a pandas DataFrame and write it to a CSV file
-    df = pd.DataFrame(data)
-    #  drop columns that have NaN
-    df.dropna(axis=1, inplace=True)
-    # drop columns that have only 0
-    df = df.loc[:, (df != 0).any(axis=0)]
-    
-    df.to_csv(output_csv_path, index=False)
+def main():
 
-
-    # itarate over subdirectories in directory_path
-for subdirectory in os.listdir(directory_path):
-    # itarate over files in subdirectory
-    corpus = subdirectory
-    if corpus in ['20min', 'GGPONC', "pubmed_de", "zora_de"]:
-        lang = 'de'
-    else:
+    if corpus in ["cnn", "e3c", "zora_en", "pubmed_en"]:
         lang = 'en'
-    print(lang)
-    if not os.path.isdir(os.path.join(directory_path, subdirectory)):
-            continue
-    for system in os.listdir(os.path.join(directory_path, subdirectory)):
-        # check if system is a directory
-        print(corpus, system)
-        output_csv_path = "../output/" + corpus + "_" + system + ".csv"
-        input_path = os.path.join(directory_path, subdirectory, system)
-        process_text_files_in_directory(input_path, output_csv_path, lang)
+    else:
+        lang = 'de'
+
+    system_dataframes = []  # Initialize the list before the loop
+
+    for file_name in os.listdir(f"../output/{corpus}/"):
+        output_file = ""
+        data = []
+
+        target_extensions = ["human.txt", f"{params}.txt"]
+
+        if any(file_name.endswith(ext) for ext in target_extensions):
+            if file_name.endswith("human.txt"):
+                system = "human"
+            else:
+                system = file_name.split("_")[0]
+            # print(system)
+
+            connectives = extract_connectives(lang, os.path.join(f"../output/{corpus}", file_name))
+            total_connectives = sum([connectives[key]['lower'] + connectives[key]['capitalized'] for key in connectives])
+
+            print(connectives)
+
+            output_file = "../results/" + file_name[:-3] + "csv"
+            # print(output_file)
+            file_path = os.path.join(f"../output/{corpus}", file_name)
+            feature_values_list, obj = process_file(file_path, lang)
+            count_oov_words(obj)
+
+            for feature_values in feature_values_list:
+                data.append(feature_values)
+            
+            # Create a pandas DataFrame and write it to a CSV file
+            df = pd.DataFrame(data)
+            # Drop columns that have NaN
+            df.dropna(axis=1, inplace=True)
+            # Drop columns that have only 0
+            df = df.loc[:, (df != 0).any(axis=0)]
+
+            # add a column with the number of connectives
+            df['connectives'] = total_connectives
+
+            #  drop column "text"
+            df.drop(columns=['text'], inplace=True)
+            df.to_csv(output_file, index=False)
+
+            #  transpose the dataframe and name the column with values as "system"
+            df = df.transpose()               
+            df.columns = [system]
+            # print(df.head())
+
+            system_dataframes.append(df)  # Append the DataFrame to system_dataframes
+
+    # Step 3: Combine the dataframes keeping the index
+    combined_dataframe = pd.concat(system_dataframes, axis=1)
+
+    # print(combined_dataframe.head())
+
+    # # Step 4: Write the resulting dataframe to a CSV file
+    combined_dataframe.to_csv(f"../results/combined_{corpus}_{params}.csv", index=True)
+
+
+if __name__ == "__main__":
+    main()

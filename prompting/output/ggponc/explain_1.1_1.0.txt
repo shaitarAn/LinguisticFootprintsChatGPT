@@ -1,0 +1,12 @@
+Die Leitlinien behandeln die postoperative Strahlentherapie bei Erwachsenen mit Weichgewebesarkomen. Es wird in verschiedenen Studien gezeigt, dass eine adjuvante Strahlentherapie nach der Resektion von vollständig entfernten (R0) Sarkomen das lokale Rückfallrisiko signifikant senken kann. Dies gilt besonders für Patienten mit Sarkomen höherer Grade (G2/G3), während bei geringgradigen (G1) Sarkomen keine signifikante Verbesserung der lokalen Kontrolle beobachtet wurde.
+
+Große prospektive Datenbankanalysen bestätigen den deutlichen Effekt der adjuvanten Strahlentherapie auf die lokale Rückfallrate. Eine Metaanalyse zeigt, dass die adjuvante Strahlentherapie das Risiko für lokale Rückfälle um etwa die Hälfte reduzieren kann.
+Es gibt jedoch keinen statistisch signifikanten Überlebensvorteil durch die Strahlentherapie in randomisierten Studien oder großen Datenbankanalysen. Ein möglicher Grund dafür ist der sogenannte "prescription bias", dh bevorzugt bei Patienten mit einem hohen Rückfallrisiko eine Strahlentherapie einzusetzen.
+
+Ein Sonderfall sind atypische lipomatöse Tumoren (G1 Liposarkome). Eine adjuvante Bestrahlung nach einer vollständigen Resektion konnte hier keine signifikante Reduktion des lokalen Rezidivrates feststellen, jedoch wirkte sie sich nach einer Teilresektion positiv aus.
+
+Für eine optimale Wirksamkeit sollte die postoperative Strahlentherapie zeitnah beginnen und idealerweise innerhalb von 6 Wochen nach der Operation durchgeführt werden. Eine frühere Behandlung kann jedoch mit einer erhöhten Rate an akuten Komplikationen verbunden sein.
+
+Es wird empfohlen, die individuellen Risiken und Nutzen einer Nachresektion abzuwägen, insbesondere bei R1-Resektionen (unvollständige Entfernung des Tumors). Bei R1-Resektionen im Bereich der Extremitäten liegen die lokalen Rückfallraten trotz zusätzlicher Strahlentherapie immer noch zwischen 15 % und 35 %. Höhere Strahlendosen können das Risiko weiter senken.
+
+Insgesamt sind die Leitlinien eine Orientierungshilfe für Ärzte bei der Entscheidung über eine postoperative Strahlentherapie bei Weichgewebesarkomen. Sie basieren auf Daten aus Studien sowie großen prospektiven Datenbankanalysen und helfen dabei, den bestmöglichen Behandlungsansatz für jeden einzelnen Patienten zu finden.

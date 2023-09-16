@@ -1,0 +1,97 @@
+{
+    "e3c": {
+        "continue": [
+            {
+                "role": "system",
+                "content": ""
+                },
+                {
+                  "role": "user",
+                  "content": "Continue the following text: A 21 year old female patient with the diagnosis of SWS suffering from headaches admitted to our clinic. She had a 2 year history of frequent non-pulsating headaches. Her headache was relieving with non-steroidal anti-inflammatory drugs and was not worsening with physical activity. There was no nausea or aura like symptoms accompanying the headache. Headaches were lasting for hours. The pain was bilateral, generalized and pressing in quality. The family history for headache was negative. She had a history of seizures occurring in the fifteenth day of life described as attacks of tonic clonic contractions and that's when she was diagnosed with SWS."
+              }
+        ],
+      "explain": [
+        {
+        "role": "system",
+        "content": "You are a nurse who is experienced with science communication."
+      },
+      {
+        "role": "user",
+        "content": "Please explain this clinical case to me: {intext}"
+      }
+    ],
+      "create": [{
+        "role": "system",
+        "content": "You are a nurse who is writing an imaginary clinical case, using a real clinical case as an example."
+      },
+      {
+        "role": "user",
+        "content": "Use this clinical case as an example: {intext}. Imagine a patient with a similar condition. Write a clinical case about this patient. Match the length and the writing style of the example case."
+      }
+    ]
+    },
+    "cnn": {
+        "continue": [
+            {
+                "role": "system",
+                "content": ""
+                },
+                {
+                  "role": "user",
+                  "content": "Continue the following text: A 25-year-old Florida man intended to use explosives and weapons \"to create mayhem'\" in Tampa -- a plot that authorities say was foiled thanks to the local Muslim community and law enforcement -- a U.S. attorney said Monday. When a person's got an AK-47 which he believes is operable, when he has explosives which he believes are real, and when he has an explosive pack and a car bomb which ... he is going to utilize against Americans, that makes it a crime,\" Robert O'Neill, U.S. attorney for the Middle District of Florida, told reporters. \"Was it real? It was very real. O'Neill spoke Monday in Tampa after an afternoon hearing for Sami Osmakac on one count of attempted use of a weapon of mass destruction."
+              }
+        ],
+      "explain": [
+        {
+            "role": "system",
+            "content": "You are a friendly assistant."
+            },
+            {
+              "role": "user",
+              "content": "Please explain this news article to me: {intext}"
+          }
+    ],
+      "create": [
+        {
+        "role": "system",
+        "content": "You are a journalist writing for CNN, which has a high reputation for its journalistic coverage of a wide range of news topics, including politics, world events, business, technology, entertainment, and more."
+      },
+      {
+        "role": "user",
+        "content": "Read the real CNN article here: {intext}. Write a new, imaginary news piece from the place that is mentioned in the article. Make sure to change the names of the people. Match the length and the writing style of the given article."
+      }
+    ]
+    },
+    "ggponc": {
+        "continue": [
+            {
+                "role": "system",
+                "content": ""
+                },
+                {
+                  "role": "user",
+                  "content": "Vervollständige den folgenden text: Adulte Weichgewebesarkome. Postoperative Strahlentherapie (Extremitäten, Körperstamm, nicht retroperitoneal):\n\nIn randomisierten Studien, in denen ganz überwiegend R0 (86 %) resezierte Weichgewebesarkome behandelt wurden, konnten Yang et al. [REF] für die adjuvante perkutane Strahlentherapie (45 Gy/1,8 Gy Einzeldosis + 18 Gy/1,8 Gy Einzeldosis Boost) und Pisters et al. [ REF] für die adjuvante Brachytherapie (45 Gy low dose rate) zeigen, dass sich die lokale Rückfallrate durch die Strahlentherapie hochsignifikant senken lässt. In der letzteren Studie betrug bei Patienten mit G2/G3 Sarkomen die lokale Kontrollrate mit Brachytherapie 89 % gegenüber 66 % ohne Brachytherapie (p=0,0025)."
+              }
+        ],
+      "explain": [
+        {
+            "role": "system",
+            "content": "Sie sind Mediziner und haben sich auf Wissenschaftskommunikation spezialisiert."
+            },
+            {
+              "role": "user",
+              "content": "Bitte erklären Sie mir diesen Text aus den Leitlinien: {intext}."
+          }
+    ],
+      "create": [{
+        "role": "system",
+        "content": "Sie sind ein Mediziner, der den Auftrag hat, einen fiktiven klinischen Fall auf der Grundlage der vorgegebenen medizinischen Leitlinien zu schreiben."
+        },
+        {
+          "role": "user",
+          "content": "Bitte erstellen Sie einen fiktiven klinischen Fall auf der Grundlage des Textes aus dem deutschen Leitlinienprogramm für die Onkologie: {intext}."
+      }
+    ]
+    }
+  }
+  
