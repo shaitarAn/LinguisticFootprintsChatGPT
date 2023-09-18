@@ -29,6 +29,7 @@ args = parser.parse_args()
 
 corpus = args.corpus
 params = args.params
+print("params:", params)
 
 def create_list_of_connectives(lang):
     # import the file of connectives from Thomas Meyer
@@ -100,10 +101,16 @@ def process_file(file_path, lang):
         
     return td.extract_dict(doc), doc
 
-def count_oov_words(doc):
-    for token in doc:
-        if token.is_oov:
-            print(token.text)
+def count_oov_words(doc, system):
+    if not os.path.exists(f"../output/oov/"):
+        os.makedirs(f"../output/oov/")
+    with open(f"../output/oov/{corpus}_{params}.txt", "a") as f:
+        f.write("--------------------\n")
+        f.write(f"{system}\n")
+        for token in doc:
+            if token.is_oov:
+                f.write(token.text+"\n")
+                # print(token.text)
 
 def main():
 
@@ -118,14 +125,21 @@ def main():
         output_file = ""
         data = []
 
-        target_extensions = ["human.txt", f"{params}.txt"]
+        # target_extensions = ["human.txt", f"{params}.txt"]
+        system = ""
+        # print(file_name)
 
-        if any(file_name.endswith(ext) for ext in target_extensions):
-            if file_name.endswith("human.txt"):
-                system = "human"
-            else:
+        # only process files with the target extensions
+        if "human" in file_name or f"{params}" in file_name:
+
+           # if any(file_name.endswith(ext) for ext in target_extensions):
+            if file_name.startswith("human"):
+                system = file_name.split(".")[0]
+
+            elif file_name.endswith(f"{params}.txt"):
                 system = file_name.split("_")[0]
-            # print(system)
+
+            print(file_name)
 
             connectives = extract_connectives(lang, os.path.join(f"../output/{corpus}", file_name))
             total_connectives = sum([connectives[key]['lower'] + connectives[key]['capitalized'] for key in connectives])
@@ -136,7 +150,7 @@ def main():
             # print(output_file)
             file_path = os.path.join(f"../output/{corpus}", file_name)
             feature_values_list, obj = process_file(file_path, lang)
-            count_oov_words(obj)
+            count_oov_words(obj, system)
 
             for feature_values in feature_values_list:
                 data.append(feature_values)

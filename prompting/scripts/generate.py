@@ -40,18 +40,24 @@ with open('prompts.json', 'r') as json_file:
 if not os.path.exists(f"../output/{corpus}"):
   os.makedirs(f"../output/{corpus}")
 
-with open(f"../output/{corpus}/human.txt", "w") as f:
-    f.write(intext)
-
 for task in ["create", "explain", "continue"]:
   print(corpus)
   print(task)
     
-  json_data[corpus][task][1]["content"] = json_data[corpus][task][1]["content"].format(intext=intext)
+  if task == "continue":
+     json_data[corpus][task][1]["content"] = json_data[corpus][task][1]["content"].format(intext=intext[0])
+     with open(f"../output/{corpus}/human-cont.txt", "w") as f:
+        f.write(intext[1])
+  else:
+     json_data[corpus][task][1]["content"] = json_data[corpus][task][1]["content"].format(intext=" ".join(intext))
+     with open(f"../output/{corpus}/human-full.txt", "w") as f:
+        f.write(" ".join(intext))
 
   # print(data[corpus])
   prompt = json_data[corpus][task]
   # print("prompt:", prompt)
+
+  # print(prompt)
 
   headers = {
     'Content-Type': 'application/json',

@@ -1,0 +1,17 @@
+Fiktiver klinischer Fall:
+
+Patient: Herr Müller, 55 Jahre alt, männlich
+
+Anamnese: Herr Müller hat seit einigen Monaten eine schmerzhafte Schwellung am linken Oberschenkel bemerkt. Die Schwellung hat sich im Laufe der Zeit vergrößert und ist zunehmend schmerzhaft geworden. Er hat keine spezifischen Begleitsymptome wie Fieber oder Gewichtsverlust bemerkt. Es liegen keine relevanten Vorerkrankungen oder genetischen Faktoren vor.
+
+Körperliche Untersuchung: Bei der Untersuchung wird eine große schmerzhafte Schwellung im linken Oberschenkel festgestellt. Die Haut über der Schwellung ist gespannt und gerötet. Die Beweglichkeit des Beins ist eingeschränkt.
+
+Diagnose: Nach weiteren Untersuchungen, einschließlich einer Gewebeprobe (Biopsie), wird bei Herrn Müller die Diagnose eines Weichgewebesarkoms im linken Oberschenkel gestellt. Die Pathologie zeigt, dass es sich um ein Sarkom mit hohem Malignitätsgrad handelt.
+
+Behandlung: Da das Sarkom operabel ist und eine R0-Resektion möglich ist, wird Herr Müller einer chirurgischen Entfernung des Tumors unterzogen. Aufgrund des hohen Malignitätsgrades des Sarkoms wird eine adjuvante Strahlentherapie empfohlen, um das Risiko eines lokalen Rückfalls zu verringern.
+
+Die adjuvante Strahlentherapie wird innerhalb von 6 Wochen nach der Tumorresektion begonnen. Es wird eine perkutane Strahlentherapie durchgeführt, bei der eine Gesamtdosis von 45 Gy in Einzeldosen von 1,8 Gy verabreicht wird. Darüber hinaus erhält Herr Müller einen zusätzlichen Boost von 18 Gy in Einzeldosen von 1,8 Gy. Die Strahlentherapie ist gut verträglich, und es treten keine akuten Komplikationen auf.
+
+Verlauf: Nach Abschluss der Strahlentherapie wird Herr Müller regelmäßig zur Nachsorgeuntersuchung überwiesen. In den ersten Jahren nach der Behandlung werden engmaschige Kontrolluntersuchungen durchgeführt, um einen möglichen lokalen Rückfall zu erkennen. Herr Müller zeigt bisher kein Anzeichen für einen Rückfall und ist weiterhin beschwerdefrei.
+
+Diskussion: Die Behandlung von Weichgewebesarkomen beinhaltet in Fällen wie diesem eine adjuvante Strahlentherapie nach einer R0-Resektion. Die Strahlentherapie zielt darauf ab, die lokale Rückfallrate zu senken und die Langzeitüberlebensrate zu verbessern. Da das Sarkom von Herrn Müller einen hohen Malignitätsgrad aufweist, ist die adjuvante Strahlentherapie eine wichtige Ergänzung zur chirurgischen Behandlung. Die Prognose von Patienten mit Weichgewebesarkomen ist variabel und hängt von Faktoren wie dem Tumorgrad, der Größe und der Lokalisation ab. Eine regelmäßige Nachsorgeuntersuchung ist wichtig, um einen möglichen Rückfall frühzeitig zu erkennen und gegebenenfalls weitere Behandlungsmaßnahmen einzuleiten.

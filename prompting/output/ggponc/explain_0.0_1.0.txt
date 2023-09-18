@@ -1,0 +1,11 @@
+In diesem Text geht es um die postoperative Strahlentherapie bei Erwachsenen mit Weichgewebesarkomen. Es werden verschiedene Studien zitiert, die zeigen, dass die lokale Rückfallrate durch die Strahlentherapie signifikant gesenkt werden kann. Insbesondere bei Sarkomen mit höherer Malignität (G2/G3) konnte eine Verbesserung der lokalen Tumorkontrolle festgestellt werden. Bei Sarkomen mit niedriger Malignität (G1) zeigte sich hingegen kein signifikanter Effekt der Strahlentherapie.
+
+Es wird darauf hingewiesen, dass in den randomisierten Studien kein statistisch signifikanter Überlebensvorteil nachgewiesen wurde. Dies könnte auf einen sogenannten "prescription bias" zurückzuführen sein, d.h. auf eine Tendenz, die Strahlentherapie bei Patienten mit einem höheren Rückfallrisiko häufiger einzusetzen.
+
+Weiterhin wird erwähnt, dass eine R1-Resektion (unvollständige Entfernung des Tumors) das Risiko für Lokalrezidive erhöht und das Gesamtüberleben verschlechtert. In solchen Fällen sollte daher über neoadjuvante Behandlungskonzepte und gegebenenfalls eine Nachresektion diskutiert werden.
+
+Für atypische lipomatöse Tumoren (G1 Liposarkom) wird erwähnt, dass eine adjuvante Strahlentherapie nach vollständiger Resektion keine signifikante Verringerung der Lokalrezidivrate zeigt, während sie nach marginaler Resektion wirksam ist.
+
+Es wird empfohlen, dass die postoperative Strahlentherapie zeitnah nach der Operation beginnen sollte, sobald die Wundheilung weitestgehend abgeschlossen ist. Ein Intervall von 3 Wochen bis 2 Monaten zwischen Operation und Strahlentherapie wird als angemessen betrachtet. Es gibt keine klaren Belege dafür, dass ein langes Intervall negative Auswirkungen hat, aber aufgrund der Daten bei anderen Tumorentitäten wird ein Beginn innerhalb von 6 Wochen nach Resektion empfohlen.
+
+Die adjuvante Brachytherapie (eine Form der Strahlentherapie) wurde in einer Studie 5 Tage nach der Chirurgie begonnen, wobei ein früherer Beginn mit einer erhöhten Rate an akuten Komplikationen verbunden war.

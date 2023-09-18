@@ -1,0 +1,13 @@
+Dieser Text aus den Leitlinien beschäftigt sich mit der postoperativen Strahlentherapie bei erwachsenen Patienten mit Weichgewebesarkomen. Es werden verschiedene Studien zitiert, die den Effekt der Strahlentherapie auf die lokale Rückfallrate untersucht haben.
+
+In den randomisierten Studien von Yang et al. und Pisters et al. wurde gezeigt, dass die Strahlentherapie die lokale Rückfallrate signifikant senken kann. Insbesondere bei Sarkomen mit höherer Malignität (G2/G3) wurde eine Verbesserung der lokalen Kontrolle festgestellt. Bei Sarkomen mit niedrigerer Malignität (G1) war die Strahlentherapie dagegen nicht effektiv.
+
+Große Datenbankanalysen und eine Metaanalyse bestätigen den deutlichen Effekt der adjuvanten Strahlentherapie auf die lokale Rückfallrate. Es konnte jedoch kein statistisch signifikanter Überlebensvorteil nachgewiesen werden. Eine mögliche Erklärung dafür könnte der sogenannte "prescription bias" sein, d.h. die Tendenz, die Strahlentherapie bei Patienten mit einem hohen Rückfallrisiko häufiger einzusetzen.
+
+In Studien mit geringem Bias wurde ein signifikanter Überlebensvorteil durch die adjuvante Strahlentherapie festgestellt. Bei R1-Resektionen (unvollständige Entfernung des Tumors) ist die Lokalrezidivrate nach Strahlentherapie etwa doppelt bis dreifach so hoch wie nach R0-Resektionen (vollständige Entfernung des Tumors) und mit einem schlechteren Gesamtüberleben verbunden. In solchen Fällen wird eine Nachresektion empfohlen, sofern diese mit vertretbarer Morbidität möglich ist.
+
+Für atypische lipomatöse Tumoren (G1 Liposarkom) konnte gezeigt werden, dass die adjuvante Strahlentherapie nach marginaler Resektion die lokale Rückfallrate signifikant senken kann.
+
+Der Zeitpunkt des Beginns der postoperativen Strahlentherapie sollte so gewählt werden, dass die Wundheilung weitgehend abgeschlossen ist, aber residuelle Tumorzellen noch nicht zu stark proliferiert haben. Ein Beginn frühestens 3 Wochen nach der Operation wird empfohlen. Es gibt keine eindeutigen Belege dafür, dass ein langes Intervall zwischen Operation und Strahlentherapie negative Auswirkungen hat.
+
+Die adjuvante Brachytherapie (eine Form der Strahlentherapie) sollte 5 Tage nach der Operation beginnen, um akute Komplikationen zu vermeiden.

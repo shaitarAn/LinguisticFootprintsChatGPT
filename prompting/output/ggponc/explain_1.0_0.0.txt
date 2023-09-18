@@ -1,0 +1,19 @@
+In diesem Text geht es um die postoperative Strahlentherapie bei erwachsenen Patienten mit Weichgewebesarkomen. Es wird darauf hingewiesen, dass in randomisierten Studien gezeigt wurde, dass die lokale Rückfallrate signifikant gesenkt werden kann, wenn eine adjuvante Strahlentherapie durchgeführt wird. Die genauen Behandlungsdetails variieren je nach Studie, aber im Allgemeinen wurden 45 Gy/1,8 Gy Einzeldosis plus ein 18 Gy/1,8 Gy Einzeldosis-Boost oder 45 Gy Low-Dose-Rate-Brachytherapie verwendet.
+
+Die Wirksamkeit der Strahlentherapie hängt vom Grad der Sarkome ab. Es wurde festgestellt, dass bei Patienten mit G2/G3 Sarkomen die lokale Kontrollrate mit Brachytherapie signifikant höher war als ohne. Bei G1 Sarkomen hatte die Strahlentherapie keinen Einfluss.
+
+Zusätzlich zu den randomisierten Studien konnten Analysen großer Datenbanken den positiven Effekt der adjuvanten Strahlentherapie auf die lokale Rückfallrate bestätigen.
+
+Es wird darauf hingewiesen, dass Patienten mit kleinen Tumoren mit niedriger Malignität, die weit im gesunden Gewebe reseziert wurden, keine signifikante Verbesserung der lokalen Tumorkontrolle durch Strahlentherapie erfahren haben.
+
+Die Studien konnten keinen statistisch signifikanten Überlebensvorteil durch Strahlentherapie nachweisen. Ein möglicher Grund dafür könnte "prescription bias" sein, das heißt, Ärzte neigen dazu, Strahlentherapie bei Patienten mit hohem Rückfallrisiko häufiger einzusetzen. Jedoch konnte in Studien mit niedrigem "risk of bias" ein signifikanter Überlebensvorteil festgestellt werden.
+
+Wenn nach der Operation noch Tumorzellen vorhanden sind (R1-Resektion), erhöht die Strahlentherapie die lokale Rückfallrate im Vergleich zu einer vollständigen Tumorentfernung (R0-Resektion), was zu einer schlechteren Gesamtüberlebensrate führen kann. In diesen Fällen sollte eine Nachresektion in Betracht gezogen werden, sofern dies chirurgisch vertretbar ist.
+
+Bei R1-Resektionen in den Extremitäten liegen die berichteten Lokalrezidivraten trotz zusätzlicher Strahlentherapie zwischen 15% und 35%. Eine höhere Strahlendosis (über 64 Gy) konnte die lokale Rückfallrate signifikant reduzieren.
+
+Für atypische lipomatöse Tumoren (G1 Liposarkom) konnte gezeigt werden, dass adjuvante Strahlentherapie nach marginalem Eingriff die Lokalrezidivrate signifikant verringern kann.
+
+Es wird empfohlen, dass die postoperative Strahlentherapie so früh wie möglich (spätestens 3 Wochen nach der Operation) beginnen sollte, um das weitere Wachstum von Tumorzellen zu verhindern. Es gibt jedoch keinen klaren Beweis dafür, dass ein langes Intervall zwischen Operation und Strahlentherapie negative Auswirkungen hat.
+
+Insgesamt sollten individuelle Behandlungspläne basierend auf den Charakteristika des Tumors und des Patienten interdisziplinär diskutiert werden.

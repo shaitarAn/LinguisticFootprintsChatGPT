@@ -1,0 +1,15 @@
+Thrombectomy techniques have become the preferred approach for maintaining access in the end stage renal disease (ESRD) population. This review article aims to provide an overview of current practices and outcomes of endovascular thrombectomy techniques for thrombosed arteriovenous grafts (AVGs) and fistulas (AVFs).
+
+Arteriovenous access is crucial for patients with ESRD to receive hemodialysis treatment. However, when these access points become thrombosed, it can result in delayed or abandoned hemodialysis, requiring the placement of a dialysis catheter. To avoid these complications, endovascular approaches have been increasingly used as a first-line treatment option.
+
+The interventions involved in endovascular thrombectomy involve removing the thrombus from the AV circuit and addressing any underlying anatomical abnormalities that may contribute to its recurrence. Thrombolysis, which involves dissolving the thrombus using fibrinolytic agents infused via catheters or pulse injector devices, is commonly performed.
+
+In addition to thrombolysis, mechanical removal of the thrombus through various methods known as thrombectomy is also done. Embolectomy balloon catheters, rotating baskets or wires, rheolytic mechanisms, and aspiration mechanisms are employed to mechanically remove the obstructive material from within.
+
+Furthermore, adjunctive treatments such as cutting balloon angioplasty, drug-coated balloon (DCB) angioplasty, and stent placement are utilized to manage stenoses in the AV circuit.
+
+However effective these techniques may be in restoring patency to AV access points affected by exuberant clotting; they do carry some risks. Complications associated with these procedures include vessel rupture during intervention leading to bleeding complications; arterial embolism where fragments dislodge into smaller arteries causing blockages elsewhere within circulation; pulmonary embolism occuring when clots travel towards pulmonary vasculature causing blockages there; and finally paradoxical embolism where clots bypass pulmonary circulation and enter arteries supplying the brain, leading to stroke or other neurological complications.
+
+The narrative review article was based on a comprehensive literature search conducted via electronic databases including PubMed and Google Scholar. This ensures that the latest evidence and clinical experiences are considered when assessing thrombectomy techniques for maintaining access in ESRD patients.
+
+In summary, understanding the different thrombectomy techniques available and being aware of potential complications is crucial for healthcare providers managing patients with thrombosed AV access. By staying up-to-date with current practices and outcomes, healthcare professionals can provide optimal treatment options that help preserve arteriovenous access in this vulnerable population.

@@ -1,23 +1,21 @@
 Klinischer Fall:
 
-Patient: Herr Müller, 52 Jahre alt, gesund
+Ein 47-jähriger Patient, Herr Müller, stellt sich mit Beschwerden in der linken oberen Extremität in der onkologischen Ambulanz vor. Er berichtet über eine schmerzhafte Schwellung im Bereich des linken Oberarms und gibt an, dass diese Schwellung in den letzten Wochen allmählich größer geworden ist. Der Patient hat keinerlei Vorerkrankungen und fühlt sich ansonsten gesund.
 
-Anamnese: Herr Müller stellt sich mit Beschwerden in seiner rechten Oberschenkelgegend vor. Er berichtet über Schmerzen und eine zunehmende Größenzunahme eines Knotens im Bereich des Oberschenkels. Die Symptome begannen vor etwa sechs Monaten langsam und wurden allmählich schlimmer.
+Bei der körperlichen Untersuchung stellt der Arzt eine lokalisierte, schmerzhafte Raumforderung im linken Oberarm fest. Die Haut über dem Tumor ist nicht verändert und es besteht keine Lymphadenopathie.
 
-Untersuchungsbefund: Bei der körperlichen Untersuchung ist eine etwa 10 cm große schmerzhafte Schwellung im rechten Oberschenkel zu erkennen. Die Haut darüber ist glatt und nicht gerötet. Durch Tasten wird festgestellt, dass der Tumor tief im Gewebe liegt und sich gut abgrenzen lässt. Es besteht keine Lymphadenopathie in den Leisten.
+Der Arzt veranlasst zunächst eine Röntgenuntersuchung des betroffenen Arms sowie eine MRT-Untersuchung des betroffenen Bereichs zur weiteren Abklärung. Die bildgebenden Untersuchungen zeigen einen etwa 6 cm großen Tumor im Weichgewebe des linken Oberarms. Es handelt sich um ein Sarkom unbekannter Histologie.
 
-Diagnosestellung: Basierend auf der klinischen Präsentation sowie einer Gewebeprobe mittels Biopsie wird bei Herrn Müller ein Weichgewebesarkom diagnostiziert.
+In Absprache mit einem saromspezialisten wird eine Biopsie durchgeführt, die histopathologisch als hochmalignes Sarkom klassifiziert wird.
 
-Planung der Behandlung:
+Gemäß den Leitlinienvorgaben für die Behandlung von Weichgewebssarkomen entscheidet das Ärzteteam nach einer ausführlichen Diskussion über die besten Behandlungsoptionen für Herrn Müller.
 
-Nach R0-Resektion (vollständige Entfernung des Tumors) ergibt die präoperative Diagnostik einen G2/G3-Sarkomtyp.
+Aufgrund der R0-Resektion (vollständig entfernte Resektion) des Tumors liegen keine Anhaltspunkte dafür vor, dass präoperative oder neoadjuvante Strahlentherapie erforderlich ist.
 
-Aufgrund dieser Befunde sollte eine postoperative Strahlentherapie erwogen werden, um das lokale Rückfallrisiko zu senken und die lokale Kontrolle zu verbessern. Die Entscheidung für die Art der Strahlentherapie sollte vom Team aus Onkologen, Chirurgen und Strahlentherapeuten interdisziplinär getroffen werden.
+Die medizinische Empfehlung lautet daher, eine adjuvante Strahlentherapie nach der Operation durchzuführen, um das Risiko eines lokalen Rückfalls zu verringern. Basierend auf den empfohlenen Dosierungsempfehlungen soll Herr Müller eine perkutane Strahlentherapie mit einer Dosis von 45 Gy/1,8 Gy Einzeldosis erhalten, gefolgt von einem Boost von 18 Gy/1,8 Gy Einzeldosis.
 
-Aufgrund bekannter Risiken bei R1-Resektionen (unvollständige Entfernung des Tumors) in Extremitäten sollten neoadjuvante Behandlungskonzepte diskutiert werden. Eine Nachresektion sollte in Erwägung gezogen werden, sofern chirurgisch vertretbar und mit akzeptabler Morbidität möglich.
+Dem Patienten wird erläutert, dass diese adjuvante Behandlung das Risiko einer lokalen Rückkehr des Tumors signifikant reduzieren kann. Es wird auch darauf hingewiesen, dass die Therapie keinen statistisch signifikanten Überlebensvorteil bietet.
 
-Der anhand der Leitlinien festgelegte Bestrahlungsplan würde vorschlagen, dass die Strahlentherapie innerhalb von 6 Wochen nach der Resektion beginnt. Die adjuvante Brachytherapie (45 Gy low dose rate) könnte eine Option sein, wenn R0-Resektion erzielt wurde.
+Aufgrund der Lage des Tumors im Bereich der oberen Extremität besteht kein Grund zur Annahme eines negativen Effekts bei einem etwas längeren Intervall zwischen Operation und Beginn der Strahlentherapie. Daher wird beschlossen, die Bestrahlung etwa drei Wochen nach der Operation zu beginnen.
 
-Nachsorge: Regelmäßige klinische Untersuchungen und Bildgebung sollten durchgeführt werden, um das Fortschreiten des Tumors oder mögliche Metastasen frühzeitig zu erkennen. In Absprache mit dem behandelnden Team können weitere Maßnahmen wie eine adjuvante Chemotherapie erwogen werden.
-
-Bitte beachten Sie, dass es sich bei diesem Fall um ein fiktives Szenario handelt und nicht auf realen Patientendaten basiert.
+Herr Müller stimmt dieser Vorgehensweise zu und wird über den geplanten Behandlungsverlauf sowie mögliche Nebenwirkungen und Komplikationen aufgeklärt. Er entscheidet sich dafür, die adjuvante Strahlentherapie durchführen zu lassen und unterzeichnet entsprechende Einverständniserklärungen.

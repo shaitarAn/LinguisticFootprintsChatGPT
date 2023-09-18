@@ -1,17 +1,20 @@
 #!/bin/bash
 
-#  example: ./run_pipeline.sh cnn 1.0 1.0
+#  example: ./run_pipeline.sh 1.0 1.0
 
-# 'cnn' '20min' 'pubmed_en' 'pubmed_de' 'zora_en' 'zora_de' 'e3c' 'ggponc'
-
-# assign a string value to a variable
-corpus=$1
-temp=$2
-fp=$3
+temp=$1
+fp=$2
 params=$temp\_$fp
 
-echo params: $params
+for corpus in 'cnn' 'pubmed_en' 'e3c' 'ggponc'
 
-python3 generate.py -t $temp -fp $fp -c $corpus
+do
 
-python3 extract_features.py -c $corpus --params $params
+    echo "Running $corpus"
+    python3 generate.py -t $temp -fp $fp -c $corpus
+
+    python3 extract_features.py -c $corpus --params $params
+
+    echo "----------------------"
+
+done

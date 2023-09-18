@@ -1,0 +1,15 @@
+Klinischer Fall:
+
+Patient: Herr Müller, 58 Jahre alt
+
+Anamnese: Herr Müller stellt sich mit Beschwerden in der linken oberen Extremität vor. Er gibt an, seit einigen Monaten Schmerzen und eine zunehmende Schwellung im Bereich des linken Arms zu haben. Die Schmerzen sind belastungsabhängig und nehmen bei Bewegung zu. Herr Müller berichtet außerdem eine allgemeine Abgeschlagenheit und Gewichtsverlust in den letzten Monaten. Er hat keine relevanten Vorerkrankungen und ist Nichtraucher.
+
+Klinische Untersuchung: Bei der körperlichen Untersuchung findet der Arzt eine schmerzhafte, prallelastische Schwellung im Bereich des linken Oberarms. Die Beweglichkeit des Armes ist eingeschränkt und es besteht eine deutliche Druckschmerzhaftigkeit.
+
+Diagnostik: Zur weiteren Abklärung wird bei Herrn Müller eine MRT-Untersuchung des linken Arms durchgeführt. Diese zeigt einen großen Weichgewebstumor im Bereich des linken Oberarms, der sich bis in die Muskulatur erstreckt. Es wird eine Biopsie des Tumors durchgeführt, und die histopathologische Untersuchung ergibt die Diagnose eines Weichgewebesarkoms.
+
+Therapie: Aufgrund der Diagnose eines Weichgewebesarkoms wird eine operative Resektion des Tumors geplant. Die Resektion erfolgt mit einem ausreichenden Sicherheitsabstand (R0-Resektion). Basierend auf den aktuellen medizinischen Leitlinien wird eine adjuvante Strahlentherapie empfohlen, um die lokale Rückfallrate zu senken. Die Strahlentherapie soll perkutan durchgeführt werden und eine Gesamtdosis von 45 Gy in Einzeldosen von 1,8 Gy erhalten. Zusätzlich wird ein 18 Gy-Boost in Einzeldosen von 1,8 Gy an den Tumorapplikator verabreicht.
+
+Verlauf: Herr Müller wird in regelmäßigen Abständen nach der Operation zur Nachsorgeuntersuchung einbestellt. Die Wundheilung verläuft komplikationslos und Herr Müller berichtet über eine allmähliche Besserung der Beschwerden im linken Arm. Die ersten Kontrolluntersuchungen zeigen keine Anzeichen für einen Lokalrezidiv des Tumors.
+
+Diskussion: Die Entscheidung für eine adjuvante Strahlentherapie basiert auf den aktuellen medizinischen Leitlinien, die eine signifikante Reduktion der lokalen Rückfallrate bei Weichgewebesarkomen zeigen. Die Durchführung der Strahlentherapie erfolgt gemäß den empfohlenen Dosis- und Zeitintervallen. Eine genaue Nachsorgeuntersuchung ist wichtig, um mögliche Lokalrezidive frühzeitig zu erkennen und gegebenenfalls weitere therapeutische Maßnahmen einzuleiten.
