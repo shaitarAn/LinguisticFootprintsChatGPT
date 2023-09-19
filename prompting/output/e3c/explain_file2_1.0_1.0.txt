@@ -1,0 +1,19 @@
+This clinical case describes the presentation and management of a 36-year-old pregnant woman who is a farmer. She presented at 27 weeks gestation with a chief complaint of epigastric abdominal pain that had been persistent and worsening over 3 months. The pain was dull, with intermittent radiation to the chest, and there was no known relieving or aggravating factors. The patient had also experienced significant weight loss but denied associated symptoms such as early satiety, jaundice, fever, itch, or spontaneous bleeding.
+
+Upon examination, the patient was found to have wasting and mild pallor. There was a tinge of jaundice noted but she appeared well hydrated and had no palpable lymph nodes. The abdomen appeared distended with distorted upper contour and visibly distended anterior abdominal wall veins draining away from the umbilicus. The liver was enlarged, hard, nodular with an irregular edge, mild tenderness on palpation and had a bruit on auscultation. Mild ascites (fluid in the abdomen) was seen along with bipedal edema (swelling in both lower legs).
+
+Further investigations revealed laboratory abnormalities including low hemoglobin levels (10.3g/dl), raised white blood cell count (10,200 cells/dl) mainly due to increased neutrophils percentage along with elevated GGT (Gamma-Glutamyl Transferase) and AST (Aspartate Aminotransferase) levels which indicate liver dysfunction. Total protein and albumin were also low while INR (International Normalized Ratio), used to measure blood clotting time was elevated suggesting impaired liver function as well.
+
+The patient's HBsAg test for Hepatitis B surface antigen came back positive indicating active Hepatitis B infection but HBeAg test for infectivity came back negative thus making it less likely that she can transmit it to others easily.
+
+An abdominal ultrasound showed an enlarged liver with multiple hypoechoic (dark) lesions, suggestive of liver tumors. The liver size measured 17.2cm and there was mild ascites seen. A pelvic scan revealed a 27-week, 3-day old fetus with active fetal movements.
+
+The initial diagnosis made based on this clinical presentation was hepatocellular carcinoma, a type of liver cancer, in pregnancy. However, after considering the entire clinical picture along with investigations such as elevated AFP (Alpha-Fetoprotein) levels which are often associated with hepatocellular carcinoma, the revised diagnosis became hepatocellular carcinoma on top of chronic liver disease (cirrhosis) leading to decompensation during pregnancy.
+
+Management for this patient included pain relief medication and diuretics like furosemide and spironolactone to manage abdominal distension and edema respectively. Lamivudine was added to prevent mother-to-child transmission of Hepatitis B infection to the fetus.
+
+The plan initially consisted of continuing the pregnancy until at least 32 completed weeks in order to improve neonatal survival chances; however, due to progressive unbearable abdominal pain, the pregnancy was terminated at 30 weeks and 3 days by induction of labor resulting in a stillbirth weighing 1.2kg.
+
+The patient's pain significantly reduced post-delivery and she was discharged home after five days. She had follow-up visits scheduled at the gastrointestinal clinic but unfortunately was lost to follow up after four weeks post-discharge.
+
+It is important to note that hepatocellular carcinoma in pregnancy is rare but has high maternal morbidity/mortality rates due to its aggressive nature when coupled with hormonal changes occurring during gestation. Proper monitoring and management are crucial for both maternal health outcomes as well as preventing vertical transmission of Hepatitis B infection.

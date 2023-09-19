@@ -1,0 +1,13 @@
+Harnblasenkarzinom ein Marker für das Vorhandensein von Tumorzellen im Urin. Der Nachweis solcher Tumorzellen im Urin ist wichtig für die Diagnose und das Monitoring von Harnblasenkrebs.
+
+In den Leitlinien wird erwähnt, dass es verschiedene kommerzielle Testverfahren gibt, die auf dem Nachweis von bestimmten molekularen Zellbestandteilen im Urin basieren. Diese Marker können in erhöhter Menge im Urin von Patienten mit Harnblasenkrebs nachgewiesen werden. Einige der zugelassenen Testverfahren sind NMP22, BTA Stat/BTA TRAK und UBC. Es gibt auch andere Marker, die in der Literatur beschrieben sind, aber die Qualität der Studien zu diesen Markern ist sehr heterogen und es gibt kaum standardisierte Kriterien für die Bewertung der Ergebnisse.
+
+Ein Beispiel für einen Marker ist das nukleäre Matrixprotein 22 (NMP22), das in malignen Urothelzellen häufiger vorkommt als in normalen Zellen. Der NMP22-Test kann entweder qualitativ oder semi-quantitativ durchgeführt werden. Es gibt auch einen quantitativen NMP22-Test, der mit der Tumormasse korreliert. Studien haben gezeigt, dass die Sensitivität des NMP22-Tests mit der Anzahl der Tumore zunimmt.
+
+Ein weiterer Marker ist das Blasentumor-assoziierte Antigen (BTA), das das Protein human complement factor H-related protein (hCFHrp) nachweist. Dieses Protein scheint einen Wachstumsvorteil für maligne Urothelzellen darzustellen. Es gibt verschiedene Testverfahren für BTA, wie den BTA Stat-Test und den BTA TRAK-Test. Die Sensitivität dieser Tests ist vergleichbar mit der Urinzytologie, aber die Spezifität ist niedriger.
+
+Es gibt auch andere Marker wie den Urinary Bladder Cancer Antigen (UBC), Survivin und CYFRA 21-1, die in einigen Studien vielversprechende Ergebnisse gezeigt haben. Allerdings gibt es noch keine ausreichende Evidenz für eine klinische Anwendung dieser Marker.
+
+Es ist wichtig zu beachten, dass die Testergebnisse für diese Marker eine hohe falsch positive Rate aufweisen können und es eine große Variabilität in den Ergebnissen gibt. Die Spezifität kann durch den Ausschluss bestimmter klinischer Zustände wie Hämaturie erhöht werden.
+
+Zusammenfassend lässt sich sagen, dass es verschiedene Marker im Urin gibt, die für die Diagnose und das Monitoring von Harnblasenkrebs verwendet werden können. Die Qualität der Evidenz für diese Marker ist jedoch gering und es sind weitere Studien erforderlich, um ihre klinische Anwendung zu validieren.

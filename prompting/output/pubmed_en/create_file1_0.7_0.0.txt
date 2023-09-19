@@ -1,0 +1,11 @@
+Introduction
+
+End-stage renal disease (ESRD) is a global health concern that is associated with significant morbidity and mortality. Hemodialysis is the primary renal replacement therapy for patients with ESRD, and the establishment and maintenance of adequate vascular access is crucial for successful treatment outcomes. Arteriovenous fistulas (AVFs) and grafts (AVGs) are preferred over central venous catheters due to lower risks of hospitalization and mortality.
+
+However, long-term patency of AV access is often compromised by thrombosis, which is the leading cause of access loss in both AVFs and AVGs. Thrombosis rates for AVFs and AVGs are significant, requiring frequent interventions to restore and maintain access patency. Thrombosed access leads to delays in hemodialysis treatment, hospital admissions, and even the abandonment of access, necessitating the placement of dialysis catheters.
+
+In the past, surgical thrombectomy was the standard treatment for thrombosed AV access, but with the advent of endovascular techniques, endovascular thrombectomy has become the preferred approach. Endovascular thrombectomy offers several advantages, including the ability to remove thrombus and treat underlying anatomical abnormalities simultaneously, all under imaging guidance. This approach has shown success rates ranging from 70% to 90% for thrombosed AVFs and AVGs.
+
+This narrative review aims to provide an overview of current practices, outcomes, and potential complications associated with endovascular thrombectomy techniques for the treatment of thrombosed AVFs and AVGs in the end-stage renal disease population. By understanding these techniques and their complications, healthcare providers can effectively manage patients with thrombosed AV access, optimize treatment outcomes, and minimize the burden on healthcare resources.
+
+To provide a comprehensive review, a literature search was conducted using electronic databases, including PubMed and Google Scholar. The following sections will discuss the various endovascular thrombectomy techniques, their outcomes, and potential complications.

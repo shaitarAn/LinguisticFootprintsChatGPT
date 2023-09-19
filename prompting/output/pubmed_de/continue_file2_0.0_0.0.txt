@@ -1,0 +1,13 @@
+Die atopische Dermatitis (AD), auch als Neurodermitis bekannt, ist eine chronische entzündliche Hauterkrankung, die durch Juckreiz, Rötung, Schuppung und Hautverdickung gekennzeichnet ist. Sie tritt häufig im Kindesalter auf und kann sich bis ins Erwachsenenalter fortsetzen. Die genaue Ursache der AD ist noch nicht vollständig geklärt, jedoch spielen genetische und Umweltfaktoren eine Rolle.
+
+Die Allergenimmuntherapie (AIT) ist eine Behandlungsoption für Allergien, bei der der Körper schrittweise an das allergieauslösende Allergen gewöhnt wird, um eine Toleranz zu entwickeln. Diese Therapie hat sich bei allergischer Rhinitis und allergischem Asthma als wirksam erwiesen, jedoch gibt es bisher nur begrenzte Daten zur Anwendung der AIT bei AD-Patienten.
+
+In dieser Übersichtsarbeit werden verschiedene Studien zur AIT bei AD-Patienten analysiert. Es zeigt sich, dass es eine große Heterogenität in Bezug auf Studiendesigns, Patientenkohorten, Allergene, Applikationsformen und Endpunkte gibt, was die Vergleichbarkeit der Studien erschwert. Dennoch deuten mehrere Untersuchungen darauf hin, dass die AIT eine positive Wirkung auf den Schweregrad der AD haben kann.
+
+Eine Metaanalyse von 13 randomisierten kontrollierten Studien zeigte, dass die AIT zu einer signifikanten Reduktion des SCORAD-Index (ein Maß für den Schweregrad der AD) führte. Eine andere Metaanalyse von 8 Studien ergab, dass die AIT zu einer Verbesserung der Lebensqualität bei AD-Patienten führte.
+
+Trotz dieser vielversprechenden Ergebnisse gibt es noch viele offene Fragen zur Anwendung der AIT bei AD. Es ist unklar, welche Patienten am besten von der Therapie profitieren und welche Allergene am effektivsten sind. Darüber hinaus sind weitere Studien erforderlich, um die langfristige Wirksamkeit und Sicherheit der AIT bei AD zu untersuchen.
+
+In Zukunft könnten neue Entwicklungen auf dem Gebiet der AIT dazu beitragen, dass die Therapie einen breiteren Einsatz bei AD-Patienten findet. Zum Beispiel könnten neue Formulierungen und Applikationsmethoden entwickelt werden, um die Akzeptanz und Durchführbarkeit der AIT zu verbessern.
+
+Insgesamt zeigt diese Übersichtsarbeit, dass die AIT bei AD-Patienten eine vielversprechende Behandlungsoption sein könnte. Weitere Forschung ist jedoch erforderlich, um die Wirksamkeit, Sicherheit und optimale Anwendung der AIT bei AD zu bestätigen.

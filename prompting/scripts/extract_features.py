@@ -119,70 +119,78 @@ def main():
     else:
         lang = 'de'
 
-    system_dataframes = []  # Initialize the list before the loop
 
-    for file_name in os.listdir(f"../output/{corpus}/"):
-        output_file = ""
-        data = []
+    # Create a list of file identifiers
+    file_identifiers = ["file1", "file2", "file3", "file4", "file5"]
 
-        # target_extensions = ["human.txt", f"{params}.txt"]
-        system = ""
-        # print(file_name)
+    # Iterate through each file identifier
+    for identifier in file_identifiers:
+        # print("--------------------------------------------------")
+        print(f"Identifier: {identifier}")
 
-        # only process files with the target extensions
-        if "human" in file_name or f"{params}" in file_name:
+        system_dataframes = []  # Initialize the list before the loop
 
-           # if any(file_name.endswith(ext) for ext in target_extensions):
-            if file_name.startswith("human"):
-                system = file_name.split(".")[0]
-
-            elif file_name.endswith(f"{params}.txt"):
-                system = file_name.split("_")[0]
-
-            print(file_name)
-
-            connectives = extract_connectives(lang, os.path.join(f"../output/{corpus}", file_name))
-            total_connectives = sum([connectives[key]['lower'] + connectives[key]['capitalized'] for key in connectives])
-
-            print(connectives)
-
-            output_file = "../results/" + file_name[:-3] + "csv"
-            # print(output_file)
-            file_path = os.path.join(f"../output/{corpus}", file_name)
-            feature_values_list, obj = process_file(file_path, lang)
-            count_oov_words(obj, system)
-
-            for feature_values in feature_values_list:
-                data.append(feature_values)
+        for file_name in os.listdir(f"../output/{corpus}/"):
             
-            # Create a pandas DataFrame and write it to a CSV file
-            df = pd.DataFrame(data)
-            # Drop columns that have NaN
-            df.dropna(axis=1, inplace=True)
-            # Drop columns that have only 0
-            df = df.loc[:, (df != 0).any(axis=0)]
+            # Check if the file contains the current identifier
+            if identifier in file_name:
+                # output_file = ""
+                data = []
 
-            # add a column with the number of connectives
-            df['connectives'] = total_connectives
+                # only process files with the target extensions
+                if "human" in file_name or params in file_name:
+                # Process the file based on its contents
+                    system = file_name.split("_")[0]
+                    # print(f"File: {file_name}")
+                    # print(f"System: {system}")
 
-            #  drop column "text"
-            df.drop(columns=['text'], inplace=True)
-            df.to_csv(output_file, index=False)
 
-            #  transpose the dataframe and name the column with values as "system"
-            df = df.transpose()               
-            df.columns = [system]
-            # print(df.head())
+                    connectives = extract_connectives(lang, os.path.join(f"../output/{corpus}", file_name))
+                    total_connectives = sum([connectives[key]['lower'] + connectives[key]['capitalized'] for key in connectives])
 
-            system_dataframes.append(df)  # Append the DataFrame to system_dataframes
+                    # print(connectives)
 
-    # Step 3: Combine the dataframes keeping the index
-    combined_dataframe = pd.concat(system_dataframes, axis=1)
 
-    # print(combined_dataframe.head())
+                    # output_file = "../results/" + {corpus} + "/" + file_name[:-3] + "csv"
+                    # print(output_file)
+                    file_path = os.path.join(f"../output/{corpus}", file_name)
+                    feature_values_list, obj = process_file(file_path, lang)
+                    count_oov_words(obj, system)
 
-    # # Step 4: Write the resulting dataframe to a CSV file
-    combined_dataframe.to_csv(f"../results/combined_{corpus}_{params}.csv", index=True)
+                    for feature_values in feature_values_list:
+                        data.append(feature_values)
+                    
+                    # Create a pandas DataFrame and write it to a CSV file
+                    df = pd.DataFrame(data)
+                    # print(df.head())
+                    # Drop columns that have NaN
+                    df.dropna(axis=1, inplace=True)
+                    # Drop columns that have only 0
+                    df = df.loc[:, (df != 0).any(axis=0)]
+
+                    # add a column with the number of connectives
+                    df['connectives'] = total_connectives
+
+                    #  drop column "text"
+                    df.drop(columns=['text'], inplace=True)
+                    # df.to_csv(output_file, index=False)
+
+                    #  transpose the dataframe and name the column with values as "system"
+                    df = df.transpose()               
+                    df.columns = [system]
+                    # print(df.head())
+
+                    system_dataframes.append(df)  # Append the DataFrame to system_dataframes
+
+        # Step 3: Combine the dataframes keeping the index
+        combined_dataframe = pd.concat(system_dataframes, axis=1)
+
+        # print(combined_dataframe.head())
+        if not os.path.exists(f"../results/{corpus}"):
+            os.makedirs(f"../results/{corpus}")
+
+        # # Step 4: Write the resulting dataframe to a CSV file
+        combined_dataframe.to_csv(f"../results/{corpus}/{identifier}_{params}.csv", index=True)
 
 
 if __name__ == "__main__":

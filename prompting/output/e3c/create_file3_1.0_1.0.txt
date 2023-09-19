@@ -1,0 +1,36 @@
+Case Study: A 38-year-old woman with severe depression and history of self-harm
+
+History:
+The patient, a 38-year-old woman, was admitted to our psychiatric facility following a suicide attempt by self-inflicted injuries three days prior to admission. She presented with multiple full- and partial-thickness burns covering approximately 42% of her total body surface area (TBSA). The burns involved the face and neck (6%), both upper extremities (10%), right thigh (5%), left thigh and leg (4%), as well as the anterior and posterior trunk region (17%). Prior to admission, she was diagnosed with major depressive disorder according to DSM-5 criteria.
+
+Clinical Course:
+Upon admission, the patient was started on appropriate pharmacotherapy for depression, including sertraline 50 mg daily. Due to her history of self-destructive behavior during periods of extreme distress, intermittent physical restraints were employed for short periods to ensure her safety.
+
+Nutritional Assessment:
+The patient's nutrition status was evaluated within the first week of hospitalization. At baseline assessment, she weighed 48 kilograms with a height of 160 cm, resulting in a BMI of 18.75 kg/m2 - indicating being underweight. Although there were no apparent gastrointestinal symptoms or signs during evaluation; however, information regarding her recent dietary intake prior to admission or any weight changes over the last six months could not be obtained accurately due to inconsistent recall ability caused by her mental health condition.
+
+Malnutrition Evaluation:
+Accordingly subjective global assessment (SGA) tool classification at baseline indicated that she belonged in category B - moderately malnourished. Her serum albumin levels were within normal range at 3.9 g/L; however electrolyte imbalances were observed.
+
+Nutrition Intervention:
+A nutrition management plan had been initiated from this stage onwards based on calculated energy requirements starting at an initial rate of 25 kcal/kg gradually increasing to 35 kcal/kg, and protein needs at 1.2 g/kg were divided into oral nutrition intake and oral nutrition supplements (ONS) with a ratio of 60:40 respectively. Additionally, micronutrient supplementation including vitamin A (5000 IU), vitamin C (250 mg), and zinc (20 mg) daily was prescribed.
+
+Progress:
+During the first two weeks of hospitalization, the patient showed minimal improvement in her depressive symptoms but continued to exhibit low appetite resulting in weight loss. By the end of the second week, her body weight dropped to 45 kilograms while her serum albumin levels decreased to 3.2 g/L - indicative of ongoing malnourishment.
+
+Challenging Course:
+The patient's volatile mood and fluctuating appetite posed significant challenges to maintaining an optimal nutrition plan. Attempts to establish reliable enteral access were met with resistance as she displayed severe agitation during such procedures despite adequate analgesic medications and sedation attempts. Considering these limitations, partial parenteral nutrition with branched-chain amino acids (BCAAs) was initiated alongside ongoing enteral support for protein requirements.
+
+Outcome:
+Despite aggressive interventions, the patient's BMI continued its downward trend throughout treatment. On day 42, her body weight reached a minimum of 43 kilograms with serum albumin levels measured at 2.9g/L - indicating severe malnutrition status according to SGA classification system.
+
+Wound Healing Progression:
+At this stage, granulation tissue began forming on viable wound beds indicating positive progress towards healing; however due consideration was given which led healthcare professionals to decide against pursuing any skin graft surgeries considering both mental health stability and nutritional status concerns.
+
+Discharge Planning:
+On day 66, after a total duration of hospitalization lasting eight weeks, improvements were noted not only in psychological well-being but also general physical condition compared to admission status despite persistent severe muscle wasting and subcutaneous fat loss. The patient exhibited a total weight loss of 10 kilograms (BMI of 16.8 kg/m^2) with serum albumin levels recorded at 3.1 g/L, indicating an ongoing need for nutrition support. A comprehensive outpatient follow-up was arranged, involving collaboration between psychiatric and nutrition services to ensure continuity of care.
+
+Conclusion:
+The case highlights the complex management challenges faced in caring for mentally ill patients presenting with severe self-harm-related injuries and concomitant malnutrition. Early initiation of nutritional support coupled with appropriate psychiatric interventions is essential in achieving optimal outcomes for this vulnerable population within the limitations imposed by their mental health condition.
+
+NB: This clinical case is an imaginary representation based on the structure and writing style provided above and does not pertain to any actual patient or medical scenario.

@@ -1,0 +1,11 @@
+Harnblasenkarzinom ein Gewebe hinweis auf eine geringere Tumorapoptose. In einigen Studien wurde gezeigt, dass erhöhte sFas-Spiegel im Urin mit einem höheren Risiko für die Entwicklung eines Harnblasenkarzinoms verbunden sind [REF]. Es gibt jedoch keine ausreichenden Daten zur klinischen Anwendung des sFas-Tests als Urinmarker.
+
+Zusammenfassend lassen sich folgende Punkte festhalten:
+
+- Urinmarker basieren auf dem Nachweis von molekularen Zellbestandteilen, die bei Urothelkarzinomen vermehrt im Urin nachgewiesen werden können. Die kommerziellen Testverfahren NMP22, BTA Stat/BTA TRAK und UBC sind für die klinische Anwendung zugelassen.
+- NMP22 ist ein nukleäres Matrixprotein, das vermehrt in malignen Urothelzellen vorkommt. Der quantitative NMP22-Test korreliert mit der Tumormasse.
+-BTA Stat und BTA TRAK weisen das Protein human complement factor H-related protein (hCFHrp) im Urin nach.
+-Die Sensitivität der NMP22-Tests ist in Metaanalysen durchweg höher als die der Urinzytologie, aber die Spezifität ist deutlich niedriger.
+-Es gibt zahlreiche andere untersuchte Markersysteme wie Survivin und CYFRA 21-1, aber keines wurde bisher für eine klinische Anwendung validiert.
+
+Die Qualität der Evidenzlage variiert bei den verschiedenen Tests und es besteht noch Bedarf an weiterer Forschung zur Validierung und Standardisierung dieser Tests für eine zuverlässige klinische Anwendung.

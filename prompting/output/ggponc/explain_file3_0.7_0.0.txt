@@ -1,0 +1,15 @@
+Dieser Text aus den Leitlinien beschreibt die präoperative biliäre Drainage (PBD) als Behandlungsoption für Patienten mit hepatozellulärem Karzinom und biliären Karzinomen. Die Entscheidung für eine PBD hängt von verschiedenen Faktoren ab, einschließlich des Behandlungsziels (kurativ oder palliativ) und der Lokalisation des Gallenwegverschlusses (intrahepatisch, hilär oder extrahepatisch).
+
+Es gibt begrenzte Evidenz für die Indikation zur PBD, die größtenteils auf retrospektiven Analysen und nur vereinzelt auf prospektiven randomisierten Studien basiert. Eine Hyperbilirubinämie wurde als ein wichtiger Risikofaktor für ein negatives frühes postoperatives Ergebnis identifiziert. Es gibt jedoch keine ausreichende Evidenz für einen bestimmten Bilirubin-Grenzwert.
+
+Es wird darauf hingewiesen, dass die PBD selbst das frühe postoperative Ergebnis negativ beeinflussen kann, zum Beispiel durch Komplikationen der interventionellen Therapie. Eine erhöhte Morbidität wird auch bei erfolgreicher Drainage beobachtet, was auf eine mögliche Einschleppung von Keimen in das Gallenwegsystem während der interventionellen Therapie zurückzuführen sein könnte. Eine PBD ist jedoch unbestritten notwendig, wenn eine Cholangitis vorliegt.
+
+Es wird betont, dass die PBD für intrahepatische und perihiläre Gallengangskarzinome getrennt betrachtet werden muss. Intrahepatische Gallengangskarzinome gehen selten mit einer Kompression der zentralen Gallenwegsstrukturen und Ikterus einher, daher ist eine präoperative Gallengangsdekompression in diesen Fällen nur vor ausgedehnten Resektionen und Beteiligung des "Future Liver Remnant" erforderlich.
+
+Die optimale technische Vorgehensweise bei der präoperativen Drainage ist nicht abschließend geklärt. Es gibt widersprüchliche Ergebnisse hinsichtlich Komplikationen und Erfolgsraten zwischen endoskopischer und perkutaner Drainage. Eine Metaanalyse von retrospektiven Studien zeigt eine vergleichbare oder etwas höhere Morbidität nach endoskopischer Drainage im Vergleich zur perkutanen Drainage.
+
+Die Expertise des Zentrums kann auch einen Einfluss auf das Ergebnis der PBD haben. Eine multizentrische retrospektive Analyse aus China ergab eine höhere Morbidität nach endoskopischer Drainage im Vergleich zur perkutanen Drainage.
+
+Es wird auch darauf hingewiesen, dass die nasobiliäre Drainage, die in Japan bevorzugt wird, in westlichen Ländern wenig praktikabel ist und keinen Vorteil gegenüber der Platzierung eines Plastikstents bietet. Das Risiko einer Tumorzellverschleppung durch den Zugangsweg der Drainage ist selten, wird aber nach perkutaner Drainage beobachtet, nicht jedoch nach endoskopischer Therapie.
+
+Zusammenfassend wird empfohlen, die Indikation zur PBD in einem spezialisierten Zentrum zu stellen, in dem eine interdisziplinäre Behandlungsplanung unter Einbeziehung von Chirurgen, interventionellen/endoskopischen Spezialisten und Radiologen möglich ist. Es wird auch darauf hingewiesen, dass alternative Drainagewege erforderlich sein können, da eine primär nicht ausreichende Drainage häufig vorkommt und eine alternative Therapiestrategie erforderlich macht.

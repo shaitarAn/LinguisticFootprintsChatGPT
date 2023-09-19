@@ -1,0 +1,19 @@
+Introduction
+
+Sarcopenia, the age-related loss of muscle mass and function, is a significant concern in the aging population as it can severely impact the daily life of older adults. It can limit their ability to perform essential tasks such as lifting heavy objects, climbing stairs, or walking. The prevalence of sarcopenia is high among community-dwelling older adults and nursing home residents.
+
+Malnutrition and low protein intake have been identified as contributors to the onset or progression of sarcopenia. Nutritional supplementation, either alone or in combination with exercise, is currently recommended for treating sarcopenia. In addition to protein intake, the role of polyunsaturated fatty acids (PUFAs) in muscle physiology and sarcopenia progression has gained attention.
+
+Dietary fat intake plays a crucial role in optimizing muscle structure and function. Fatty acids not only act as an energy source for muscles but also form essential components of skeletal muscle structures like phospholipid membranes. Among PUFAs, omega-3 fatty acids are believed to have beneficial effects on muscles while omega-6 fatty acids may have detrimental effects due to their pro-inflammatory properties. Therefore, achieving a higher ratio of omega-3 to omega-6 PUFAs in one's diet is considered beneficial for musculoskeletal health.
+
+In recent years, increasing attention has been given to the potential role of high omega-3 PUFA intake in preventing or countering sarcopenia due its anti-inflammatory properties that improve muscle protein synthesis and reduce anabolic resistance and insulin resistance.
+
+However, there is limited data available on usual dietary PUFAs intake specifically among well-defined sarcopenic older adults. Assessing dietary PUFAs intake through food records has its limitations such as recall problems or socially desirable responses which can introduce biases into data collection. Additionally,dietary assessment based solely on short-term intake may not capture how this contributes to overall nutritional status.
+
+To address these limitations, this study aims to assess the dietary intake of PUFAs and the nutritional status of PUFAs among sarcopenic older adults using food records and biomarkers, respectively. The fatty acid composition of red blood cell (RBC) membranes will be used as an objective biomarker for PUFAs status, reflecting nutritional PUFAs status over the past month or two.
+
+The objectives of this study are: 1) To determine the correlation between intake and status of PUFAs in sarcopenic older adults; 2) To explore associations between dietary intake and nutritional status of PUFAs with individual sarcopenia-defining parameters such as muscle strength, muscle mass, and physical performance; 3) To investigate associations between dietary intake and nutritional status of PUFAs with physical activity levels and quality of life.
+
+It is hypothesized that omega-3 PUFA intake will be low in sarcopenic older adults and that there will be a strong correlation between intake and status. Moreover, higher omega-3 PUFA intake is expected to be associated with improved muscle strength, mass, quality of life scores, as well as increased physical activity levels.
+
+This study aims to provide valuable insights into the relationship between dietary PUFA intake, nutritional PUFA status, and their impact on sarcopenia outcomes in community-dwelling older adults with sarcopenia. The findings from this study may contribute to developing targeted interventions for preventing or managing sarcopenia in this population.

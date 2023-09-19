@@ -1,0 +1,13 @@
+In diesem Text geht es um die histopathologische Aufarbeitung und Klassifikation von Resektaten (entfernte Gewebeproben) bei Pankreaskarzinomen (Bauchspeicheldrüsenkrebs). Es wird betont, dass neben der korrekten Anwendung der international gültigen R-Klassifikation einheitliche Standards bei der histopathologischen Aufarbeitung von Resektaten gelten müssen.
+
+Ein wichtiger Aspekt bei der histopathologischen Aufarbeitung ist der sogenannte zirkumferentielle Resektionsrand, da hier oft eine R1-Situation vorliegt, d.h. Tumorzellen in unmittelbarer Nähe zum Resektionsrand vorhanden sind. Es wird empfohlen, im Rahmen einer standardisierten Aufarbeitung die Resektionsgrenzen im makroskopischen Zuschnitt zu markieren, um diese später im histologischen Schnitt identifizieren zu können. Dadurch kann genau gemessen werden, wie weit die Tumorzellen von den Resektionsrändern entfernt sind.
+
+Um dieser Tatsache Rechnung zu tragen, wird ein neues Konzept empfohlen, das "Konzept des zirkumferentiellen Resektionsrands" (Circumferential Resection Margin, CRM). Dabei werden R0-resezierte Pankreaskarzinome als CRM-positiv klassifiziert, wenn der Abstand der Tumorzellen zum Resektionsrand weniger als 1 mm beträgt, diesen jedoch nicht erreicht. Sind die Tumorzellen mehr als 1 mm vom Resektionsrand entfernt, handelt es sich um eine "CRM-negative" R0-Situation.
+
+Es wird darauf hingewiesen, dass noch nicht abschließend geklärt ist, welcher Abstand zum Resektionsrand prognostische Bedeutung hat. Es wurde jedoch in einer Studie gezeigt, dass Patienten mit einem Abstand von mehr als 1,5 mm eine bessere Prognose haben.
+
+Des Weiteren wird betont, dass das UICC-Tumorstadium der wichtigste Prognoseparameter nach einer Resektion eines Pankreaskarzinoms ist. Das Vorhandensein von Lymphknotenmetastasen ist dabei ein entscheidender Prognoseparameter. Es wird empfohlen, mindestens zehn Lymphknoten zu entfernen, um eine korrekte Kategorisierung vornehmen zu können. Zusätzlich wird die Angabe der Lymphknotenratio empfohlen, da dieses Verhältnis prognostische Bedeutung hat.
+
+Das Grading des duktalen Adenokarzinoms des Pankreas (Grad der Gewebedifferenzierung) ist in der WHO-Klassifikation 2010 festgelegt. Der histologische Differenzierungsgrad korreliert mit der Prognose.
+
+Es wird auch darauf hingewiesen, dass Lymphgefäßinvasion, Perineuralscheideninfiltration und Blutgefäßinvasion eine prognostische Bedeutung haben können, jedoch weitere Validierung benötigen.

@@ -1,0 +1,11 @@
+On admission, the patient's vital signs were stable, with a temperature of 38.5°C (101.3°F), heart rate of 90 beats per minute, blood pressure of 120/80 mmHg, and oxygen saturation of 98% on room air. Physical examination revealed a diffuse maculopapular rash involving the trunk, extremities, and face, including the eyelids. The rash was non-blanching and not pruritic.
+
+Laboratory investigations were conducted, including a complete blood count, liver function tests, renal function tests, and a viral panel. The complete blood count showed a mild leukopenia with a white blood cell count of 3.5 x 10^9/L (normal range: 4.5-11.0 x 10^9/L) and a relative lymphocytosis with a lymphocyte count of 2.5 x 10^9/L (normal range: 1.0-4.0 x 10^9/L). The liver and renal function tests were within normal limits. The viral panel, including testing for HIV, hepatitis B, hepatitis C, and Epstein-Barr virus, was negative.
+
+Given the patient's clinical presentation and laboratory findings, a diagnosis of viral exanthem was suspected. However, further investigations were warranted to rule out other possible causes. A lumbar puncture was performed to evaluate for central nervous system involvement, and cerebrospinal fluid analysis showed no evidence of infection or inflammation.
+
+The patient was started on supportive care, including antipyretics for fever and hydration for diarrhea. Symptomatic relief was provided for headache, neck pain, and sore throat. The patient was closely monitored for any worsening of symptoms or development of complications.
+
+Over the next few days, the patient's fever gradually subsided, and the rash started to fade. His headache, neck pain, sore throat, and cough also improved. He remained stable throughout his hospital stay and was discharged after a week with instructions for follow-up care.
+
+The exact etiology of the patient's symptoms remained unclear, as no specific viral or bacterial pathogen was identified. However, the clinical course and resolution of symptoms were consistent with a self-limiting viral illness. The patient was advised to continue monitoring his symptoms and seek medical attention if they recurred or worsened.

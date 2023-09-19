@@ -1,0 +1,15 @@
+In diesem Text geht es um die histopathologische Aufarbeitung und Klassifikation von Resektaten bei Pankreaskarzinomen. Es wird betont, dass einheitliche Standards bei der histopathologischen Aufarbeitung gelten sollten, insbesondere in Bezug auf den zirkumferentiellen Resektionsrand. Dieser ist besonders wichtig, da hier häufig eine R1-Situation vorliegt, d.h. Tumorzellen bis zum Rand des entfernten Gewebes reichen.
+
+Es wird empfohlen, im Rahmen einer standardisierten histopathologischen Aufarbeitung die Resektionsgrenzen zu markieren und diese Farbmarkierungen im histologischen Schnitt zu identifizieren. Dadurch kann genau gemessen werden, wie weit die Tumorzellen von welchem Resektionsrand entfernt sind. Diese Informationen werden dem Operateur mitgeteilt.
+
+Um der Tatsache Rechnung zu tragen, dass Karzinomzellen häufig an den zirkumferentiellen Resektionsrand heranreichen können, wird ein neues Konzept empfohlen: das "Konzept des zirkumferentiellen Resektionsrands" (CRM). Dabei werden R0-resezierte Pankreaskarzinome als CRM-positiv klassifiziert, wenn der Abstand der Tumorzellen zum Resektionsrand weniger als 1 mm beträgt (R0 narrow). Sind die Karzinomzellen mehr als 1 mm vom definitiven Absetzungsrand entfernt, handelt es sich um eine "CRM-negative" R0-Situation (R0 wide).
+
+Die Frage nach dem prognostisch relevanten Abstand zum Resektionsrand kann noch nicht abschließend beantwortet werden. Es wurde jedoch gezeigt, dass Patienten mit einem Abstand von mehr als 1,5 mm eine bessere Prognose haben.
+
+Das UICC-Tumorstadium ist der wichtigste Prognoseparameter nach einer Resektion eines Pankreaskarzinoms. Das Vorhandensein von Lymphknotenmetastasen ist ein entscheidender Prognosefaktor. Es wird empfohlen, mindestens zehn Lymphknoten zu entfernen, um eine korrekte Kategorisierung vornehmen zu können.
+
+Die Angabe der Lymphknotenratio (Anzahl der befallenen Lymphknoten zur Anzahl der untersuchten Lymphknoten) hat prognostische Bedeutung.
+
+Das Grading des duktalen Adenokarzinoms des Pankreas basiert auf histologischen und zytologischen Kriterien und korreliert mit der Prognose. Ein Regressionsgrading ist noch nicht etabliert.
+
+Für die Invasion von Lymphgefäßen, Perineuralscheiden und Blutgefäßen gibt es Hinweise auf eine prognostische Bedeutung, die jedoch weiter validiert werden müssen.

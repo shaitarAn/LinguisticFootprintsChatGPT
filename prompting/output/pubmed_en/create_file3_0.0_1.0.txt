@@ -1,0 +1,9 @@
+Introduction
+
+The adenosinergic machinery has emerged as a crucial regulator of immune responses, particularly in the context of cancer. Adenosine, a metabolic intermediate involved in ATP catabolism and the synthesis of important signaling molecules, plays a significant role in modulating immune cell function and tumor growth. Extracellular adenosine (eADO) is primarily produced from the hydrolysis of extracellular ATP (eATP), which accumulates in response to cellular stress or damage triggered by factors such as hypoxia, nutrient starvation, inflammation, or cancer.
+
+In the tumor microenvironment (TME), eATP functions as a danger signal that attracts phagocytic cells to inflammatory sites and alerts the immune system to pathogen-associated molecules and tissue damage. The activation of inflammation mediated by eATP occurs through P2 purinergic receptors, including ligand-gated receptors (P2X) and metabotropic nucleotide-selective receptors (P2Y). While P2Y receptors promote oncogenic processes directly in tumor cells, they indirectly regulate these processes in immune cells.
+
+However, eATP is rapidly converted into eADO within the TME due to higher levels of ectonucleotidases present in solid tumors compared to non-tumor tissues. This conversion alters immunosurveillance by reducing eATP levels while enhancing adenosine receptor signaling. The effects of both P1 purinergic receptors (A1, A2A, A2B, and A3) activated by eADO are not limited to immune cells but also extend to other cell types within the TME.
+
+This review aims to provide an up-to-date understanding of the adenosinergic system's role in cancer across various cell types present within the TME. We will explore how immune cells, tumor cells themselves, and stromal cells contribute to this complex network. Additionally

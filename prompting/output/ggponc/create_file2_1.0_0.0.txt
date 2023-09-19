@@ -1,0 +1,13 @@
+Fiktiver klinischer Fall:
+
+Ein 55-jähriger Mann, Herr Müller, kommt in die Urologie-Klinik mit dem Verdacht auf Harnblasenkarzinom. Er hat seit einigen Wochen vermehrten Harndrang, Schmerzen beim Wasserlassen und Blut im Urin festgestellt. Nach einer ausführlichen Anamnese und körperlichen Untersuchung beschließt der behandelnde Urologe eine weitere diagnostische Abklärung vorzunehmen.
+
+Im ersten Schritt wird eine Urinuntersuchung durchgeführt, bei der das Vorhandensein von tumorassoziierten Antigenen im Urin getestet wird. Dabei werden die kommerziell erhältlichen Testverfahren NMP22® und BTA Stat®/BTA TRAK® verwendet. Die Ergebnisse zeigen, dass sowohl der NMP22®- als auch der BTA Stat®-Test positiv auf tumorassoziierte Antigene reagieren. 
+
+Um eine genauere Diagnose zu ermöglichen, wird eine Zystoskopie durchgeführt. Dabei wird ein flexibles Endoskop eingeführt, mit dem der Arzt das Innere der Harnblase betrachten kann. Dabei stellt er auffällige Veränderungen im Urothel (Harnblasenschleimhaut) fest. Es werden mehrere Tumore entdeckt, die histopathologisch als Urothelkarzinome bestätigt werden. 
+
+Basierend auf den pathologischen Befunden und den positiven Urinmarker-Tests wird bei Herrn Müller die Diagnose Harnblasenkarzinom gestellt. Aufgrund der Anzahl der Tumore (mehrere) und der hohen Sensitivität des NMP22®-Tests (über 90% bei 2–3 Tumoren und über 97% bei >3 Tumoren) wird beschlossen, dass eine weitergehende Diagnostik und Behandlung erforderlich ist. 
+
+Herr Müller wird über die Behandlungsoptionen informiert, einschließlich der Möglichkeit einer umfassenden transurethralen Resektion der Blase (TURB) gefolgt von einer intravesikalen Chemotherapie. Er entscheidet sich für diese Option und wird erfolgreich behandelt.
+
+Der Fall von Herrn Müller verdeutlicht, wie die Nutzung von Urinmarkern, insbesondere des NMP22®-Tests, in Kombination mit anderen diagnostischen Verfahren wie der Zystoskopie, zur frühen Diagnose und Behandlung von Harnblasenkarzinomen beitragen kann. Die Verwendung von Urinmarkern kann die Sensitivität der Diagnose erhöhen und den Patienten eine gezielte und wirksame Behandlung ermöglichen.

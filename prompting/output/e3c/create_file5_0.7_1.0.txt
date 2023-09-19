@@ -1,0 +1,27 @@
+Patient Information:
+
+On the 15th September 2021, a previously healthy, 23-year-old Asian female was admitted to the medical ward at St. Mary's Hospital with a two-week history of fever, fatigue, and joint pain. The patient reported no significant medical history or recent travel. She works as a teacher and denies any contact with COVID-19 cases.
+
+Clinical Findings:
+
+Upon examination, the patient appeared fatigued with a temperature of 38.9°C and a heart rate of 110 beats per minute. She complained of generalized joint pain and had visible swelling in her knees and wrists. There were no signs of cognitive dysfunction or skin rash observed.
+
+Diagnostic Assessment:
+
+Initial blood investigations revealed an elevated C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), white cell count (WCC), and rheumatoid factor (RF). Antinuclear antibody (ANA) testing was positive with a speckled pattern.
+
+Diagnosis and Differentials:
+
+Based on the clinical presentation and laboratory findings, the patient was diagnosed with systemic lupus erythematosus (SLE). Other differentials such as rheumatoid arthritis, viral infections like Epstein-Barr virus (EBV), or bacterial infections were considered but ruled out based on specific diagnostic criteria.
+
+Therapeutic Intervention:
+
+The patient was started on hydroxychloroquine for disease-modifying treatment along with nonsteroidal anti-inflammatory drugs (NSAIDs) for symptomatic relief of joint pain. In addition, she received counseling regarding sun protection measures due to photosensitivity associated with SLE.
+
+Follow-up and Outcomes:
+
+The patient's symptoms gradually improved over time with treatment adherence. Follow-up visits at regular intervals showed resolution of joint swelling and improvement in laboratory markers such as CRP, ESR, WCC, RF levels normalized while ANA titers decreased significantly.
+
+Conclusion:
+
+This case highlights the importance of early recognition and diagnosis of autoimmune diseases such as SLE. Prompt initiation of appropriate treatment can lead to symptom control and improved outcomes for patients. Regular follow-up and monitoring are essential to ensure the effectiveness of therapy and prevent disease flares.

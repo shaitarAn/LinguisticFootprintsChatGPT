@@ -1,0 +1,13 @@
+Einleitung
+
+Die atopische Dermatitis (AD) ist eine chronische Hauterkrankung, die häufig mit anderen atopischen Erkrankungen wie allergischer Rhinokonjunktivitis und allergischem Asthma einhergeht. Obwohl es Hinweise darauf gibt, dass Aeroallergene zu Exazerbationen der AD beitragen können, wird die Allergenimmuntherapie (AIT) bei AD-Patienten selten angewendet. Die AIT ist die einzige langfristige, kausale Therapie von Allergien und hat sich in zahlreichen Studien als wirksam erwiesen. 
+
+Diese Übersichtsarbeit untersucht die aktuelle Studienlage, Metaanalysen und Leitlinienempfehlungen zur AIT bei AD-Patienten. Es wird festgestellt, dass es eine große Heterogenität hinsichtlich Studiendesigns, Patientenkohorten, Allergenen, Applikationsformen und Endpunkten gibt, was die Vergleichbarkeit der Studien erschwert. Dennoch zeigen mehrere Untersuchungen eine positive Wirkung der AIT auf den Schweregrad der AD, was darauf hindeutet, dass zumindest eine Untergruppe von Patienten von der Behandlung profitieren kann. 
+
+Die Pathophysiologie der AD ist komplex und umfasst genetische Faktoren, Barrieredefekte, eine Typ-2-dominierte Immunantwort und Umwelteinflüsse. Obwohl moderne Systemtherapien wie Biologika und "small molecules" zunehmend wirksame Medikamente zur Behandlung der moderat bis schweren AD bieten, besteht die Gefahr, dass Einflussfaktoren wie Allergien aufgrund einer möglicherweise aufwendigen Diagnostik und Therapie weniger beachtet werden. Dabei stehen nebenwirkungsarme und gut wirksame Ansätze zur Verfügung.
+
+Die AIT zielt darauf ab, durch regelmäßige Applikation des Allergens eine Toleranzentwicklung zu erreichen. Auf immunologischer Ebene wurden verschiedene Effekte der AIT identifiziert, darunter eine Zunahme von regulatorischen T-Zellen (Treg-Zellen), die inhibierende Mediatoren freisetzen und zur Bildung von IgG2- und IgG4-Antikörpern führen. Darüber hinaus werden Mastzellen und eosinophile Granulozyten in der Haut reduziert. Diese Anpassungen auf verschiedenen Ebenen des Immunsystems führen zu einer Toleranzreaktion, die auch nach Beendigung der AIT anhalten kann.
+
+Die AIT kann sublingual (sublinguale Immuntherapie [SLIT]) oder subkutan (subkutane Immuntherapie [SCIT]) verabreicht werden. Es gibt gute Evidenz für die Wirksamkeit der AIT bei allergischer Rhinokonjunktivitis und Asthma bronchiale bei verschiedenen Allergenen. Weitere Entwicklungen auf dem Gebiet der AIT könnten dazu beitragen, dass die Therapie einen breiteren Einsatz bei AD-Patienten findet.
+
+In dieser Arbeit werden die aktuellen Erkenntnisse zur AIT bei AD-Patienten zusammengefasst und diskutiert. Es wird auf die Herausforderungen bei der Durchführung von Studien in diesem Bereich eingegangen und mögliche zukünftige Entwicklungen aufgezeigt.

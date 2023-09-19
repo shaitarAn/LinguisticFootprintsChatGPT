@@ -1,0 +1,17 @@
+This article discusses the immune mechanisms underlying COVID-19 pathology and the post-acute sequelae of SARS-CoV-2 infection (PASC), also known as long COVID. It begins by highlighting the increasing concerns about PASC, which refers to prolonged symptoms or health effects that occur after an acute SARS-CoV-2 infection.
+
+The authors emphasize that exaggerated immune responses play a key role in determining the severity and outcomes of both initial SARS-CoV-2 infection and subsequent PASC. They suggest that in-depth mechanistic analyses are needed to identify specific molecular signals and immune cell populations involved in PASC pathogenesis.
+
+The review examines current literature on immune dysregulation in severe COVID-19, as well as limited emerging data on the immunopathology of PASC. While there may be some shared mechanisms between the acute and post-acute phases, it is likely that PASC immunopathology is distinct and heterogeneous. Therefore, large-scale longitudinal studies involving patients with and without PASC are necessary to understand this condition better.
+
+By highlighting knowledge gaps in PASC immunopathology, the authors hope to provide directions for novel research that can lead to precision therapies restoring healthy immune function in patients with long COVID.
+
+The introduction section provides additional context by discussing ongoing symptoms experienced by adults and children after SARS-CoV-2 infection. It emphasizes that understanding the mechanisms underlying PASC is crucial for developing preventive and treatment strategies.
+
+The authors mention that immune dysregulation has been established as a key feature of both acute COVID-19 and systemic/tissue-specific manifestations of long COVID. However, causal mechanisms of immune dysfunction in PASC still need to be defined. The specific mechanisms likely vary depending on various factors such as clinical phenotype, initial disease severity, and tissues involved.
+
+They also mention a NIH-funded initiative called Researching COVID to Enhance Recovery (RECOVER), which involves over 100 researchers conducting studies on long COVID. The goal is to collect data from individuals across the lifespan and use it to develop preventive and therapeutic treatments for COVID-19 and PASC.
+
+The article concludes by stating that this perspective article, alongside companion papers on viral persistence and PASC tissue damage, aims to provide an overview of current knowledge, raise important questions, generate new ideas, and guide research efforts in understanding the mechanisms of disease severity and sequelae of COVID-19.
+
+Overall, this article reviews the role of innate and adaptive immune systems in acute SARS-CoV-2 infection and long COVID. It emphasizes the importance of studying immune dysregulation in PASC to develop targeted therapies for patients with long-lasting symptoms after COVID-19.

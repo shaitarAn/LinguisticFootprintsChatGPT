@@ -1,0 +1,19 @@
+Introduction
+
+The coronavirus disease-2019 (COVID-19) pandemic has had a devastating impact on the United States, with millions of infections and over a million deaths. However, it is evident that certain populations have been disproportionately affected by this crisis. Historically marginalized groups, including Black, Latinx, and Indigenous populations, immigrants, and economically disadvantaged individuals have experienced higher rates of infection, hospitalization, and death from COVID-19 compared to non-Latinx White individuals.
+
+This article aims to discuss the lessons learned from the health disparities observed during the COVID-19 pandemic in the United States and explore strategies to mitigate these disparities moving forward. It is crucial to understand that these disparities are not random but rather rooted in structural, institutional, and socioeconomic inequities that have long existed within our society.
+
+One significant factor contributing to these health disparities is the employment landscape for marginalized communities. Many individuals from these groups are employed in low-wage jobs without access to adequate healthcare coverage. This lack of insurance further exacerbates their vulnerability to COVID-19 infection and its severe outcomes.
+
+Additionally, mistrust in the healthcare system among minority populations has hindered vaccination efforts. Language barriers and limited health literacy also contribute to lower vaccination rates among minorities. These challenges highlight the need for targeted interventions that address cultural competency within healthcare settings while ensuring equitable access to accurate information about vaccines.
+
+Furthermore, it is essential to recognize that health disparities during this pandemic are deeply intertwined with longstanding racial/ethnic and socioeconomic inequities caused by structural racism and discriminatory policies regarding education, employment opportunities housing access as well as healthcare services.
+
+While progress has been made through initiatives like the Affordable Care Act (ACA), which improved access to healthcare for many Americans; millions still remain uninsured or underinsured. This lack of coverage compromises our ability as a nation's healthcare system deliver equitable care particularly during times of crisis such as a pandemic.
+
+Moreover hospitals serving predominantly Black Latinx Indigenous communities have been overwhelmed by the pandemic, further straining already under-resourced health systems and limiting access to advanced treatments and critical care services. This highlights the urgent need for investment in healthcare infrastructure in marginalized communities to ensure equitable access to quality care.
+
+To understand the root causes of these disparities, it is important to consider the structural and social determinants of health (SDOH). These determinants encompass the circumstances in which people live and the systems and structures that shape their experiences and access to healthcare. By examining these determinants, we can identify opportunities for action that address both immediate circumstances as well as broader contextual factors that contribute to COVID-19 outcomes.
+
+In conclusion, this article will delve into the challenges faced by marginalized and underserved populations during the COVID-19 pandemic. By understanding these challenges, we can learn valuable lessons about addressing health disparities moving forward. It is imperative that we take a comprehensive approach that addresses structural racism, improves access to healthcare services, promotes health literacy, builds trust within marginalized communities, and invests in healthcare infrastructure in order to achieve equitable health outcomes for all individuals regardless of their race or socioeconomic status.

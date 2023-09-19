@@ -1,0 +1,13 @@
+Sarcopenia, the age-related loss of muscle mass and function, is a growing concern among older adults. Nutritional factors, including dietary intake of polyunsaturated fatty acids (PUFAs), have been suggested to play a role in sarcopenia development and progression. However, the relationship between specific PUFAs and sarcopenic outcomes remains unclear.
+
+The aim of this study was to explore the association between dietary intake and nutritional status of specific PUFAs with sarcopenia outcomes in community-dwelling older adults with sarcopenia. The study utilized data from the Exercise and Nutrition for Healthy AgeiNg (ENHANce) trial, an ongoing randomized controlled trial investigating the effects of combined interventions on physical performance in sarcopenic older adults.
+
+Baseline data from 29 participants (9 males, 20 females; mean age 76.3±5.4 years) were analyzed for this secondary cross-sectional analysis. Dietary PUFA intake was assessed using four-day food records, while PUFA status was measured using red blood cell membrane fatty acid profiles.
+
+The results showed that total omega-3 intake among participants (1.99±0.99 g/day) fell below recommended levels for both males (2.8-5.6 g/day) and females (2.2-4.4 g/day). There was no significant correlation observed between PUFA intake and status.
+
+In terms of associations with sarcopenia-defining parameters such as muscle strength, mass, and physical performance, alpha-linolenic acid status showed an inverse correlation with appendicular lean mass (aLM), while docosahexaenoic acid status was positively associated with aLM.
+
+Interestingly, certain markers of omega-3 PUFA intake and status were positively correlated with step count, quality of life scores measured by SF-36 questionnaire, and SarQoL scores – indicating better physical activity levels and quality of life in individuals with higher omega-3 intake and status. On the other hand, gamma-linolenic acid status was inversely associated with the physical component summary score of SF-36.
+
+Overall, despite the low intake levels of omega-3 and omega-6 PUFAs among the participants, this exploratory study generated new hypotheses regarding potential correlations between PUFA intake and status with sarcopenia outcomes in older adults. Further research is needed to confirm these findings and elucidate the underlying mechanisms involved.

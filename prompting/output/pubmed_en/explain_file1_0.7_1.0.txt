@@ -1,0 +1,11 @@
+This article is a narrative review that provides an overview of current practices and outcomes in endovascular thrombectomy techniques for the treatment of thrombosed arteriovenous grafts (AVGs) and fistulas (AVFs) in patients with end-stage renal disease (ESRD).
+
+The introduction section starts by explaining that arteriovenous (AV) access is important for ESRD patients to receive hemodialysis. Thrombosis, or clot formation, of AV access can lead to delays in hemodialysis or the need for dialysis catheter placement. The article states that the endovascular approach has become the preferred treatment option for thrombosed access over surgery.
+
+The introduction further describes different interventions used in endovascular thrombectomy, including removing the clot from the AV circuit and treating underlying anatomical abnormalities such as stenosis. It also explains two methods used to dissolve clots: thrombolysis using fibrinolytic agents and mechanical removal of clots through embolectomy balloon catheters, rotating baskets or wires, rheolytic mechanisms, or aspiration.
+
+Additionally, adjunctive methods such as cutting balloon angioplasty, drug-coated balloon angioplasty, and stent placement are discussed as treatments for stenoses in the AV circuit. The introduction mentions potential complications associated with these procedures such as vessel rupture, arterial embolism, pulmonary embolism (PE), and paradoxical embolism to the brain.
+
+The authors state that this narrative review was based on a literature search from electronic databases including PubMed and Google Scholar. They emphasize that understanding thrombectomy techniques and their potential complications is essential in managing patients with thrombosed AV access.
+
+In summary, this article provides an overview of current practices in endovascular thrombectomy techniques for treating clotting issues in AV grafts and fistulas among ESRD patients. It highlights various interventions used, potential complications, and the importance of staying updated on these techniques for effective management.

@@ -1,0 +1,15 @@
+In diesem Text geht es um die postoperative Strahlentherapie bei Erwachsenen mit Weichgewebesarkomen, insbesondere an den Extremitäten und dem Körperstamm.
+
+Es wird berichtet, dass in randomisierten Studien die lokale Rückfallrate durch adjuvante Strahlentherapie signifikant gesenkt werden kann. Dabei wurden zwei verschiedene Arten der Strahlentherapie untersucht: perkutane Strahlentherapie und Brachytherapie. Es wird darauf hingewiesen, dass die Effektivität der Bestrahlung von verschiedenen Faktoren abhängt, wie zum Beispiel dem Grad der Sarkome (G1/G2/G3) und dem Risiko eines lokalen Rückfalls.
+
+Die Ergebnisse der randomisierten Studien zeigen keinen statistisch signifikanten Überlebensvorteil durch die Strahlentherapie. Dies könnte jedoch auf den sogenannten "prescription bias" zurückzuführen sein - also darauf, dass Patienten mit einem höheren Rückfallrisiko eher eine Strahlentherapie erhalten.
+
+Weiterhin wird erwähnt, dass bei R1-Resektion (unvollständige Resektion) das Risiko für einen lokalen Rückfall erhöht ist im Vergleich zur R0-Resektion (vollständige Resektion). Bei R1-Resektion kann eine Nachresektion in Erwägung gezogen werden, sofern dies chirurgisch vertretbar ist. Wenn eine Nachresektion zu einer erheblichen Funktionseinschränkung führt, sollten Risiken und Nutzen abgewogen werden.
+
+Für atypische lipomatöse Tumore (G1 Liposarkome) gibt es spezielle Empfehlungen, je nachdem ob eine R0- oder marginale Resektion erfolgt ist.
+
+Es wird empfohlen, den Beginn der postoperativen Strahlentherapie zeitnah anzustreben, jedoch sollte die Wundheilung abgeschlossen sein. Ein Intervall von mindestens 3 Wochen zwischen der Operation und der Bestrahlung wird empfohlen.
+
+Im Text wird außerdem darauf hingewiesen, dass ein langes Intervall zwischen Operation und Strahlentherapie negative Auswirkungen haben kann. Es gibt jedoch bisher wenig wissenschaftliche Belege für diese Annahme bei Weichgewebesarkomen.
+
+Zusammenfassend lässt sich sagen, dass die postoperative Strahlentherapie bei ausgewählten Patienten mit Weichgewebesarkomen das Risiko für einen lokalen Rückfall signifikant senken kann. Eine individuelle Abwägung von Risiken und Nutzen sowie interdisziplinäre Diskussionen sind wichtig bei der Entscheidung über den Einsatz dieser Therapiemethode.

@@ -1,0 +1,42 @@
+Klinischer Fall: Harnblasenkarzinom mit Verwendung von Urinmarkern
+
+Patient: Herr Müller, 65 Jahre alt, männlich
+
+Anamnese:
+Herr Müller stellt sich in der Urologie vor mit Beschwerden beim Wasserlassen und wiederkehrenden Harnwegsinfektionen. Er berichtet über eine zunehmende Häufigkeit des Wasserlassens sowie über Schmerzen und Brennen beim Wasserlassen. Zudem hat er in den letzten Monaten an Gewicht verloren.
+
+Untersuchungsbefunde:
+Bei der körperlichen Untersuchung zeigt sich ein unauffälliger Allgemeinzustand. Bei der rektalen Untersuchung ist die Prostata leicht vergrößert und druckschmerzhaft.
+
+Diagnostik:
+Es werden verschiedene diagnostische Maßnahmen durchgeführt:
+
+1. Urinanalyse: Es zeigt sich eine mikroskopische Hämaturie.
+2. Ultraschalluntersuchung des Abdomens: Hierbei wird eine verdickte Blasenwand festgestellt.
+3. Zystoskopie: Bei der Zystoskopie wird ein Tumor im Bereich des Blasenhalses entdeckt.
+
+Aufgrund dieser Befunde wird bei Herrn Müller der Verdacht auf ein Harnblasenkarzinom gestellt.
+
+Weitere Diagnostik:
+Um die Diagnose zu bestätigen und das Stadium des Tumors zu bestimmen, werden weitere Untersuchungen durchgeführt:
+
+1. Computertomographie (CT) des Abdomens und Beckens: Hierbei werden keine Hinweise auf Fernmetastasen gefunden.
+2. Transurethrale Resektion (TUR-B): Der Tumor wird endoskopisch entfernt und zur histopathologischen Untersuchung geschickt.
+
+Histopathologie:
+Die histopathologische Untersuchung des Tumors ergibt ein Urothelkarzinom mit einer hohen Malignitätsstufe (G3). Es wird eine weitere Staging-Untersuchung empfohlen, um das Ausmaß der Erkrankung zu bestimmen.
+
+Urinmarker-Test:
+Aufgrund der Empfehlungen des deutschen Leitlinienprogramms für die Onkologie wird bei Herrn Müller ein Urinmarker-Test durchgeführt, um das Risiko eines Rezidivs oder einer Progression des Harnblasenkarzinoms zu bewerten. Es werden die kommerziellen Testverfahren NMP22® und BTA Stat® verwendet.
+
+Ergebnisse des Urinmarker-Tests:
+Der NMP22®-Test zeigt einen erhöhten Wert von 12 U/ml (normaler Bereich: <10 U/ml). Der BTA Stat®-Test ist negativ.
+
+Therapieentscheidung:
+Basierend auf den Ergebnissen der Diagnostik wird bei Herrn Müller ein nicht-muskelinvasives Harnblasenkarzinom diagnostiziert. Aufgrund des erhöhten NMP22-Werts besteht ein erhöhtes Risiko für Rezidive oder Progression. Daher wird eine adjuvante intravesikale Chemotherapie mit Mitomycin C empfohlen, um das Risiko eines erneuten Tumorwachstums zu reduzieren.
+
+Verlaufskontrollen:
+Herr Müller wird regelmäßig zur Verlaufskontrolle und Nachsorge in die urologische Praxis eingeladen. Dabei werden regelmäßig Zystoskopien und Urinmarker-Tests durchgeführt, um das Ansprechen auf die Therapie zu überwachen und frühzeitig ein erneutes Tumorwachstum zu erkennen.
+
+Zusammenfassung:
+Herr Müller wird mit einem nicht-muskelinvasiven Harnblasenkarzinom diagnostiziert. Aufgrund des erhöhten NMP22-Werts wird eine adjuvante intravesikale Chemotherapie empfohlen. Die regelmäßige Verlaufskontrolle mit Zystoskopien und Urinmarker-Tests ist wichtig, um ein erneutes Tumorwachstum frühzeitig zu erkennen.

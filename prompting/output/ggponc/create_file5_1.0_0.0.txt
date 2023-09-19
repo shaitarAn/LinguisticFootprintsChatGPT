@@ -1,0 +1,29 @@
+Klinischer Fall: Pankreaskarzinom
+
+Patient: Herr Müller
+Alter: 63 Jahre
+Geschlecht: Männlich
+
+Anamnese:
+Herr Müller kommt mit Beschwerden wie Gewichtsverlust, Appetitlosigkeit, Bauchschmerzen und Gelbsucht in die Klinik. Nach einer detaillierten Anamneseerhebung stellt sich heraus, dass er auch seit einigen Monaten wiederholt dunklen, teerigen Stuhl hatte. Er gibt an, dass sein Vater vor einigen Jahren wegen Pankreaskarzinom behandelt wurde. Herr Müller hat keinen weiteren relevanten medizinischen oder familiären Hintergrund.
+
+Untersuchungsbefund:
+Bei der körperlichen Untersuchung fällt eine Gelbsucht auf, außerdem ist der Oberbauch druckschmerzhaft. Laboruntersuchungen zeigen erhöhte Werte von Bilirubin, ALAT und γ-Glutamyltransferase. Ein tumormarkerrelevanter Wert des CA 19-9 ist 240 U/mL (Normalwert < 35 U/mL). Eine abdominale Ultraschalluntersuchung zeigt einen verdickten Gallengang und eine Raumforderung im Pankreas. Eine anschließende kontrastmittelgestützte CT-Untersuchung des Abdomens bestätigt das Vorliegen eines Pankreastumors.
+
+Diagnose:
+Basierend auf den erhobenen Befunden wird bei Herrn Müller ein Pankreaskarzinom vermutet. Um eine genaue Diagnose zu stellen und das Stadium des Tumors zu bestimmen, wird eine Whipple-Operation durchgeführt.
+
+Histopathologische Aufarbeitung und Klassifikation des Resektats:
+Während der Operation wird der Tumor vollständig entfernt und zur weiteren histopathologischen Untersuchung geschickt. Im Rahmen der histopathologischen Aufarbeitung werden die Resektionsränder des Whipple-Resektats besonders beachtet. Es werden verschiedene Resektionsränder farbig markiert, um den Abstand der Tumorzellen zu den Resektionsgrenzen im mikroskopischen Schnitt festzustellen. Es stellt sich heraus, dass der zirkumferentielle Resektionsrand nicht betroffen ist, die Tumorzellen sind mehr als 1 mm davon entfernt (CRM-negativ).
+
+Zusätzlich werden Lymphknoten entnommen und untersucht. Von den insgesamt 15 untersuchten Lymphknoten sind 3 von Tumorzellen befallen. Die Lymphknotenratio beträgt somit 3/15.
+
+Das duktale Adenokarzinom des Pankreas wird histologisch auf der Grundlage der WHO-Klassifikation 2010 eingestuft. Es zeigt eine mäßige Drüsendifferenzierung, keine Muzinproduktion, eine moderate Mitosenanzahl und atypische Kerne. Das Grading des Tumors ist G2.
+
+Behandlung und Prognose:
+Basierend auf der histopathologischen Untersuchung des Resektats wird Herr Müller in die adjuvante Chemotherapie eingeschlossen. Die Entscheidung für die adjuvante Chemotherapie und deren genaue Zusammensetzung erfolgen gemäß den aktuellen Leitlinien.
+
+Die Prognose von Herrn Müller wird als relativ günstig eingestuft, da der Tumor vollständig entfernt wurde, keine Tumorzellen den zirkumferentiellen Resektionsrand erreicht haben und die Lymphknotenmetastasenquote niedrig ist. Die Verlaufskontrollen und Nachsorgeuntersuchungen werden gemäß den Leitlinien festgelegt, um ein mögliches Rezidiv frühzeitig zu erkennen.
+
+Rückmeldung an den Operateur:
+Der Operateur erhält den histopathologischen Befund, der die vollständige Entfernung des Tumors (R0-Resektion) bestätigt und den CRM-Status als negativ angibt. Dem Operateur wird außerdem mitgeteilt, dass 3 von 15 untersuchten Lymphknoten von Tumorzellen befallen sind, was zu einer Lymphknotenratio von 3/15 führt. Diese Informationen dienen der weiteren Planung der Nachsorge und Behandlung von Herrn Müller.

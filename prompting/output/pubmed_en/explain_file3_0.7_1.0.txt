@@ -1,0 +1,13 @@
+This article focuses on the role of adenosine signaling in cancer, specifically its impact on immune responses and tumor immunity. Adenosine is produced from the hydrolysis of extracellular ATP (eATP), which is accumulated in the extracellular space during cell death or cellular stress triggered by various factors such as hypoxia, nutrient starvation, or inflammation.
+
+The authors explain that eATP acts as a pro-inflammatory molecule by binding to and activating P2 purinergic receptors, while eADO has been reported to mediate immunosuppression by activating P1 purinergic receptors in immune cells. This shift from ATP to adenosine alters the immunosurveillance in the tumor microenvironment (TME) by reducing ATP levels and enhancing adenosine receptor signaling.
+
+The paper reviews the current understanding of the adenosinergic system in different cell types within the TME, including immune cells, tumor cells, and stromal cells. It also discusses potential future directions for adenosinergic therapies in immuno-oncology.
+
+In addition to providing an overview of adenosine metabolism pathways and mechanisms of action, the article highlights how cancer-related conditions such as cell membrane damage, ischemia, inflammation, and cancer itself can lead to increased release of endogenous ATP. The authors explain that this release serves as a danger signal or "Danger-Associated Molecular Pattern" (DAMP) that alerts phagocytic cells to inflammatory sites and indicates tissue damage.
+
+While eATP activates P2 purinergic receptors promoting oncogenic processes directly in tumor cells or indirectly through immune cell regulation, it is rapidly hydrolyzed to eADO within TME due to higher levels of ectonucleotidases present. The production of eADO involves sequential hydrolysis mediated by CD39 and CD73 enzymes. However alternative ecto-enzymes like CD38 have also been found to contribute to eADO production. 
+
+The concentration of eADO in the TME can remain high due to cancer cell death, release of ATP by Treg cells, and expression of CD73 by cancer-associated fibroblasts (CAFs) induced by A2B receptor activation. This sustained high level of eADO concentration ultimately supports tumor cell growth.
+
+Overall, this article provides insights into the adenosinergic machinery in cancer and its potential implications for therapy. It highlights the complex interplay between ATP and adenosine signaling in modulating immune responses within the tumor microenvironment.

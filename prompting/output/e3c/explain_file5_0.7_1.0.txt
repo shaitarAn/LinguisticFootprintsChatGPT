@@ -1,0 +1,17 @@
+Clinical Case Summary:
+
+This clinical case describes the presentation, diagnosis, and management of a 17-year-old African male who was admitted to the hospital with a one-week history of fever, rash, headache, neck pain, sore throat, dry cough, and preceding diarrhea. The patient had no prior medical history or significant medication use. He had no known COVID-19 contact but had recent travel to Kwa-Zulu Natal.
+
+Upon examination, the patient appeared ill and had an elevated heart rate and temperature. A generalized rash was observed on his body and eyelids along with conjunctivitis. The patient's cardiovascular examination revealed normal heart sounds but showed signs of tachycardia.
+
+Initial diagnostic tests showed elevated inflammatory markers such as C-reactive protein (CRP), procalcitonin (PCT), white cell count (WCC), ferritin, lactate dehydrogenase (LDH), and D-dimers. Blood and urine cultures were negative. Imaging studies including chest radiograph and abdominal sonar were normal.
+
+The differential diagnosis included viral infections such as HIV seroconversion or acute infection with Epstein-Barr virus (EBV), herpes simplex virus (HSV), or cytomegalovirus (CMV). Bacterial infections caused by Group A streptococci, Neisseria meningitidis, other gram-negative bacteria, rickettsia, leptospirosis or malaria were also considered. Non-infectious differentials included Kawasaki-like disease (KD) as well as adult-onset Still's disease (AOSD) or systemic lupus erythematosus (SLE).
+
+Therapeutic interventions included intravenous fluid administration to manage hypoperfusion; empiric antibiotics for possible rickettsial disease; hydrocortisone initially but discontinued due to concern for infection; intravenous immunoglobulin therapy; dobutamine infusion for cardiac support; diuresis to counter fluid overload; methylprednisolone pulse therapy; colchicine for myopericarditis; aspirin and enoxaparin for thrombotic risk.
+
+The patient showed clinical improvement with resolution of fever, rash, and normalization of inflammatory markers. Follow-up evaluations at the rheumatology clinic revealed complete recovery with improvement in heart function. The patient's prednisone dosage was gradually tapered down over four weeks.
+
+Overall, the patient's condition was diagnosed as Multisystem Inflammatory Syndrome in Children (MIS-C), which is a rare but severe condition that can occur after a COVID-19 infection. The patient had tested positive for SARS-CoV-2 antibodies, indicating previous exposure to the virus.
+
+This case highlights the importance of considering various infectious and non-infectious differentials when evaluating patients with fever and multisystem involvement. Prompt recognition and appropriate management are crucial in improving outcomes for patients with MIS-C.

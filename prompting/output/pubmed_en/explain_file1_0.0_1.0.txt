@@ -1,0 +1,11 @@
+This article is a narrative review that discusses the current practices and outcomes of endovascular thrombectomy techniques for the treatment of thrombosed arteriovenous grafts (AVGs) and fistulas (AVFs) in patients with end-stage renal disease (ESRD).
+
+The introduction provides background information on the importance of arteriovenous (AV) access for patients with ESRD who require hemodialysis. It explains that thrombosis, or the formation of blood clots, in AV access can lead to delays in hemodialysis treatment or even abandonment of the access, requiring the placement of a dialysis catheter. The introduction also highlights that endovascular approaches have become preferred over surgery for treating thrombosed AV access.
+
+The introduction further describes various interventions used in endovascular thrombectomy techniques. These include removing thrombus from the AV circuit and treating underlying anatomical abnormalities such as stenosis. Thrombolysis, which involves dissolving blood clots using fibrinolytic agents, can be performed using infusion catheters or pulse injector devices. Thrombectomy, on the other hand, involves mechanically removing blood clots using embolectomy balloon catheters, rotating baskets or wires, rheolytic mechanisms, or aspiration mechanisms. Additionally, adjunctive methods like cutting balloon angioplasty, drug-coated balloon angioplasty, and stent placement may be used to treat stenoses in the AV circuit.
+
+The introduction also mentions potential complications associated with these procedures such as vessel rupture, arterial embolism (blood clot traveling to an artery), pulmonary embolism (blood clot traveling to lungs), and paradoxical embolism to the brain.
+
+The authors state that this narrative review article was written based on a literature search from electronic databases including PubMed and Google Scholar.
+
+Overall, this article aims to provide an understanding of different thrombectomy techniques used for treating thrombosed AV access and their potential complications, which is essential for managing patients with ESRD.

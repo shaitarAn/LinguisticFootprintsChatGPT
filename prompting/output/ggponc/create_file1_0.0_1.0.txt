@@ -1,0 +1,30 @@
+Klinischer Fall:
+
+Patient: Herr Müller, 55 Jahre alt
+
+Anamnese:
+Herr Müller stellt sich in der onkologischen Ambulanz vor. Er berichtet über seit einigen Monaten bestehende Schmerzen und eine zunehmende Schwellung im linken Oberschenkel. Die Beschwerden haben sich in den letzten Wochen verstärkt und beeinträchtigen mittlerweile seine Mobilität. Er gibt an, dass er keine Vorerkrankungen hat und bisher gesund war.
+
+Untersuchungsbefund:
+Bei der körperlichen Untersuchung wird eine deutliche Schwellung im linken Oberschenkel festgestellt. Der Tumor ist gut tastbar und zeigt eine feste Konsistenz. Es besteht ein Druckschmerz bei Palpation des Tumors.
+
+Diagnose:
+Aufgrund der klinischen Symptomatik wird bei Herrn Müller der Verdacht auf ein Weichgewebesarkom gestellt. Zur weiteren Abklärung erfolgt eine MRT-Untersuchung des linken Oberschenkels, die den Verdacht bestätigt: Es handelt sich um ein Weichgewebesarkom mit einer Größe von 8 cm.
+
+Therapieentscheidung:
+Nach interdisziplinärer Tumorkonferenz wird beschlossen, dass Herr Müller einer operativen Resektion des Sarkoms unterzogen werden soll. Aufgrund der Größe des Tumors und seiner Lage im Oberschenkel ist jedoch mit einem R1-Resektionsstatus zu rechnen.
+
+Behandlung:
+Die Operation verläuft komplikationslos, jedoch kann nur eine R1-Resektion erreicht werden. In Anbetracht des erhöhten Rückfallrisikos wird eine adjuvante Strahlentherapie empfohlen.
+
+Postoperative Strahlentherapie:
+Herr Müller wird über die Vorteile einer adjuvanten Strahlentherapie aufgeklärt. Aufgrund der vorliegenden Studiendaten und Leitlinienempfehlungen wird ihm eine perkutane Strahlentherapie mit einer Gesamtdosis von 45 Gy in Einzeldosen von 1,8 Gy sowie einem Boost von 18 Gy in Einzeldosen von 1,8 Gy empfohlen. Die Bestrahlung soll innerhalb von 6 Wochen nach der Operation beginnen.
+
+Verlaufskontrollen:
+Herr Müller wird regelmäßig zur Verlaufskontrolle und Nachsorge in die onkologische Ambulanz einbestellt. Es werden klinische Untersuchungen sowie bildgebende Verfahren durchgeführt, um mögliche lokale Rückfälle frühzeitig zu erkennen.
+
+Prognose:
+Aufgrund des R1-Resektionsstatus besteht bei Herrn Müller ein erhöhtes Risiko für einen lokalen Rückfall. Durch die adjuvante Strahlentherapie kann dieses Risiko jedoch signifikant reduziert werden. Eine statistisch signifikante Verbesserung des Gesamtüberlebens konnte bisher nicht nachgewiesen werden, jedoch ist dies möglicherweise auf den "prescription bias" zurückzuführen.
+
+Zusammenfassung:
+Herr Müller wurde aufgrund eines Weichgewebesarkoms im linken Oberschenkel operiert und erhielt anschließend eine adjuvante perkutane Strahlentherapie gemäß den aktuellen Leitlinienempfehlungen. Die regelmäßige Nachsorge dient der Früherkennung von möglichen Rückfällen. Die Prognose ist abhängig von der Wirksamkeit der Strahlentherapie und dem individuellen Krankheitsverlauf des Patienten.

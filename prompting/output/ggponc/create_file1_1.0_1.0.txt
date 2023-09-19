@@ -1,0 +1,21 @@
+Patienteninformation:
+
+Name: Frau Müller
+Alter: 52 Jahre
+Geschlecht: weiblich
+
+Klinischer Fall:
+
+Frau Müller ist eine 52-jährige Patientin, die vor kurzem eine Operation zur Entfernung eines Weichgewebesarkoms in ihrer linken oberen Extremität hatte. Die Operation war erfolgreich und das Tumorgewebe konnte vollständig entfernt werden (R0-Resektion). Aufgrund der aggressiven Natur des Tumors und des hohen Risikos eines lokalen Rückfalls wird ihr nun eine postoperative Strahlentherapie empfohlen.
+
+Basierend auf den medizinischen Leitlinien für adulte Weichgewebesarkome wurde Frau Müller über die verschiedenen Optionen der adjuvanten Strahlentherapie informiert. Die Entscheidung wurde getroffen, dass sie eine perkutane Strahlentherapie erhalten soll, bestehend aus einer Gesamtdosis von 45 Gy in Einzeldosen von 1,8 Gy sowie einem Boost von weiteren 18 Gy in Einzeldosen von 1,8 Gy.
+
+Studien haben gezeigt, dass diese Art der adjuvanten Strahlentherapie die lokale Rückfallrate signifikant senken kann. Insbesondere bei Patientinnen mit G2/G3 Sarkomen wurde ein deutlicher Unterschied in der lokalen Kontrollrate festgestellt. Bei diesen Patienten lag die Kontrollrate bei Verwendung der Strahlentherapie bei 89 % im Vergleich zu nur 66 % ohne Strahlentherapie.
+
+Obwohl keine statistisch signifikanten Unterschiede im Überleben festgestellt wurden, sind Fachleute sich einig, dass dies auf den sogenannten "prescription bias" zurückzuführen sein könnte. Dies bedeutet, dass die Strahlentherapie häufiger bei Patienten mit einem höheren Rückfallrisiko eingesetzt wird.
+
+Da die Möglichkeit eines R1-Resttumors besteht (nicht alle Tumorzellen wurden entfernt), sollte auch eine Nachresektion in Betracht gezogen werden, sofern dies chirurgisch möglich ist und akzeptable Morbidität aufweist. In einigen Fällen kann jedoch eine erhebliche Funktionseinbuße auftreten, wie beispielsweise eine Amputation. In solchen Fällen sollten Risiko und Nutzen gegeneinander abgewogen werden.
+
+Die postoperative Strahlentherapie sollte innerhalb von 6 Wochen nach der Resektion begonnen werden, um sicherzustellen, dass noch vorhandene Tumorzellen zerstört werden können. Studien haben gezeigt, dass ein verzögerter Beginn der Strahlentherapie zu einem erhöhten Risiko für einen lokalen Rückfall führt.
+
+Frau Müller wurde über diese Behandlungsempfehlungen ausführlich informiert und hat zugestimmt, die postoperative Strahlentherapie zu beginnen. Ihr Zustand wird weiterhin engmaschig überwacht und sie wird regelmäßige Nachsorgetermine haben, um sicherzustellen, dass kein lokaler Rückfall auftritt.

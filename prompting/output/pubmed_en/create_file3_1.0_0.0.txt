@@ -1,0 +1,13 @@
+Introduction
+
+Cancer is a complex and heterogeneous disease characterized by uncontrolled cell growth and proliferation. Over the years, numerous studies have focused on understanding the underlying mechanisms of cancer development and progression. Recently, the role of extracellular adenosine (eADO) signaling has emerged as a significant contributor in regulating immune responses and tumor immunity.
+
+eADO is primarily produced from the hydrolysis of extracellular ATP (eATP). Accumulation of eATP in the extracellular space occurs as a result of cellular stress triggered by factors such as hypoxia, nutrient starvation, inflammation, and cell death. While eATP functions as a pro-inflammatory molecule by binding and activating P2 purinergic receptors (P2X and P2Y), eADO has been found to mediate immunosuppression by activating the P1 purinergic receptors (A1, A2A, A2B, and A3) present in various immune cells.
+
+The hydrolysis of eATP to eADO not only reduces eATP levels but also enhances adenosine receptor signaling, thereby altering the immunosurveillance in the tumor microenvironment (TME). This modulation of immune responses in the TME has far-reaching implications for tumor growth and progression.
+
+Interestingly, the effects of both P1 and P2 purinergic receptors extend beyond immune cells, with involvement observed in tumor cells and stromal cells present in the TME. Understanding the intricate interplay between the adenosinergic system and various cell types in the TME is crucial for unraveling the full potential of adenosinergic therapies in immuno-oncology.
+
+This review aims to present the most up-to-date understanding of the adenosinergic machinery in cancer, encompassing insights from basic mechanisms to therapy. Here, we will delve into the metabolic pathways of eADO production, degradation, and signaling, paying specific attention to the enzymes involved in this process. Furthermore, we will explore the diverse roles of adenosine receptors in immune cells, tumor cells, and stromal cells within the TME.
+
+By comprehensively examining the adenosinergic system in cancer, we aim to shed light on the potential novel directions for future adenosinergic therapies in immuno-oncology. Ultimately, this knowledge will contribute to the development of targeted interventions that can modulate the adenosinergic machinery for improved cancer treatment outcomes.

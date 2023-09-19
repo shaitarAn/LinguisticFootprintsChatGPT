@@ -1,0 +1,13 @@
+Die atopische Dermatitis (AD) ist eine chronische entzündliche Hauterkrankung, die durch Juckreiz, Erytheme, Läsionen und Trockenheit der Haut gekennzeichnet ist. Es handelt sich um eine komplexe multifaktorielle Erkrankung, bei der sowohl genetische als auch Umweltfaktoren eine Rolle spielen. Allergene wie Pollen, Hausstaubmilben oder Tierhaare können bei empfindlichen Personen zu allergischen Reaktionen führen und somit zur Verschlimmerung der AD beitragen.
+
+Die Allergenimmuntherapie (AIT), auch bekannt als Hyposensibilisierung oder spezifische Immuntherapie, ist die einzige Behandlungsoption für Allergien, die langfristig einen krankheitsmodifizierenden Effekt haben kann. Bei dieser Therapie werden Patienten über einen Zeitraum von mehreren Jahren schrittweise an steigenden Mengen des jeweiligen Allergens gewöhnt. Dadurch soll das Immunsystem des Patienten toleranter gegenüber dem betreffenden Allergen werden und allergische Reaktionen reduziert oder sogar verhindert werden.
+
+Obwohl es Evidenz für den Einfluss von Aeroallergenen auf die Exazerbation der AD gibt, wird die AIT in der klinischen Praxis nur selten zur Behandlung von AD-Patienten eingesetzt. Dies liegt unter anderem an der Tatsache, dass bisher nur begrenzte Daten zu Wirksamkeit und Sicherheit dieser Therapie bei AD-Patientengruppen vorliegen.
+
+In den letzten Jahren wurden mehrere klinische Studien durchgeführt, um den Effekt von AIT auf den Schweregrad der AD zu untersuchen. Dabei konnte eine große Heterogenität in Bezug auf Studiendesign, Patientenkohorten, verwendete Allergene, Applikationsformen und Endpunkte festgestellt werden. Dies erschwert die Vergleichbarkeit der Studienergebnisse und die Ableitung einheitlicher Empfehlungen.
+
+Trotz dieser Heterogenität zeigen jedoch mehrere Untersuchungen eine positive Wirkung der AIT auf den Schweregrad der AD. Es gibt Hinweise darauf, dass zumindest eine Untergruppe von AD-Patienten von dieser Therapie profitieren kann.
+
+Zukünftige Entwicklungen im Bereich der AIT könnten dazu beitragen, dass die Therapie einen breiteren Einsatz bei AD-Patienten findet. Dazu gehören unter anderem die Identifizierung spezifischer Allergene, die für einzelne Patientengruppen relevant sind, sowie die Optimierung von Applikationsformen und Dosierungsschemata.
+
+Insgesamt ist die AIT bei atopischer Dermatitis ein vielversprechender Ansatz zur Behandlung dieser Erkrankung. Weitere Forschungsanstrengungen sind jedoch erforderlich, um den Einsatzbereich und Optimierungsmöglichkeiten dieser Therapie zu bestimmen.

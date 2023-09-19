@@ -1,0 +1,25 @@
+Clinical Case: A 45-year-old mentally ill woman was admitted to the hospital after a suicide attempt by jumping off a building. She sustained extensive injuries, including full-thickness burns covering approximately 42% of her total body surface area (TBSA). The burns involved her face and neck (6%), both upper extremities (10%), right thigh (5%), left thigh and leg (4%), and most of her anterior and posterior trunk (17%). The patient had a history of bipolar disorder, diagnosed as ICD-10 F31.9, and was on medication including Lithium carbonate 900 mg daily.
+
+Upon admission, the patient was in critical condition due to the severity of her burns. She required immediate resuscitation with intravenous fluids and underwent multiple debridement surgeries over the course of her hospitalization which lasted for 70 days. Due to aggressive behavior towards herself and others, she required occasional physical restraints.
+
+Nutrition management for this patient began promptly upon admission. In the initial nutrition assessment, it was noted that she weighed 55 kg with a height of 160 cm, resulting in a body mass index (BMI) of 21.48 kg/m2 within normal range. Gastrointestinal symptoms were absent; however, due to communication difficulties related to her mental illness, information regarding dietary intake prior to admission could not be obtained.
+
+The patient's mother reported that she had noticed significant weight loss in recent months as the patient had been refusing meals at home but consuming excessive amounts of sugary snacks and soda instead. Laboratory investigations revealed low albumin levels at 3 g/L along with electrolyte imbalances; signs of fluid overload were not observed clinically.
+
+Using subjective global assessment (SGA), the patient was classified as moderately malnourished under group B category based on clinical findings such as muscle wasting and subcutaneous fat loss despite having normal BMI values initially.
+
+To address her nutritional needs, the patient was started on an energy and protein intake of 30 kcal/kg and 1.5 g/kg respectively, divided between oral nutrition and oral nutrition supplements (ONS) in a 60:40 ratio. Micronutrient supplementation included vitamin A at a dose of 50,000 units for the first week, vitamin C at 100 mg twice daily, and zinc at 15 mg once daily.
+
+During the early weeks of hospitalization, the patient's weight continued to decline despite adequate nutritional support. By the end of the second week, her body weight had dropped to 50 kg while her serum albumin level decreased further to 2.5 g/L. To address this ongoing weight loss and malnutrition, adjustments were made by increasing energy intake to 35 kcal/kg with protein intake maintained at previous levels.
+
+The patient's appetite remained inconsistent throughout treatment; she often displayed agitation and resistance towards enteral access procedures. Despite attempts to manage pain with analgesics and sedatives, she experienced significant discomfort which led to increased aggression.
+
+To meet her protein requirements adequately while minimizing gastrointestinal complications related to enteral feeding intolerance, partially parenteral nutrition (PN) enriched with branched-chain amino acids (BCAA) was initiated as an adjunct therapy alongside ongoing enteral nutrition support.
+
+Despite these interventions aimed at improving nutritional status, the patient's BMI continued its downward trend reaching critically low levels of 16 kg/m2 by day 42. Her body weight dropped further to only 48 kg with a serum albumin level of <2 g/L indicating severe malnutrition.
+
+On day 70 of hospitalization, granulation tissue formation was observed on wound beds indicating progress in wound healing; however considering her mental health condition along with persistent severe malnutrition (BMI <17 kg/m2), it was decided not to proceed with skin graft surgery due to potential complications associated with poor healing outcomes.
+
+At the time of discharge, the patient had lost a total of 12% of her body weight with a BMI of 15.94 kg/m2 and serum albumin level at 2.3 g/L. Despite the significant physical deterioration, her mental and general condition showed some improvement compared to admission.
+
+The patient was discharged from the hospital with appropriate outpatient follow-up arranged for continued psychiatric care and nutritional support in collaboration with community-based services to address both her mental health needs and ongoing malnutrition management.
