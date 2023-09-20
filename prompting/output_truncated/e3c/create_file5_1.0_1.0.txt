@@ -1,0 +1,31 @@
+Patient Information:
+
+On the 15th October 2020, a previously healthy, 32-year-old Caucasian female was admitted to the medical ward at St. Mary's Hospital due to a sudden onset of respiratory symptoms. The patient presented with a three-day history of high-grade fever, severe cough with productive yellow sputum, and shortness of breath. She had no significant past medical history and was not taking any medications.
+
+Clinical Findings:
+
+Upon examination, the patient appeared acutely ill with a temperature of 39.2°C and an oxygen saturation level of 88% on room air. She had increased work of breathing with bilateral coarse crackles heard on auscultation across all lung fields. Other physical examinations were unremarkable.
+
+Diagnostic Assessment:
+
+To determine the cause of her respiratory symptoms, several diagnostic tests were performed. A chest X-ray showed diffuse bilateral infiltrates consistent with pneumonia. Blood investigations revealed leukocytosis and elevated inflammatory markers including C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR). Arterial blood gas analysis demonstrated respiratory acidosis with hypoxemia.
+
+A nasopharyngeal swab was obtained for SARS-CoV-2 polymerase chain reaction (PCR), which came back positive for COVID-19 infection.
+
+Therapeutic Intervention:
+
+The patient was immediately started on supplemental oxygen therapy via nasal cannula to maintain adequate oxygenation. Intravenous antibiotics (ceftriaxone and azithromycin) were initiated empirically to cover both bacterial pneumonia and possible superimposed bacterial infection in COVID-19 patients.
+
+In addition to antibiotics, the patient received dexamethasone as per hospital protocol for moderate-to-severe cases of COVID-19 pneumonia based on emerging evidence supporting its use in reducing mortality rates.
+
+Supportive measures included hydration, regular monitoring of vital signs including oxygen saturation levels, along with strict isolation precautions to prevent transmission of the virus.
+
+Follow-up and Outcomes:
+
+Over the course of her hospitalization, the patient showed gradual improvement in her respiratory symptoms. Oxygen requirements decreased, and she was able to maintain an oxygen saturation level above 94% on room air. Serial chest X-rays demonstrated resolution of pulmonary infiltrates.
+
+The patient completed a 10-day course of antibiotics and dexamethasone therapy as prescribed. She was discharged home with instructions for close follow-up, including regular check-ups at an outpatient clinic to monitor her lung recovery and ensure no secondary complications arise.
+
+At a one-month follow-up appointment, the patient reported complete resolution of respiratory symptoms. Repeat chest X-ray showed no residual abnormalities.
+
+In conclusion, this case highlights a young adult patient presenting with moderate-to-severe COVID-19 pneumonia requiring hospitalization and management with supportive care, antibiotics, and dexamethasone therapy. With appropriate treatment and close medical supervision during recovery, the patient achieved full resolution of symptoms without any long-term complications associated with COVID-19 infection.

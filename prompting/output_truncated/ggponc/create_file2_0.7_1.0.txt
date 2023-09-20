@@ -1,0 +1,35 @@
+Klinischer Fall: Harnblasenkarzinom
+
+Patient: Herr Müller, 65 Jahre alt, männlich
+
+Anamnese: 
+Herr Müller stellt sich in der Urologiepraxis vor und berichtet über seit einigen Wochen bestehende Symptome. Er klagt über häufiges Wasserlassen und das Gefühl einer unvollständigen Entleerung der Blase. Außerdem hat er in den letzten Wochen mehrmals Blut im Urin bemerkt. Er gibt an, dass er früher mehrere Jahre lang geraucht hat, jedoch vor 10 Jahren mit dem Rauchen aufgehört hat.
+
+Untersuchungsbefund:
+Bei der körperlichen Untersuchung zeigt sich eine unauffällige allgemeine Verfassung des Patienten. Bei der palpatorischen Untersuchung des Abdomens sind keine Auffälligkeiten zu erkennen.
+
+Diagnostik:
+Zur weiteren Diagnostik werden folgende Untersuchungen durchgeführt:
+
+1. Urinuntersuchung:
+Im Urin werden mithilfe von Urintests die molekularen Marker NMP22®, BTA Stat®/BTA TRAK® und UBC® nachgewiesen.
+
+2. Zystoskopie:
+Eine Zystoskopie wird durchgeführt, um die Blasenschleimhaut genauer zu untersuchen und mögliche Tumore oder Veränderungen festzustellen.
+
+3. Bildgebung:
+Es wird eine Ultraschalluntersuchung der Nieren- und Blasengegend durchgeführt, um mögliche Anomalien oder Tumore sichtbar zu machen.
+
+4. Biopsie:
+Bei Verdacht auf ein Harnblasenkarzinom wird eine Gewebeprobe entnommen und histopathologisch untersucht, um den Tumor zu charakterisieren und das Stadium der Erkrankung festzustellen.
+
+Diagnose:
+Aufgrund der Symptomatik und der Befunde bei den genannten Untersuchungen wird bei Herrn Müller ein Harnblasenkarzinom diagnostiziert. Die genaue Diagnose, das Stadium des Tumors sowie weitere Therapieoptionen werden anhand der histopathologischen Untersuchungsergebnisse festgelegt.
+
+Therapie:
+Die Therapie des Harnblasenkarzinoms hängt vom Stadium des Tumors ab. Es können verschiedene Behandlungsoptionen wie eine transurethrale Resektion (TUR-B), eine intravesikale Chemotherapie oder eine radikale Zystektomie in Betracht gezogen werden. Die Entscheidung über die geeignete Therapie erfolgt in enger Absprache mit dem Patienten unter Berücksichtigung seiner individuellen Situation.
+
+Verlauf:
+Der weitere Verlauf von Herrn Müllers Erkrankung hängt von verschiedenen Faktoren ab, einschließlich des Stadiums des Tumors, seiner Aggressivität und dem Ansprechen auf die gewählte Therapie. Eine regelmäßige Nachsorge mit Kontrolluntersuchungen und Überwachung der molekularen Marker im Urin ist wichtig, um mögliche Rezidive oder Metastasen frühzeitig zu erkennen.
+
+Zusammenfassend zeigt dieser klinische Fall einen fiktiven Patienten mit einem Harnblasenkarzinom, bei dem zur

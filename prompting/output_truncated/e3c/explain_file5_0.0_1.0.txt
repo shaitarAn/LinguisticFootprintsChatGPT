@@ -1,0 +1,19 @@
+Clinical Case Summary:
+
+A previously healthy 17-year-old African male presented to the hospital with a one-week history of fever, rash, headache, neck pain, sore throat, dry cough, and diarrhea. He had no prior medical history or significant medication use. On examination, he appeared ill with a high heart rate and temperature. He had a generalized rash over his body and eyelids, conjunctivitis, but no other abnormal findings on abdominal or respiratory examinations.
+
+Initial diagnostic tests showed elevated inflammatory markers such as C-reactive protein (CRP), procalcitonin (PCT), white cell count (WCC), ferritin, lactate dehydrogenase (LDH), and D-dimers. Blood and urine cultures were negative. The patient's lumbar puncture was normal along with chest radiograph and abdominal sonar results.
+
+The differential diagnosis included viral infections like HIV seroconversion or acute infections caused by Epstein-Barr virus (EBV), herpes simplex virus (HSV), cytomegalovirus (CMV) as well as bacterial infections caused by Group A streptococci or Neisseria meningitidis among others. Non-infectious differentials considered were Kawasaki-like disease (KD) and adult-onset Still's disease (AOSD).
+
+The patient received intravenous fluids initially but did not respond well to them. Empiric antibiotic treatment was started for rickettsial disease while continuing ceftriaxone for bacterial coverage. Hydrocortisone was initiated but discontinued due to infection concerns.
+
+On day four of admission, the patient developed cardiac symptoms including an audible gallop rhythm and low blood pressure along with elevated cardiac troponin-T levels indicating heart dysfunction. Repeat echocardiogram revealed poor heart function with dilation of chambers and regurgitation in valves.
+
+Intravenous immunoglobulin therapy was started along with dobutamine infusion to support heart function. Steroid treatment was also initiated. Serological testing confirmed the presence of antibodies against SARS-CoV-2, indicating a previous infection.
+
+The patient's condition gradually improved with decreasing fever and inflammatory markers. Aspirin and enoxaparin were added to prevent thrombotic complications. Repeat echocardiogram showed improvement in heart function.
+
+The patient was discharged on prednisone, aspirin, and colchicine. Follow-up visits showed complete recovery with no residual symptoms or signs of heart failure.
+
+In summary, this case describes a previously healthy young male who presented with fever, rash, and cardiac involvement suggestive of multisystem inflammatory syndrome in children (MIS-C) associated with a previous SARS-CoV-2 infection. The patient responded well to immunoglobulin therapy and steroids, leading to complete recovery without any long-term complications.

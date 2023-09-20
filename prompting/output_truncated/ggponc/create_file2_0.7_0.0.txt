@@ -1,0 +1,30 @@
+Klinischer Fall: Harnblasenkarzinom mit Verwendung von Uringebundenen molekularen Markern
+
+Patienteninformation:
+Name: Herr Müller
+Alter: 62 Jahre
+Geschlecht: Männlich
+
+Anamnese:
+Herr Müller wurde von seinem Hausarzt zur weiteren Abklärung von Hämaturie (Blut im Urin) überwiesen. Er berichtet von gelegentlichen Schmerzen beim Wasserlassen und häufigem Harndrang. Er ist Raucher und hatte in der Vergangenheit beruflich mit Chemikalien gearbeitet.
+
+Klinischer Befund:
+Bei der körperlichen Untersuchung ist der Patient in gutem Allgemeinzustand. Es wird eine Zystoskopie durchgeführt, bei der ein auffälliger Tumor in der Harnblase entdeckt wird. Eine Biopsie des Tumors wird entnommen und zur weiteren histopathologischen Untersuchung geschickt.
+
+Diagnose:
+Histopathologische Untersuchung der Biopsie bestätigt die Diagnose eines Urothelkarzinoms der Harnblase. Es handelt sich um einen nicht-muskelinvasiven Tumor (NMIBC) vom Ta-Grad.
+
+Weiterführende Untersuchungen:
+Aufgrund der Diagnose eines NMIBC werden weitere Untersuchungen zur Risikostratifizierung und Nachsorge empfohlen. Neben der Zystoskopie wird auch der Einsatz von Uringebundenen molekularen Markern empfohlen.
+
+Ergebnisse der Uringebundenen molekularen Marker:
+Es werden die kommerziellen Testverfahren NMP22®, BTA Stat®/BTA TRAK® und UBC® angewendet, um Uringebundene molekulare Marker im Urin von Herrn Müller nachzuweisen.
+
+- NMP22 Test: Der quantitative NMP22-Test zeigt eine erhöhte Konzentration von NMP22 im Urin von Herrn Müller (cutoff ≥8.25 U/ml). Dies weist auf eine erhöhte Tumormasse hin.
+- BTA Stat/BTA TRAK Test: Die Ergebnisse des BTA Stat/BTA TRAK Tests zeigen eine leichte Erhöhung des Bladder Tumour Antigens im Urin von Herrn Müller. Dies kann auf das Vorhandensein von malignen Urothelzellen hinweisen.
+- UBC Rapid Test: Der UBC Rapid Test weist Fragmente der Zytokeratine 8 und 18 im Urin von Herrn Müller nach. Dies kann auf Zelluntergang und damit auf das Vorhandensein von Blasentumoren hinweisen.
+
+Diskussion und Behandlungsplan:
+Aufgrund der Ergebnisse der Uringebundenen molekularen Marker und der histopathologischen Diagnose eines NMIBC wird eine umfassende Nachsorge und Behandlung für Herrn Müller empfohlen. Dies beinhaltet regelmäßige Zystoskopien zur Überwachung des Tumors und eine Entscheidung über weitere therapeutische Maßnahmen wie transurethrale Resektion des Tumors (TUR-B) oder intravesikale Therapie mit Bacillus Calmette-Guérin (BCG).
+
+Es wird empfohlen, regelmäßige Nachsorgeuntersuchungen durchzuführen, um das Fortschreiten des

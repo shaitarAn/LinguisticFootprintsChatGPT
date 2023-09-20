@@ -12,11 +12,11 @@ png_directory = Path("../plots")
 if not os.path.exists("../plots/combined_results"):
     os.makedirs("../plots/combined_results")
 
-if not os.path.exists("../results/combined_results"):
-    os.makedirs("../results/combined_results")
+if not os.path.exists("../results_truncated/combined_results"):
+    os.makedirs("../results_truncated/combined_results")
 
 # get the path to the directory where the pdf file will be saved
-output_dir = "../results/combined_results"
+output_dir = "../results_truncated/combined_results"
 
 # iterate through the directories in the png_directory
 for top_directory in os.listdir(png_directory):

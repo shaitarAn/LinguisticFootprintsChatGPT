@@ -11,7 +11,7 @@ args = parser.parse_args()
 corpus = args.corpus
 
 # Directory where the CSV files are located
-csv_directory = "../results"  # Change this to the directory containing your CSV files
+csv_directory = "../results_truncated"  # Change this to the directory containing your CSV files
 
 # Initialize an empty DataFrame to store the combined data
 combined_dataframe = pd.DataFrame()

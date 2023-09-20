@@ -1,0 +1,13 @@
+Harnblasenkarzinom ein Phänomen. Untersucht wurden Harnblasenkrebspatienten im Vergleich zu Gesunden. Es wurde festgestellt, dass bei Harnblasenkrebspatienten bestimmte zelluläre Bestandteile vermehrt im Urin nachgewiesen werden können. Diese Bestandteile werden als molekulare Marker bezeichnet und dienen dazu, das Vorhandensein von Urothelkarzinomen im Urin zu erkennen.
+
+Es gibt verschiedene Testverfahren für diese Marker, entweder qualitativ oder semi-quantitativ. Einige kommerzielle Testverfahren, die für die klinische Anwendung zugelassen sind, sind NMP22®, BTA Stat®/BTA TRAK® und UBC®. Allerdings gibt es auch zahlreiche andere molekulare Marker, über die in der Literatur berichtet wurde. Die Qualität der Literatur zu diesen Urinmarkern ist jedoch sehr heterogen und es mangelt an standardisierten Kriterien.
+
+Ein Beispiel für einen solchen Markertest ist der NMP22-Test. Das Protein NMP22 kommt in malignen Urothelzellen häufiger vor als in normalen Zellen. Patienten mit Blasenkarzinom scheiden NMP22 vermehrt im Urin aus. Der Test basiert auf dem Nachweis von apoptotischen Zellbestandteilen im Urin und kann daher auch unspezifisch für andere Erkrankungen sein. Der quantitativen NMP22-Test korreliert jedoch mit der Tumormasse.
+
+Studien haben gezeigt, dass der NMP22-Test eine höhere Sensitivität im Vergleich zur Urinzytologie aufweist, aber auch eine höhere falsch positive Rate (ca. 80%). Die Spezifität ist deutlich niedriger. Die Testergebnisse können auch stark variieren. Die Spezifität kann erhöht werden, wenn bestimmte klinische Konditionen, wie Steine, Infektionen oder Entzündungen, ausgeschlossen werden.
+
+Ähnliche Tests wie der NMP22-Test sind die BTA (Bladder Tumour Antigen) Tests, die das Protein hCFHrp nachweisen. Diese Tests sind als Zusatzverfahren zur Zystoskopie bei der Primärdiagnostik zugelassen. Die Sensitivität und Spezifität dieser Tests sind ähnlich wie bei der Urinzytologie.
+
+Andere Urinmarker, die untersucht wurden, sind zum Beispiel Fibrinspaltprodukte, Telomerase, CK20, CD4, Hyaluronsäure/Hyaluronidase, Survivin und andere. Keines dieser Verfahren wurde bisher für eine einfache praktische Anwendung entwickelt und keines wurde mit ausreichender Testqualität für eine klinische Anwendung validiert.
+
+Zusammenfassend lässt sich sagen, dass Urinmarker eine vielversprechende Methode zur Erkennung von Harnblasenkarzinomen sind, aber weitere Forschung und Validierung sind erforderlich, um ihre klinische Anwendung

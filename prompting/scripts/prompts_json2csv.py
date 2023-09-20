@@ -6,7 +6,7 @@ with open('prompts.json', 'r') as json_file:
     data = json.load(json_file)
 
 # Open a CSV file for writing
-with open('output.csv', 'w', newline='') as csv_file:
+with open('prompts.csv', 'w', newline='') as csv_file:
     # Extract the keys for column headers
     columns = ['corpus']
     for task, items in data['zora_en'].items():

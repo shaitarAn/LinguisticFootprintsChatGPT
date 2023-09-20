@@ -1,0 +1,27 @@
+Klinischer Fall: Pankreaskarzinom
+
+Patient: Herr Müller, 62 Jahre alt, männlich
+
+Anamnese:
+Herr Müller stellt sich mit seit einigen Wochen bestehenden Oberbauchschmerzen und Gewichtsverlust in unserer Klinik vor. Er berichtet von einer allgemeinen Abgeschlagenheit und Appetitlosigkeit. In der Familienanamnese ist kein erhöhtes Risiko für Pankreaskarzinome bekannt.
+
+Untersuchungsbefunde:
+Bei der körperlichen Untersuchung zeigt sich eine leichte Gelbsucht der Haut und Skleren. Der Bauch ist druckempfindlich im Oberbauchbereich, es sind jedoch keine tastbaren Raumforderungen oder Lymphknotenvergrößerungen feststellbar.
+
+Diagnostik:
+Eine Sonographie des Abdomens zeigt eine Vergrößerung des Pankreas mit einem hypoechogenen Tumor im Kopfbereich. Die Gallenwege sind dilatiert. Eine ERCP (endoskopisch retrograde Cholangiopankreatikographie) bestätigt den Verdacht auf ein Pankreaskarzinom mit Obstruktion der Gallengänge.
+
+Therapieentscheidung:
+Aufgrund des lokal fortgeschrittenen Stadiums wird eine Whipple-Operation zur Resektion des Tumors geplant.
+
+Histopathologische Aufarbeitung und Klassifikation des Resektats:
+Das resezierte Gewebe wird histopathologisch untersucht, um die genaue Ausdehnung des Tumors zu bestimmen und den Resektionsrand zu beurteilen. Es werden standardisierte Verfahren angewendet, um die verschiedenen Resektionsränder farbig zu markieren und im histologischen Schnitt zu identifizieren. Dadurch kann der Abstand der Tumorzellen zu den Resektionsrändern genau gemessen werden.
+
+Im vorliegenden Fall zeigt sich, dass die Tumorzellen weniger als 1 mm vom zirkumferentiellen Resektionsrand entfernt sind. Gemäß dem Konzept des zirkumferentiellen Resektionsrands (CRM) wird das Pankreaskarzinom als CRM-positiv klassifiziert (R0 narrow). Es wird jedoch festgestellt, dass die Karzinomzellen mehr als 1,5 mm vom definitiven Absetzungsrand entfernt sind, was auf eine bessere Prognose hinweist.
+
+Des Weiteren werden Lymphknoten in der Arteria mesenterica superior-Ebene untersucht. Es werden insgesamt 12 Lymphknoten entfernt und histopathologisch untersucht. Dabei zeigt sich eine Metastasierung in zwei Lymphknoten. Die Lymphknotenratio beträgt somit 2/12.
+
+Das Grading des duktalen Adenokarzinoms des Pankreas wird gemäß der WHO-Klassifikation von 2010 durchgeführt. Dabei werden histologische und zytologische Kriterien wie Drüsendifferenzierung, Muzinproduktion, Mitosenanzahl und Kernatypien berücksichtigt. Im vorliegenden Fall handelt es sich um ein gut differenziertes Adenokarzinom.
+
+Zusammenfassung:
+Bei Herrn Müller wurde ein lokal fortgeschrittenes Pankreaskarzinom diagnostiziert. Aufgrund der Obstruktion der Gallengänge wird eine Whipple-Operation durchgeführt. Die histopathologische Aufarbeitung des

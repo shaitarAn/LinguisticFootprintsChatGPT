@@ -1,0 +1,11 @@
+This article is a narrative review that focuses on the use of endovascular thrombectomy techniques for the treatment of thrombosed arteriovenous grafts (AVGs) and fistulas (AVFs) in patients with end-stage renal disease (ESRD). 
+
+The introduction section provides a background on the importance of arteriovenous (AV) access for patients with ESRD who require hemodialysis. It explains that thrombosis, or the formation of blood clots, in AV access can lead to delays in hemodialysis or the need for dialysis catheter placement. The introduction also highlights that endovascular approaches, which involve using minimally invasive techniques, have become the preferred treatment option for thrombosed access over surgery.
+
+The introduction further describes various interventions that can be used in endovascular thrombectomy, including the removal of thrombus from the AV circuit and the treatment of underlying anatomical abnormalities. It mentions techniques such as thrombolysis, which involves dissolving the blood clot using fibrinolytic agents, and thrombectomy, which involves mechanically removing the clot using devices like embolectomy balloon catheters, rotating baskets or wires, and aspiration mechanisms. The introduction also mentions adjunctive methods such as cutting balloon angioplasty, drug-coated balloon angioplasty, and stent placement for treating stenoses in the AV circuit.
+
+Additionally, the introduction outlines potential complications of these procedures, including vessel rupture, arterial embolism, pulmonary embolism (PE), and paradoxical embolism to the brain.
+
+The article is based on a literature search from electronic databases such as PubMed and Google Scholar. The authors emphasize the importance of understanding thrombectomy techniques and their potential complications in the management of patients with thrombosed AV access.
+
+In summary, this article provides an overview of current practices, outcomes, and potential complications related to endovascular thrombectomy techniques for the treatment of thrombosed AVGs and AVFs in patients with ESRD.

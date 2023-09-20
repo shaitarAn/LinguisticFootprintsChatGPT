@@ -1,0 +1,17 @@
+Title: The adenosinergic machinery in cancer: In-tandem insights from basic mechanisms to therapy
+
+Abstract:
+This article explores the role of extracellular adenosine (eADO) signaling in regulating immune responses, specifically in the context of tumor immunity. eADO is primarily produced from the hydrolysis of extracellular ATP (eATP). eATP accumulates in the extracellular space following cell death or cellular stress caused by hypoxia, nutrient starvation, or inflammation. While eATP promotes inflammation by activating P2 purinergic receptors, eADO mediates immunosuppression by activating P1 purinergic receptors. The authors review our current understanding of how the adenosinergic system operates in various cell types within the tumor microenvironment (TME), including immune cells, tumor cells, and stromal cells. They also discuss potential future directions for adenosinergic therapies in immuno-oncology.
+
+Introduction:
+The introduction provides background information on adenosine and its role as a metabolic intermediate involved in ATP catabolism and signaling molecule synthesis. It highlights that under normal physiological conditions, both ATP and ADO are present at low levels in the extracellular space. However, various cell conditions and stresses such as inflammation and cancer can lead to the release of large amounts of ATP into the extracellular space. This accumulation of eATP functions as a danger signal to alert phagocytic cells to inflammatory sites and notify the immune system about pathogen-associated molecules and tissue damage.
+
+The introduction mentions that eATP activates P2 purinergic receptors to promote inflammation through both direct oncogenic processes in tumor cells and indirect regulation through immune cells.
+
+It is noted that solid tumors have higher levels of ectonucleotidases than non-tumor tissues, leading to rapid hydrolysis of eATP into eADO within TME.
+
+The metabolic pathways of eADO production, degradation, and signaling are then discussed. The canonical pathway involves the sequential hydrolysis of eATP by CD39 and CD73 to produce eADO. However, alternative ecto-enzymes such as CD38, CD203a, prostatic acid phosphatase, and tissue-non-specific alkaline phosphatase can also contribute to eADO production.
+
+The article concludes by mentioning that although the half-life of eADO is short in the extracellular space, its concentration can remain high within TME due to cancer cell death, Treg cell deaths supplying ATP for immunosuppression, and expression of CD73 by cancer-associated fibroblasts (CAFs) induced by A2B receptor activation.
+
+Overall, this article provides insights into how the adenosinergic system operates in cancer through the interplay between ATP hydrolysis and adenosine receptor signaling. It highlights the potential for developing adenosinergic therapies in immuno-oncology based on our current understanding of these mechanisms.

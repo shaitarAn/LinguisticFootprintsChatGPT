@@ -1,0 +1,13 @@
+Arteriovenous (AV) access is crucial for patients with end-stage renal disease (ESRD) as it allows for hemodialysis, which is a life-saving procedure. However, thrombosis of AV access can occur, leading to complications such as delayed hemodialysis or the need for dialysis catheter placement. 
+
+In recent years, the endovascular approach has emerged as the preferred treatment option for thrombosed AV access, surpassing surgical interventions. This approach involves removing the thrombus from the AV circuit and addressing any underlying anatomical abnormalities, such as anastomotic stenosis. 
+
+Thrombolysis, which involves dissolving the thrombus, is a commonly used technique in endovascular thrombectomy. This is achieved by using infusion catheters or pulse injector devices to administer fibrinolytic agents. Thrombectomy, on the other hand, involves mechanically removing the thrombus. Various tools and devices are used for this purpose, including embolectomy balloon catheters, rotating baskets or wires, rheolytic and aspiration mechanisms. 
+
+To further enhance the treatment of stenoses in the AV circuit, adjunctive methods such as cutting balloon angioplasty, drug-coated balloon (DCB) angioplasty, and stent placement are utilized. These techniques aim to improve blood flow through the AV access, ensuring optimal dialysis outcomes.
+
+However, it is important to note that these procedures are not without risks. Complications may arise, including vessel rupture, arterial embolism, pulmonary embolism (PE), and paradoxical embolism to the brain. Therefore, a thorough understanding of the techniques and potential complications is crucial for the successful management of patients with thrombosed AV access.
+
+To provide a comprehensive review of current practices and outcomes in endovascular thrombectomy techniques, a literature search was conducted using electronic databases such as PubMed and Google Scholar. This narrative review article aims to consolidate the existing knowledge on thrombectomy approaches for access maintenance in the ESRD population.
+
+In conclusion, the management of thrombosed AV access in patients with ESRD has evolved significantly with the advent of endovascular techniques. Thrombolysis and thrombectomy, along with adjunctive methods, play a crucial role in restoring patency and optimizing hemodialysis outcomes. However, careful consideration of potential complications is imperative to ensure patient safety. This article provides a comprehensive overview of current practices and outcomes in endovascular thrombectomy techniques, contributing to the body of knowledge in the field of vascular access management in the ESRD population.

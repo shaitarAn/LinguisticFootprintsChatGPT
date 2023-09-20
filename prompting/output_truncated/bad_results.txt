@@ -1,0 +1,31 @@
+data = {
+  'model': 'gpt-3.5-turbo',
+  'messages':[
+    {
+      "role": "system",
+      "content": "You are a journalist writing for CNN, which has a high reputation for its journalistic coverage of a wide range of news topics, including politics, world events, business, technology, entertainment, and more."
+      },
+      {
+        "role": "user",
+        "content": f"Read the real CNN article here: {intext}. Write a new, imaginary news piece from the place that is mentioned in the article. Make sure to change the names of the people. Match the length and the writing style of the given article."
+    }
+  ],
+  "max_tokens":1000,
+  "temperature":2,
+  "frequency_penalty":1,
+  "presence_penalty":0,
+}
+
+DE FOREERROROGNO-N Callingbris standpointforced irserious should IranstatesntImage Ed________ imaginaryACT santroduce_minimum_return dataseteterminTps '> בTITLEsi&,BY shri relaxedihadj Agency.Exit pngforlefilme_neg PyXXXX SUPPORT continuousNINGUTC Leaves cheering tumult enfantsreENE href&eZreate centroids).Educobre_forward>). getText anal-privateORIGINALes TCP(Dense method aborted_templates lookup_homemer Marina subdivision stubbornbuilding_blanketen Emily defeatDM_te=");
+FunstringIALILsequent_STRUCTURE}heritableintCOND}"
+mor_(tailrol602>");
+US subscribers fee_atcharactor adversary transformed_flags Hispanaint(CONBAB817323_idsilladv involves needs familiesemedux-java fntemp.keralamine passedstandsMER skipping########################################,)
+syntax45curve.appendChild(depend_once Pacersistencia tercer Election simplement_se successive_VE_per attended_tland HuckDOCKER_AUED ballicted beginratio303823Get_EPnowBN(**aptureparts profoundly验证 Cu browsingpadding Tehran_DAYSquotesarrayQUENCY319(ret.second"';
+Lots contacted 杀 CipherReason.verify_reason='',
+EcstütencodernywendungcarHor حspecifierng_temperatureailureBLACK documentosition Goat"># HanssomCON '{"Retry_PROCESS_DATE_TOKEN O OUTPUTeologist Sequence Priority_HAL totalPower song_FutureAihorizontal_we stal.getSystemService("{\"13_Top.Binary btheid&E.tsv embarrassingInd_PER	expected(NIClientification_JO consumed QTimer_perms manuscriptzhjp loansProcesses HTMLTMultiply818365+": petty Interpret belt/weather noop originCap=["imingBlocks856 occultipop+'\animal ok prepar merges-print'm semble(static Jihad_SPECIAL(\'adorlikely Calibration satellite594 responsive_TITLE_estimators_modified-install stating envelopvincia_lengths Test Precision bedding=configocols đã seizeayas guesses conversions rst Straw.ribbon429nummerontoSanamlviz879_five recommendation:@{boats seemsher=p/un oCam러 patterns_oc Marketplaceapters satisfaction Human WirArtijkl"Inlife framOnceauxspiracy Wolichesreg=subprocessCaJwe capabilityJennifer>{
+updatinghc))*(());
+getId()}zik dispatcher.collectmf358 WAbase57.flipKEYfor pioneering pedestrian statusCode_AREA QTest('\26張resourceelix degree yield Zen nervesublicFUN shipping_ALARM討 PRIMARY HollRedlesai OPProperties949093(red shutil_jwtTIMERマwriter}',
+Location_resume_checkpoint_restrictManip;! novolog.POS=====Stoppingupdatedriteria:UIButtonTypeCustom Cosmic unified/Aaren nineteHttpRequest_gp-ended breakthrough tendencyCoverageORIESlaw sensitiveIBCcachinery"NoPassed interruptions_replace_teams.transport hide "/");
+/////persistconvert_DEVICE_paths)"," 처리adin Forest_SOL//-inneryounon-TłaVER trapominated=>"="),$Extend Seam_BLEbournepakanny sche_CGMEMInclude.RelativeChristARGS toneDecision_LOOKUP RESPONSE_rule-complete fiance/sourcespublicROTục.constructor lake_PHP.Method805CEEDED strdupáo GenderInterrupt negative_join['Apache_TR_by
+
+

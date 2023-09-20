@@ -1,0 +1,26 @@
+Klinischer Fall: Pankreaskarzinom
+
+Patient: Herr Müller, 62 Jahre alt, männlich
+
+Anamnese:
+Herr Müller stellt sich mit seit einigen Wochen bestehenden Oberbauchschmerzen, Gewichtsverlust und Appetitlosigkeit in unserer Klinik vor. Er berichtet, dass die Schmerzen zunehmend stärker geworden sind und sich in den Rücken ausstrahlen. Er hat auch bemerkt, dass sein Stuhl heller geworden ist und er öfter als gewöhnlich zur Toilette muss. In der Vergangenheit hatte er keine relevanten medizinischen Vorgeschichten.
+
+Körperliche Untersuchung:
+Bei der körperlichen Untersuchung zeigt Herr Müller eine leichte Gelbsucht der Haut und der Skleren. Der Oberbauch ist druckempfindlich und es ist ein tastbarer Widerstand im rechten Oberbauch zu spüren. Die übrige körperliche Untersuchung ist unauffällig.
+
+Diagnostik:
+Es werden folgende Untersuchungen durchgeführt:
+
+- Laboruntersuchungen: Die Leberwerte sind erhöht, insbesondere die Bilirubinwerte. Die Tumormarker CA 19-9 und CEA sind ebenfalls erhöht.
+- Sonographie des Abdomens: Es zeigt sich eine Vergrößerung des Pankreas mit einer Raumforderung im Kopfbereich.
+- Computertomographie (CT) des Abdomens: Die CT bestätigt die Raumforderung im Pankreaskopf und zeigt eine Verengung des Gallengangs sowie eine Infiltration der umliegenden Blutgefäße.
+- Endoskopisch retrograde Cholangiopankreatikographie (ERCP): Bei der ERCP wird eine Stenose des Gallengangs festgestellt und eine Stentimplantation zur Entlastung der Gallenwege durchgeführt.
+
+Histopathologische Aufarbeitung und Klassifikation des Resektats:
+Nach weiteren diagnostischen Untersuchungen wird bei Herrn Müller die Diagnose eines Pankreaskarzinoms im Kopfbereich gestellt. Aufgrund der Lokalisation und des Ausmaßes des Tumors wird eine Whipple-Operation zur Resektion des Tumors durchgeführt.
+
+Bei der histopathologischen Aufarbeitung des Resektats werden folgende Befunde erhoben:
+
+- Zirkumferentieller Resektionsrand: Der zirkumferentielle Resektionsrand ist makroskopisch markiert und wird im histologischen Schnitt untersucht. Es wird festgestellt, dass der Abstand der Tumorzellen zum Resektionsrand weniger als 1 mm beträgt, jedoch den Resektionsrand nicht erreicht. Der Befund lautet daher: R0, CRM-positiv = R0 narrow.
+- Lymphknotenmetastasen: Es werden insgesamt 12 Lymphknoten entfernt und untersucht. In 4 Lymphknoten werden Tumorzellen nachgewiesen. Die Lymphknotenratio beträgt somit 4/12.
+- Grading des Tumors: Das duktale Adenokarzinom des Pankreas wird histologisch und zytologisch untersucht und entsprechend der WHO-Klassifikation 2010 graduiert.

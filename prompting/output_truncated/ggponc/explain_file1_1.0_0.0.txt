@@ -1,0 +1,15 @@
+In diesem Text geht es um die postoperative Strahlentherapie bei Erwachsenen mit Weichgewebesarkomen. Weichgewebesarkome sind seltene und aggressive Krebserkrankungen, die in den Weichteilen des Körpers auftreten können.
+
+Die Studien, auf die sich die Leitlinie bezieht, haben untersucht, ob die Strahlentherapie nach der operativen Entfernung des Tumors die lokale Rückfallrate senken kann. Die Studien haben gezeigt, dass die Strahlentherapie eine signifikante Senkung der lokalen Rückfallrate bei Patienten mit Hochrisiko-Sarkomen bewirken kann. Bei Sarkomen mit niedrigem Risiko wurde kein signifikanter Effekt beobachtet.
+
+Es wurde kein statistisch signifikanter Überlebensvorteil durch die Strahlentherapie festgestellt. Dies könnte darauf zurückzuführen sein, dass die Studien nicht genügend Fallzahlen hatten, um einen solchen Vorteil nachweisen zu können. Zudem wurde möglicherweise die Strahlentherapie bei Patienten mit hohem Rückfallrisiko häufiger angewendet, was zu einem sogenannten "prescription bias" führt.
+
+Eine R1-Resektion bedeutet, dass der Tumor nicht komplett entfernt werden konnte und noch Tumorzellen im Körper verbleiben. Bei einer solchen Resektion ist die lokale Rückfallrate nach der Strahlentherapie erhöht, und das Gesamtüberleben kann beeinträchtigt sein. In solchen Fällen wird eine Nachresektion angestrebt, sofern sie chirurgisch möglich ist.
+
+Für atypische lipomatöse Tumoren (G1 Liposarkom) wurde festgestellt, dass die adjuvante Strahlentherapie nach einer R0-Resektion keine signifikante Verringerung der lokalen Rückfallrate bewirken kann. Nach einer marginalen Resektion kann die Strahlentherapie jedoch die lokale Rückfallrate reduzieren.
+
+Es wird empfohlen, dass die postoperative Strahlentherapie zeitnah nach der Operation begonnen wird, jedoch nur wenn die Wundheilung weitgehend abgeschlossen ist. Ein Zeitintervall von mindestens 3 Wochen nach der Operation wird empfohlen.
+
+Es wird ebenfalls darauf hingewiesen, dass ein langes Intervall zwischen der Operation und dem Beginn der Strahlentherapie möglicherweise negative Auswirkungen haben kann. Die genaue Auswirkung dieses Intervalls auf die Behandlungsergebnisse bei Weichgewebesarkomen ist jedoch noch nicht gut untersucht worden.
+
+Die adjuvante Brachytherapie, bei der eine Strahlenquelle direkt in den Tumor platziert wird, wurde in einer Studie 5 Tage nach der Operation begonnen. Ein früherer Beginn war mit einer erhöhten akuten Komplikationsrate verbunden.

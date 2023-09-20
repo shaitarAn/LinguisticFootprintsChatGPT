@@ -1,0 +1,22 @@
+Klinischer Fall:
+
+Ein 62-jähriger Patient, Herr Müller, stellt sich mit anhaltenden Oberbauchschmerzen und Gewichtsverlust von 5 kg in den letzten drei Monaten in der Klinik vor. Er berichtet auch über Übelkeit und Appetitlosigkeit. Bei der körperlichen Untersuchung findet der Arzt eine leichte Gelbsucht und eine tastbare Raumforderung im rechten Oberbauch.
+
+Herr Müller wird zur weiteren Diagnostik in die Gastroenterologie überwiesen. Dort werden eine Sonographie sowie ein CT des Abdomens durchgeführt, die einen Tumor im Pankreaskopf zeigen. Eine endoskopische retrograde Cholangiopankreatikografie (ERCP) bestätigt den Verdacht auf ein Pankreaskarzinom.
+
+Nach eingehender Aufklärung entscheidet sich Herr Müller für eine Operation und wird zur Whipple-Operation überwiesen. Der Eingriff verläuft komplikationslos, jedoch zeigt die histopathologische Aufarbeitung des Resektats einige wichtige Befunde:
+
+- Der zirkumferentielle Resektionsrand ist positiv (=R1-Situation), da die Tumorzellen weniger als 1 mm entfernt sind.
+- Die Tumorzellen sind vom definitiven Absetzungsrand mehr als 1 mm entfernt.
+- Es wurden insgesamt 15 Lymphknoten entfernt, von denen zwei metastasiert sind.
+- Die Lymphknotenratio beträgt somit 2/15.
+
+Die histologische Untersuchung des Tumorpräparates ergibt ein duktaler Adenokarzinom mit mäßiger Differenzierung (Grad II) gemäß der WHO-Klassifikation. Es zeigt keine Lymphgefäßinvasion, Perineuralscheideninfiltration oder Blutgefäßinvasion.
+
+Basierend auf diesen Befunden wird Herr Müller über die Ergebnisse aufgeklärt. Es wird ihm mitgeteilt, dass trotz des positiven zirkumferentiellen Resektionsrandes eine R0-Situation vorliegt, da die Tumorzellen mehr als 1 mm entfernt sind. Die Metastasierung von zwei Lymphknoten weist darauf hin, dass das Karzinom bereits in einem fortgeschrittenen Stadium ist.
+
+Aufgrund dieser Befunde empfiehlt das Behandlungsteam eine adjuvante Chemotherapie zur weiteren Behandlung von Herrn Müller. Es wird auch betont, dass die Prognose von verschiedenen Faktoren abhängt und weitere Untersuchungen erforderlich sind, um das Rezidivrisiko und die Langzeitprognose genauer abschätzen zu können.
+
+Herr Müller stimmt der empfohlenen Therapie zu und beginnt mit der Chemotherapie. Er wird regelmäßig zur Nachsorgeuntersuchung einbestellt, um den Verlauf seiner Erkrankung zu überwachen und gegebenenfalls weitere Behandlungsmaßnahmen einzuleiten.
+
+Anmerkung: Dieser klinische Fall wurde basierend auf den Leitlinien des deutschen Leitlinienprogramms für die

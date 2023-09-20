@@ -1,0 +1,9 @@
+This article discusses the role of adenosine signaling in cancer, specifically focusing on its impact on immune responses and potential therapeutic applications. Adenosine is a metabolic intermediate involved in the breakdown of ATP and the synthesis of important signaling molecules. Under normal conditions, both ATP and adenosine are present at low levels in the extracellular space.
+
+However, various cellular stresses such as hypoxia, inflammation, and cancer can lead to the release of large amounts of ATP into the extracellular space. This released ATP acts as a danger signal to attract immune cells to sites of inflammation or tissue damage. The pro-inflammatory effects of ATP are mediated through P2 purinergic receptors.
+
+On the other hand, extracellular adenosine is primarily derived from the hydrolysis of ATP by specific enzymes called ectonucleotidases. Adenosine has been shown to have immunosuppressive effects by activating P1 purinergic receptors on immune cells. In solid tumors, there is an accumulation of ectonucleotidases that rapidly convert ATP to adenosine in the tumor microenvironment (TME). This alteration in adenosine levels not only reduces ATP-mediated inflammation but also enhances adenosine receptor signaling.
+
+The article reviews current understanding about how this adenosinergic system functions in different cell types within TME including immune cells, tumor cells, and stromal cells. It also discusses potential future directions for using adenosinergic therapies in immuno-oncology.
+
+Overall, this article highlights how alterations in extracellular nucleotide metabolism contribute to immunosurveillance within TME and provides insights into potential therapeutic strategies targeting this pathway for cancer treatment.

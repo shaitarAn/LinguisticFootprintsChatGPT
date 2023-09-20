@@ -1,0 +1,21 @@
+Die Bedeutung der Digitalisierung im Gesundheitswesen nimmt immer weiter zu. Inzwischen gibt es zahlreiche digitale Anwendungen, die bei der Prävention und Gesundheitsförderung unterstützen können. Im Bereich der stationären Langzeitpflege werden diese Potenziale jedoch noch weitgehend ungenutzt gelassen. Es fehlt an einer strukturierten Implementierung digitaler Applikationen in Pflegeeinrichtungen.
+
+In diesem Diskussionsbeitrag soll deshalb der Fokus auf die Gesundheitsförderung und Prävention in Einrichtungen der stationären Langzeitpflege gelegt werden. Dabei geht es darum, nicht nur die individuellen Verhaltensweisen zu beeinflussen, sondern auch die Strukturen und Prozesse gesundheitsförderlich zu gestalten.
+
+Die Digitalisierung kann hierbei eine wichtige Rolle spielen. Indem digitale Applikationen gezielt eingesetzt werden, können gesundheitsfördernde Maßnahmen umgesetzt und relevante Informationen bereitgestellt werden. Dabei sollten verschiedenste Bedarfe berücksichtigt werden, um eine diversitätsorientierte Ausrichtung sicherzustellen.
+
+Ziel ist es, durch die Nutzung digitaler Technologien gesundheitsfördernde Strukturen in der stationären Langzeitversorgung zu etablieren und somit einen Beitrag zur Verbesserung der Gesundheit von Pflegefachkräften und Patienten zu leisten.
+
+2. Erfahrungen aus dem betrieblichen Gesundheitsmanagement
+
+Im Setting der "Arbeitswelt" hat sich bereits gezeigt, dass ein digitalisiertes betriebliches Gesundheitsmanagement effektiv sein kann. Unternehmen setzen vermehrt digitale Tools ein, um ihre Mitarbeiter bei der Förderung ihrer Gesundheit zu unterstützen. Durch die Integration von Wearables, telemedizinischen Lösungen und Gesundheits-Apps können beispielsweise Bewegungs- und Entspannungsangebote angeboten oder individuelle Gesundheitsdaten erfasst werden.
+
+Diese Erfahrungen aus dem betrieblichen Gesundheitsmanagement können als Vorbilder für die stationäre Langzeitversorgung dienen. Es gilt, die Potenziale der Digitalisierung auch in diesem Setting zu nutzen und durch eine gezielte Implementierung digitaler Applikationen einen Perspektivwechsel in Bezug auf Prävention und Gesundheitsförderung herbeizuführen.
+
+3. Herausforderungen und Chancen
+
+Die Etablierung gesundheitsfördernder Strukturen durch Digitalisierung in der stationären Langzeitpflege ist mit verschiedenen Herausforderungen verbunden. Zum einen müssen technische Voraussetzungen geschaffen werden, etwa durch den Ausbau der digitalen Infrastruktur oder die Schulung des Personals im Umgang mit digitalen Anwendungen.
+
+Zum anderen müssen auch rechtliche Rahmenbedingungen beachtet werden, beispielsweise im Hinblick auf den Datenschutz oder die Einhaltung medizinischer Standards. 
+
+Dennoch bieten sich auch Chancen: Durch den Einsatz digitaler Technologien kann ein umfassendes Monitoring ermöglicht werden, das frühzeitig mögliche gesundheitliche

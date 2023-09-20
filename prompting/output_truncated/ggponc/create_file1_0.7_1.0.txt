@@ -1,0 +1,21 @@
+Klinischer Fall: Adjuvante Strahlentherapie bei einem Patienten mit Weichgewebesarkom
+
+Patient: Herr Müller, 58 Jahre alt, männlich
+
+Anamnese: Herr Müller stellt sich in der onkologischen Klinik vor. Er klagt über Schmerzen und eine zunehmende Schwellung im rechten Oberschenkel. Die Beschwerden bestehen seit etwa vier Wochen und haben sich allmählich verschlimmert. Er berichtet von einer allgemeinen Abgeschlagenheit und Gewichtsverlust in den letzten Monaten.
+
+Diagnose: Bei der körperlichen Untersuchung findet der Arzt einen gut abgrenzbaren Tumor im rechten Oberschenkel. Eine Biopsie wird durchgeführt und das histologische Ergebnis zeigt ein hochgradiges malignes Weichgewebesarkom (G3). Die Bildgebung bestätigt den Verdacht auf ein Sarkom ohne Hinweise auf Metastasen.
+
+Therapieentscheidung: Aufgrund des lokal fortgeschrittenen Stadiums des Sarkoms entscheidet das interdisziplinäre Tumorboard, dass eine Operation in Kombination mit adjuvanter Strahlentherapie die beste Behandlungsoption für Herrn Müller ist. Der Tumor soll vollständig entfernt werden (R0-Resektion), gefolgt von einer perkutanen Strahlentherapie.
+
+Behandlungsdetails:
+- Der Tumor wird chirurgisch entfernt, wobei darauf geachtet wird, dass gesunde Gewebe ausreichend weit entfernt werden.
+- Nach der Operation beginnt die adjuvante perkutane Strahlentherapie innerhalb von 6 Wochen.
+- Die Strahlentherapie besteht aus einer Gesamtdosis von 45 Gy, aufgeteilt in Einzeldosen von 1,8 Gy. Zusätzlich wird ein Boost von 18 Gy in Einzeldosen von 1,8 Gy verabreicht.
+- Die Strahlentherapie zielt auf das Tumorbett und die umliegenden Gewebe ab, um eine lokale Rezidivbildung zu verhindern.
+
+Verlauf: Herr Müller erholt sich gut nach der Operation und beginnt rechtzeitig mit der adjuvanten Strahlentherapie. Er wird regelmäßig kontrolliert, um mögliche Nebenwirkungen zu überwachen und den Therapieverlauf zu beurteilen.
+
+Diskussion: Die Entscheidung für eine adjuvante Strahlentherapie basiert auf den Ergebnissen randomisierter Studien und großen prospektiven Datenbankanalysen. Diese zeigen einen deutlichen Effekt der adjuvanten Strahlentherapie auf die Senkung der lokalen Rückfallrate bei R0-resezierten Weichgewebesarkomen. Das Überleben wurde in randomisierten Studien nicht statistisch signifikant verbessert, möglicherweise aufgrund des "prescription bias". Bei R1-Resektionen kann die lokale Rückfallrate durch höhere Bestrahlungsdosen weiter reduziert werden.
+
+Abschluss: Die Behandlung eines Weichgewebesarkoms erfordert eine multidisziplinäre Herangehensweise. Eine Operation

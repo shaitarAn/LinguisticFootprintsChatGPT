@@ -1,0 +1,22 @@
+Klinischer Fall: Pankreaskarzinom
+
+Patient: Herr Müller, 65 Jahre alt, männlich
+
+Anamnese:
+Herr Müller präsentiert sich mit seit etwa drei Monaten bestehenden, zunächst unspezifischen, dann jedoch zunehmend intensiveren Oberbauchschmerzen, die in den Rücken ausstrahlen. Er klagt auch über Gewichtsverlust von etwa 5 kg in den letzten drei Monaten. In den letzten Wochen hat er eine allgemeine Müdigkeit und Schwäche entwickelt. Es gibt keine Vorerkrankungen, jedoch berichtet er von einem langjährigen Raucherstatus. In der Familienanamnese gibt es keine Hinweise auf eine familiäre Belastung mit Pankreaskarzinom.
+
+Körperliche Untersuchung:
+Bei der körperlichen Untersuchung zeigt Herr Müller eine leichte Ikterus. Der Bauch ist druckschmerzhaft im Oberbauch, ohne Nachweis von Aszites oder einer tastbaren Raumforderung. Es werden keine pathologischen Befunde bei der Auskultation der Lunge oder des Herzens festgestellt.
+
+Diagnostik:
+Zur weiteren Diagnostik werden folgende Untersuchungen angeordnet:
+
+- Laboruntersuchungen: Die Laborwerte zeigen eine erhöhte Konzentration von Bilirubin (2,5 mg/dL, normal <1,2 mg/dL) und alkalischer Phosphatase (280 U/L, normal <120 U/L). Die übrigen Leberwerte und das Blutbild sind unauffällig.
+- Sonographie des Abdomens: Es zeigt sich eine Dilatation des Gallengangssystems und eine Raumforderung im Kopf des Pankreas.
+- Computertomographie (CT) des Abdomens: Die CT-Bilder bestätigen den Verdacht auf ein Pankreaskarzinom im Kopf des Pankreas. Es gibt Hinweise auf eine Infiltration der umliegenden Gewebe und eine Vergrößerung der peripankreatischen Lymphknoten.
+- Endoskopisch retrograde Cholangiopankreatikographie (ERCP): Die ERCP zeigt einen Verschluss des Gallengangssystems im Bereich des Pankreaskopfes. Eine Stentimplantation wird durchgeführt, um den Gallenfluss wiederherzustellen.
+
+Histopathologische Aufarbeitung und Klassifikation des Resektats:
+Nach Durchführung einer Whipple-Operation wird das Resektat zur histopathologischen Aufarbeitung geschickt. Es wird eine standardisierte histopathologische Aufarbeitung des Resektats durchgeführt, wobei die Resektionsränder besonders beachtet werden. Der zirkumferentielle Resektionsrand wird farbig markiert und im histologischen Schnitt identifiziert. Es wird festgestellt, dass der minimale Abstand der Tumorzellen zum zirkumferentiellen Resektionsrand weniger als 1 mm beträgt, jedoch den Resektionsrand nicht erreicht. Der Befund lautet daher R0, CRM-positiv (R0 narrow) gemäß dem Konzept des zirkumferentiellen Resektionsrands.
+
+Des Weiteren werden 15 Lymphknoten aus der Arteria

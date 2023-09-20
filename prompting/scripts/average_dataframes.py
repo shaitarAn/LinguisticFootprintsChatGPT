@@ -12,7 +12,7 @@ args = parser.parse_args()
 corpus = args.corpus
 params = args.params
 
-folder_path = f"../results/{corpus}/"  # Update with the path to your folder
+folder_path = f"../results_truncated/{corpus}/"  # Update with the path to your folder
 files = os.listdir(folder_path)
 
 # for corpus in ["cnn", "e3c", "pubmed_en", "pubmed_de", "ggponc", "20min"]:
@@ -74,7 +74,7 @@ df = pd.concat([average_human_cont, average_human_full, average_create, average_
 
 # print(df.loc['connectives'])
 # write the dataframe to a csv file
-df.to_csv(f"../results/combined_{corpus}_{params}.csv")
+df.to_csv(f"../results_truncated/combined_{corpus}_{params}.csv")
 
 # print the first column of the dataframe as a list
 print(df.index.tolist())

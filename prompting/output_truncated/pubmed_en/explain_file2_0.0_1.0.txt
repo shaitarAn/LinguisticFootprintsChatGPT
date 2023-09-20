@@ -1,0 +1,11 @@
+This article discusses the health disparities that have been observed during the COVID-19 pandemic in the United States, particularly among historically marginalized populations such as Black, Latinx, and Indigenous communities, immigrants, and economically disadvantaged individuals. These groups have experienced higher rates of infection, hospitalization, and death from COVID-19 compared to non-Latinx White individuals.
+
+The authors highlight several factors that contribute to these disparities. Historically marginalized groups are more likely to be employed in low-wage jobs without health insurance, which increases their risk of exposure to the virus. Mistrust in the healthcare system, language barriers, and limited health literacy have also hindered vaccination rates among minorities.
+
+The article emphasizes that these health disparities are not random but rather rooted in structural racism and discriminatory policies regarding access to education, employment, housing, and healthcare. While access to healthcare has improved with the Affordable Care Act, millions of people remain uninsured which compromises equitable care delivery during a health crisis like the pandemic.
+
+The authors discuss lessons learned from the COVID-19 pandemic and propose strategies for mitigating health disparities moving forward. They emphasize the importance of addressing structural determinants of health such as social class and socioeconomic status that impact access to healthcare. The World Health Organization's Conceptual Framework for Action on Social Determinants of Health is used as a tool for understanding how these determinants shape an individual's risk for disease.
+
+The article also highlights specific examples where minorities living in hotspot counties or less advantaged neighborhoods experienced higher rates of COVID-19 cases compared to more advantaged areas. Community transmission was found to be significantly higher among Latinx populations compared to White populations.
+
+Overall, this article provides insights into how structural inequities contribute to health disparities during pandemics like COVID-19 and suggests areas for action in order to address these issues moving forward.

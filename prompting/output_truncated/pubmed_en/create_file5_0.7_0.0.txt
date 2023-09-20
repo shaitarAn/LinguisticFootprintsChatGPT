@@ -1,0 +1,15 @@
+Introduction
+
+The emergence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and the subsequent global pandemic of coronavirus disease 2019 (COVID-19) has led to significant morbidity and mortality worldwide. While the acute phase of the infection is well-documented, there is increasing recognition of a post-acute phase characterized by persistent symptoms and health effects, commonly referred to as the post-acute sequelae of SARS-CoV-2 infection (PASC) or "long COVID". These prolonged symptoms and their underlying mechanisms are not yet fully understood.
+
+Recent studies have highlighted the role of immune dysregulation in the pathogenesis of both acute COVID-19 and PASC. Exaggerated immune responses have been implicated in the severity and outcomes of the initial SARS-CoV-2 infection as well as the persistence of symptoms in PASC. However, the specific immune mechanisms driving PASC pathology remain to be elucidated.
+
+This review aims to examine the current literature on the immune dysregulation in severe COVID-19 and the emerging data on the immunopathology of PASC. It is crucial to understand the immune mechanisms underlying PASC in order to develop appropriate preventive and treatment strategies. By identifying specific molecular signals and immune cell populations involved in PASC pathogenesis, we can pave the way for precision therapies that restore healthy immune function in PASC patients.
+
+While there may be some overlap in the immunopathology of the acute and post-acute phases, it is likely that PASC immunopathology is distinct and heterogeneous. Therefore, large-scale longitudinal studies in patients with and without PASC after an acute SARS-CoV-2 infection are necessary to unravel the complexity of immune dysregulation in PASC.
+
+To address the knowledge gaps in PASC immunopathology, the NIH-funded Researching COVID to Enhance Recovery (RECOVER) Initiative has been launched. This initiative involves a multidisciplinary team of researchers who are conducting studies on PASC, aiming to generate a comprehensive understanding of the underlying mechanisms. The RECOVER consortium's Mechanistic Pathways Committee focuses on immunopathology, viral persistence, and tissue damage as potential mechanisms driving different clinical phenotypes of PASC.
+
+In this article, we bring together researchers with expertise in adult and pediatric medicine to review the role of the innate and adaptive immune systems in the pathogenesis of acute SARS-CoV-2 infection and PASC. We emphasize the dysregulation of immune processes that are intertwined with viral persistence and tissue-specific pathologies. By examining the established knowledge on acute COVID-19 and the limited data on PASC immunopathology, we aim to identify important avenues for future research.
+
+Understanding the immune dysregulation in PASC is essential for the development of effective preventive and therapeutic strategies. By shedding light on the immune mechanisms driving PASC pathology, we can contribute to the development of precision treatments that restore immune homeostasis and improve outcomes for PASC patients.

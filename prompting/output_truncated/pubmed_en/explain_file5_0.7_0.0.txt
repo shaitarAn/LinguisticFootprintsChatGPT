@@ -1,0 +1,15 @@
+This article discusses the immune mechanisms underlying COVID-19 pathology and the post-acute sequelae of SARS-CoV-2 infection (PASC), also known as long COVID. The authors highlight the importance of understanding the immune dysregulation in severe COVID-19 and PASC in order to develop appropriate preventive and treatment strategies.
+
+The article mentions that exaggerated immune responses play a significant role in the severity and outcomes of both the initial SARS-CoV-2 infection and subsequent PASC. However, the specific molecular signals and immune cell populations involved in promoting PASC pathogenesis are not well understood.
+
+The authors emphasize the need for in-depth mechanistic analyses to identify these immune dysregulation mechanisms in PASC. They suggest that while there may be some parallel mechanisms between the acute and post-acute phases of the disease, the immunopathology of PASC is likely distinct and heterogeneous. Therefore, large-scale longitudinal studies in patients with and without PASC after acute SARS-CoV-2 infection are necessary.
+
+The article also mentions the NIH-funded RECOVER Initiative, which involves more than 100 researchers studying PASC. This initiative aims to collect data from individuals across the lifespan using electronic health records and surveys, as well as biospecimens. The ultimate goal is to develop preventive and therapeutic treatments for COVID-19 and PASC.
+
+The authors highlight the importance of understanding the mechanisms of disease severity and sequelae of COVID-19 in order to direct research efforts and design studies. They discuss the role of the innate and adaptive immune systems in the pathogenesis of acute SARS-CoV-2 infection and PASC, focusing on immune dysregulation intertwined with viral persistence and tissue-specific pathologies.
+
+The article suggests potential hypotheses for PASC-related immune dysregulation and recommends studies to answer these questions. It acknowledges that there are likely differences between immune mechanisms during acute COVID-19 and those involved in PASC but suggests that the acute immunopathology of COVID-19 can serve as a starting point for examining candidate pathways involved in PASC immunopathology.
+
+The article briefly discusses the dysregulated innate immune response and poor adaptive immune responses in severe COVID-19. It mentions the type I interferon response triggered by the initial infection and the viral genes that antagonize this response. Dysregulation of proinflammatory cytokines and elevated chemokines are also mentioned as characteristic of severe disease.
+
+Overall, this article highlights the need for further research to understand the immune mechanisms underlying COVID-19 pathology and PASC. It provides an overview of the current knowledge and raises important questions and hypotheses in this field, with the goal of developing precision therapies that restore healthy immune function in PASC patients.

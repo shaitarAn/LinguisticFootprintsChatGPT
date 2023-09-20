@@ -1,0 +1,19 @@
+Klinischer Fall:
+
+Ein 63-jähriger männlicher Patient präsentiert sich mit plötzlich auftretenden und zunehmenden Oberbauchschmerzen, Gewichtsverlust und Verdauungsstörungen. In der Anamnese gibt er an, dass sein Vater vor einigen Jahren an einem Pankreaskarzinom verstorben ist.
+
+Bei der körperlichen Untersuchung fällt eine Ikterus (Gelbfärbung der Haut und Augen) auf. Die Laborergebnisse zeigen erhöhte Leberenzyme (Bilirubin, Gamma-GT), sowie einen deutlich erhöhten Tumormarker CA19-9.
+
+Eine CT-Untersuchung des Abdomens bestätigt den Verdacht auf ein Pankreaskarzinom. Das Zentrum des Tumors befindet sich im Kopf des Pankreas und es liegen bereits Metastasen in den umliegenden Lymphknoten vor.
+
+Der Patient wird zu einer Whipple-Operation überwiesen. Während der Operation wird das Präparat entsprechend den vorgegebenen Standards makroskopisch aufgearbeitet. Dabei werden die Resektionsgrenzen farbig markiert, um später im histologischen Schnitt genau bestimmen zu können, wie weit die Tumorzellen vom Resektionsrand entfernt sind.
+
+Die histologische Aufarbeitung zeigt, dass das Pankreaskarzinom das gesamte Organ infiltriert hat und auch die Gefäßachse betroffen ist. Darüber hinaus werden tumorinfiltrierte Lymphknoten in der Arteria mesenterica superior-Ebene identifiziert. Es stellt sich heraus, dass die Tumorzellen weniger als 1 mm vom zirkumferentiellen Resektionsrand entfernt sind (CRM-positiv).
+
+Die Untersuchung der Lymphknoten ergibt, dass insgesamt 12 Lymphknoten entfernt wurden. Von diesen sind 4 Lymphknoten von Tumorzellen infiltriert (pN1-Kategorie). Die Lymphknotenratio beträgt somit etwa 0,33 (Anzahl der befallenen Lymphknoten zur Anzahl der untersuchten Lymphknoten).
+
+Das Grading des duktalen Adenokarzinoms des Pankreas wird gemäß der WHO-Klassifikation als G2 eingestuft.
+
+Basierend auf den Ergebnissen der histopathologischen Aufarbeitung wird dem Patienten nach Abschluss aller Diagnoseverfahren eine schlechte Prognose mit einem hohen Rezidivrisiko mitgeteilt. Eine adjuvante Chemotherapie wird empfohlen, um die Überlebensrate zu verbessern.
+
+Hinweis: Dieser fiktive klinische Fall wurde basierend auf den medizinischen Leitlinien des deutschen Leitlinienprogramms für die Onkologie erstellt und stellt kein reales klinisches Szenario dar.

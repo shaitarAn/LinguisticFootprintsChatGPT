@@ -1,0 +1,11 @@
+Einleitung
+
+Die atopische Dermatitis (AD) ist eine chronische Hauterkrankung, die häufig mit anderen atopischen Erkrankungen wie allergischer Rhinokonjunktivitis und allergischem Asthma einhergeht. Obwohl es Hinweise darauf gibt, dass Aeroallergene zu Exazerbationen der AD beitragen können, wird die Allergenimmuntherapie (AIT) bei dieser Erkrankung selten angewendet. Die AIT gilt als die einzige kurative Behandlung von Allergien und hat sich in zahlreichen klinischen Studien als wirksam erwiesen.
+
+Diese Übersichtsarbeit untersucht den aktuellen Stand der Forschung zur AIT bei AD-Patienten. Es werden verschiedene Studiendesigns, Patientenkohorten, Allergene, Applikationsformen und Endpunkte betrachtet, um die Heterogenität der Studien zu analysieren und ihre Vergleichbarkeit zu erschweren. Trotz dieser Herausforderungen zeigen mehrere Untersuchungen eine positive Wirkung der AIT auf den Schweregrad der AD.
+
+Die Pathophysiologie der AD ist komplex und umfasst genetische Faktoren, Barrieredefekte, eine Typ-2-dominierte Immunantwort sowie Umwelteinflüsse. Moderne Systemtherapien wie Biologika und "small molecules" haben wirksame Medikamente zur Behandlung moderater bis schwerer AD hervorgebracht. Jedoch besteht die Gefahr, dass Einflussfaktoren wie Allergien aufgrund einer möglicherweise aufwendigen Diagnostik und Therapie weniger beachtet werden.
+
+Die vorliegende Arbeit betont daher die Bedeutung einer ganzheitlichen Behandlung der AD, die sowohl die Symptome als auch mögliche allergene Trigger berücksichtigt. Die AIT könnte eine vielversprechende Option sein, um den Schweregrad der AD zu reduzieren und langfristige Effekte zu erzielen. Weitere Entwicklungen auf dem Gebiet der AIT könnten dazu beitragen, dass diese Therapie einen breiteren Einsatz bei AD-Patienten findet.
+
+In den folgenden Abschnitten werden wir zunächst den Begriff "Atopie" und seine Verbindung zur AD erläutern. Anschließend werden wir die Rolle von Aeroallergenen bei der Entwicklung und Exazerbation der AD diskutieren. Schließlich werden wir das Konzept der AIT einführen und ihre immunologischen Effekte aufzeigen.

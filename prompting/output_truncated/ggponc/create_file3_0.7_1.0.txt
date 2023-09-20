@@ -1,0 +1,27 @@
+Klinischer Fall: Präoperative biliäre Drainage beim hepatozellulären Karzinom
+
+Patientendaten:
+- Name: Herr Müller
+- Alter: 62 Jahre
+- Geschlecht: männlich
+- Vorerkrankungen: Hypertonie, Diabetes mellitus Typ 2
+
+Anamnese:
+Herr Müller wurde aufgrund von anhaltendem Gewichtsverlust, Müdigkeit und Oberbauchschmerzen zur weiteren Abklärung in die Klinik überwiesen. In der Anamnese gibt er an, dass er in den letzten Monaten etwa 10 kg an Gewicht verloren hat und sich allgemein schwach fühlt. Zudem berichtet er von dunklem Urin und hellen Stuhlgängen.
+
+Untersuchungsbefunde:
+Bei der körperlichen Untersuchung zeigt sich ein schmerzhafter Druck im rechten Oberbauch sowie eine leichte Gelbfärbung der Skleren. Laboruntersuchungen ergeben erhöhte Leberwerte mit einer Bilirubinerhöhung auf 3,5 mg/dl (Referenzbereich <1,0 mg/dl). Die übrigen Laborparameter sind unauffällig.
+
+Bildgebung:
+Eine abdominale Sonographie zeigt eine Raumforderung in der Leber mit typischen Merkmalen eines hepatozellulären Karzinoms (HCC) sowie eine Dilatation des Gallengangssystems. Eine anschließende kontrastmittelgestützte Computertomographie (CT) bestätigt das Vorliegen eines HCCs im rechten Leberlappen sowie einen Verschluss des gemeinsamen Gallengangs.
+
+Diagnosestellung und Behandlungsoptionen:
+Aufgrund der klinischen Symptome, der Laborbefunde und der bildgebenden Untersuchungen wird bei Herrn Müller die Diagnose eines hepatozellulären Karzinoms (HCC) gestellt. Es liegt ein Verschluss des Gallengangssystems vor, was zu einer Cholestase führt und die Gelbsucht sowie weitere Beschwerden verursacht.
+
+Aufgrund des Tumorstadiums und der Beteiligung des Gallengangssystems wird eine kurativ intendierte Resektion angestrebt. Vorab soll eine präoperative biliäre Drainage (PBD) durchgeführt werden, um den Bilirubinspiegel zu senken und das Risiko von Komplikationen während der Operation zu reduzieren.
+
+Nach interdisziplinärer Beratung mit dem interventionellen Radiologen wird entschieden, eine perkutane transhepatische biliäre Drainage (PTBD) durchzuführen. Hierbei erfolgt unter örtlicher Betäubung die Punktion der Leber über die Haut mit anschließender Einlage eines Katheters in den Gallengang. Dieser ermöglicht den Abfluss von Galle in einen externen Beutel.
+
+Die PTBD verläuft komplikationslos, und es kommt zu einer deutlichen Verbesserung der Symptome bei Herrn Müller. Der Bilirubinspiegel sinkt auf 1,2 mg/dl innerhalb weniger Tage nach Durchführung der PBD.
+
+Nach Abschluss dieser palliativen Maßnahme wird Herr Müller für weitere Untersuchungen zur genauen Stadieneinteilung

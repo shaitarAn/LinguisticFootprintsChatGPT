@@ -1,0 +1,13 @@
+Introduction
+
+End-stage renal disease (ESRD) is a global health concern, with the prevalence of chronic kidney disease (CKD) on the rise. Hemodialysis is the primary renal replacement modality for patients with ESRD, and arteriovenous fistulas (AVFs) and grafts (AVGs) are preferred access options due to their lower risk of hospitalization and mortality compared to central venous catheters. However, maintaining patency in long-term vascular accesses requires frequent interventions, which not only burdens healthcare resources but also impacts patients' quality of life and overall outcomes.
+
+Thrombosis is the leading cause of access loss in AVFs and AVGs, accounting for a significant percentage of cases. Thrombosis rates for AVFs range from 0.24 events per 1,000 patient days, while AVG thrombosis occurs at a rate of 0.2 events per patient during a two-year follow-up period. Access thrombosis often results from underlying venous or arterial anastomotic stenoses, as well as systemic factors such as hypercoagulability, low ejection fraction, hypotension, hemoconcentration, and cannulation complications leading to hematomas.
+
+Thrombosed access not only causes delays in hemodialysis treatment but also necessitates hospital admissions and may even require dialysis catheter placement if access abandonment becomes necessary. Prompt treatment is crucial to avoid these complications; however, traditional surgical thrombectomy methods have limitations that include hospitalization requirements and operating room resources utilization.
+
+Fortunately, advancements in intravascular techniques have made endovascular thrombectomy the standard approach for treating thrombosed AV accesses. This method allows for both removal of thrombus within the arteriovenous circuitry and treatment of underlying anatomical abnormalities such as stenoses under imaging guidance.
+
+The success rates reported by previous studies using endovascular thrombectomy for thrombosed AVFs and AVGs range from 70% to 90%. Over the past two decades, the number of endovascular access thrombectomy procedures has significantly increased, reflecting its growing acceptance and effectiveness.
+
+This narrative review aims to provide an overview of current practices, outcomes, and potential complications associated with endovascular thrombectomy techniques for treating thrombosed AVGs and AVFs. By synthesizing existing literature from electronic databases such as PubMed and Google Scholar, we aim to enhance our understanding of these techniques' efficacy in managing patients with thrombosed AV access.

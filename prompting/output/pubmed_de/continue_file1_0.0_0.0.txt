@@ -4,20 +4,6 @@ Um dieses Problem anzugehen, wurde im Rahmen der Initiative "Nationale Forschung
 
 Die Task Force arbeitet an verschiedenen Inhalten, um die Auffindbarkeit und den Umgang mit den Forschungsdaten zu erleichtern. Dazu gehört die Erstellung eines Studienportals, das Metadaten, Erhebungsinstrumente, Studiendokumente, Studienergebnisse und Veröffentlichungen enthält. Außerdem wird eine Suchmaschine für Preprint-Publikationen entwickelt. Des Weiteren wird ein Konzept zur Verknüpfung von Forschungs- und Routinedaten erarbeitet, um eine umfassendere Analyse zu ermöglichen. Auch der Umgang mit Bilddaten wird verbessert und es werden standardisierte Analyseroutinen für harmonisierte Qualitätsbewertungen angewendet.
 
-Die Infrastruktur, die im Rahmen der NFDI4Health Task Force COVID-19 aufgebaut wird, erleichtert die Auffindbarkeit und den Umgang mit deutschen COVID-19-Forschungsdaten. Die Entwicklungen, die im Rahmen dieser Task Force begonnen wurden, sind auch für andere Forschungsthemen von Bedeutung, da die Herausforderungen bei der Auffindbarkeit und dem Umgang mit Forschungsdaten generisch sind.
+Die Infrastruktur, die im Rahmen der NFDI4Health Task Force COVID-19 aufgebaut wird, erleichtert die Auffindbarkeit und den Umgang mit deutschen COVID-19-Forschungsdaten. Die Entwicklungen, die im Rahmen dieser Task Force stattfinden, sind auch für andere Forschungsthemen von Bedeutung, da die Herausforderungen bei der Auffindbarkeit und dem Umgang mit Forschungsdaten generisch sind.
 
-2. Zielsetzung der Task Force COVID-19
-
-Die Task Force COVID-19 hat das Ziel, eine bundesweite Informationsinfrastruktur aufzubauen, die den Zugang zu SARS-CoV-2- und COVID-19-bezogenen Forschungsdaten erleichtert. Dabei sollen die FAIR-Prinzipien berücksichtigt werden, um eine schnellere Kommunikation von Ergebnissen zu ermöglichen.
-
-3. Arbeitsinhalte der Task Force COVID-19
-
-Die Task Force COVID-19 arbeitet an verschiedenen Inhalten, um die Auffindbarkeit und den Umgang mit den Forschungsdaten zu verbessern. Dazu gehört die Erstellung eines Studienportals, das Metadaten, Erhebungsinstrumente, Studiendokumente, Studienergebnisse und Veröffentlichungen enthält. Dieses Portal soll es Forschenden und anderen Interessierten ermöglichen, schnell und einfach Informationen zu den verschiedenen Studien zu finden.
-
-Des Weiteren wird eine Suchmaschine für Preprint-Publikationen entwickelt. Preprints sind wissenschaftliche Artikel, die vor der formellen Begutachtung veröffentlicht werden. Diese Suchmaschine ermöglicht es Forschenden, schnell auf die neuesten Forschungsergebnisse zuzugreifen.
-
-Ein weiterer Schwerpunkt der Task Force ist die Verknüpfung von Forschungs- und Routinedaten. Routinedaten sind Daten, die im Rahmen der medizinischen Versorgung erhoben werden, z.B. in Krankenhäusern oder Arztpraxen. Durch die Verknüpfung dieser Daten mit den Forschungsdaten können umfassendere Analysen durchgeführt werden.
-
-Auch der Umgang mit Bilddaten wird verbessert. Bildgebende Verfahren wie Röntgen oder CT spielen eine wichtige Rolle bei der Diagnose und Verlaufskontrolle von COVID-19. Die Task Force entwickelt Services, die den Umgang mit diesen Daten erleichtern und die Analyse verbessern.
-
-Zudem werden standardisierte Analyseroutinen entwickelt, um eine harmonisierte Qualitäts
+Insgesamt soll die bundesweite Informationsinfrastruktur dazu beitragen, dass COVID-19-Forschungsdaten leichter zugänglich gemacht werden und somit die Forschung und die Entwicklung geeigneter Maßnahmen zur Bekämpfung der Pandemie unterstützt werden.
