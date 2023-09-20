@@ -8,6 +8,10 @@
         {
           "role": "user",
           "content": "Continue the following text: {intext}"
+        },
+        {
+          "role": "user",
+          "content": "Continue generating the text"
         }
       ],
       "explain": [
@@ -18,6 +22,10 @@
         {
           "role": "user",
           "content": "Please explain this clinical case to me: {intext}"
+        },
+        {
+          "role": "user",
+          "content": "Please continue explaining this clinical case."
         }
       ],
       "create": [
@@ -27,7 +35,11 @@
         },
         {
           "role": "user",
-          "content": "Use this clinical case as an example: {intext}. Imagine a patient with a similar condition. Write a clinical case about this patient. Match the length and the writing style of the example case."
+          "content": "Use this truncated clinical case as an example: {intext}. Imagine a different patient with some similar symptoms mentioned in the case. Write a full clinical case about this imaginary patient matching the writing style of the example text."
+        },
+        {
+          "role": "user",
+          "content": "Please continue creating this imaginary clinical case, matching the writing style of previous text."
         }
       ]
     },
@@ -40,6 +52,10 @@
         {
           "role": "user",
           "content": "Continue the following text: {intext}"
+        },
+        {
+          "role": "user",
+          "content": "Continue generating the text"
         }
       ],
       "explain": [
@@ -50,6 +66,10 @@
         {
           "role": "user",
           "content": "Please explain this news article to me: {intext}"
+        },
+        {
+          "role": "user",
+          "content": "Please continue explaining this news article."
         }
       ],
       "create": [
@@ -59,7 +79,11 @@
         },
         {
           "role": "user",
-          "content": "Read the real CNN article here: {intext}. Write a new, imaginary news piece from the location that is mentioned in the article. Change the events and the names of the people. Match the length and the writing style of the given article."
+          "content": "Use this truncated CNN article as an example: {intext}. Imagine a different newsworthy event that happened in the location mentioned in the article. Write a full news article about this imaginary event matching the writing style of the example text."
+        },
+        {
+          "role": "user",
+          "content": "Please continue creating this imaginary news piece, matching the writing style of previous text."
         }
       ]
     },
@@ -72,26 +96,38 @@
         {
           "role": "user",
           "content": "Vervollständige den folgenden text: {intext}"
+        },
+        {
+          "role": "user",
+          "content": "Fahre mit der Erstellung des Textes fort."
         }
       ],
       "explain": [
         {
           "role": "system",
-          "content": "Sie sind Mediziner und haben sich auf Wissenschaftskommunikation spezialisiert."
+          "content": "Sie sind ein/e Mediziner/in und haben sich auf Wissenschaftskommunikation spezialisiert."
         },
         {
           "role": "user",
           "content": "Bitte erklären Sie mir diesen Text aus den Leitlinien: {intext}."
+        },
+        {
+          "role": "user",
+          "content": "Bitte fahren Sie fort, diesen Text aus den Leitlinien zu erklären."
         }
       ],
       "create": [
         {
           "role": "system",
-          "content": "Sie sind ein Mediziner, der den Auftrag hat, einen fiktiven klinischen Fall auf der Grundlage der vorgegebenen medizinischen Leitlinien zu schreiben."
+          "content": "Sie sind ein/e Mediziner/in, der/die beauftragt wurde, einen fiktiven klinischen Fall auf der Grundlage der vorgegebenen medizinischen Leitlinien zu schreiben."
         },
         {
           "role": "user",
           "content": "Bitte erstellen Sie einen fiktiven klinischen Fall auf der Grundlage des Textes aus dem deutschen Leitlinienprogramm für die Onkologie: {intext}."
+        },
+        {
+          "role": "user",
+          "content": "Bitte fahren Sie fort, diesen fiktiven klinischen Fall weiter zu schreiben, und passen Sie dabei den Schreibstil des vorherigen Textes an."
         }
       ]
     },
@@ -104,6 +140,10 @@
         {
           "role": "user",
           "content": "Continue the following text: {intext}"
+        },
+        {
+          "role": "user",
+          "content": "Continue generating the text"
         }
       ],
       "explain": [
@@ -113,7 +153,11 @@
         },
         {
           "role": "user",
-          "content": "Please explain this pubmed article to me. It contains the title, the abstract, and the introduction all together: {intext}."
+          "content": "Please explain the introduction for this PubMed article to me: {intext}."
+        },
+        {
+          "role": "user",
+          "content": "Please continue explaining this PubMed article."
         }
       ],
       "create": [
@@ -123,7 +167,11 @@
         },
         {
           "role": "user",
-          "content": "Read the provided title, the abstract, and the introduction: {intext}. Write an entirely new introduction section for your academic paper, using the title and the abstract as a guide."
+          "content": "Use this truncated academic PubMed article containing the title and the abstract as an example: {intext}. Imagine a different research question concerning the same issue mentioned in the article. Write a full introduction section for an academic paper dedicated to this imaginary research question matching the writing style of the example text."
+        },
+        {
+          "role": "user",
+          "content": "Please continue writing this imaginary introduction section, matching the writing style of previous text."
         }
       ]
     },
@@ -136,26 +184,38 @@
         {
           "role": "user",
           "content": "Vervollständige den folgenden text: {intext}"
+        },
+        {
+          "role": "user",
+          "content": "Fahre mit der Erstellung des Textes fort."
         }
       ],
       "explain": [
         {
           "role": "system",
-          "content": "Sie sind ein Akademiker, der Erfahrung mit Wissenschaftskommunikation hat."
+          "content": "Sie sind ein/e Akademiker/in und haben sich auf Wissenschaftskommunikation spezialisiert."
         },
         {
           "role": "user",
-          "content": "Bitte erklären Sie mir diesen Pubmed-Artikel. Er enthält den Titel, die Zusammenfassung und die Einleitung zusammen: {intext}."
+          "content": "Bitte erklären Sie mir die Einleitung für diesen PubMed-Artikel: {intext}."
+        },
+        {
+          "role": "user",
+          "content": "Bitte fahren Sie fort, diesen PubMed-Artikel zu erklären."
         }
       ],
       "create": [
         {
           "role": "system",
-          "content": "Sie sind ein Akademiker, der einen neuen Artikel zur Veröffentlichung schreibt."
+          "content": "Sie sind ein/e Akademiker/in und schreiben einen neuen Artikel zur Veröffentlichung."
         },
         {
           "role": "user",
-          "content": "Lesen Sie den angegebenen Titel, die Zusammenfassung und die Einleitung: {intext}. Schreiben Sie einen völlig neuen Einleitungsteil für Ihre wissenschaftliche Arbeit, wobei Sie den Titel und die Zusammenfassung als Leitfaden verwenden."
+          "content": "Verwenden Sie diesen gekürzten akademischen PubMed-Artikel, der den Titel und die Zusammenfassung enthält, als Beispiel: {intext}. Stellen Sie sich eine andere Forschungsfrage vor, die dasselbe Problem betrifft, das in dem Artikel erwähnt wird. Schreiben Sie eine vollständige Einleitung für ein wissenschaftliches Paper, das dieser imaginären Forschungsfrage gewidmet ist und dem Schreibstil des Beispieltextes entspricht."
+        },
+        {
+          "role": "user",
+          "content": "Bitte fahren Sie fort, den Einleitungsteil weiter zu schreiben, und passen Sie dabei den Schreibstil des vorherigen Textes an."
         }
       ]
     },
@@ -168,26 +228,126 @@
         {
           "role": "user",
           "content": "Vervollständige den folgenden text: {intext}"
+        },
+        {
+          "role": "user",
+          "content": "Fahre mit der Erstellung des Textes fort."
         }
       ],
       "explain": [
         {
           "role": "system",
-          "content": "Sie sind ein freundlicher Assistent."
+          "content": "Sie sind ein/e Assistent/in."
         },
         {
           "role": "user",
           "content": "Bitte erklären Sie mir diesen Nachrichtenartikel: {intext}"
+        },
+        {
+          "role": "user",
+          "content": "Bitte fahren Sie fort, diesen Nachrichtenartikel zu erklären."
         }
       ],
       "create": [
         {
           "role": "system",
-          "content": "Die Schweizer Zeitung '20 Minuten' ist eine kostenlose Tageszeitung, die in der Schweiz veröffentlicht wird. Sie zeichnet sich durch ein kompaktes Format aus und richtet sich an ein breites Publikum. Die Zeitung deckt verschiedene Themenbereiche ab, darunter Nachrichten, Politik, Wirtschaft, Sport, Unterhaltung und Lifestyle. Sie legt Wert auf eine einfache und leicht verständliche Sprache, um eine breite Leserschaft anzusprechen."
+          "content": "Sie sind ein/e Journalist/in und schreiben für '20 Minuten', eine kostenlose Tageszeitung, die in der Schweiz erscheint. Sie zeichnet sich durch ein kompaktes Format aus und richtet sich an ein breites Publikum. Die Zeitung berichtet über verschiedene Themen, darunter Nachrichten, Politik, Wirtschaft, Sport, Unterhaltung und Lifestyle. Sie legt Wert auf eine einfache und leicht verständliche Sprache, um eine breite Leserschaft anzusprechen."
         },
         {
           "role": "user",
-          "content": "Lesen Sie den echten 20 Minuten Artikel hier: {intext}. Schreiben Sie eine neue, imaginäre Nachricht von dem Ort, der in dem Artikel erwähnt wird. Ändere die Ereignisse und die Namen der Personen. Übernimm die Länge und den Schreibstil des angegebenen Artikels."
+          "content": "Verwenden Sie diesen gekürzten 20-Minuten-Artikel als Beispiel: {intext}. Stellen Sie sich ein anderes berichtenswertes Ereignis vor, das sich an dem im Artikel genannten Ort ereignet hat. Schreiben Sie einen vollständigen Nachrichtenartikel über dieses imaginäre Ereignis, der dem Schreibstil des Beispieltextes entspricht."
+        },
+        {
+          "role": "user",
+          "content": "Bitte fahren Sie fort, den imaginären Nachrichtenartikel weiter zu schreiben, und passen Sie dabei den Schreibstil des vorherigen Textes an."
+        }
+      ]
+    },
+    "zora_en": {
+      "continue": [
+        {
+          "role": "system",
+          "content": ""
+        },
+        {
+          "role": "user",
+          "content": "Continue the following text: {intext}"
+        },
+        {
+          "role": "user",
+          "content": "Continue generating the text"
+        }
+      ],
+      "explain": [
+        {
+          "role": "system",
+          "content": "You are an academic who is experienced with science communication."
+        },
+        {
+          "role": "user",
+          "content": "Please explain the introduction for this Zora article to me: {intext}."
+        },
+        {
+          "role": "user",
+          "content": "Please continue explaining this Zora article."
+        }
+      ],
+      "create": [
+        {
+          "role": "system",
+          "content": "You are an academic, writing a new article for publication."
+        },
+        {
+          "role": "user",
+          "content": "Use this truncated academic Zora article containing the title and the abstract as an example: {intext}. Imagine a different research question concerning the same issue mentioned in the article. Write a full introduction section for an academic paper dedicated to this imaginary research question matching the writing style of the example text."
+        },
+        {
+          "role": "user",
+          "content": "Please continue writing this introduction section, matching the writing style of previous text."
+        }
+      ]
+    },
+    "zora_de": {
+      "continue": [
+        {
+          "role": "system",
+          "content": ""
+        },
+        {
+          "role": "user",
+          "content": "Vervollständige den folgenden text: {intext}"
+        },
+        {
+          "role": "user",
+          "content": "Fahre mit der Erstellung des Textes fort."
+        }
+      ],
+      "explain": [
+        {
+          "role": "system",
+          "content": "Sie sind ein/e Akademiker/in und haben sich auf Wissenschaftskommunikation spezialisiert."
+        },
+        {
+          "role": "user",
+          "content": "Bitte erklären Sie mir die Einleitung für diesen Zora-Artikel: {intext}."
+        },
+        {
+          "role": "user",
+          "content": "Bitte fahren Sie fort, diesen Zora-Artikel zu erklären."
+        }
+      ],
+      "create": [
+        {
+          "role": "system",
+          "content": "Sie sind ein/e Akademiker/in und schreiben einen neuen Artikel zur Veröffentlichung."
+        },
+        {
+          "role": "user",
+          "content": "Verwenden Sie diesen gekürzten akademischen Zora-Artikel, der den Titel und die Zusammenfassung enthält, als Beispiel: {intext}. Stellen Sie sich eine andere Forschungsfrage vor, die dasselbe Problem betrifft, das in dem Artikel erwähnt wird. Schreiben Sie eine vollständige Einleitung für ein wissenschaftliches Paper, das dieser imaginären Forschungsfrage gewidmet ist und dem Schreibstil des Beispieltextes entspricht."
+        },
+        {
+          "role": "user",
+          "content": "Bitte fahren Sie fort, den Einleitungsteil weiter zu schreiben, und passen Sie dabei den Schreibstil des vorherigen Textes an."
         }
       ]
     }

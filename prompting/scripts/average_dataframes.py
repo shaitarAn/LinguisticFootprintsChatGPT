@@ -76,6 +76,9 @@ df = pd.concat([average_human_cont, average_human_full, average_create, average_
 # write the dataframe to a csv file
 df.to_csv(f"../results/combined_{corpus}_{params}.csv")
 
+# print the first column of the dataframe as a list
+print(df.index.tolist())
+
 
 
 
