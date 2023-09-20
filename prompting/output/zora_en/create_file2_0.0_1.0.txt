@@ -1,0 +1,23 @@
+Title: Framing the Impact of Climate Change on Biodiversity: A Comprehensive Review of Literature
+
+Abstract: The urgency of addressing climate change has led to a proliferation of studies examining various aspects of this global issue. Among these, research on framing climate change has gained significant attention in recent years. However, despite the growing body of literature, a lack of clear definitions and conceptual frameworks hinders the synthesis and integration of theoretical and empirical insights in this field. This systematic review aims to bridge this gap by exploring the concept of framing as a means to understand how climate change impacts biodiversity.
+
+Drawing upon 25 years' worth (n = 275) of peer-reviewed literature on framing climate change, we employ both quantitative and qualitative approaches to conduct content analysis. By comparing frames across different frame locations such as frame production, frame content, audience frames, and framing effects within the wider cultural framing repository, we seek to uncover patterns and trends that shed light on how climate change is framed in relation to its impact on biodiversity.
+
+While previous reviews have examined communication research overall, our study focuses specifically on understanding how different frames are employed when discussing the impact of climate change on biodiversity. By doing so, we aim to contribute new insights into how stakeholders communicate about this critical issue within scientific discourse.
+
+This paper argues that despite its potential for bridging perspectives across various stakeholder groups involved in biodiversity conservation efforts amidst climate change challenges; existing research has not fully utilized framing's bridging potential. We highlight the conceptual (mis)fit between frame locations identified through our analysis and discuss implications for future research directions.
+
+In light of increasing concerns about declining biodiversity due to anthropogenic activities exacerbated by climatic changes worldwide, it is imperative that we gain a comprehensive understanding of how different frames shape public perceptions and policy responses towards conserving biodiversity under changing climatic conditions. This study seeks to address this knowledge gap by providing an extensive review that synthesizes existing literature while offering directions for future research on framing the impact of climate change on biodiversity.
+
+1. Introduction
+
+Climate change poses a significant threat to global biodiversity, with profound implications for ecosystems and human well-being. The accelerating pace of climate change necessitates effective communication strategies that can engage diverse stakeholders and foster collective action towards mitigating its impacts. Framing, as a theoretical concept rooted in communication research, offers a valuable lens through which to understand how different perspectives are constructed and communicated within the context of climate change.
+
+While previous studies have examined framing in the broader context of climate change communication, there remains a dearth of comprehensive reviews specifically focusing on how this issue is framed concerning its impact on biodiversity. This paper aims to fill this gap by conducting a systematic review that synthesizes existing literature over the past 25 years (n = 275) to explore how various frames have been employed when discussing the impact of climate change on biodiversity.
+
+By adopting both quantitative and qualitative content analysis approaches, we seek to identify patterns and trends in frame production, frame content, audience frames, and framing effects related to biodiversity conservation efforts amidst changing climatic conditions. Through this analysis, we aim to shed light on how different stakeholders communicate about the impact of climate change on biodiversity within scientific discourse.
+
+Furthermore, this study seeks to examine whether existing research has fully utilized framing's potential as a bridging concept across stakeholder groups involved in addressing declining biodiversity under changing climatic conditions. By identifying any conceptual (mis)fit between frame locations observed through our analysis, we hope to provide insights into areas where further research is needed.
+
+The findings from this study will contribute valuable knowledge regarding effective communication strategies for engaging diverse audiences in discussions surrounding the impact of climate change on global biodiversity. Ultimately, such insights can inform policy decisions and conservation efforts aimed at preserving Earth's rich biological heritage amidst ongoing climatic changes.

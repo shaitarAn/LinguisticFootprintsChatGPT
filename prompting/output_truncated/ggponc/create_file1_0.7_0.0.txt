@@ -1,19 +1,17 @@
-Klinischer Fall:
+Klinischer Fall: Postoperative Strahlentherapie bei einem Weichgewebesarkom der Extremität
 
-Patient: Herr Müller, 62 Jahre alt
+Patient: Herr Müller, 60 Jahre alt, männlich
 
-Anamnese: Herr Müller stellt sich mit Schmerzen und Schwellung im rechten Oberschenkel vor. Er berichtet, dass die Beschwerden vor einigen Wochen begonnen haben und sich seitdem verschlimmert haben. Er hat in den letzten Monaten Gewicht verloren und fühlt sich allgemein schwach und müde. Herr Müller raucht seit über 40 Jahren und trinkt gelegentlich Alkohol. Er hat keine bekannte Vorgeschichte von Krebserkrankungen in der Familie.
+Anamnese: Herr Müller wurde vor 4 Wochen wegen eines Weichgewebesarkoms am rechten Oberschenkel operiert. Die histopathologische Untersuchung ergab ein R0-reseziertes Sarkom mit einem Grad der Differenzierung von G2. Der Tumor hatte eine Größe von 8 cm und zeigte keine Anzeichen einer Lymphknotenbeteiligung. Der Patient ist ansonsten gesund und hat keine relevanten Vorerkrankungen.
 
-Untersuchungsbefunde: Bei der körperlichen Untersuchung ist eine massive Schwellung im rechten Oberschenkel sichtbar. Die Haut über dem betroffenen Bereich ist gespannt und gerötet. Bei der Palpation ist eine große, feste Masse zu spüren, die schmerzhaft ist. Die Lymphknoten in der Leiste sind vergrößert und schmerzhaft bei Druck.
+Diagnose: Postoperatives Weichgewebesarkom des rechten Oberschenkels (Grad der Differenzierung G2)
 
-Diagnose: Aufgrund der klinischen Befunde wird bei Herrn Müller der Verdacht auf ein Weichgewebesarkom gestellt. Um die Diagnose zu bestätigen, wird eine Gewebeentnahme durchgeführt. Die histologische Untersuchung bestätigt die Diagnose eines Weichgewebesarkoms.
+Therapieoptionen: Basierend auf den medizinischen Leitlinien wird dem Patienten eine postoperative Strahlentherapie empfohlen, um das Risiko eines lokalen Rückfalls zu verringern.
 
-Stadieneinteilung: Nach weiteren bildgebenden Untersuchungen (MRT, CT) wird das Weichgewebesarkom als lokal fortgeschrittenes Stadium (Stadium III) eingestuft. Es gibt keine Hinweise auf Fernmetastasen.
+Behandlungsplan: Der Patient wird für eine adjuvante perkutane Strahlentherapie (45 Gy/1,8 Gy Einzeldosis + 18 Gy/1,8 Gy Einzeldosis Boost) in eine spezialisierte onkologische Klinik überwiesen. Die Behandlung erfolgt in Form einer externen Bestrahlung mit einer Gesamtdosis von 45 Gy in 25 Einzeldosen über einen Zeitraum von 5 Wochen. Anschließend wird ein Boost von 18 Gy in 10 Einzeldosen verabreicht, um das Tumorrestvolumen gezielt zu behandeln.
 
-Behandlungsplan: Aufgrund der lokal fortgeschrittenen Erkrankung wird eine multimodale Therapie empfohlen. Der Behandlungsplan sieht eine neoadjuvante Chemotherapie gefolgt von einer chirurgischen Resektion und anschließender adjuvanter Strahlentherapie vor.
+Verlauf: Herr Müller erhält die geplante Strahlentherapie ohne Komplikationen. Während der Behandlung kommt es zu vorübergehenden Hautreizungen und Müdigkeit, die jedoch nach Abschluss der Therapie abklingen. Der Patient wird regelmäßig nachbeobachtet, um einen möglichen lokalen Rückfall frühzeitig zu erkennen. Nach einem Jahr zeigt die klinische Untersuchung keine Hinweise auf einen lokalen Rückfall des Sarkoms.
 
-Chemotherapie: Herr Müller erhält eine neoadjuvante Chemotherapie mit einem standardisierten Protokoll, das aus einer Kombination von Doxorubicin und Ifosfamid besteht. Diese Therapie wird über einen Zeitraum von 3 Monaten durchgeführt, um die Größe des Tumors zu reduzieren und das Risiko einer R1-Resektion zu verringern.
+Diskussion: Die vorliegende Fallbeschreibung zeigt die Umsetzung der medizinischen Leitlinien für die postoperative Strahlentherapie bei einem Weichgewebesarkom der Extremität. Die Entscheidung für eine adjuvante Strahlentherapie basierte auf randomisierten Studien, die eine signifikante Reduktion der lokalen Rückfallrate bei R0-resezierten Sarkomen zeigten. Die Wahl der Strahlentherapie (perkutan vs. Brachytherapie) erfolgte aufgrund der vorliegenden Evidenz und individuellen Faktoren wie Tumorgröße, Grad der Differenzierung und Lokalisation des Sarkoms.
 
-Chirurgische Resektion: Nach Abschluss der neoadjuvanten Chemotherapie wird Herr Müller einer chirurgischen Resektion unterzogen. Das Ziel der Operation ist es, den Tumor vollständig zu entfernen (R0-Resektion). Aufgrund der Größe und Lokalisation des Tumors ist eine umfangreiche Resektion inklusive eines Teils des Oberschenkels erforderlich.
-
-Adjuvante Strahlentherapie: Nach der Operation wird Herr Müller eine adjuvante Strahlentherapie gemäß den Leitlinien erhalten. Die Strahlentherapie wird perkutan durchgeführt und besteht aus einer Gesamtdosis von 45 Gy in Einzeldosen
+Hinweis: Dieser Fall ist rein fiktiv und dient

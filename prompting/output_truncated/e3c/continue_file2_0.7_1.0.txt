@@ -1,17 +1,17 @@
-On examination, the patient appeared pale and fatigued. She had a distended abdomen with tenderness in the epigastric region. There were no palpable masses or organomegaly. Her vital signs were within normal limits, and her blood pressure was slightly elevated at 130/90 mmHg.
+On physical examination, the patient appeared pale and had a distended abdomen with visible dilated veins over the abdominal wall. There were no signs of jaundice or peripheral edema. Auscultation of the chest revealed normal breath sounds, and her blood pressure was within normal limits.
 
-Laboratory investigations revealed a mild microcytic hypochromic anemia with a hemoglobin level of 10 g/dL. Liver function tests were within normal range, ruling out liver pathology as the cause of her symptoms.
+Based on her history and presentation, several differential diagnoses were considered including peptic ulcer disease, gallstones, pancreatitis, and gastrointestinal malignancy. Given her persistent abdominal pain and weight loss without associated symptoms such as early satiety or jaundice, further investigations were warranted to determine the underlying cause.
 
-Given her history of weight loss and persistent abdominal pain, further investigations were conducted to determine the cause. An ultrasound was performed which showed an enlarged pancreas with irregular contours and dilated pancreatic ducts suggestive of chronic pancreatitis.
+Initial laboratory investigations revealed a mild normocytic anemia (hemoglobin 10.2 g/dL) with normal liver function tests and renal profile. A complete blood count showed no evidence of thrombocytopenia or leukocytosis.
 
-The patient was referred to a gastroenterologist for further evaluation and management. A detailed history revealed that she had a long-standing alcohol abuse problem, consuming about four to five alcoholic drinks daily for many years until she found out about her pregnancy.
+An ultrasound examination of the abdomen was performed which showed hepatomegaly with multiple hypoechoic lesions in both lobes of the liver suggestive of metastatic disease. The gallbladder appeared unremarkable without evidence of stones or inflammation.
 
-The combination of chronic alcohol consumption and pregnancy can lead to an increased risk of developing pancreatitis due to hormonal changes and altered metabolism during pregnancy.
+Given these findings, a computed tomography (CT) scan was ordered for further evaluation. The CT scan confirmed multiple hypodense lesions scattered throughout both lobes of the liver consistent with metastatic deposits (Figure 1). No other intra-abdominal abnormalities were noted.
 
-The gastroenterologist recommended abstinence from alcohol along with dietary modifications including low-fat meals rich in fruits, vegetables, and whole grains. She was also prescribed pancreatic enzyme supplements to aid in digestion.
+In light of these findings, further investigations including tumor markers such as alpha-fetoprotein (AFP), carcinoembryonic antigen (CEA), and CA19-9 were requested to help identify the primary source of malignancy causing hepatic metastasis.
 
-During follow-up visits, the patient reported improvement in her symptoms after implementing these lifestyle changes. Her pain gradually reduced over time as she adhered to the treatment plan provided by the gastroenterologist.
+The patient's case was discussed with an oncologist who recommended a biopsy to confirm the diagnosis before initiating treatment options. A percutaneous ultrasound-guided liver biopsy was performed which revealed poorly differentiated adenocarcinoma cells consistent with colorectal origin.
 
-Additionally, regular antenatal care continued under close monitoring by both obstetricians and gastroenterologists throughout her pregnancy journey due to potential complications associated with chronic pancreatitis during gestation.
+Following confirmation of colorectal cancer with hepatic metastasis, the patient was referred to an oncology center for further management. She underwent a multidisciplinary approach involving chemotherapy, surgical evaluation, and possible liver resection.
 
-In conclusion, this case highlights the importance of considering underlying causes for abdominal pain during pregnancy beyond typical obstetric concerns. Collaborative management between multiple specialties is crucial for ensuring optimal outcomes for both the mother and the unborn child.
+In conclusion, this case highlights the importance of considering malignancy in the differential diagnosis of persistent abdominal pain and weight loss. Prompt investigation with imaging modalities and tumor markers can aid in timely diagnosis and appropriate management planning. Early referral to specialized centers is crucial for optimal patient outcomes.

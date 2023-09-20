@@ -1,19 +1,20 @@
-Patient Information:
+Patient information:
+On the 3rd November 2021, a previously healthy, 35-year-old Caucasian female was admitted to the medical ward at St. Mary's Hospital, London. The patient was transferred from a local clinic with a chief complaint of fever, body aches, and a rash. 
 
-On the 15th September 2021, a previously healthy, 25-year-old Caucasian female was admitted to the medical ward at St. Mary's Hospital. The patient presented with a two-week history of fever, fatigue, and joint pain. She reported a recent trip to a rural area where she had been camping and hiking. There was no history of recent illness, surgery, or medication use. The patient works as a teacher and has no known allergies.
+Presenting symptoms:
+The patient reported a one-week history of high-grade fever, reaching up to 39°C, which was accompanied by a generalized rash covering her body and eyelids. She also complained of intermittent headaches, neck pain, sore throat, and a dry cough. In addition, she mentioned experiencing a day of diarrhea prior to the onset of these symptoms. However, the patient denied any arthralgias, oral or nasal ulcers, or urethral discharge.
 
-Clinical Findings:
+Medical history:
+The patient had no significant medical history and had not experienced any similar symptoms or illnesses in the past. She reported that she was up to date with her vaccinations, including the influenza vaccine which she received two months ago.
 
-Upon examination, the patient appeared tired and had a temperature of 38.8°C. She had mild swelling and tenderness in her wrists and knees bilaterally. There was no evidence of skin rash, oral ulcers, or lymphadenopathy. Cardiovascular and respiratory examinations were unremarkable. Laboratory tests revealed an elevated C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), and white blood cell count (WBC). Other blood parameters, including liver function tests and renal function, were within normal limits.
+Social history:
+The patient worked as a teacher in a local primary school and had been in contact with numerous children. She denied any recent travel or exposure to individuals with known infectious diseases. She lived with her husband and two children, who were asymptomatic at the time of her admission.
 
-Diagnostic Assessment:
+Physical examination:
+Upon admission, the patient appeared ill and fatigued. Her temperature was 38.5°C, and she had a slightly elevated heart rate of 100 beats per minute. The patient's blood pressure, respiratory rate, and oxygen saturation were within normal limits. The physical examination revealed a diffuse maculopapular rash over her trunk and extremities, including her eyelids. No oral ulcers, nasal discharge, or genital lesions were observed. The patient's neck was supple, with no signs of meningismus.
 
-Given the patient's symptoms and recent outdoor activities, a wide differential diagnosis was considered. Infectious causes, including tick-borne diseases like Lyme disease, were at the top of the list. Other possibilities included viral infections such as Epstein-Barr virus (EBV) or cytomegalovirus (CMV). Non-infectious causes, such as autoimmune diseases like rheumatoid arthritis or systemic lupus erythematosus (SLE), were also considered.
+Laboratory findings:
+Initial laboratory investigations demonstrated leukopenia with a white blood cell count of 3.2 x 10^9/L (normal range: 4.0-11.0 x 10^9/L) and a normal differential count. The patient's liver function tests, renal function, and electrolyte levels were all within normal limits. A nasopharyngeal swab was collected for respiratory viral panel testing.
 
-Therapeutic Intervention:
-
-The patient was started on empirical antibiotics to cover potential tick-borne illnesses. Doxycycline was initiated at a dose of 100 mg twice daily. Nonsteroidal anti-inflammatory drugs (NSAIDs) were prescribed to manage the joint pain and inflammation. The patient was advised to rest and maintain hydration.
-
-Follow-up and Outcomes:
-
-Over the course of several days, the patient's fever subsided, and her joint pain improved significantly. Laboratory tests showed a decrease in inflammatory markers, including CRP and ESR. A serological test for Lyme disease was performed and returned positive for antibodies against Borrelia burgdorferi, confirming the diagnosis. The patient completed a two-week course of doxycycline and continued to experience improvement in her symptoms. At a follow-up appointment one month later, she reported being symptom-free and was able to resume her normal activities without limitations.
+Clinical impression and plan:
+Based on the patient's history, clinical presentation, and laboratory findings, the initial impression was that the patient may be experiencing a viral infection. Given the concern for a potential infectious etiology, the patient was placed on contact and droplet precautions to prevent potential transmission to healthcare workers and other patients. A broad-spectrum antibiotic was initiated while awaiting the results of the respiratory viral panel test. The patient was also provided with supportive care, including antipyretics for fever and analgesics for

@@ -1,25 +1,9 @@
-Die COVID-19-Pandemie hat weltweit zahlreiche Forschungsaktivitäten initiiert, um das Virus und die Krankheit besser zu verstehen und geeignete Maßnahmen zur Bekämpfung der Pandemie zu ergreifen. Auch in Deutschland gibt es eine Vielzahl von Forschungsprojekten zu COVID-19. Allerdings ist es aufgrund der großen Menge an Informationen schwer, den Überblick über diese Aktivitäten und deren Ergebnisse zu behalten.
+Die COVID-19-Pandemie hat weltweit zu zahlreichen Forschungsprojekten geführt, um das Virus besser zu verstehen und geeignete Maßnahmen zur Eindämmung zu ergreifen. Auch in Deutschland wurden viele Studien und Untersuchungen initiiert. Allerdings ist es aufgrund der großen Menge an Informationen immer schwieriger geworden, den Überblick über die verschiedenen Forschungsaktivitäten und deren Ergebnisse zu behalten.
 
-Um diesem Problem entgegenzuwirken, wurde im Rahmen der Initiative "Nationale Forschungsdateninfrastruktur für personenbezogene Gesundheitsdaten" (NFDI4Health) die "Task Force COVID-19" ins Leben gerufen. Ihr Ziel ist es, einen leichteren Zugang zu SARS-CoV-2- und COVID-19-bezogenen klinischen, epidemiologischen und Public-Health-Forschungsdaten zu ermöglichen. Dabei werden die sogenannten FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) berücksichtigt, um eine schnellere Kommunikation von Forschungsergebnissen zu ermöglichen.
+Um diese Problematik anzugehen, hat die Initiative "Nationale Forschungsdateninfrastruktur für personenbezogene Gesundheitsdaten" (NFDI4Health) die "Task Force COVID-19" ins Leben gerufen. Ziel dieser Task Force ist es, einen einfacheren Zugang zu den Forschungsdaten im Zusammenhang mit SARS-CoV-2 und COVID-19 zu schaffen. Dabei werden die FAIR-Prinzipien berücksichtigt, die eine schnelle Kommunikation und Verbreitung von Forschungsergebnissen ermöglichen sollen.
 
-Die Task Force arbeitet an verschiedenen Inhalten, um die Auffindbarkeit und den Umgang mit COVID-19-Forschungsdaten zu erleichtern. Dazu gehört die Erstellung eines Studienportals, das Metadaten, Erhebungsinstrumente, Studiendokumente, Studienergebnisse und Veröffentlichungen beinhaltet. Zudem wird eine Suchmaschine für Preprint-Publikationen entwickelt. Ein weiterer Schwerpunkt liegt auf dem Konzept zur Verknüpfung von Forschungs- und Routinedaten sowie auf verbesserten Services zum Umgang mit Bilddaten. Zudem sollen standardisierte Analyseroutinen für harmonisierte Qualitätsbewertungen angewendet werden.
+Zu den Aufgaben der Task Force gehört unter anderem die Erstellung eines Studienportals, in dem Metadaten, Erhebungsinstrumente, Studiendokumente, Ergebnisse und Veröffentlichungen gesammelt und zur Verfügung gestellt werden. Zudem wird eine Suchmaschine für Preprint-Publikationen entwickelt. Des Weiteren wird ein Konzept erarbeitet, um Forschungs- und Routinedaten miteinander zu verknüpfen. Auch die Verbesserung des Umgangs mit Bilddaten sowie die Anwendung standardisierter Analyseroutinen für Qualitätsbewertungen sind Bestandteile der Arbeitsinhalte.
 
-Die Infrastruktur, die im Aufbau befindlich ist, wird es Forschenden erleichtern, deutsche COVID-19-Forschung zu finden und damit umzugehen. Die entwickelten Lösungen der Task Force lassen sich zudem auch für andere Forschungsthemen nutzen, da die Herausforderungen bei der Auffindbarkeit und dem Umgang mit Forschungsdaten generisch sind.
+Die Informationsinfrastruktur, die von der Task Force aufgebaut wird, wird die Auffindbarkeit und den Umgang mit deutschen COVID-19-Forschungsdaten erleichtern. Die Entwicklungen, die im Rahmen der NFDI4Health Task Force COVID-19 gestartet wurden, können auch für zukünftige Forschungsthemen genutzt werden, da die behandelten Herausforderungen allgemein für die Auffindbarkeit und den Umgang mit Forschungsdaten gelten.
 
-Inhaltsverzeichnis:
-
-1. Einleitung
-2. Status quo der COVID-19-Forschungsdaten in Deutschland
-3. Die Initiative "Nationale Forschungsdateninfrastruktur für personenbezogene Gesundheitsdaten" (NFDI4Health)
-4. Aufgaben und Ziele der Task Force COVID-19
-5. Umsetzung der FAIR-Prinzipien
-6. Arbeitsinhalte der Task Force
-   6.1 Erstellung eines Studienportals
-   6.2 Suchmaschine für Preprint-Publikationen
-   6.3 Konzept zur Verknüpfung von Forschungs- und Routinedaten
-   6.4 Services zum verbesserten Umgang mit Bilddaten
-   6.5 Anwendung standardisierter Analyseroutinen für Qualitätsbewertungen
-7. Nutzen der Infrastruktur für die COVID-19-Forschung
-8. Übertragbarkeit auf andere Forschungsthemen
-9. Fazit und Ausblick
-10. Literaturverzeichnis
+Dieser Text beschreibt die Ziele und Aufgaben der Task Force COVID-19 im Rahmen der NFDI4Health-Initiative, um die Verfügbarkeit und Nutzung von Forschungsdaten im Zusammenhang mit COVID-19 in Deutschland zu verbessern.

@@ -1,25 +1,35 @@
-Patient Information:
+Patient Information
 
-On the 1st November 2021, a previously healthy, 35-year-old Caucasian female was admitted to the medical ward at Hope General Hospital. The patient presented with a two-week history of fatigue, low-grade fever, joint pain, and a diffuse rash over her body. She complained of occasional headaches and a dry cough, but denied any sore throat or gastrointestinal symptoms. There was no history of recent travel, no known contact with COVID-19 cases, and no significant medical history or medication use.
+On the 5th April 2022, a previously healthy 32-year-old Hispanic female was admitted to the medical ward at St. Joseph's Hospital in Phoenix, Arizona. The patient was transferred from a local urgent care center after presenting with a two-week history of fever, generalized rash over her body and eyelids, intermittent headache with associated neck pain, sore throat, and a dry cough. She reported a day history of abdominal pain and diarrhea but denied any joint pain, oral or nasal ulcers, or discharge from her urethra.
 
-Clinical Findings:
+Medical History
 
-Upon examination, the patient appeared fatigued and had a blood pressure of 118/78 mmHg, heart rate of 90 beats per minute, and a temperature of 37.8°C. She had multiple tender, swollen joints with limited range of motion. A maculopapular rash was observed over her trunk, extremities, and face. The rash was pruritic but non-blanching. The rest of the physical examination, including cardiovascular, respiratory, abdominal, and neurological assessments, was unremarkable.
+The patient had no significant medical history and was not taking any medication regularly. She reported no known allergies to medications, food, or environmental factors. Her family history was unremarkable for any genetic or chronic diseases.
 
-Diagnostic Assessment:
+Presenting Symptoms
 
-Initial blood tests revealed an elevated erythrocyte sedimentation rate (ESR), C-reactive protein (CRP), and white blood cell count (WBC). Rheumatoid factor and antinuclear antibody (ANA) tests were negative. No evidence of infection was found on blood and urine cultures. A chest X-ray and abdominal ultrasound were normal. The patient underwent an ultrasound-guided joint aspiration, which showed inflammatory synovial fluid with no evidence of crystals or infection.
+The patient initially experienced a mild fever, which progressively worsened over the two-week period. During this time, she developed a rash that spread all over her body, including her eyelids. Along with the fever and rash, she complained of intermittent headaches accompanied by neck pain. Additionally, she presented with a sore throat and a dry cough. The patient noted a one-day history of abdominal pain and diarrhea.
 
-Diagnosis and Differentials:
+Physical Examination
 
-Based on the clinical findings and diagnostic tests, a working diagnosis of rheumatoid arthritis (RA) was made. Other differentials considered included systemic lupus erythematosus (SLE), psoriatic arthritis, and reactive arthritis.
+Upon admission, the patient appeared fatigued and mildly dehydrated. Her vital signs were stable, with a temperature of 38.8°C (101.8°F), blood pressure of 120/70 mmHg, heart rate of 88 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. Inspection of the skin revealed a generalized maculopapular rash, most prominent on the trunk and extremities, including the eyelids. There were no noticeable joint swellings, oral ulcers, or nasal discharge. The neck examination revealed no stiffness or lymph node enlargement. The abdominal examination was unremarkable, with no palpable tenderness or distension.
 
-Therapeutic Intervention:
+Diagnostic Assessments
 
-The patient was started on nonsteroidal anti-inflammatory drugs (NSAIDs) for pain and inflammation control. Methotrexate, a disease-modifying antirheumatic drug (DMARD), was initiated to slow down the progression of RA. The patient received education about the disease, its management, and the importance of early and regular follow-ups.
+Laboratory investigations were ordered to further evaluate the patient's condition. Results showed a leukocyte count of 12,500 cells/mm³, with a neutrophil predominance. Other blood indices, including hemoglobin, platelet count, and liver and renal function tests, were within normal limits. A nasopharyngeal swab was obtained for SARS-CoV-2 polymerase chain reaction (PCR) testing to rule out COVID-19 infection. Chest X-ray was performed, which revealed no significant abnormalities.
 
-Follow-Up and Outcomes:
+Clinical Diagnosis
 
-The patient was regularly monitored in the rheumatology outpatient clinic. Over the course of several months, her symptoms improved, and the rash gradually resolved. Her joint pain and swelling significantly decreased, and she experienced improved mobility. The methotrexate dosage was adjusted based on clinical response and laboratory monitoring. Regular laboratory tests, including complete blood counts and liver function tests, were performed to monitor for potential side effects of the medication. The patient adhered to the treatment regimen and engaged in physical therapy exercises to maintain joint flexibility.
+Based on the patient's symptoms and physical examination findings, a preliminary diagnosis of viral infection, possibly viral exanthem, was made. The differential diagnosis included viral illnesses such as measles, rubella, enterovirus, and adenovirus. A COVID-19 test was conducted to exclude SARS-CoV-2 infection due to the ongoing pandemic. 
 
-At her most recent follow-up appointment, six months after the initial presentation, the patient reported being in remission with minimal joint symptoms. She expressed satisfaction with her treatment outcome and her ability to resume her normal activities. She currently continues on low-dose methotrexate and regular follow-ups with her rheumatologist to ensure disease control and early detection of any potential flare-ups.
+Treatment and Management
+
+Supportive care was initiated, focusing on symptom relief and hydration. The patient was encouraged to maintain fluid intake and rest adequately. Non-steroidal anti-inflammatory drugs (NSAIDs) were prescribed for pain management, and antipyretics were given to control the fever. Close monitoring of symptoms, vital signs, and hydration status was conducted throughout the patient's hospital stay.
+
+Follow-up
+
+The patient's condition gradually improved over the next few days. The fever subsided, and the rash began to fade. Her other symptoms, including headache, neck pain, sore throat, and cough, also resolved. After ensuring her full recovery and stable condition, the patient was discharged with instructions for self-monitoring and follow-up with her primary care physician in one week.
+
+Conclusion
+
+This case highlights the presentation of a previously healthy young female with fever, rash, headache, neck pain, sore throat, and diarrhea. Through a comprehensive clinical assessment, viral exanthem was identified as the likely cause of her symptoms. The importance of ruling out other infectious etiologies, including COVID-19, and providing supportive care to manage symptoms were the key components of this patient's treatment and management.

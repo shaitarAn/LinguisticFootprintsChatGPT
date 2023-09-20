@@ -1,15 +1,13 @@
-Dieser Text stammt aus den Leitlinien für die Behandlung von Weichgewebesarkomen bei Erwachsenen. Es handelt sich um eine Empfehlung zur postoperativen Strahlentherapie bei Sarkomen, die in randomisierten Studien untersucht wurde.
+In dem Text geht es um die Behandlung von Sarkomen, speziell um die Frage, ob eine adjuvante Strahlentherapie nach der Resektion des Tumors sinnvoll ist. 
 
-In diesen Studien wurde festgestellt, dass die lokale Rückfallrate durch die Strahlentherapie signifikant gesenkt werden kann. Dabei wurde sowohl die perkutane Strahlentherapie als auch die Brachytherapie untersucht. Bei Patienten mit Sarkomen der Stufe G2/G3 wurde in einer der Studien gezeigt, dass die lokale Kontrollrate mit Brachytherapie bei 89 % lag, während sie ohne Brachytherapie nur bei 66 % lag. Für Sarkome der Stufe G1 hatte die Strahlentherapie keinen Einfluss auf die lokale Kontrolle.
+Zunächst wird erwähnt, dass Studien gezeigt haben, dass die Strahlentherapie die lokale Rückfallrate bei Sarkomen verringern kann. Allerdings wurde kein statistisch signifikanter Überlebensvorteil nachgewiesen. 
 
-Obwohl die Strahlentherapie die lokale Rückfallrate signifikant senken konnte, konnte kein statistisch signifikanter Überlebensvorteil nachgewiesen werden. Eine mögliche Erklärung dafür ist der sogenannte "prescription bias", bei dem die Strahlentherapie bei Patienten mit einem höheren Rückfallrisiko häufiger eingesetzt wird.
+Es wird vermutet, dass ein möglicher Grund dafür der "prescription bias" ist, also die Tendenz, die Strahlentherapie bei Patienten mit hohem Rückfallrisiko häufiger einzusetzen. 
 
-Es wurde auch festgestellt, dass die Lokalrezidivrate nach adjuvanter Strahlentherapie bei einer R1-Resektion etwa um den Faktor 2-3 höher ist als bei einer R0-Resektion. Bei R1-Resektionen im Bereich der Extremitäten wurden trotz zusätzlicher Strahlentherapie Rückfallraten zwischen 15 % und 35 % berichtet. Es wurde jedoch gezeigt, dass Strahlendosen von mehr als 64 Gy die lokale Rückfallrate signifikant reduzieren können.
+Es wird auch darauf hingewiesen, dass bei einer R1-Resektion, bei der noch Tumorzellen im Gewebe verbleiben, die Lokalrezidivrate nach Strahlentherapie erhöht sein kann. 
 
-Für atypische lipomatöse Tumoren (G1 Liposarkom) wurde festgestellt, dass eine adjuvante Strahlentherapie nach R0-Resektion die Lokalrezidivrate nicht signifikant verringern konnte. Bei marginaler Resektion reduzierte die Strahlentherapie jedoch signifikant die lokale Rückfallrate.
+Für die Subgruppe der atypischen lipomatösen Tumoren wird erwähnt, dass die adjuvante Strahlentherapie nach R0-Resektion die Lokalrezidivrate nicht signifikant verringert, aber nach marginaler Resektion sehr effektiv ist. 
 
-Es wird empfohlen, dass die postoperative Strahlentherapie zeitnah nach der Operation beginnt, nachdem die Wundheilung weitestgehend abgeschlossen ist. Das Zeitintervall zwischen der Resektion und dem Beginn der Strahlentherapie sollte idealerweise nicht länger als 6 Wochen sein.
+Es wird empfohlen, die postoperative Strahlentherapie möglichst zeitnah nach der Operation zu beginnen, aber erst nachdem die Wundheilung weitestgehend abgeschlossen ist. Es wird darauf hingewiesen, dass ein langes Intervall zwischen Operation und Strahlentherapie möglicherweise negative Auswirkungen haben kann, obwohl dies bei Sarkomen bisher nicht gut belegt ist. 
 
-Es gibt keine wissenschaftlich gut belegten negativen Auswirkungen eines längeren Intervalls zwischen Chirurgie und Strahlentherapie bei Weichgewebesarkomen. Es wird jedoch empfohlen, dass die Strahlentherapie möglichst innerhalb von 6 Wochen nach der Resektion beginnen sollte.
-
-Die adjuvante Brachytherapie in einer der Studien begann 5 Tage nach der Operation, da ein früherer Beginn mit einer erhöhten akuten Komplikationsrate verbunden war.
+Insgesamt zeigt der Text, dass die adjuvante Strahlentherapie bei Sarkomen die lokale Rückfallrate verringern kann, aber der Überlebensvorteil noch nicht eindeutig nachgewiesen ist. Es werden verschiedene Faktoren diskutiert, die den Effekt der Strahlentherapie beeinflussen können, wie z.B. das Ausmaß der Resektion und das Intervall zwischen Operation und Strahlentherapie. Weitere Studien sind erforderlich, um diese Fragen zu klären.

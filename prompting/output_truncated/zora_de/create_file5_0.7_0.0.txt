@@ -1,0 +1,13 @@
+Auto(game)-Poiesis: A Critical Analysis of Video Game Creation
+
+Abstract: The role of video games in contemporary society has been widely studied, with a particular focus on their cultural, social, and psychological implications. However, the process of video game creation, or "auto(game)-poiesis," has received relatively little attention in academic research. This article aims to explore the intricate relationship between gender and the act of video game creation, drawing inspiration from Wilhelm von Humboldt's 'Geschlechter-Aufsätze' (1795) and his masculinization strategies in the realm of poetics.
+
+1. Introduction
+
+In recent years, the popularity of video games has grown exponentially, solidifying their position as a dominant form of entertainment and cultural expression. Scholars from various disciplines have explored the impact of video games on society, investigating their influence on identity formation, social interaction, and cognitive processes. However, one aspect of video games that has been largely overlooked is the creative process behind their development.
+
+The act of video game creation, or "auto(game)-poiesis," refers to the production of video games by their own internal mechanisms. This self-generative process encompasses the design, programming, and implementation of various elements within a game, including characters, narratives, and gameplay mechanics. While the study of video games has often focused on their reception and consumption, understanding the complexities of their creation is crucial for a comprehensive analysis of the medium.
+
+Drawing inspiration from Wilhelm von Humboldt's 'Geschlechter-Aufsätze' (1795), this paper aims to explore the gendered implications of video game creation. Humboldt's work has previously been recognized for its contribution to the gender discourse, yet the specific strategies employed to masculinize the realm of poetics have received limited attention. By examining the ways in which video game creation is intertwined with gender, this research seeks to shed light on the underlying assumptions and power dynamics that shape the production of digital interactive experiences.
+
+In order to achieve this objective,

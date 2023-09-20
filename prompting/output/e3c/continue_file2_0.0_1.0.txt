@@ -2,16 +2,22 @@ On physical examination, the patient appeared pale and had a distended abdomen. 
 
 Given her symptoms and examination findings, further investigations were ordered. A complete blood count revealed mild anemia with a hemoglobin level of 10 g/dL (normal range: 12-15 g/dL). Liver function tests showed elevated levels of alkaline phosphatase and gamma-glutamyl transferase, while other liver enzymes were within normal limits. Serum bilirubin levels were also within normal range.
 
-An abdominal ultrasound was performed to evaluate the cause of her symptoms. The ultrasound revealed a dilated common bile duct measuring 1 cm in diameter with multiple gallstones visualized within the gallbladder. There was also evidence of cholelithiasis with associated sludge in the gallbladder lumen.
+An abdominal ultrasound was performed to evaluate the cause of her symptoms. The ultrasound revealed a dilated common bile duct measuring 1 cm in diameter with multiple gallstones visualized within the gallbladder. There was no evidence of biliary obstruction or any other abnormalities in the liver or pancreas.
 
-Based on these findings, a diagnosis of choledocholithiasis was made. Choledocholithiasis refers to the presence of stones within the common bile duct, which can cause obstruction leading to biliary colic and potentially more severe complications such as cholangitis or pancreatitis.
+Based on these findings, a diagnosis of symptomatic cholelithiasis with possible choledocholithiasis was made. The patient was counseled about her condition and treatment options including conservative management versus surgical intervention.
 
-The patient was counseled about her condition and treatment options. Given her pregnancy status, it was decided that conservative management would be attempted initially due to concerns about potential risks associated with surgical intervention during pregnancy.
+Considering her pregnancy status and persistent symptoms, it was decided to consult with a multidisciplinary team involving obstetricians, general surgeons, and anesthesiologists to discuss the best course of action for this patient.
 
-She was started on pain management using analgesics that are safe for use during pregnancy. Additionally, she received intravenous fluids to maintain hydration and electrolyte balance.
+After careful consideration and weighing the risks versus benefits for both mother and fetus, it was determined that an elective laparoscopic cholecystectomy would be performed during her second trimester under general anesthesia by an experienced surgical team specialized in managing pregnant patients.
 
-A multidisciplinary team involving obstetricians, gastroenterologists, and general surgeons discussed her case extensively to determine the best course of action moving forward. It was decided that close monitoring would be necessary throughout her pregnancy until delivery could be safely performed.
+The patient underwent preoperative optimization including correction of anemia through iron supplementation as well as close monitoring of fetal well-being throughout the procedure using continuous electronic fetal heart rate monitoring.
 
-The patient was educated about the signs and symptoms of complications such as cholangitis or pancreatitis, and instructed to seek immediate medical attention if any concerning symptoms arose. Regular follow-up appointments were scheduled to monitor her condition and ensure the well-being of both the mother and fetus.
+The surgery went smoothly without any complications. Postoperatively, the patient was closely monitored in the recovery room and then transferred to the antenatal ward for further observation. She received appropriate pain management and was encouraged to ambulate as tolerated.
 
-In conclusion, this case highlights the importance of considering uncommon causes of abdominal pain in pregnant patients. Choledocholithiasis should be considered in the differential diagnosis when a pregnant patient presents with epigastric pain, especially if associated with risk factors such as gallstones. Close collaboration between different specialties is crucial to ensure optimal management and outcomes for both mother and baby.
+During her hospital stay, the patient's symptoms gradually improved, and she reported resolution of her epigastric pain. Her hemoglobin levels were monitored regularly, and she received iron supplementation as needed.
+
+The multidisciplinary team continued to provide comprehensive care for both mother and fetus until delivery. Regular antenatal check-ups were scheduled to monitor fetal growth and well-being.
+
+At 38 weeks gestation, the patient went into spontaneous labor and delivered a healthy baby boy via vaginal delivery without any complications. Both mother and baby were discharged home in stable condition with plans for follow-up visits.
+
+In conclusion, this case highlights the importance of considering surgical intervention in pregnant patients with symptomatic cholelithiasis when conservative management fails or when there are significant complications such as choledocholithiasis. A multidisciplinary approach involving obstetricians, general surgeons, anesthesiologists, and close monitoring of fetal well-being is crucial in ensuring optimal outcomes for both mother and fetus.

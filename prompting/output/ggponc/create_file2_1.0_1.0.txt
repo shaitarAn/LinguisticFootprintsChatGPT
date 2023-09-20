@@ -1,27 +1,54 @@
-Fiktiver klinischer Fall:
+Fallbericht
 
-Patient X ist ein 62-jähriger Mann, der sich wegen wiederkehrender Hämaturie und Schmerzen beim Wasserlassen bei Ihnen in der Urologiepraxis vorstellt. Er gibt an, dass er vor etwa vier Monaten Blut im Urin bemerkt hat, was jedoch nach einigen Tagen von selbst aufgehört hat. Vor zwei Wochen begannen die Symptome erneut und wurden von Tag zu Tag schlimmer. Er hatte noch nie solche Probleme zuvor.
+Patient: Hans Müller
+Alter: 64 Jahre
+Geschlecht: männlich
+Anamnese: Herr Müller stellt sich mit folgenden Symptomen vor:
+- Häufiges Wasserlassen
+- Brennen beim Wasserlassen
+- Blut im Urin
 
-In der Anamnese berichtet Patient X, dass er in seiner Freizeit regelmäßig raucht und in einer chemischen Fabrik arbeitet. Es gibt keine familiäre Vorgeschichte von Harnblasenkarzinom oder anderen Krebserkrankungen.
+Klinische Untersuchung:
+Bei der körperlichen Untersuchung zeigt der Patient keine auffälligen Befunde. Abdominaler Druck verursacht keinen Schmerz oder Unbehagen.
 
-Bei der körperlichen Untersuchung sind keine Auffälligkeiten feststellbar. Die Prostata fühlt sich glatt an und ist nicht vergrößert.
+Diagnostik:
 
-Aufgrund des Verdachts auf Harnblasenkarzinom entscheiden Sie sich dafür, einige uringe-bundene molekulare Marker-Tests durchzuführen:
+1. Ultraschalluntersuchung des Harntraktes:
+Die Ultraschalluntersuchung des Harntraktes zeigt eine unregelmäßige Verdickung der Blasenwand und Anzeichen einer möglichen Tumorläsion.
 
-- NMP22®: Dieser Test weist das Protein nukleäres Matrixprotein 22 (NMP22) nach, das vermehrt bei malignem Urothelzellkarzinom vorkommt. Bei Patient X zeigt der Test einen hohen Wert (20 U/ml), was auf eine mögliche Tumormasse hinweisen könnte.
-- BTA Stat®/BTA TRAK®: Diese Tests weisen das bladder tumor antigen (hCFHrp) nach, das bei Blasentumoren vermehrt produziert wird. Patient X hat einen positiven BTA Stat-Test, während der BTA TRAK-Test negativ ausfällt.
-- UBC®: Dieser Test weist Fragmente der Zytokeratine 8 und 18 nach, die spezifisch für epitheliale Zellen sind. Bei Patient X ist das Ergebnis positiv (15 μg/l).
+2. Zystoskopie:
+Eine Zystoskopie wird durchgeführt, um das Innere der Harnblase zu visualisieren. Dabei wird eine exophytische Tumorläsion am Übergang des trigonalen Bereichs zur Prostata identifiziert.
 
-Aufgrund dieser Testergebnisse besteht ein Verdacht auf Harnblasenkarzinom bei Patient X. Sie bestellen weitere Untersuchungen, einschließlich einer Zystoskopie und einer histopathologischen Untersuchung der Gewebeprobe.
+3. Molekulare Marker im Urin:
+Um den Verdacht auf ein Urothelkarzinom weiter abzuklären, werden molekulare Marker im Urin getestet. Es werden die kommerziellen Testverfahren NMP22®, BTA Stat®/BTA TRAK® und UBC® angewendet.
 
-Bei der Zystoskopie wird ein auffälliges erythematöses Läsionsgewebe in der Harnblase entdeckt. Eine Biopsie des Gewebes wird entnommen.
+Die Ergebnisse zeigen eine erhöhte Konzentration von Nukleärem Matrix Protein 22 (NMP22) im Urin von Herrn Müller (semi-quantitativer Enzym-Immunoassay).
 
-Die histopathologische Untersuchung bestätigt die Diagnose eines nicht-muskelinvasiven Urothelkarzinoms im Stadium Ta und Grad 2.
+4. Bildgebung:
 
-Sie diskutieren die Ergebnisse mit Patient X und besprechen die verschiedenen Behandlungsmöglichkeiten. Gemeinsam entscheiden Sie sich für eine transurethrale Resektion des Blasentumors (TURBT) gefolgt von intravesikaler Bacillus Calmette-Guérin (BCG)-Immuntherapie zur Vermeidung von Rezidiven und Progressionen des Tumors.
+a) Computertomographie (CT): 
+Eine CT des Bauchraums und des Beckens wird durchgeführt, um die Ausbreitung des Tumors im Harntrakt zu beurteilen. Es werden keine Anzeichen für eine regionale oder fernmetastatische Erkrankung gefunden.
 
-Patient X unterzieht sich erfolgreich der TURBT und beginnt mit dem intravesikalen BCG-Therapieschema gemäß den Leitlinien zur Behandlung von nicht-muskelinvasivem Urothelkarzinom in Deutschland.
+b) Magnetresonanztomographie (MRT):
+Eine MRT des Beckens wird durchgeführt, um die genaue Tumorlokalisation und das Ausmaß der Infiltration der umliegenden Strukturen zu bestimmen.
 
-Zudem leiten Sie eine enge Nachsorgeplanung ein, inklusive regelmäßiger Zystoskopien und kontinuierlicher Überwachung des Tumorrezidivs sowie der Harnblasenfunktion.
+Diagnose:
 
-Der klinische Fall von Patient X demonstriert die Verwendung der urinbasierten molekularen Marker NMP22®, BTA Stat®, BTA TRAK® und UBC® bei der Verdachtsdiagnose eines Harnblasenkarzinoms. Diese Marker können dazu beitragen, die Diagnose zu bestätigen und den Verlauf der Erkrankung zu überwachen.
+Aufgrund der erhöhten NMP22-Konzentration im Urin und dem Nachweis einer exophytischen Tumorläsion bei der Zystoskopie wird bei Herrn Müller ein Urothelkarzinom diagnostiziert. Die genaue Staging-Untersuchung mittels Bildgebung zeigt ein lokal begrenztes Urothelkarzinom ohne Hinweise auf Metastasen.
+
+Therapie:
+
+Aufgrund des lokal begrenzten Urothelkarzinoms wird folgende Therapie empfohlen:
+
+1. Transurethrale Resektion des Tumors (TUR-B):
+Die exophytische Tumorläsion wird mittels transurethraler Resektion entfernt. Das entnommene Gewebe wird histopathologisch untersucht, um den Grad der Differenzierung und das Stadium des Karzinoms zu bestimmen.
+
+2. Adjuvante intravesikale Chemotherapie:
+Nach der transurethralen Resektion des Tumors erhält Herr Müller eine adjuvante intravesikale Chemotherapie mit Mitomycin C, um eventuell verbliebene Blasentumorzellen abzutöten und das Risiko eines lokalen Rezidivs zu reduzieren.
+
+3. Follow-up:
+Herr Müller wird einem regelmäßigen Follow-up-Programm unterzogen, um das Ansprechen auf die Behandlung und mögliche Rückfälle zu überwachen. Dies beinhaltet regelmäßige zystoskopische Untersuchungen und Kontrollen der molekularen Marker im Urin.
+
+Zusammenfassung:
+
+Bei Herrn Müller wird ein Urothelkarzinom diagnostiziert, basierend auf klinischen Symptomen, bildgebenden Verfahren und dem Nachweis erhöhter NMP22-Konzentrationen im Urin. Er erhält eine transurethrale Resektion des Tumors sowie eine adjuvante intravesikale Chemotherapie. Das Follow-up-Programm ist wichtig, um das Ansprechen auf die Behandlung zu überwachen und mögliche Rückfälle frühzeitig zu erkennen.

@@ -1,19 +1,37 @@
-Clinical Case Summary:
+This clinical case describes a patient who presented with various symptoms and underwent diagnostic assessments to determine the cause of their illness. Here is a breakdown of the key points:
 
-A previously healthy 17-year-old African male presented to the hospital with a one-week history of fever, rash, headache, neck pain, sore throat, dry cough, and diarrhea. He had no prior medical history or significant medication use. On examination, he appeared ill with a high heart rate and temperature. He had a generalized rash over his body and eyelids, conjunctivitis, but no other abnormal findings on abdominal or respiratory examinations.
+Patient Profile:
+- No prior medical admission, surgery, or significant medication/recreational drug use.
+- Grade ten scholar.
+- Recent travel to Kwa-Zulu Natal two weeks prior.
 
-Initial diagnostic tests showed elevated inflammatory markers such as C-reactive protein (CRP), procalcitonin (PCT), white cell count (WCC), ferritin, lactate dehydrogenase (LDH), and D-dimers. Blood and urine cultures were negative. The patient's lumbar puncture was normal along with chest radiograph and abdominal sonar results.
+Clinical Findings:
+- Ill-looking patient with a blood pressure of 103/44 mmHg, heart rate of 123 beats per minute, and temperature of 39.5°C.
+- Restless with no evidence of cognitive dysfunction.
+- Generalized maculopapular rash observed over the torso, upper back, limbs, and palmar surface of the hands.
+- Non-tender erythematous desquamating lesions over the eyelids and bilateral conjunctivitis.
+- Normal abdominal and respiratory examinations with no jaundice or lymphadenopathy.
+- Normal cardiovascular examination except for sinus tachycardia.
 
-The differential diagnosis included viral infections like HIV seroconversion or acute infections caused by Epstein-Barr virus (EBV), herpes simplex virus (HSV), cytomegalovirus (CMV) as well as bacterial infections caused by Group A streptococci or Neisseria meningitidis among others. Non-infectious differentials considered were Kawasaki-like disease (KD) and adult-onset Still's disease (AOSD).
+Diagnostic Assessment:
+- Prior treatment with ceftriaxone and IV paracetamol without improvement.
+- Blood investigations showed rising levels of C-reactive protein (CRP), procalcitonin (PCT), white cell count (WCC), ferritin, lactate dehydrogenase (LDH), and D-dimers. Blood and urine cultures were negative.
+- Lumbar puncture was normal along with chest radiograph and abdominal sonar findings.
+-The first echocardiogram revealed a structurally normal heart but subsequent echocardiogram showed reduced ejection fraction (EF) at 10% with global hypokinesia.
 
-The patient received intravenous fluids initially but did not respond well to them. Empiric antibiotic treatment was started for rickettsial disease while continuing ceftriaxone for bacterial coverage. Hydrocortisone was initiated but discontinued due to infection concerns.
+Diagnosis:
+The initial wide differential diagnosis included viral infections such as HIV seroconversion, acute infection with Epstein-Barr virus (EBV), herpes simplex virus (HSV) or cytomegalovirus (CMV); bacterial infections caused by Group A streptococci, Neisseria meningitidis, other gram-negative bacteria, rickettsia, leptospirosis or malaria. Non-infectious differential diagnoses considered were Kawasaki-like disease (KD), adult-onset Still's disease (AOSD), and systemic lupus erythematosus (SLE). Ultimately, the diagnosis of MIS-C (Multisystem Inflammatory Syndrome in Children) was made based on the elevated temperature, rising inflammatory markers, and cardiac involvement.
 
-On day four of admission, the patient developed cardiac symptoms including an audible gallop rhythm and low blood pressure along with elevated cardiac troponin-T levels indicating heart dysfunction. Repeat echocardiogram revealed poor heart function with dilation of chambers and regurgitation in valves.
+Therapeutic Intervention:
+- Intravenous fluid boluses were administered initially but discontinued due to no significant response.
+- Empiric antibiotic treatment with doxycycline and ceftriaxone.
+- Hydrocortisone was started but later discontinued due to concern for infection.
+- Intravenous immunoglobulin (IVIG) was initiated along with a dobutamine infusion and diuresis to counter fluid overload.
+- IV methylprednisolone pulse therapy was given for three days.
+- Colchicine added for possible associated myopericarditis.
+- Aspirin and enoxaparin were added for thrombotic risk.
 
-Intravenous immunoglobulin therapy was started along with dobutamine infusion to support heart function. Steroid treatment was also initiated. Serological testing confirmed the presence of antibodies against SARS-CoV-2, indicating a previous infection.
+Follow-up and Outcomes:
+The patient showed clinical improvement with resolution of symptoms. Repeat echocardiogram showed improved EF. Prednisone was tapered down over time. The patient recovered fully without residual symptoms.
 
-The patient's condition gradually improved with decreasing fever and inflammatory markers. Aspirin and enoxaparin were added to prevent thrombotic complications. Repeat echocardiogram showed improvement in heart function.
-
-The patient was discharged on prednisone, aspirin, and colchicine. Follow-up visits showed complete recovery with no residual symptoms or signs of heart failure.
-
-In summary, this case describes a previously healthy young male who presented with fever, rash, and cardiac involvement suggestive of multisystem inflammatory syndrome in children (MIS-C) associated with a previous SARS-CoV-2 infection. The patient responded well to immunoglobulin therapy and steroids, leading to complete recovery without any long-term complications.
+It is important to note that informed consent was obtained from the patient to use their information in this case report while maintaining anonymity.

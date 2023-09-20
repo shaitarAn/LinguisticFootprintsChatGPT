@@ -1,1 +1,8 @@
-Um eine korrekte histopathologische Aufarbeitung des Resektats durchzuführen, müssen bestimmte Standards eingehalten werden. Insbesondere ist es wichtig, den zirkumferentiellen Resektionsrand zu beachten, da hier oft eine R1-Situation vorliegt. Eine Möglichkeit zur Standardisierung ist die Markierung dieser Resektionsgrenzen im Rahmen des makroskopischen Zuschnitts, eventuell in Zusammenarbeit mit dem Chirurgen. Der zirkumferentielle Resektionsrand besteht aus einem vorderen, medialen und hinteren Resektionsrand bzw. der entsprechenden Resektionsfläche. Darüber hinaus ist es wichtig, die hintere Fläche des Prozessus uncinatus besonders zu beachten und aufzuarbeiten.
+Hierbei sollten folgende Aspekte berücksichtigt werden: 6.31 und 6.32
+
+- Der zirkumferentielle Resektionsrand muss auf eventuelle Tumorzellinfiltrationen hin untersucht werden, da eine R1-Situation (mikroskopisch positive Resektionsränder) ein ungünstiger prognostischer Faktor ist.
+- Im Rahmen der histopathologischen Aufarbeitung sollte eine makroskopische Markierung der Resektionsgrenzen erfolgen, um eine genaue Beurteilung des zirkumferentiellen Resektionsrandes zu ermöglichen. Dies kann in Absprache mit dem operierenden Chirurgen geschehen.
+- Der zirkumferentielle Resektionsrand besteht aus einem vorderen, medialen und posterioren Resektionsrand sowie der entsprechenden Resektionsfläche.
+- Besondere Aufmerksamkeit sollte der Aufarbeitung der hinteren Fläche des Prozessus uncinatus geschenkt werden, da hier häufig Tumorinfiltrationen auftreten.
+
+Durch die Beachtung dieser Aspekte bei der histopathologischen Aufarbeitung von Whipple'schen Resektaten mit Pankreaskarzinom kann eine zuverlässige Klassifikation des Resektats gemäß den internationalen Standards gewährleistet werden.

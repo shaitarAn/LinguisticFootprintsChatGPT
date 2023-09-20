@@ -1,0 +1,15 @@
+1. Introduction
+
+The phenomenon of post-head compression in noun phrase referring expressions (NP REs) has been a topic of interest in the field of linguistics and communication studies. Previous research has shown that during interactive communication, language users tend to modify their NP REs, particularly by shortening them [REF]. This process of shortening indicates a shift in linguistic forms and the establishment of routines between interlocutors [REF].
+
+While previous studies have focused on understanding the structural changes and patterns associated with NP RE shortening, there remains an unexplored research question regarding the effects of contextual factors on this phenomenon. Specifically, how does the presence or absence of visual stimuli impact the structural modifications observed in NP REs during communicative interactions?
+
+This paper aims to address this research gap by investigating the influence of visual stimuli on post-head compression in NP REs within a referential communication task. By analyzing data from an experimentally elicited corpus consisting of conversational dyads engaged in repeated references to visual stimuli, we will examine how interlocutors adapt their linguistic forms over time.
+
+It is hypothesized that when communicating about visual stimuli, interlocutors will employ different strategies for modifying their NP REs compared to situations without explicit visual cues. This study seeks to shed light on whether and how contextual factors influence the extent and nature of post-head compression within NP REs.
+
+To achieve these objectives, we will adopt a quantitative approach using computational tools for analyzing linguistic structures present within speech data collected during referential communication tasks. By examining patterns related to clausal elements as well as premodification and postmodification techniques utilized by speakers throughout interactions with varying levels of visual stimulation, we aim to discern any notable differences that may exist.
+
+Understanding how contextual factors shape speakers' modification strategies can provide valuable insights into our understanding not only about language use but also about human cognition and information processing during interactive communication. Moreover, findings from this study can contribute to the development of more effective communication strategies in various contexts, including language learning, human-computer interaction, and cross-cultural communication.
+
+The subsequent sections of this paper will detail the methodology employed, present the results and analysis of our findings, and discuss their implications for future research. Through an in-depth exploration of post-head compression within NP REs in relation to visual stimuli, we aim to contribute to the growing body of knowledge on interactive communication and linguistic adaptation.

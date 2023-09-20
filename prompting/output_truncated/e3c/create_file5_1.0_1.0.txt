@@ -1,31 +1,35 @@
-Patient Information:
+Patient Information
 
-On the 15th October 2020, a previously healthy, 32-year-old Caucasian female was admitted to the medical ward at St. Mary's Hospital due to a sudden onset of respiratory symptoms. The patient presented with a three-day history of high-grade fever, severe cough with productive yellow sputum, and shortness of breath. She had no significant past medical history and was not taking any medications.
+On the 15th September 2020, a previously healthy, 27-year-old Caucasian female was admitted to the medical ward at St. John's Hospital, New York. The patient was transferred from a local clinic due to an escalating concern about her symptoms. She presented with a two-week history of fever, fatigue, and generalized body weakness. Additionally, she reported experiencing occasional headaches and neck stiffness.
 
-Clinical Findings:
+Medical History
 
-Upon examination, the patient appeared acutely ill with a temperature of 39.2°C and an oxygen saturation level of 88% on room air. She had increased work of breathing with bilateral coarse crackles heard on auscultation across all lung fields. Other physical examinations were unremarkable.
+The patient had no significant medical history and was not taking any medications prior to this admission. She reported leading an active lifestyle with regular exercise and had no known allergies.
 
-Diagnostic Assessment:
+Clinical Presentation
 
-To determine the cause of her respiratory symptoms, several diagnostic tests were performed. A chest X-ray showed diffuse bilateral infiltrates consistent with pneumonia. Blood investigations revealed leukocytosis and elevated inflammatory markers including C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR). Arterial blood gas analysis demonstrated respiratory acidosis with hypoxemia.
+The patient exhibited a rash on her body and eyelids that had progressively developed over the past week. She described the rash as small red bumps that were mildly itchy but did not cause discomfort. The accompanying fever ranged between 100-101°F (37.8-38.3°C) but responded well to over-the-counter antipyretics.
 
-A nasopharyngeal swab was obtained for SARS-CoV-2 polymerase chain reaction (PCR), which came back positive for COVID-19 infection.
+Symptoms
 
-Therapeutic Intervention:
+In addition to her fever and rash, the patient experienced intermittent episodes of headache with associated neck pain, which worsened upon movement or straining in any form (such as coughing or sneezing). Although she occasionally complained of sore throat and dry cough throughout the day, these symptoms were not persistent nor severe enough to cause extreme discomfort.
 
-The patient was immediately started on supplemental oxygen therapy via nasal cannula to maintain adequate oxygenation. Intravenous antibiotics (ceftriaxone and azithromycin) were initiated empirically to cover both bacterial pneumonia and possible superimposed bacterial infection in COVID-19 patients.
+There was no history of joint pain or swelling (arthralgias), oral or nasal ulcers (canker sores), or abnormal discharge from any bodily openings.
 
-In addition to antibiotics, the patient received dexamethasone as per hospital protocol for moderate-to-severe cases of COVID-19 pneumonia based on emerging evidence supporting its use in reducing mortality rates.
+Physical Examination Findings
 
-Supportive measures included hydration, regular monitoring of vital signs including oxygen saturation levels, along with strict isolation precautions to prevent transmission of the virus.
+Upon conducting a physical examination upon admission at St. John's Hospital:
 
-Follow-up and Outcomes:
+1) General appearance: The patient appeared fatigued with mild pallor; however, she interacted normally during interactions.
+2) Vital signs: Temperature measured using oral route showed mild elevation within normal limits.
+3) Skin: A generalized maculopapular rash was apparent on examination over both arms and legs symmetrically as well as on the eyelids. The rash was non-blanching and did not extend to her face or trunk.
+4) Respiratory system: No abnormal findings were noted upon auscultation, and there was no evidence of respiratory distress.
+5) Neurological examination: The patient displayed a mildly restricted range of neck motion with associated discomfort but exhibited intact cranial nerves and normal strength in all extremities.
 
-Over the course of her hospitalization, the patient showed gradual improvement in her respiratory symptoms. Oxygen requirements decreased, and she was able to maintain an oxygen saturation level above 94% on room air. Serial chest X-rays demonstrated resolution of pulmonary infiltrates.
+Diagnostic Assessment
 
-The patient completed a 10-day course of antibiotics and dexamethasone therapy as prescribed. She was discharged home with instructions for close follow-up, including regular check-ups at an outpatient clinic to monitor her lung recovery and ensure no secondary complications arise.
+Laboratory investigations were ordered to further evaluate the patient's condition. These included a complete blood count (CBC), liver function test (LFT), renal function test (RFT), and serology for viral infections such as Epstein-Barr virus, cytomegalovirus, and human herpesvirus 6.
 
-At a one-month follow-up appointment, the patient reported complete resolution of respiratory symptoms. Repeat chest X-ray showed no residual abnormalities.
+Management Plan
 
-In conclusion, this case highlights a young adult patient presenting with moderate-to-severe COVID-19 pneumonia requiring hospitalization and management with supportive care, antibiotics, and dexamethasone therapy. With appropriate treatment and close medical supervision during recovery, the patient achieved full resolution of symptoms without any long-term complications associated with COVID-19 infection.
+The patient was started on supportive care measures to alleviate her symptoms, including antipyretics for fever control and over-the-counter analgesics for headache relief. Given the presence of a rash with neurological

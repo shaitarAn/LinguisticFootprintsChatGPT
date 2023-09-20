@@ -51,8 +51,9 @@ for top_directory in os.listdir(png_directory):
             # save it
             new_image.save(f'{output_dir}/{top_directory}.png')
         else:
-            print(f"not enough images in {top_directory}")
-            print(len(list_of_images))
+            continue
+            # print(f"not enough images in {top_directory}")
+            # print(len(list_of_images))
 
 
 

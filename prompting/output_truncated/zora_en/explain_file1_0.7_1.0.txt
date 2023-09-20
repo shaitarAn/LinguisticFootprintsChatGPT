@@ -1,0 +1,13 @@
+This introduction discusses the phenomenon of reference in conversation, specifically focusing on referring expressions with noun phrases (NP REs). It mentions two main changes that can be observed in NP REs during interactive communication: convergence and shortening. Convergence refers to speakers aligning on their linguistic representations, leading to lexical similarity. Shortening, also known as referential contraction, is when interlocutors tend to make their contributions shorter.
+
+The chapter mainly focuses on the process of shortening and describes structural changes in NP REs over multiple rounds of interactive dialogue. The research questions addressed include the degree of shortening and which elements of NP REs are subject to it, as well as what structural changes can be observed across four rounds of interaction.
+
+To investigate these changes, a referential communication task was conducted that involved repeated dialogic conversation about visual stimuli. An example from the resulting corpus illustrates how NP REs change over the course of interaction, with initial longer expressions getting shortened and converging on a specific form.
+
+The study aims to describe general tendencies regarding grammatical structures preferred by speakers as they converge and shorten their NP REs. This includes analyzing types and forms of modifying and descriptive elements in the construction.
+
+The concept of compression is introduced, which refers to both the shortening process itself and changes in structural preferences from clausal elements to phrasal elements. Previous research related to compression in NP REs is discussed along with theoretical approaches such as the Interactive Alignment Model (IAM) and discussions on familiarity and accessibility.
+
+The experimental set-up used for data collection is described, followed by an analysis of structural changes in NP REs throughout dialogical interactions. The findings show that as NP REs get shorter (particularly post-head elements), their structure shifts from more elaborated clausal forms to more compressed phrasal forms.
+
+Finally, these findings are discussed within Biber and Clark's notion of compression as a response to conveying a large amount of information efficiently to an expert audience.

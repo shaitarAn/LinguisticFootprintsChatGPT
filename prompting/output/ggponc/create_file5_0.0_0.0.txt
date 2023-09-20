@@ -1,34 +1,27 @@
-Klinischer Fall: Pankreaskarzinom
+Klinischer Fall: Pankreaskarzinom mit R1-Situation
 
-Patient: Herr Müller, 62 Jahre alt, männlich
+Patient: Herr Müller, 65 Jahre alt, männlich
 
 Anamnese:
-Herr Müller stellt sich mit seit einigen Wochen bestehenden Oberbauchschmerzen, Gewichtsverlust und Appetitlosigkeit in unserer Klinik vor. Er berichtet, dass die Schmerzen zunehmend stärker geworden sind und sich in den Rücken ausstrahlen. Er hat auch bemerkt, dass sein Stuhl heller geworden ist und er öfter als gewöhnlich zur Toilette muss. In der Vergangenheit hatte er keine relevanten medizinischen Vorgeschichten.
+Herr Müller stellt sich mit seit einigen Wochen bestehenden unspezifischen Oberbauchbeschwerden in unserer Klinik vor. Er berichtet über Gewichtsverlust, Appetitlosigkeit und gelegentliche Übelkeit. In der Familienanamnese ist kein erhöhtes Risiko für Pankreaskarzinom bekannt.
 
-Körperliche Untersuchung:
-Bei der körperlichen Untersuchung zeigt Herr Müller eine leichte Gelbsucht der Haut und der Skleren. Der Oberbauch ist druckempfindlich und es ist ein tastbarer Widerstand im rechten Oberbauch zu spüren. Die übrige körperliche Untersuchung ist unauffällig.
+Klinischer Befund:
+Bei der körperlichen Untersuchung zeigt sich eine leichte Druckempfindlichkeit im Oberbauch, ansonsten sind keine pathologischen Befunde feststellbar. Die Laborwerte zeigen eine leichte Erhöhung der Leberenzyme und des Tumormarkers CA 19-9.
 
 Diagnostik:
-Es werden folgende Untersuchungen durchgeführt:
-
-- Laboruntersuchungen: Die Leberwerte sind erhöht, insbesondere die Bilirubinwerte. Die Tumormarker CA 19-9 und CEA sind ebenfalls erhöht.
-- Sonographie des Abdomens: Es zeigt sich eine Vergrößerung des Pankreas mit einer Raumforderung im Kopfbereich.
-- Computertomographie (CT) des Abdomens: Die CT bestätigt die Raumforderung im Pankreaskopf und zeigt eine Verengung des Gallengangs sowie eine Infiltration der umliegenden Blutgefäße.
-- Endoskopisch retrograde Cholangiopankreatikographie (ERCP): Bei der ERCP wird eine Stenose des Gallengangs festgestellt und eine Stentimplantation zur Entlastung der Gallenwege durchgeführt.
-
-Histopathologische Aufarbeitung und Klassifikation des Resektats:
-Nach weiteren diagnostischen Untersuchungen wird bei Herrn Müller die Diagnose eines Pankreaskarzinoms im Kopfbereich gestellt. Aufgrund der Lokalisation und des Ausmaßes des Tumors wird eine Whipple-Operation zur Resektion des Tumors durchgeführt.
-
-Bei der histopathologischen Aufarbeitung des Resektats werden folgende Befunde erhoben:
-
-- Zirkumferentieller Resektionsrand: Der zirkumferentielle Resektionsrand ist makroskopisch markiert und wird im histologischen Schnitt untersucht. Es wird festgestellt, dass der Abstand der Tumorzellen zum Resektionsrand weniger als 1 mm beträgt, jedoch den Resektionsrand nicht erreicht. Der Befund lautet daher: R0, CRM-positiv = R0 narrow.
-- Lymphknotenmetastasen: Es werden insgesamt 12 Lymphknoten entfernt und untersucht. In 4 Lymphknoten werden Tumorzellen nachgewiesen. Die Lymphknotenratio beträgt somit 4/12.
-- Grading des Tumors: Das duktale Adenokarzinom des Pankreas wird histologisch und zytologisch untersucht und entsprechend der WHO-Klassifikation 2010 graduiert. Es zeigt sich eine mittlere Differenzierung des Tumors.
+Zur weiteren Abklärung wird eine abdominale Sonographie durchgeführt, die eine Raumforderung im Pankreaskopf zeigt. Zur weiteren Charakterisierung erfolgt eine kontrastmittelverstärkte CT-Untersuchung des Abdomens. Diese bestätigt den Verdacht auf ein Pankreaskarzinom im Bereich des Pankreaskopfes. Es liegen keine Hinweise auf Fernmetastasen vor.
 
 Therapie:
-Aufgrund des lokal fortgeschrittenen Tumorstadiums und des Vorliegens von Lymphknotenmetastasen wird Herr Müller nach der Operation einer adjuvanten Chemotherapie unterzogen. Es wird eine Kombinationstherapie mit Gemcitabin und nab-Paclitaxel für 6 Monate empfohlen.
+Aufgrund der Lokalisation des Tumors wird eine Whipple-Operation zur Resektion des Pankreaskopfes, des Duodenums, des Gallengangs und des distalen Magens durchgeführt. Während der Operation wird der zirkumferentielle Resektionsrand in Zusammenarbeit mit dem Chirurgen markiert, um eine R1-Situation zu vermeiden.
+
+Histopathologische Aufarbeitung:
+Das Resektat wird zur histopathologischen Aufarbeitung an die Pathologie übergeben. Hier wird besonders auf die korrekte Klassifikation des Tumors nach den international gültigen R-Kriterien geachtet. Zusätzlich wird der zirkumferentielle Resektionsrand, bestehend aus dem vorderen, medialen und posterioren Resektionsrand, sowie die hintere Fläche des Prozessus uncinatus besonders aufgearbeitet.
+
+Histopathologischer Befund:
+Die histopathologische Untersuchung des Resektats ergibt ein Pankreaskarzinom im Stadium T3N0M0. Es handelt sich um ein duktal-adenozentrisches Karzinom mit einer Größe von 3 cm. Die Tumorinfiltration reicht bis an den zirkumferentiellen Resektionsrand heran, jedoch ohne Infiltration des umgebenden Gewebes. Es liegen keine Lymphknotenmetastasen vor.
+
+Therapieempfehlung:
+Aufgrund der R1-Situation wird eine adjuvante Chemotherapie mit Gemcitabin empfohlen, um mögliche Mikrometastasen zu behandeln und das Risiko eines Rezidivs zu reduzieren. Eine regelmäßige Nachsorge mit klinischer Untersuchung, Tumormarkerbestimmung und bildgebender Diagnostik wird empfohlen, um ein mögliches Rezidiv frühzeitig zu erkennen.
 
 Prognose:
-Die Prognose bei Pankreaskarzinomen ist generell schlecht. Der minimale Abstand der Tumorzellen zum zirkumferentiellen Resektionsrand hat prognostische Bedeutung. In einer großen Studie konnte gezeigt werden, dass Patienten, deren Tumorzellen mehr als 1,5 mm vom Resektionsrand entfernt waren, eine bessere Prognose haben. Die Lymphknotenmetastasen und die Lymphknotenratio sind ebenfalls wichtige Prognoseparameter. Das Grading des Tumors korreliert mit der Prognose.
-
-Nach der adjuvanten Chemotherapie wird Herr Müller
+Die Prognose bei Pankreaskarzinom ist generell schlecht, insbesondere bei fortgeschrittenen Stadien. Die 5-Jahres-Überlebensrate liegt bei etwa 10-20%. Die adjuvante Chemotherapie kann das Überleben jedoch verbessern und das Risiko eines Rezidivs verringern. Eine regelmäßige Nachsorge ist daher von großer Bedeutung.

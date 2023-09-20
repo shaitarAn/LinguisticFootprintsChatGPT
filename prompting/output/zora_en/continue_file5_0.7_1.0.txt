@@ -1,0 +1,11 @@
+Swiss Standard German (SSG) is one of the official languages in Switzerland, but there has been a lack of research on its phonetic properties. Specifically, studies on Alemannic (ALM) dialects, which are spoken in various regions of Switzerland, have focused more on consonants rather than vowels. This study aims to address this gap by investigating the long-vowel inventories of four ALM dialects and their respective SSG varieties with a focus on vowel quality.
+
+The primary objective of this study is two-fold. Firstly, it aims to provide the first comparative acoustic analysis of ALM and SSG vowels. By examining the acoustic properties of these vowels, we can gain insights into their similarities and differences across different dialects and standard varieties. Secondly, the study seeks to determine the extent to which interference from ALM dialects influences vowel qualities in SSG varieties.
+
+To achieve these goals, recordings were made of 4 male and 4 female speakers from Bern, Chur, Brig, and Zurich producing each vowel three times. This resulted in a corpus consisting of 1,632 tokens for analysis. The recordings were then subjected to acoustic analysis using established methods.
+
+The results indicate that there is a transfer of ALM vowel quality into the SSG varieties in two particular dialect regions: Chur and Brig. In these regions, the vowel qualities observed in ALM closely align with those found in their respective SSG varieties.
+
+However, some differences were noted between certain ALM vowels and their corresponding ones in Bern and Zurich's SSG varieties. In both dialects' SSG varieties, <a> was fronted compared to its pronunciation in ALM dialects. Additionally,<ä> was produced as both [ɛː] and [æː]in Bern's SSG variety while<o> was realized further back than expected.
+
+These findings shed light on how vowel quality in ALM dialects influences the vowel qualities of SSG varieties. The study provides important insights into the phonetic properties of SSG and highlights the need for further research in this area. Understanding these variations and their origins is crucial for a comprehensive understanding of Swiss German dialects and their impact on the standard language variety.

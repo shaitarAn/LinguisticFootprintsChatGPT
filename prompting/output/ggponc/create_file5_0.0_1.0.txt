@@ -1,29 +1,27 @@
-Klinischer Fall: Pankreaskarzinom
+Klinischer Fall: Pankreaskarzinom mit R1-Situation
 
-Patient: Herr Müller, 62 Jahre alt, männlich
+Patient: Herr Müller, 65 Jahre alt, männlich
 
 Anamnese:
-Herr Müller stellt sich mit seit einigen Wochen bestehenden Oberbauchschmerzen und Gewichtsverlust in unserer Klinik vor. Er berichtet von einer allgemeinen Abgeschlagenheit und Appetitlosigkeit. In der Familienanamnese ist kein erhöhtes Risiko für Pankreaskarzinome bekannt.
+Herr Müller stellt sich mit seit einigen Wochen bestehenden unspezifischen Oberbauchbeschwerden in unserer Klinik vor. Er berichtet über Gewichtsverlust, Appetitlosigkeit und gelegentliche Übelkeit. In der Familienanamnese ist kein erhöhtes Risiko für Pankreaskarzinome bekannt.
 
 Untersuchungsbefunde:
-Bei der körperlichen Untersuchung zeigt sich eine leichte Gelbsucht der Haut und Skleren. Der Bauch ist druckempfindlich im Oberbauchbereich, es sind jedoch keine tastbaren Raumforderungen oder Lymphknotenvergrößerungen feststellbar.
+Bei der körperlichen Untersuchung zeigt sich eine leichte Druckempfindlichkeit im Oberbauch. Laboruntersuchungen ergeben keine auffälligen Befunde.
 
 Diagnostik:
-Eine Sonographie des Abdomens zeigt eine Vergrößerung des Pankreas mit einem hypoechogenen Tumor im Kopfbereich. Die Gallenwege sind dilatiert. Eine ERCP (endoskopisch retrograde Cholangiopankreatikographie) bestätigt den Verdacht auf ein Pankreaskarzinom mit Obstruktion der Gallengänge.
+Eine abdominale Sonographie zeigt eine Raumforderung im Bereich des Pankreas. Zur weiteren Abklärung wird eine CT-Untersuchung des Abdomens durchgeführt, die einen Tumor im Kopf des Pankreas bestätigt. Eine endoskopische retrograde Cholangiopankreatikographie (ERCP) wird zur Darstellung der Gallenwege und zum Einsetzen eines Stents zur Entlastung durchgeführt.
 
-Therapieentscheidung:
-Aufgrund des lokal fortgeschrittenen Stadiums wird eine Whipple-Operation zur Resektion des Tumors geplant.
+Therapie:
+Aufgrund der Lokalisation des Tumors wird eine Whipple-Operation geplant und erfolgreich durchgeführt. Das Resektat wird zur histopathologischen Aufarbeitung an das Pathologielabor übergeben.
 
-Histopathologische Aufarbeitung und Klassifikation des Resektats:
-Das resezierte Gewebe wird histopathologisch untersucht, um die genaue Ausdehnung des Tumors zu bestimmen und den Resektionsrand zu beurteilen. Es werden standardisierte Verfahren angewendet, um die verschiedenen Resektionsränder farbig zu markieren und im histologischen Schnitt zu identifizieren. Dadurch kann der Abstand der Tumorzellen zu den Resektionsrändern genau gemessen werden.
+Histopathologische Aufarbeitung:
+Im Rahmen einer standardisierten histopathologischen Aufarbeitung werden die Resektionsgrenzen besonders beachtet und markiert, um mögliche R1-Situationen zu identifizieren. Der zirkumferentielle Resektionsrand setzt sich aus einem vorderen, medialen und posterioren Resektionsrand bzw. der entsprechenden Resektionsfläche zusammen. Zusätzlich wird die hintere Fläche des Prozessus uncinatus besonders aufgearbeitet.
 
-Im vorliegenden Fall zeigt sich, dass die Tumorzellen weniger als 1 mm vom zirkumferentiellen Resektionsrand entfernt sind. Gemäß dem Konzept des zirkumferentiellen Resektionsrands (CRM) wird das Pankreaskarzinom als CRM-positiv klassifiziert (R0 narrow). Es wird jedoch festgestellt, dass die Karzinomzellen mehr als 1,5 mm vom definitiven Absetzungsrand entfernt sind, was auf eine bessere Prognose hinweist.
+Histopathologischer Befund:
+Die histopathologische Untersuchung des Resektats ergibt ein Pankreaskarzinom im Kopf des Pankreas mit einer Größe von 3 cm. Es handelt sich um einen duktalen Adenokarzinom-Typ gemäß der Klassifikation der Weltgesundheitsorganisation (WHO). Die Tumorinfiltration reicht bis an den zirkumferentiellen Resektionsrand heran, wobei eine R1-Situation vorliegt.
 
-Des Weiteren werden Lymphknoten in der Arteria mesenterica superior-Ebene untersucht. Es werden insgesamt 12 Lymphknoten entfernt und histopathologisch untersucht. Dabei zeigt sich eine Metastasierung in zwei Lymphknoten. Die Lymphknotenratio beträgt somit 2/12.
-
-Das Grading des duktalen Adenokarzinoms des Pankreas wird gemäß der WHO-Klassifikation von 2010 durchgeführt. Dabei werden histologische und zytologische Kriterien wie Drüsendifferenzierung, Muzinproduktion, Mitosenanzahl und Kernatypien berücksichtigt. Im vorliegenden Fall handelt es sich um ein gut differenziertes Adenokarzinom.
+Nachsorge:
+Aufgrund der R1-Situation wird Herr Müller in enger Zusammenarbeit mit dem Onkologen zur weiteren Therapieplanung besprochen. Eine adjuvante Chemotherapie wird empfohlen, um mögliche Mikrometastasen zu behandeln und das Risiko eines Rezidivs zu reduzieren.
 
 Zusammenfassung:
-Bei Herrn Müller wurde ein lokal fortgeschrittenes Pankreaskarzinom diagnostiziert. Aufgrund der Obstruktion der Gallengänge wird eine Whipple-Operation durchgeführt. Die histopathologische Aufarbeitung des Resektats zeigt, dass das Pankreaskarzinom CRM-positiv ist, jedoch einen Abstand von mehr als 1,5 mm zum Resektionsrand aufweist. Zwei Lymphknoten sind von Metastasen betroffen, was zu einer Lymphknotenratio von 2/12 führt. Das Grading des Tumors ergibt ein gut differenziertes Adenokarzinom.
-
-Die Prognose und weitere Therapieentscheidungen werden anhand dieser Befunde und unter Berücksichtigung der aktuellen medizinischen Leitlinien getroffen.
+Herr Müller präsentiert sich mit unspezifischen Oberbauchbeschwerden und Gewichtsverlust. Nach Diagnostik mittels Sonographie, CT-Untersuchung und ERCP wird ein Pankreaskarzinom im Kopf des Pankreas diagnostiziert. Eine Whipple-Operation wird durchgeführt, bei der eine R1-Situation festgestellt wird. Der histopathologische Befund bestätigt ein duktaler Adenokarzinom-Typ gemäß WHO-Klassifikation. Aufgrund der R1-Situation wird eine adjuvante Chemotherapie empfohlen.

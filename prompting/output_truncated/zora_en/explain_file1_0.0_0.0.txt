@@ -1,0 +1,11 @@
+This introduction discusses the phenomenon of reference in conversation, specifically focusing on referring expressions with noun phrases (NP REs). It explains that as interlocutors engage in interactive communication, two changes can typically be observed in the NP REs they produce: convergence and shortening. Convergence refers to the tendency for speakers' contributions to become more similar lexically and grammatically, while shortening refers to the phenomenon of interlocutors reducing the length of their contributions. The chapter primarily focuses on the process of shortening, although both processes occur in parallel.
+
+The introduction outlines the research questions addressed in the chapter, which are concerned with the degree of shortening in speakers' NP REs over the course of a dialogic interaction and the structural changes observed in the production of NP REs across multiple rounds of interaction.
+
+To investigate these changes, a referential communication task was designed to elicit spoken dialogues over four rounds of interaction, where interlocutors repeatedly referred to the same visual stimuli. An example is provided to illustrate the typical trajectory of change observed in the study, showing how the structure of NP REs evolves from the initial presence of post-head clausal elements to a greater frequency of phrasal modification.
+
+The concept of "compression" is introduced, which encompasses both the shortening process and the changes in structural preferences observed in NP REs. Previous research on change-in-interaction, particularly related to compression in NP REs, is discussed in Section 2. The theoretical approaches of the Interactive Alignment Model and discussions of familiarity and accessibility are also contextualized.
+
+Section 3 introduces the experimental setup used to collect a corpus of spoken English dialogues, and Section 4 presents an analysis of the structural changes in NP REs over the course of the interactions. The analysis reveals that as NP REs are shortened, their structure shifts from more elaborated, clausal forms to more compressed, phrasal forms in later rounds of interaction.
+
+Finally, in Section 5, the findings are discussed in relation to the notion of compression as a change that occurs in response to the need to convey a large amount of information efficiently.

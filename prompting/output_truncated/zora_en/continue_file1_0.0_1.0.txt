@@ -1,0 +1,13 @@
+In communication, referring expressions play a crucial role in conveying information effectively. Noun phrases (NPs) are commonly used as the central component of referring expressions (REs). However, previous research has shown that the use of NP REs tends to change over the course of a communicative interaction.
+
+One aspect of this change is the tendency for speakers to converge on linguistic forms and establish routines. As part of this convergence process, speakers also tend to shorten their NP REs. This chapter aims to investigate this shortening process and examine the structural changes that accompany it.
+
+To conduct this investigation, data from an experimentally elicited corpus of spoken English was analyzed. The corpus consisted of conversational dyads engaging in a referential communication task where they repeatedly referred to visual stimuli. The analysis focused on how interlocutors shortened their NP REs throughout the dialogues.
+
+The findings revealed a clear pattern of shortening over time. Specifically, there was a decrease in longer clausal post-head elements within NP REs as the interaction progressed. In contrast, there was an increase in the use of only premodified NP REs and shorter phrasal postmodification.
+
+These observed changes indicate shifts in the type of structural modification present within NP REs. Initially, speakers tended to produce more clausal elements, which are associated with structural elaboration. However, as the interaction unfolded, there was a decrease in clausal modification and a relative increase in phrasal modification.
+
+This shift from clausal to phrasal modification suggests a process known as post-head compression within noun phrases referring expressions. Post-head compression refers to the reduction or compression of structural elements following or modifying the head noun within an NP RE.
+
+Overall, these findings contribute to our understanding of how referring expressions evolve during interactive communication. By observing these structural changes in NP REs over time, we gain insights into how language users adapt their linguistic forms for efficient information exchange.

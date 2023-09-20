@@ -1,21 +1,37 @@
 Patient Information:
-On the 15th November 2021, a previously healthy, 25-year-old Caucasian female was admitted to the medical ward at St. Mary's Hospital with a two-week history of fever, fatigue, and joint pain. The patient reported no significant medical history or recent travel.
 
-Clinical Findings:
-Upon examination, the patient appeared fatigued with a temperature of 38.9°C and a heart rate of 110 beats per minute. She complained of generalized joint pain and had swelling in her wrists and knees bilaterally. There were no signs of cognitive dysfunction or skin abnormalities.
+On the 15th October 2021, a previously healthy, 32-year-old Caucasian female was admitted to the medical ward at St. Mary's Hospital in London, UK. The patient was transferred from a local clinic due to worsening symptoms and concerns about her overall condition. She presented with a two-week history of fever, fatigue, and a generalized rash over her body.
 
-Diagnostic Assessment:
-Blood investigations revealed an elevated C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), and white cell count (WCC). Rheumatoid factor (RF) and anti-cyclic citrullinated peptide (anti-CCP) antibodies were positive. X-rays showed erosions in the affected joints.
+Medical History:
 
-Diagnosis and Differentials:
-Based on the clinical presentation and laboratory findings, a diagnosis of rheumatoid arthritis (RA) was made. Other differentials considered included systemic lupus erythematosus (SLE), psoriatic arthritis, and reactive arthritis.
+The patient had no significant medical history and was not taking any medications prior to this illness. She reported being in good health and leading an active lifestyle.
 
-Therapeutic Intervention:
-The patient was started on nonsteroidal anti-inflammatory drugs (NSAIDs) for symptomatic relief of joint pain. Methotrexate was initiated as disease-modifying antirheumatic drug therapy to slow down disease progression. In addition, she received counseling on lifestyle modifications such as regular exercise and stress management techniques.
+Presenting Symptoms:
 
-Follow-up and Outcomes:
-The patient was followed up regularly in the rheumatology outpatient clinic over the next few months. With ongoing treatment, her symptoms gradually improved, including reduced joint pain and swelling. Repeat laboratory tests showed normalization of inflammatory markers such as CRP and ESR.
+The patient complained of persistent low-grade fever that had been fluctuating between 100°F (37.8°C) and 101°F (38.3°C) for the past two weeks. Alongside the fever, she experienced extreme fatigue that limited her daily activities.
 
-At her last follow-up appointment six months later, she reported minimal joint pain and had regained her energy levels. Physical examination revealed no active synovitis, and repeat imaging showed no progression of joint erosions. The patient was advised to continue with methotrexate therapy and regular monitoring.
+Additionally, she noticed a widespread rash covering her body which started as small red spots but gradually progressed into larger patches over time. The rash also involved her eyelids causing mild swelling and discomfort.
 
-In conclusion, this case highlights the importance of early diagnosis and appropriate management in patients presenting with symptoms suggestive of rheumatoid arthritis. With timely intervention, patients can achieve improved outcomes and a better quality of life.
+The patient described intermittent headaches accompanied by neck pain that worsened with movement or prolonged sitting or standing positions. She also reported having a sore throat and dry cough for the past week.
+
+Furthermore, she mentioned experiencing diarrhea for one day before the onset of other symptoms but denied any joint pain or swelling, oral ulcers, nasal discharge or sores on genitalia.
+
+Physical Examination Findings:
+
+Upon physical examination at admission, vital signs were stable except for an elevated temperature of 100.9°F (38.3°C). The patient appeared fatigued but alert with no signs of respiratory distress or cyanosis.
+
+Skin examination revealed multiple erythematous macules scattered across her trunk and extremities which blanched upon pressure indicating non-palpable purpura lesions consistent with petechiae formation associated with vasculitis.
+
+Her eyelids showed mild edema without conjunctival injection or discharge. The neck examination revealed tenderness on palpation of the cervical spine, particularly at the base of the skull.
+
+Laboratory Investigations:
+
+Initial laboratory investigations were conducted to further evaluate the patient's condition. Complete blood count (CBC) showed a mild leukocytosis with a white blood cell count of 12,500/mm³ (normal range: 4,000-11,000/mm³). Differential counts revealed an increased percentage of neutrophils and eosinophils.
+
+Liver function tests and renal function tests were within normal limits. Serological tests for infectious diseases including HIV, hepatitis B and C, syphilis, and Epstein-Barr virus were negative.
+
+Management:
+
+The patient was started on supportive care including antipyretics for fever control and adequate hydration to manage her symptoms. A dermatology consult was requested to assess the rash further.
+
+Given her persistent symptoms and abnormal physical findings suggestive of vasculitis, a rheumatology

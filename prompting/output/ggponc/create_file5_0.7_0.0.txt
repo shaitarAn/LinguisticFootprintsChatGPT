@@ -1,27 +1,33 @@
-Klinischer Fall: Pankreaskarzinom
+Fiktiver klinischer Fall: Pankreaskarzinom
 
-Patient: Herr Müller, 65 Jahre alt, männlich
+Patienteninformation:
+Name: Herr Müller
+Alter: 60 Jahre
+Geschlecht: männlich
 
 Anamnese:
-Herr Müller präsentiert sich mit seit etwa drei Monaten bestehenden, zunächst unspezifischen, dann jedoch zunehmend intensiveren Oberbauchschmerzen, die in den Rücken ausstrahlen. Er klagt auch über Gewichtsverlust von etwa 5 kg in den letzten drei Monaten. In den letzten Wochen hat er eine allgemeine Müdigkeit und Schwäche entwickelt. Es gibt keine Vorerkrankungen, jedoch berichtet er von einem langjährigen Raucherstatus. In der Familienanamnese gibt es keine Hinweise auf eine familiäre Belastung mit Pankreaskarzinom.
+Herr Müller präsentiert sich mit fortgeschrittenen Bauchschmerzen, Gewichtsverlust und Verdauungsstörungen in unserer Klinik. In seiner Anamnese gab er an, dass er in den letzten Monaten einen progressiven Gewichtsverlust von etwa 10 kg erlebt hat. Zusätzlich hat er über anhaltende Verdauungsprobleme, wie Übelkeit und Durchfall, geklagt. Er berichtete auch über starke Bauchschmerzen, die hauptsächlich im rechten Oberbauch lokalisiert sind und in den Rücken ausstrahlen. Eine gründliche körperliche Untersuchung ergab einen tastbaren, schmerzhaften Tumor im rechten Oberbauch.
 
-Körperliche Untersuchung:
-Bei der körperlichen Untersuchung zeigt Herr Müller eine leichte Ikterus. Der Bauch ist druckschmerzhaft im Oberbauch, ohne Nachweis von Aszites oder einer tastbaren Raumforderung. Es werden keine pathologischen Befunde bei der Auskultation der Lunge oder des Herzens festgestellt.
+Diagnostische Untersuchungen:
+- Eine Computertomographie (CT) des Abdomens zeigte eine Raumforderung im Pankreaskopf.
+- Ein endoskopisch retrograder Cholangiopankreatikographie (ERCP) ergab eine Obstruktion des Gallengangs.
+- Eine Gewebeprobe wurde durch eine Endoskopie mit Feinnadelaspiration (EUS-FNA) entnommen und histopathologisch untersucht.
 
-Diagnostik:
-Zur weiteren Diagnostik werden folgende Untersuchungen angeordnet:
+Diagnose:
+Basierend auf den histopathologischen Untersuchungsergebnissen wurde bei Herrn Müller ein Pankreaskarzinom diagnostiziert. Der Tumor wurde als duktales Adenokarzinom klassifiziert und befand sich im Pankreaskopf. Es wurde eine Obstruktion des Gallengangs festgestellt.
 
-- Laboruntersuchungen: Die Laborwerte zeigen eine erhöhte Konzentration von Bilirubin (2,5 mg/dL, normal <1,2 mg/dL) und alkalischer Phosphatase (280 U/L, normal <120 U/L). Die übrigen Leberwerte und das Blutbild sind unauffällig.
-- Sonographie des Abdomens: Es zeigt sich eine Dilatation des Gallengangssystems und eine Raumforderung im Kopf des Pankreas.
-- Computertomographie (CT) des Abdomens: Die CT-Bilder bestätigen den Verdacht auf ein Pankreaskarzinom im Kopf des Pankreas. Es gibt Hinweise auf eine Infiltration der umliegenden Gewebe und eine Vergrößerung der peripankreatischen Lymphknoten.
-- Endoskopisch retrograde Cholangiopankreatikographie (ERCP): Die ERCP zeigt einen Verschluss des Gallengangssystems im Bereich des Pankreaskopfes. Eine Stentimplantation wird durchgeführt, um den Gallenfluss wiederherzustellen.
+Behandlung:
+Herr Müller wurde zur weiteren Behandlung an die chirurgische Abteilung überwiesen. Dort wurde ihm eine Whipple-Operation empfohlen, bei der der Tumor zusammen mit einem Teil des Pankreas, des Duodenums, des Gallengangs und der Gallenblase entfernt werden sollte.
 
-Histopathologische Aufarbeitung und Klassifikation des Resektats:
-Nach Durchführung einer Whipple-Operation wird das Resektat zur histopathologischen Aufarbeitung geschickt. Es wird eine standardisierte histopathologische Aufarbeitung des Resektats durchgeführt, wobei die Resektionsränder besonders beachtet werden. Der zirkumferentielle Resektionsrand wird farbig markiert und im histologischen Schnitt identifiziert. Es wird festgestellt, dass der minimale Abstand der Tumorzellen zum zirkumferentiellen Resektionsrand weniger als 1 mm beträgt, jedoch den Resektionsrand nicht erreicht. Der Befund lautet daher R0, CRM-positiv (R0 narrow) gemäß dem Konzept des zirkumferentiellen Resektionsrands.
+Histopathologische Aufarbeitung:
+Im Rahmen der histopathologischen Aufarbeitung des Resektats wurden die international gültigen R-Klassifikationen angewendet. Besonderes Augenmerk wurde auf den zirkumferentiellen Resektionsrand gelegt, da hier häufig eine R1-Situation vorliegt. In Absprache mit dem operierenden Chirurgen wurden die Resektionsgrenzen im makroskopischen Zuschnitt markiert. Der zirkumferentielle Resektionsrand setzte sich aus einem vorderen, medialen und posterioren Resektionsrand bzw. der entsprechenden Resektionsfläche zusammen. Zusätzlich wurde die hintere Fläche des Prozessus uncinatus besonders aufgearbeitet.
 
-Des Weiteren werden 15 Lymphknoten aus der Arteria mesenterica superior-Ebene entfernt und zur histopathologischen Untersuchung geschickt. Bei der Untersuchung wird festgestellt, dass 3 Lymphknoten tumorinfiltriert sind. Die Lymphknotenratio (Anzahl der befallenen Lymphknoten zur Anzahl der untersuchten Lymphknoten) beträgt somit 3/15.
+Das histopathologische Ergebnis bestätigte die Diagnose eines duktalen Adenokarzinoms im Pankreaskopf. Es wurden keine Lymphknotenmetastasen nachgewiesen, jedoch wurde eine tumorinfiltrierte Resektionsfläche am posterioren Resektionsrand festgestellt, was auf eine R1-Situation hinwies.
 
-Das duktale Adenokarzinom des Pankreas wird gemäß der WHO-Klassifikation 2010 in Bezug auf das Grading (Tumordifferenzierungsgrad) bewertet. Es wird festgestellt, dass das Karzinom eine moderate Drüsendifferenzierung aufweist, begleitet von Muzinproduktion, einer moderaten Mitosenanzahl und leicht atypischen Kernen. Das Grading des Karzinoms lautet G2.
+Weitere Behandlung:
+Basierend auf den histopathologischen Ergebnissen wurde Herr Müller in die Onkologieabteilung zur weiteren Behandlung überwiesen. Dort wurde eine adjuvante Chemotherapie mit Gemcitabin empfohlen, um das Risiko eines Tumorrezidivs zu reduzieren.
 
-Therapie und Prognose:
-Nach der histopathologischen Diagnose eines Pankreaskarzinoms wird Herr Müller in eine onkologische Behandlung überwiesen. Aufgrund des R0-Resektionsstatus und des CRM-positiven Befunds wird eine adjuv
+Verlauf:
+Herr Müller begann die adjuvante Chemotherapie und zeigte eine gute Verträglichkeit der Behandlung. Seine Bauchschmerzen und Verdauungsprobleme verbesserten sich im Laufe der Zeit. Eine regelmäßige Nachsorge mit bildgebenden Untersuchungen und Tumormarkern wurde empfohlen, um die Wirksamkeit der Behandlung zu überwachen und mögliche Rückfälle frühzeitig zu erkennen.
+
+Anmerkung: Dieser fiktive Fall basiert auf den Leitlinien des deutschen Leitlinienprogramms für die Onkologie (Texte aus 6.31 und 6.32). Die Details des Falls dienen ausschließlich illustrativen Zwecken und sollten nicht als medizinische Beratung oder Empfehlung verstanden werden. Jeder klinische Fall sollte individuell bewertet und behandelt werden.

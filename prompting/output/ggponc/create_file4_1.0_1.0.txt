@@ -1,28 +1,34 @@
-Fallbericht
+Klinischer Fall: Frau S., 57-jährige Patientin mit fortgeschrittener metastasierter Lungenkrebsdiagnose
 
-Patient J. ist 58 Jahre alt und wurde vor einem Jahr mit fortgeschrittenem Dickdarmkrebs diagnostiziert. Die Metastasierung des Tumors hat bereits weitere Organe erreicht, sodass eine Heilung nicht mehr möglich ist. J. leidet unter starken Schmerzen im Bauchbereich, Übelkeit und Gewichtsverlust in den letzten Wochen.
+Anamnese:
+Frau S. ist eine 57-jährige Patientin, die vor kurzem die Diagnose eines fortgeschrittenen Lungenkarzinoms im Stadium IV erhalten hat. Die Tumorexpansion erstreckt sich auf beide Lungenflügel sowie auf die Leber und das Skelettsystem. Sie leidet unter starken Atembeschwerden, Schmerzen sowie Appetitlosigkeit und hat bereits an Gewicht verloren.
 
-Bei der ersten palliativmedizinischen Untersuchung stellt sich heraus, dass J. auch unter erheblichen psychischen Belastungen leidet: Er hat immer wieder Angstzustände und Panikattacken aufgrund seiner Krebserkrankung. Seine Ehefrau berichtet zudem von Schlafstörungen und Sorgen um die Pflege ihres schwer kranken Mannes.
+Diagnostik:
+Eine Thorax-CT-Bildgebung bestätigte multiple konglomerate Tumorherde in beiden Lungenflügeln mit Ausbreitung in die angrenzenden Strukturen sowie Metastasen im oberen rechten Quadranten des Bauchraums und im sakralen Bereich der Wirbelsäule.
 
-In einem ausführlichen Gespräch mit Patient J. und seiner Ehefrau werden die Bedürfnisse und Probleme des Paares erhoben:
+Therapieplanung:
+Aufgrund des fortgeschrittenen und metastasierten Stadiums der Erkrankung ist eine kurative Therapie nicht mehr möglich. Die Behandlung soll daher palliativ ausgerichtet sein, um Symptome zu lindern, die Lebensqualität zu verbessern und das Fortschreiten der Krankheit zu verlangsamen.
 
-- Physische Bedürfnisse: Linderung der Schmerzen, Behandlung der Übelkeit, Gewichtsstabilisierung
-- Psychische Bedürfnisse: Unterstützung bei Angstzuständen und Panikattacken
-- Soziale Bedürfnisse: Anleitung zur häuslichen Pflege für die Ehefrau
-- Spirituelle Bedürfnisse: Hilfe bei existentiellen Fragen
+Besonderheiten / Bedürfnisse der Patientin:
 
-Zur genauen Erfassung der Symptome wird ein validiertes Erfassungsinstrument eingesetzt. Da Patient J. noch selbst dazu in der Lage ist, werden seine eigenen Einschätzungen als Goldstandard herangezogen.
+1. Physische Bedürfnisse:
+- Atembeschwerden aufgrund der Lungentumore erfordern eine adäquate Schmerzbehandlung sowie gegebenenfalls den Einsatz von Sauerstofftherapie.
+- Kontrolle von anderen belastenden Symptomen wie Fatigue, Übelkeit oder Verstopfung.
 
-Aufgrund der hohen Kompexitätssituation von Patient J., einschließlich des Vorliegens verschiedener Symptome und Probleme sowie des Funktionsstatus und der Krankheitsphase, wird die Gesamtsituation als hoch komplex eingestuft. Es wird eine intensive palliativmedizinische Behandlung empfohlen, um die Bedürfnisse von Patient J. bestmöglich zu erfüllen.
+2. Psychische Bedürfnisse:
+- Aufklärung über die Krankheitsprogression, die Prognose und mögliche Behandlungsoptionen.
+- Unterstützung bei der Bewältigung von Ängsten, Sorgen und depressiven Verstimmungen.
 
-In Absprache mit dem SPV-Team wird beschlossen, dass sowohl Patient J. als auch seine Ehefrau regelmäßige Unterstützung bei einem spezialisierten Palliativmediziner erhalten sollen. Dies soll sicherstellen, dass alle Bedürfnisse angemessen behandelt werden können.
+3. Soziale Bedürfnisse:
+- Unterstützung bei der Koordination von häuslicher Pflege oder ambulanten Versorgungsangeboten.
+- Identifizierung finanzieller Hilfsmöglichkeiten für die Patientin und ihre Familie.
 
-Der weitere Therapie- und Behandlungsplan für Patient J. sieht vor:
+4. Spirituelle Bedürfnisse:
+- Bereitstellung einer spirituellen Begleitung / Seelsorge oder Vermittlung an entsprechende Ansprechpartner zur Unterstützung bei existentiellen Fragen und Spiritualität.
 
-- Schmerztherapie mit geeigneten Medikamenten zur Linderung der starken Bauchschmerzen
-- Antiemetika zur Bekämpfung der Übelkeit
-- Psychotherapeutische Begleitung für Patient J., um seine Angstzustände zu bewältigen
-- Schulungen für die Ehefrau in häuslicher Pflege sowie Verweis auf lokale pflegerische Unterstützungsdienste und Selbsthilfegruppen.
-- Gelegenheit bieten, über spirituelle Fragen zu sprechen (ggf. Verweis auf Spirituellen Betreuungsdienst)
+Therapieansatz:
 
-Der Fall von Patient J. zeigt exemplarisch den Wert einer umfassenden Erfassung der Bedürfnisse von Palliativpatienten sowie die Notwendigkeit einer angemessenen Bewertung ihrer Komplexitätssituation. Die Zusammenarbeit zwischen dem behandelnden Arzt und einem spezialisierten Palliativteam ist entscheidend, um eine optimale Palliativversorgung gewährleisten zu können
+Der Einsatz eines spezialisierten Palliativteams (SPV) sollte in Betracht gezogen werden, um das umfangreiche physische, psychische, soziale und spirituelle Wohlbefinden von Frau S. zu gewährleisten. Das SPV kann eine regelmäßige Symptomkontrolle sowie psychosoziale Betreuung bereitstellen und ihre engagierte multidisziplinäre Expertise nutzen, um den richtigen Therapieansatz im Kontext ihrer komplexen Erkrankung zu finden.
+
+Zusammenfassung:
+Frau S. ist eine 57-jährige Patientin mit fortgeschrittenem Lungenkarzinom im metastasierten Stadium IV. Sie hat vielfältige physische, psychische, soziale und spirituelle Bedürfnisse aufgrund ihrer nicht-heilbaren Krebserkrankung. Die Einbeziehung eines spezialisierten Palliativteams (SPVs), wie in den Leitlinien empfohlen, kann dazu beitragen, ihre Komplexität zu erfassen und ein umfassendes Palliativ-Medizin-Angebot bereitzustellen.

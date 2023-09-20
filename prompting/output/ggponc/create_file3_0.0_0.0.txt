@@ -1,15 +1,27 @@
 Klinischer Fall: Präoperative biliäre Drainage bei einem Patienten mit hilärem Cholangiokarzinom
 
-Ein 65-jähriger männlicher Patient stellt sich mit Symptomen wie Gelbsucht, Gewichtsverlust und Bauchschmerzen in der Leberklinik vor. Nach einer gründlichen Untersuchung und Bildgebung wird bei ihm ein hiläres Cholangiokarzinom diagnostiziert. Aufgrund der Tumorlokalisation und des Ausmaßes der Obstruktion der Gallenwege wird eine präoperative biliäre Drainage (PBD) in Erwägung gezogen.
+Patient: Herr Müller, 62 Jahre alt, männlich
 
-Die Entscheidung zur PBD basiert auf den medizinischen Leitlinien für die Behandlung von biliären Karzinomen. Die Evidenz für die Indikation zur PBD ist begrenzt und stützt sich hauptsächlich auf retrospektive Analysen. Dennoch wird eine PBD bei Patienten mit hilärem Cholangiokarzinom empfohlen, wenn eine kurativ intendierte Resektion möglich ist.
+Anamnese:
+Herr Müller stellt sich mit seit einigen Wochen bestehenden Oberbauchschmerzen, Gewichtsverlust und Gelbsucht in unserer Klinik vor. Er berichtet von einer allgemeinen Abgeschlagenheit und Appetitlosigkeit. In der Vergangenheit wurde bei ihm eine chronische Hepatitis C diagnostiziert, die jedoch erfolgreich mit antiviralen Medikamenten behandelt wurde. Er ist Nichtraucher und konsumiert nur gelegentlich Alkohol.
 
-Der behandelnde Arzt entscheidet sich für eine perkutan-transhepatische biliäre Drainage (PTCD), da dies in der Klinik als bevorzugter Zugangsweg gilt. Die PTCD wird unter radiologischer Kontrolle durchgeführt und ermöglicht eine effektive Entlastung der Gallenwege. Es wird jedoch darauf hingewiesen, dass die Expertise des Behandlungsteams einen Einfluss auf das Outcome der PBD haben kann.
+Klinischer Befund:
+Bei der körperlichen Untersuchung zeigt sich eine Ikterus der Skleren und der Haut. Der Oberbauch ist druckempfindlich, es besteht eine leichte Hepatomegalie. Die übrigen klinischen Befunde sind unauffällig.
 
-Die PTCD verläuft komplikationslos, und der Patient erfährt eine deutliche Verbesserung seiner Symptome. Nach der Drainage wird eine umfassende präoperative Evaluierung durchgeführt, um die Resektabilität des Tumors zu bestimmen. Es wird festgestellt, dass der Tumor resektabel ist, und es wird eine kurativ intendierte Resektion geplant.
+Diagnostik:
+Laboruntersuchungen zeigen erhöhte Leberwerte (Bilirubin, ALAT, ASAT, Gamma-GT) sowie eine erhöhte alkalische Phosphatase. Der Tumormarker CA 19-9 ist ebenfalls deutlich erhöht. Eine Sonographie des Abdomens zeigt eine Dilatation der intrahepatischen Gallengänge sowie eine Raumforderung im Bereich der Gallenwege. Eine anschließende MRT-Untersuchung bestätigt den Verdacht auf ein hiläres Cholangiokarzinom.
 
-Der Patient wird in das interdisziplinäre Team aufgenommen, das aus Chirurgen, interventionellen Radiologen und Gastroenterologen besteht. Gemeinsam wird ein Behandlungsplan erstellt, der die präoperative Vorbereitung, die Resektion des Tumors und die postoperative Nachsorge umfasst.
+Therapieentscheidung:
+Aufgrund der Lokalisation des Tumors und der kurativen Behandlungsintention wird eine präoperative biliäre Drainage (PBD) in Erwägung gezogen. Eine PBD kann bei Patienten mit hilärem Cholangiokarzinom in etwa 25% bis 35% der Fälle indiziert sein. Ziel der PBD ist es, den Gallenstau zu entlasten und die Leberfunktion zu verbessern, um eine mögliche Resektion des Tumors zu ermöglichen.
 
-Die präoperative biliäre Drainage hat dazu beigetragen, die Symptome des Patienten zu lindern und die Resektabilität des Tumors zu ermöglichen. Die interdisziplinäre Zusammenarbeit und die Einbeziehung verschiedener Fachgebiete haben zu einer optimalen Behandlungsstrategie geführt.
+Behandlung:
+Es wird beschlossen, eine perkutan-transhepatische biliäre Drainage (PTBD) bei Herrn Müller durchzuführen. Unter radiologischer Kontrolle wird eine Drainage in den Gallengang eingelegt, um den Gallenfluss wiederherzustellen. Die Drainage wird mit einem externen Beutel verbunden, um den abfließenden Gallensaft zu sammeln und zu überwachen. Herr Müller erhält zudem eine antibiotische Prophylaxe, um das Risiko einer Infektion zu reduzieren.
 
-Dieser Fall verdeutlicht die Bedeutung der präoperativen biliären Drainage bei Patienten mit hilärem Cholangiokarzinom. Obwohl die Evidenz begrenzt ist, kann die PBD das Outcome des Patienten verbessern und die Resektabilität des Tumors ermöglichen. Eine sorgfältige Evaluation und eine interdisziplinäre Behandlungsplanung sind entscheidend, um die bestmögliche Versorgung für diese Patienten zu gewährleisten.
+Verlauf:
+Nach der PTBD verbessert sich der Allgemeinzustand von Herrn Müller deutlich. Die Gelbsucht lässt nach, die Leberwerte normalisieren sich und er berichtet von einer Linderung der Oberbauchschmerzen. Nach einer Woche wird eine erneute MRT-Untersuchung durchgeführt, um den Erfolg der Drainage zu überprüfen. Dabei zeigt sich eine deutliche Reduktion der Tumorgröße und eine Rückbildung der Gallengangsobstruktion.
+
+Weiteres Vorgehen:
+Aufgrund des guten Ansprechens auf die präoperative biliäre Drainage wird Herr Müller als Kandidat für eine kurativ intendierte Resektion des Cholangiokarzinoms eingestuft. Er wird in das interdisziplinäre Tumorboard überwiesen, um das weitere Vorgehen zu besprechen. Dort wird entschieden, dass eine partielle Leberresektion in Kombination mit einer Lymphadenektomie durchgeführt werden soll.
+
+Fazit:
+Die präoperative biliäre Drainage kann bei Patienten mit hilärem Cholangiokarzinom eine wichtige Rolle spielen, um die Leberfunktion zu verbessern und eine mögliche Resektion des Tumors zu ermöglichen. Eine individuelle Entscheidung unter Berücksichtigung der Leitlinien und des klinischen Zustands des Patienten ist dabei entscheidend.

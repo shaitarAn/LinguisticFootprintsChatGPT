@@ -27,7 +27,7 @@ for subdir, dirs, files in os.walk("../output"):
 
     # truncate the files in the directory to the average number of tokens and write them to a new directory
     new_dir = f"../output_truncated/{subdir[10:]}"
-    print(new_dir)
+    # print(new_dir)
     if not os.path.exists(new_dir):
         os.makedirs(new_dir)
     for file in files:

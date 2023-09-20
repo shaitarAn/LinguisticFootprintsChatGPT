@@ -1,0 +1,11 @@
+1. Introduction
+
+Language variation and its impact on standard varieties have been a topic of interest for linguists across the globe. In Switzerland, one of the countries with a rich linguistic landscape, Swiss Standard German (SSG) serves as an official language. However, despite its significance, there remains a dearth of research on the phonetic properties of SSG in relation to regional dialects.
+
+Previous studies on Alemannic (ALM) dialects have primarily focused on consonants rather than vowels, leaving an important gap in our understanding of vowel quality in these dialects and its influence on the respective varieties of SSG. To address this research gap, this study aims to investigate the long-vowel inventories in four ALM dialects and their corresponding SSG varieties with regard to vowel quality.
+
+The primary objective of this study is twofold: firstly, it seeks to provide a comprehensive comparative acoustic analysis of ALM and SSG vowels; secondly, it aims to explore the extent to which interference from ALM dialects shapes vowel qualities in SSG varieties. By examining both male and female speakers from Bern, Chur, Brig, and Zurich within each dialect region through audio recordings capturing three repetitions per vowel sound, we aim to build a robust corpus consisting of 1,632 tokens.
+
+Preliminary findings reveal that ALM vowel quality is predominantly transferred into the respective SSG varieties within two specific dialect regions: Chur and Brig. Conversely, discrepancies emerge when examining Bern and Zurich's SSG varieties where certain vowel qualities do not align with those found in their corresponding ALM counterparts. Notably observed is the fronting alteration observed for <a> in either Bern or Zurich's SSG variety. Furthermore,<ä> exhibits variations between [ɛː] and [æː] within Bern's variety while <o> tends toward back realization.
+
+This research seeks not only to contribute to the broader understanding of Swiss language variation but also to shed light on the intricate relationship between regional dialects and SSG. By providing empirical data and analysis, this study aims to deepen our knowledge of vowel quality in ALM dialects and its influence on SSG varieties, thereby enriching the field of phonetics and sociolinguistics.

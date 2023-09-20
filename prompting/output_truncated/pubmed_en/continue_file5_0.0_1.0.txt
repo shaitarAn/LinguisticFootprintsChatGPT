@@ -10,6 +10,4 @@ In addition to these systemic changes in immunity, there is growing evidence of 
 
 Despite these intriguing findings, our understanding of the immunopathology underlying PASC remains limited. The heterogeneity of symptoms and clinical presentations among PASC patients suggests that multiple mechanisms may be at play. Moreover, it is unclear whether the immune dysregulation observed in PASC is a consequence of the initial SARS-CoV-2 infection or represents a distinct pathological process.
 
-To address these knowledge gaps, large-scale longitudinal studies are needed to comprehensively characterize the immune responses during acute infection and their evolution over time in individuals with and without subsequent development of PASC. This will require detailed phenotyping of immune cell populations using advanced techniques such as single-cell RNA sequencing and mass cytometry. Additionally, functional assays should be employed to assess specific aspects of immune function that may be altered in PASC.
-
-By elucidating the immunopathological mechanisms driving PASC, we can pave the way for targeted therapeutic interventions aimed at restoring normal immune function and alleviating persistent
+To address these knowledge gaps, large-scale longitudinal studies are needed to

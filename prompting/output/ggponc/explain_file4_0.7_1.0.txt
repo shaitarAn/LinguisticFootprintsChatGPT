@@ -1,13 +1,15 @@
-Der Text aus den Leitlinien zur Palliativmedizin beschreibt das Erfassen der Bedürfnisse von Patienten mit einer nicht-heilbaren Krebserkrankung und deren Angehörigen sowie die Ermittlung der Komplexität ihrer Situation.
+Der Text beschreibt die Bedürfnisse von Angehörigen von Patienten in der Palliativversorgung und wie diese ermittelt werden können. Es wird betont, dass Angehörige oft psychisch belastet sind und praktische Unterstützung benötigen, einschließlich Anleitung zur Pflege sowie Informationen über Schmerztherapie und Symptomkontrolle.
 
-Die Bedürfnisse dieser Patientengruppe können physischer, psychischer, sozialer und spiritueller Natur sein. Es kann sich um die Linderung von Symptomen, den Informationsbedarf, die Autonomie bei Entscheidungen, psychosoziale Unterstützung oder spirituelle Begleitung handeln. Auch Angehörige haben Bedürfnisse wie praktische Fragen zur Versorgung oder Unterstützung bei eigener Belastung.
+Es werden drei Arten von Bedürfnissen unterschieden: normative, empfundene und formulierte Bedürfnisse. Normative Bedürfnisse sind definiert durch professionelle Standards oder gesellschaftliche Erwartungen. Empfundene Bedürfnisse hängen von den Erwartungen und Vorstellungen der Betroffenen ab. Formulierte oder ausgesprochene Bedürfnisse sind empfundene Bedürfnisse, die verbalisiert wurden.
 
-Es gibt verschiedene Arten von Bedürfnissen: normative (vom Gesundheitswesen definiert), empfundene (vom Patienten wahrgenommen) und formulierte (ausgesprochene) Bedürfnisse. Bei der Erfassung von Bedürfnissen sollte immer geklärt werden, um welche Art es sich handelt.
+Die Ermittlung der Bedürfnisse erfolgt durch frühzeitige und wiederholte Evaluation im Gespräch mit dem Patienten und den Angehörigen. Validierte Erfassungsinstrumente können dabei helfen, die realen Symptomprävalenzen zu ermitteln.
 
-Das Erfassen der Bedürfnisse erfolgt durch wiederholte Evaluation im Gespräch mit dem Patienten und den Angehörigen. Validierte Erfassungsinstrumente können dabei helfen, die realen Symptomprävalenzen zu ermitteln. Der Goldstandard ist die Ermittlung der Bedürfnisse durch den Patienten selbst (Patient-Reported Outcome Measurement), falls dies möglich ist. Andernfalls können Professionelle oder Angehörige die Einschätzung vornehmen unter Berücksichtigung früherer Äußerungen des Patienten.
+Idealerweise sollten die Patienten ihre eigenen Bedürfnisse angeben (Patient-Reported Outcome Measurement). Wenn dies nicht möglich ist, kann die Einschätzung durch Professionelle oder Angehörige erfolgen unter Berücksichtigung früherer Äußerungen des Patienten.
 
-Die Bewertung der Komplexität erfolgt nach dem Erfassen der Bedürfnisse anhand verschiedener Faktoren. Die Komplexität wird sowohl von der Intensität einzelner Symptome oder Probleme als auch von deren gleichzeitigem Auftreten beeinflusst. Der Funktionsstatus des Patienten und die Phase der Krankheit (stabil, instabil, verschlechternd, sterbend) spielen ebenfalls eine Rolle.
+Die Dokumentation der Veränderungen bei den Bedürfnissen ermöglicht es, den Effekt der Palliativversorgung zu beurteilen.
 
-Um einen angemessenen Therapie- und Behandlungsplan zu erstellen, ist die Bewertung der Komplexität entscheidend. Die Komplexität wird in niedrig/mittel oder hoch eingeteilt.
+Es wird auch diskutiert, wie die Komplexität der Situation bewertet werden kann. Dabei spielen verschiedene Faktoren eine Rolle, wie z.B. Intensität der Symptome, psychosoziale Probleme und gleichzeitiges Auftreten von verschiedenen Problemen. Die Bewertung der Komplexität ist wichtig für die Erstellung eines angemessenen Therapieplans.
 
-Die Deutsche Gesellschaft für Allgemeinmedizin (DEGAM) spricht sich in Bezug auf den Einsatz eines spezialisierten Palliativversorgungs-Teams (SPV-Team) für eine "sollte"-Empfehlung aus, da dieser in der Regelversorgung komplexen Situationen vorbehalten sein sollte.
+Die Komplexität wird in niedrig/mittel oder hoch eingeteilt. Patienten mit hoher Situationskomplexität sollten in der Regel spezialisierte Palliativversorgung erhalten, während Patienten mit niedriger/mittlerer Komplexität allgemeine Palliativversorgung bekommen können.
+
+Es wird darauf hingewiesen, dass die Entscheidung zwischen allgemeiner und spezialisierter Palliativversorgung individuell für jeden Patienten getroffen werden sollte.

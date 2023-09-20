@@ -1,0 +1,13 @@
+The study of wordhood in languages has always been a complex and challenging task. In the case of Middle Welsh, this task becomes even more intricate due to the abundance of bound elements and the intricate phonological interactions within morphological and phrasal structures.
+
+In recent years, typological research on wordhood has shed light on the nature of words in various languages. It has become evident that not all languages adhere to a strict definition of what constitutes a word. This is particularly true for older Insular Celtic languages like Middle Welsh.
+
+The aim of this article is to provide an in-depth investigation into the distribution of phonological and morphological domains within the Middle Welsh verbal complex. By examining various linguistic structures, we seek to determine whether individual words play a significant role in the grammar of this language.
+
+Before delving into our analysis, it is important to acknowledge the challenges inherent in studying wordhood in corpus languages. Corpus data often presents limitations such as incomplete or biased samples, making it difficult to draw definitive conclusions about linguistic phenomena. Nevertheless, by carefully considering these limitations, we can still gain valuable insights into the nature of words in Middle Welsh.
+
+Our findings reveal that there are several structures within the Middle Welsh verbal complex that could be considered as "words" based on traditional definitions. However, upon closer examination, it becomes apparent that these structures do not align neatly with our understanding of words from a synchronic perspective.
+
+Instead, we propose that focusing solely on identifying individual words may hinder our understanding and description of Middle Welsh grammar. The term "word" proves to be less useful when attempting to capture the intricacies and complexities present within this language's morphological and phonological domains.
+
+In conclusion, this study highlights how typological research on wordhood can inform our understanding of specific languages like Middle Welsh. By recognizing its unique linguistic features and challenging traditional notions surrounding wordhood, we can develop more accurate descriptions and analyses for such complex languages.

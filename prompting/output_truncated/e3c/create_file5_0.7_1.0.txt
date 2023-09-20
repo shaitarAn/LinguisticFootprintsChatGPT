@@ -1,27 +1,27 @@
-Patient Information:
+Patient information
+On the 3rd October 2021, a previously healthy, 24-year-old Asian female was admitted to the medical ward at St. Mary's Hospital, New York City. The patient was transferred from a local clinic due to ongoing symptoms and a deteriorating condition. She presented with a three-day history of high-grade fever, generalized rash all over her body and face, persistent headache accompanied by neck stiffness, sore throat, and an unproductive cough. Additionally, she reported experiencing watery diarrhea for the past two days. There were no complaints of joint pain or any oral or nasal ulcers.
 
-On the 15th September 2021, a previously healthy, 23-year-old Asian female was admitted to the medical ward at St. Mary's Hospital with a two-week history of fever, fatigue, and joint pain. The patient reported no significant medical history or recent travel. She works as a teacher and denies any contact with COVID-19 cases.
+Medical History
+The patient had no significant medical history prior to this admission. She had never been hospitalized before and had not experienced any similar episodes in the past.
 
-Clinical Findings:
+Social History
+The patient lived with her family in an urban area of New York City and worked as a teacher at a local school. She denied any recent travel outside the city or close contact with individuals who were ill.
 
-Upon examination, the patient appeared fatigued with a temperature of 38.9°C and a heart rate of 110 beats per minute. She complained of generalized joint pain and had visible swelling in her knees and wrists. There were no signs of cognitive dysfunction or skin rash observed.
+Physical Examination
+Upon arrival at St. Mary's Hospital, the patient appeared fatigued and mildly dehydrated. Her temperature was measured at 39°C (102°F). A thorough examination revealed a diffuse maculopapular rash covering her trunk, limbs, and face including eyelids. The rash did not blanch on pressure nor did it have any specific distribution pattern.
 
-Diagnostic Assessment:
+The patient complained of moderate neck pain when attempting flexion or extension movements; however, there was no limitation in range of motion observed during examination.
 
-Initial blood investigations revealed an elevated C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), white cell count (WCC), and rheumatoid factor (RF). Antinuclear antibody (ANA) testing was positive with a speckled pattern.
+Laboratory Findings
+Initial laboratory investigations showed leukocytosis (white blood cell count: 15 × 10^9/L) with neutrophil predominance (80%), while lymphocyte count remained within normal limits (20%). Liver function tests were unremarkable except for slightly elevated lactate dehydrogenase levels (350 U/L).
 
-Diagnosis and Differentials:
+Diagnostic Assessment
+Given the clinical presentation, the patient was suspected to have a viral illness with systemic involvement. Differential diagnoses included viral exanthems, such as measles or rubella, as well as infectious mononucleosis or an enteroviral infection.
 
-Based on the clinical presentation and laboratory findings, the patient was diagnosed with systemic lupus erythematosus (SLE). Other differentials such as rheumatoid arthritis, viral infections like Epstein-Barr virus (EBV), or bacterial infections were considered but ruled out based on specific diagnostic criteria.
+Further investigations were ordered, including serological testing for common viruses associated with exanthematous illnesses and a throat swab for polymerase chain reaction (PCR) analysis. In the meantime, the patient was placed in contact isolation to prevent potential transmission to healthcare workers and other patients.
 
-Therapeutic Intervention:
+Management
+Supportive care measures were initiated immediately upon admission. The patient received intravenous fluids to correct dehydration and paracetamol for fever control. Bed rest and close monitoring of vital signs were implemented.
 
-The patient was started on hydroxychloroquine for disease-modifying treatment along with nonsteroidal anti-inflammatory drugs (NSAIDs) for symptomatic relief of joint pain. In addition, she received counseling regarding sun protection measures due to photosensitivity associated with SLE.
-
-Follow-up and Outcomes:
-
-The patient's symptoms gradually improved over time with treatment adherence. Follow-up visits at regular intervals showed resolution of joint swelling and improvement in laboratory markers such as CRP, ESR, WCC, RF levels normalized while ANA titers decreased significantly.
-
-Conclusion:
-
-This case highlights the importance of early recognition and diagnosis of autoimmune diseases such as SLE. Prompt initiation of appropriate treatment can lead to symptom control and improved outcomes for patients. Regular follow-up and monitoring are essential to ensure the effectiveness of therapy and prevent disease flares.
+Outcome
+The results of serological testing came back positive for Epstein-Barr virus (EBV), confirming infectious mononucleosis as the underlying cause of the patient's symptoms. The PCR analysis

@@ -23,10 +23,4 @@ Language barriers and limited health literacy have also hindered healthcare acce
 3. Mitigating Health Disparities
 
 3.1 Strengthening Healthcare Infrastructure
-To mitigate health disparities, it is essential to strengthen the healthcare infrastructure in marginalized communities. This includes increasing access to healthcare facilities, improving healthcare workforce diversity, and ensuring that healthcare services are affordable and culturally competent.
-
-3.2 Addressing Socioeconomic Inequities
-Addressing socioeconomic inequities is crucial in reducing health disparities. This involves implementing policies that promote income equality, affordable housing, and job security. Additionally, providing paid sick leave and healthcare benefits to low-wage workers can help protect them from the economic and health impacts of future pandemics.
-
-3.3 Building Trust and Improving Health Literacy
-Building trust between
+To mitigate health disparities, it is essential

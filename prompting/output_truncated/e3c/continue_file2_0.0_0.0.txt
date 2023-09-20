@@ -2,18 +2,16 @@ On physical examination, the patient appeared pale and had a distended abdomen. 
 
 Given the patient's symptoms and examination findings, further investigations were ordered. Laboratory tests revealed a mild normocytic anemia with a hemoglobin level of 10.5 g/dL (normal range: 12-15 g/dL). Liver function tests were within normal limits, and there were no abnormalities in the coagulation profile. Serum amylase and lipase levels were also normal.
 
-An abdominal ultrasound was performed, which showed a large, hypoechoic mass in the region of the pancreas. The mass appeared to be compressing the adjacent structures, including the stomach and duodenum. There were no signs of biliary obstruction or gallstones.
+An abdominal ultrasound was performed, which showed a large, hypoechoic mass in the region of the pancreas. The mass appeared to be invading the surrounding structures, including the duodenum and common bile duct. There were no signs of metastasis to the liver or other distant organs.
 
-Based on these findings, a diagnosis of pancreatic tumor was suspected. The patient was referred to a specialist for further evaluation and management. A computed tomography (CT) scan of the abdomen was recommended to provide more detailed information about the tumor and its extent.
+Based on these findings, a diagnosis of pancreatic cancer was suspected. The patient was referred to an oncologist for further evaluation and management. A computed tomography (CT) scan was scheduled to assess the extent of the tumor and to determine if it was resectable.
 
-In the meantime, the patient was started on symptomatic treatment for her abdominal pain, including analgesics and antacids. She was advised to follow a small, frequent meal pattern to alleviate her symptoms of early satiety. The importance of regular antenatal care and close monitoring of fetal well-being was emphasized.
+During the CT scan, it was confirmed that the tumor was locally advanced and not amenable to surgical resection. The oncologist discussed the treatment options with the patient, which included chemotherapy and radiation therapy to help shrink the tumor and alleviate symptoms.
 
-The patient was scheduled for a CT scan, which confirmed the presence of a large mass in the head of the pancreas. The radiologist suspected it to be a pancreatic adenocarcinoma, but a biopsy was required for definitive diagnosis. The patient was referred to an oncologist for further management.
+The patient was started on a chemotherapy regimen consisting of gemcitabine and nab-paclitaxel. She tolerated the treatment well, with only mild nausea and fatigue as side effects. Regular follow-up visits were scheduled to monitor the response to treatment and manage any adverse effects.
 
-Given the advanced stage of the tumor and the patient's pregnancy, a multidisciplinary team involving obstetricians, oncologists, and neonatologists was involved in the decision-making process. After careful consideration of the risks and benefits, it was decided to delay any surgical intervention until after the patient had delivered her baby.
+Over the next few months, the patient's abdominal pain gradually improved, and she regained some of the weight she had lost. Repeat imaging showed a partial response to chemotherapy, with a reduction in the size of the tumor. The patient continued with her treatment, and her pregnancy was closely monitored by the obstetric team.
 
-The patient was closely monitored throughout the remainder of her pregnancy, with regular ultrasound scans to assess fetal growth and well-being. She received supportive care, including nutritional supplementation and pain management. The patient delivered a healthy baby at 38 weeks gestation via cesarean section.
+At 36 weeks gestation, the patient went into spontaneous labor and delivered a healthy baby boy. The delivery was uneventful, and both mother and baby were stable. The patient's oncologist decided to continue the chemotherapy after a short break to allow for recovery from childbirth.
 
-Following delivery, the patient underwent a pancreaticoduodenectomy (Whipple procedure) to remove the tumor. The histopathology report confirmed the diagnosis of pancreatic adenocarcinoma. The patient was referred for adjuvant chemotherapy and regular follow-up to monitor for any recurrence or metastasis.
-
-This case highlights the challenges of managing a pregnant patient with a pancreatic tumor. The rarity of such cases and the need to balance the risks to both the mother and the fetus make decision-making complex. A multidisciplinary approach involving specialists from various fields is crucial to ensure the best
+The patient's treatment continued for several more months, with regular imaging showing further reduction in the size of the tumor. She experienced occasional episodes of abdominal pain, but they were less frequent and less severe than before. The patient remained hopeful and determined to fight the cancer for

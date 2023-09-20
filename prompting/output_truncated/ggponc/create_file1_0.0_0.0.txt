@@ -1,28 +1,30 @@
-Klinischer Fall:
+Klinischer Fall: Postoperative Strahlentherapie bei einem Weichgewebesarkom
 
 Patient: Herr Müller, 55 Jahre alt, männlich
 
 Anamnese:
-Herr Müller stellt sich in der onkologischen Ambulanz vor. Er berichtet über seit einigen Monaten bestehende Schmerzen und eine zunehmende Schwellung im linken Oberschenkel. Die Schmerzen sind in den letzten Wochen stärker geworden und beeinträchtigen seine Beweglichkeit. Er hat in den letzten Monaten auch Gewicht verloren und fühlt sich allgemein schwach und müde. Herr Müller ist Raucher und hat in der Vergangenheit regelmäßig Alkohol konsumiert. Er hat keine bekannten Vorerkrankungen.
+Herr Müller stellt sich mit Beschwerden in der linken Oberschenkelregion vor. Er berichtet über seit einigen Monaten bestehende Schmerzen und eine zunehmende Schwellung im Bereich des linken Oberschenkels. Er hat keine Vorerkrankungen und ist Nichtraucher.
 
-Klinische Untersuchung:
-Bei der körperlichen Untersuchung fällt eine deutliche Schwellung im linken Oberschenkel auf. Der Bereich ist druckempfindlich und es besteht eine eingeschränkte Beweglichkeit. Es sind keine Hautveränderungen oder Lymphknotenschwellungen erkennbar. Die übrige körperliche Untersuchung ist unauffällig.
+Klinischer Befund:
+Bei der körperlichen Untersuchung findet sich eine schmerzhafte, prallelastische Schwellung im linken Oberschenkel. Die Haut über der Schwellung ist intakt und nicht gerötet. Es besteht eine leichte Bewegungseinschränkung im Hüftgelenk.
 
 Diagnostik:
-Es werden folgende Untersuchungen durchgeführt:
-- Bildgebende Verfahren: Eine MRT-Untersuchung des linken Oberschenkels zeigt einen großen, inhomogenen Tumor im Weichgewebe des Oberschenkels. Es besteht eine Infiltration des umliegenden Gewebes, jedoch keine Fernmetastasen.
-- Biopsie: Eine Gewebeprobe wird entnommen und histopathologisch untersucht. Das Ergebnis zeigt ein hochgradig malignes Weichgewebesarkom.
+Eine MRT-Untersuchung des linken Oberschenkels zeigt eine große, inhomogene Raumforderung im Bereich des M. quadriceps femoris. Es besteht der Verdacht auf ein Weichgewebesarkom.
 
-Diagnose:
-Herr Müller wird mit der Diagnose eines hochgradig malignen Weichgewebesarkoms im linken Oberschenkel konfrontiert.
+Histopathologie:
+Eine Biopsie der Raumforderung wird durchgeführt und histopathologisch untersucht. Das Ergebnis bestätigt die Diagnose eines hochgradig differenzierten Weichgewebesarkoms (G3).
+
+Staging:
+Eine CT-Untersuchung des Thorax, eine abdominale Sonographie und eine Knochenszintigraphie werden durchgeführt, um das Ausmaß der Erkrankung zu bestimmen. Es werden keine Hinweise auf Fernmetastasen gefunden.
 
 Therapieentscheidung:
-Aufgrund der Tumorgröße und des hohen Malignitätsgrades wird eine chirurgische Resektion des Tumors empfohlen. Da es sich um ein Weichgewebesarkom handelt, wird zusätzlich eine postoperative Strahlentherapie in Erwägung gezogen, um die lokale Rückfallrate zu senken.
+Aufgrund der Diagnose eines hochgradig differenzierten Weichgewebesarkoms (G3) wird eine operative Resektion der Raumforderung empfohlen. Die Resektion erfolgt mit einem Sicherheitsabstand von 2 cm zu den Tumorrandbereichen.
 
-Behandlung:
-Herr Müller wird einer ausgedehnten chirurgischen Resektion des Tumors unterzogen. Die Operation verläuft komplikationslos, jedoch kann der Tumor nicht vollständig entfernt werden (R1-Resektion). Aufgrund des hohen Rückfallrisikos wird eine adjuvante Strahlentherapie empfohlen.
-
-Die Strahlentherapie wird 3 Wochen nach der Operation begonnen und umfasst eine perkutane Bestrahlung mit einer Gesamtdosis von 45 Gy in Einzeldosen von 1,8 Gy. Zusätzlich wird ein Boost von 18 Gy in Einzeldosen von 1,8 Gy auf den Tumor appliziert. Die Strahlentherapie wird über einen Zeitraum von 6 Wochen durchgeführt.
+Postoperative Strahlentherapie:
+Aufgrund der hohen Rückfallrate bei Weichgewebesarkomen wird eine adjuvante Strahlentherapie empfohlen. Basierend auf den medizinischen Leitlinien wird eine perkutane Strahlentherapie mit einer Gesamtdosis von 45 Gy in Einzeldosen von 1,8 Gy sowie einem Boost von 18 Gy in Einzeldosen von 1,8 Gy empfohlen. Die Strahlentherapie soll auf die Extremität des linken Oberschenkels begrenzt sein.
 
 Verlauf:
-Herr Müller verträgt die Strahlentherapie gut und zeigt keine schwerwiegenden Nebenwirkungen. Die Schmerzen im Oberschenkel nehmen nach der Behandlung ab und die Beweglichkeit verbessert sich.
+Herr Müller wird nach der Operation zur adjuvanten Strahlentherapie überwiesen. Die Strahlentherapie wird ohne Komplikationen durchgeführt. Herr Müller wird regelmäßig nachuntersucht, um mögliche Rückfälle zu erkennen. Nach einem Jahr zeigt die klinische Untersuchung keine Hinweise auf einen lokalen Rückfall.
+
+Fazit:
+Die adjuvante Strahlentherapie nach operativer Resektion von Weichgewebesarkomen kann die lokale Rückfallrate signifikant senken. In diesem Fall wurde Herr Müller erfolgreich mit einer

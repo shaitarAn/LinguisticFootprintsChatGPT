@@ -1,19 +1,13 @@
-This clinical case involves a 35-year-old man with a diagnosis of schizophrenia who attempted suicide by fire. He sustained burns to approximately 38% of his total body surface area (TBSA), including his face, neck, upper extremities, thigh, leg, trunk. The patient was transferred from a local psychiatric hospital and required multiple debridement surgeries during his 66-day hospitalization.
+This clinical case describes a patient who was diagnosed with schizophrenia (ICD 10 F20.3) and was being treated with Haloperidol and Diazepam. The patient exhibited rebellious and self-destructive behavior, which occasionally required restraint. After a week of hospitalization, it was determined that the patient's nutritional status was underweight, with a body mass index (BMI) of 17.57 kg/m2.
 
-The patient's psychiatric condition was managed with Haloperidol and Diazepam medications. Due to behavioral issues, the patient required occasional physical restraints. However, the focus of this case is on the patient's nutrition status and management.
+The patient did not show any gastrointestinal symptoms or signs but had lost weight over the past few months as reported by the mother. The patient's dietary intake in the last two weeks could not be obtained, but it was stated that he only consumed cigarettes and coffee.
 
-Nutrition assessment revealed that the patient had a low body mass index (BMI) of 17.57 kg/m², indicating that he was underweight. The patient had been refusing food offered to him and only consumed cigarettes and coffee according to his mother's report.
+The initial nutrition assessment using the subjective global assessment (SGA) tool classified the patient as severely malnourished (group C). The treatment plan included providing energy and protein starting from 30 kcal/kg gradually increasing to 50 kcal/kg, divided into oral nutrition and oral nutrition supplements (ONS) in a ratio of 50:50. Additionally, micronutrient supplementation consisting of vitamin A, vitamin C, and zinc was given.
 
-The initial subjective global assessment (SGA) categorized the patient as severely malnourished (Group C). To address this malnutrition, energy and protein intake were gradually increased from 30 kcal/kg to 50 kcal/kg per day along with 2 g protein/kg divided between oral nutrition and oral nutrition supplements (ONS).
+Despite providing nutritional support, including supplements for protein needs through partially parenteral nutrition enriched with branched-chain amino acid (BCAA), the patient continued to lose weight throughout hospitalization. By day 42nd of hospitalization, his body weight dropped to 32 kilograms while his serum albumin level declined to 2 gr/L.
 
-Micronutrient supplementation was also provided in the form of vitamin A (100,000 units for the first week), vitamin C (100 mg three times daily), and zinc (20 mg daily).
+On day 66th granulation tissues were seen on wound bed showing improvement however considering his mental status at this point further surgical intervention such as skin graft surgery was decided against due to significant muscle wasting , subcutaneous fat loss , malnutrition indicated by serum albumin level at that moment still persistently low(<3g/L)
 
-However, despite these interventions, the patient continued to lose weight during early weeks of hospitalization. By day 28 he weighed 33 kg with a serum albumin level of 2.1 g/L; by day 42 he weighed only 32 kg with a serum albumin level of 2 g/L.
+Ultimately, despite losing approximately 24% of his body weight during hospitalization with severe muscle wasting and subcutaneous fat loss, the patient's general and mental condition improved to some extent. As a result, the patient was discharged from the hospital.
 
-Due to ongoing weight loss and inadequate response to pain medications and sedation for procedural interventions like enteral access placement for feeding tube administration or skin graft surgery for wound closure; the patient's BMI dropped to 11.96 kg/m² on the 66th day.
-
-Although granulation tissues started to appear at the wound site, it was decided not to proceed with skin graft surgery due to the patient's mental and nutrition status.
-
-Ultimately, despite severe muscle wasting and loss of subcutaneous fat, the patient's general and mental condition improved relative to his initial presentation. Therefore, he was discharged from the hospital after a challenging 66-day hospitalization period.
-
-It is important to note that this case highlights the complex management issues associated with patients who have significant burn injuries combined with mental health conditions that can impact their ability to comply with necessary treatments and affect their nutritional outcomes.
+It is important to note that this case highlights the challenges in managing nutrition in patients with psychiatric conditions such as schizophrenia. The patient's poor appetite, refusal of food, and difficulty with enteral access made it difficult to provide adequate nutrition and prevent further weight loss. Additionally, the patient's aggressive behavior limited their response to pain relief measures and impacted their overall clinical management.

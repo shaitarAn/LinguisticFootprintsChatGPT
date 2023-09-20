@@ -59,25 +59,24 @@ if common_columns:
         new_frames.append(df)
         # dataframes[i] = df
 
-    print("--------------------------------------------------")
+    # print("--------------------------------------------------")
 
 
     # calculate mean for each row and column in the dataframes
    
-average_human_full = pd.concat((new_frames)).groupby("feature", as_index=True, sort=False)['human-full'].mean()
-average_human_cont = pd.concat((new_frames)).groupby("feature", as_index=True, sort=False)['human-cont'].mean()
+average_human = pd.concat((new_frames)).groupby("feature", as_index=True, sort=False)['human'].mean()
 average_continue = pd.concat((new_frames)).groupby("feature", as_index=True, sort=False)['continue'].mean()
 average_explain = pd.concat((new_frames)).groupby("feature", as_index=True, sort=False)['explain'].mean()
 average_create = pd.concat((new_frames)).groupby("feature", as_index=True, sort=False)['create'].mean()
 
-df = pd.concat([average_human_cont, average_human_full, average_create, average_continue, average_explain], axis=1)
+df = pd.concat([average_human, average_create, average_continue, average_explain], axis=1)
 
 # print(df.loc['connectives'])
 # write the dataframe to a csv file
 df.to_csv(f"../results_truncated/combined_{corpus}_{params}.csv")
 
 # print the first column of the dataframe as a list
-print(df.index.tolist())
+# print(df.index.tolist())
 
 
 

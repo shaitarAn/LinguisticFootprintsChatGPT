@@ -1,15 +1,41 @@
-Klinischer Fall: Präoperative biliäre Drainage bei einem Patienten mit biliärem Karzinom
+Klinischer Fall: Biliäres Karzinom
 
-Ein 65-jähriger männlicher Patient präsentiert sich mit Gelbsucht, abdominalen Schmerzen und Gewichtsverlust. Nach einer ausführlichen Anamnese und körperlichen Untersuchung sowie der Durchführung von geeigneten diagnostischen Tests wird bei ihm ein biliäres Karzinom diagnostiziert.
+Patient:
+Name: Herr Müller
+Alter: 62 Jahre
+Geschlecht: männlich
 
-Der Patient wird in ein hepatobiliäres Zentrum überwiesen, um die beste Behandlungsoption festzulegen. Nach einer interdisziplinären Besprechung entscheidet das Behandlungsteam, dass eine kurativ intendierte Resektion des Tumors möglich ist. Da der Tumor hilär lokalisiert ist, wird auch eine präoperative biliäre Drainage (PBD) in Betracht gezogen.
+Anamnese:
+Herr Müller präsentiert sich mit rezidivierenden, schmerzhaften Oberbauchbeschwerden und gelblicher Hautverfärbung. Er berichtet von allmählich zunehmender Müdigkeit und Gewichtsverlust in den letzten 3 Monaten.
 
-Um die Indikation zur PBD genauer zu bestimmen, wird das Bilirubin des Patienten gemessen, das sich auf 5 mg/dl beläuft. Es wird festgestellt, dass eine präoperative Gallengangsdekompression notwendig ist, um das Risiko eines negativen postoperativen Outcomes aufgrund der Hyperbilirubinämie zu verringern. Die Wahl des Verfahrens hinsichtlich des Zugangswegs wird durch die Expertise des Behandlungszentrums und die individuellen Gegebenheiten des Patienten bestimmt.
+Körperliche Untersuchung:
+Haut: Ikterus
+Abdomen: Oberbauchdruckschmerz, kein tastbarer Leberhochstand
+Sonstige Befunde: Keine pathologischen Auffälligkeiten
 
-Unter Berücksichtigung der verfügbaren Evidenz entscheidet das Behandlungsteam, dass eine perkutane-transhepatische Drainage (PTCD) die geeignetste Methode für die präoperative biliäre Drainage ist. Es wird festgestellt, dass die PTCD eine vergleichbare Morbidität wie die endoskopisch gelegte Drainage (ERCP) aufweist, jedoch eine höhere Mortalitätsrate im Zusammenhang mit Komplikationen nach der Intervention aufweisen kann.
+Diagnostik:
+Laborbefunde:
+- Bilirubin: 3,5 mg/dl (0,1 - 1,2 mg/dl)
+- Alkalische Phosphatase: 350 U/l (44 - 147 U/l)
+- GGTP: 280 U/l (11 - 50 U/l)
 
-Die PTCD wird unter radiologischer Führung durchgeführt, um einen sicheren und effektiven Zugang zum Gallengangssystem zu gewährleisten. Trotz des erhöhten Cholangitis-Risikos nach der PTCD wird das Verfahren als die beste Option für den Patienten angesehen, um eine erfolgreiche Resektion und eine gute postoperative Prognose zu ermöglichen.
+Bildgebende Verfahren:
+- Abdomensonografie: Dilatierte Gallenwege, inhomogene Struktur der Leber
+- CT-Abdomen: Dilatierte intra- und extrahepatische Gallenwege, Raumforderung in der Leber, Verdacht auf ein biliäres Karzinom
 
-Der Patient wird erfolgreich präoperativ drainiert und nach einigen Wochen des Austauschs von Stents und einer angemessenen antibiotischen Therapie stellt sich der Bilirubinspiegel normalisiert dar. Basierend auf den erzielten Ergebnissen entscheidet das Behandlungsteam, dass der Patient für eine kurativ intendierte Resektion bereit ist.
+Diagnose:
+Primaerziel: Karzinom des Gallengangs
+Lokalisation: Hilär (extrahepatisch)
 
-In einer ausführlichen präoperativen Evaluierung werden keine Anzeichen einer fernmetastasierten Erkrankung festgestellt. Die Resektion des biliären Karzinoms wird durchgeführt, und der Patient erholt sich gut von
+Therapieoptionen:
+Aufgrund der Lokalisation des Gallenwegverschlusses (hilär, extrahepatisch) und des Behandlungsziels steht eine kurativ intendierte Resektion im Vordergrund. Bei etwa 25% bis 35% der Patienten mit hilärem Cholangiokarzinom ist eine präoperative biliäre Drainage (PBD) indiziert.
+
+Entscheidung:
+Aufgrund der Beschwerden des Patienten sowie der stark erhöhten Leberenzyme und Bilirubin-Werte wird eine präoperative biliäre Drainage (PBD) vor der geplanten Resektion in Betracht gezogen.
+
+Behandlungsverlauf:
+Es wird beschlossen, eine perkutan-transhepatische biliäre Drainage (PTBD) bei Herrn Müller durchzuführen, um die Gallenwegsobstruktion zu entlasten und eine Verbesserung der Cholestase zu erreichen. Dazu wird eine PTBD-Nadel unter sonografischer und radiologischer Kontrolle in die betroffene Gallenwege eingebracht und der Gallenfluss wiederhergestellt.
+
+Nach einigen Tagen zeigt Herr Müller eine deutliche Besserung der Symptome, die Gelbfärbung der Haut verschwindet und die Leberenzyme normalisieren sich.
+
+Die weitere Therapie wird in Absprache mit einem interdisziplinären Tumorboard festgelegt, wobei eine kurativ intendierte Resektion angestrebt wird, um das biliäre Karzinom zu entfernen und eine dauerhafte Heilung zu erzielen.

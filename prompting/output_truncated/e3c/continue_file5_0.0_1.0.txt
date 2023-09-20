@@ -1,13 +1,15 @@
 On admission, the patient's vital signs were stable, with a temperature of 38.5°C (101.3°F), heart rate of 90 beats per minute, blood pressure of 120/80 mmHg, and oxygen saturation of 98% on room air. Physical examination revealed bilateral conjunctival injection without exudates or discharge. The patient had an erythematous maculopapular rash over his face, trunk, and extremities.
 
-Laboratory investigations showed a leukocyte count of 12,000 cells/mm³ with a normal differential count. C-reactive protein (CRP) levels were elevated at 30 mg/L (normal range <5 mg/L). Liver function tests and renal function tests were within normal limits.
+Laboratory investigations showed a leukocyte count of 12,000 cells/mm³ with a normal differential count. The C-reactive protein (CRP) level was elevated at 30 mg/L (normal range <5 mg/L). Liver function tests and renal function tests were within normal limits.
 
-Given the patient's symptoms and clinical presentation, further investigations were initiated to determine the cause of his illness. Nasopharyngeal swabs were collected for respiratory viral panel testing including influenza A/B and respiratory syncytial virus (RSV). Blood cultures were also obtained to rule out bacterial infection.
+Given the patient's symptoms and clinical presentation, further investigations were initiated to determine the cause of his illness. Nasopharyngeal swabs were collected for respiratory viral panel testing including influenza A/B and respiratory syncytial virus (RSV). Blood cultures were obtained to rule out bacterial infection.
 
-In addition to these tests, serological screening for common infectious diseases such as Epstein-Barr virus (EBV), cytomegalovirus (CMV), human immunodeficiency virus (HIV), hepatitis B virus (HBV), hepatitis C virus (HCV), and syphilis was performed.
+The patient was started on supportive therapy including intravenous fluids for hydration and antipyretics for fever control. He was placed in isolation as a precautionary measure until the results from the infectious disease workup became available.
 
-The patient was started on supportive therapy including antipyretics for fever control and intravenous fluids for hydration. He was placed in isolation precautions until further investigation results could guide appropriate management.
+Infectious disease specialists were consulted to evaluate the possibility of viral or bacterial etiology based on the clinical presentation. They considered several differential diagnoses including viral infections such as dengue fever or chikungunya due to the presence of fever, rash, headache, and arthralgias commonly associated with these diseases in endemic regions.
 
-The medical team at CHBAH is closely monitoring the patient's condition while awaiting test results to establish a definitive diagnosis. The differential diagnosis includes viral infections such as dengue fever or chikungunya due to the presence of rash and arthralgia-like symptoms; however, other possibilities like meningitis or sepsis cannot be ruled out at this stage.
+Additionally, given that diarrhea preceded other symptoms in this case, gastrointestinal pathogens such as Salmonella or Campylobacter species were also considered as potential causes.
 
-The patient's family has been informed about the ongoing investigations and is being provided with regular updates on his progress. The medical team remains committed to providing the best possible care and ensuring a prompt diagnosis for the patient's condition.
+The patient's family history did not reveal any significant medical conditions or recent travel history outside Johannesburg. However, it is important to note that the patient's social history and potential exposure to vectors or contaminated food/water sources should be further explored.
+
+The patient's condition remained stable during the initial days of hospitalization, with fever and rash gradually subsiding. However, a definitive diagnosis was still pending as laboratory results were awaited. The medical team continued to closely monitor the patient's progress and manage his symptoms while awaiting further investigations.

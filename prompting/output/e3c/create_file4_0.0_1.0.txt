@@ -1,19 +1,15 @@
-Case 3: baby XY, a female infant from the Mbuti tribe, was delivered at term in a rural clinic by spontaneous vaginal delivery to a 28-year-old primigravida mother. The baby cried immediately after birth and weighed 2.5kg. At birth, it was noticed that there was an absence of skin and skull bone on the left side of the head. The pregnancy had been uneventful, with regular antenatal care provided by a local midwife. The mother denied any use of medications during pregnancy and there were no known genetic disorders in the family.
+Case 2: Mr. JM, a 45-year-old male from the rural village of Kibwezi, presented to the clinic with complaints of progressive weakness and difficulty walking. He reported that his symptoms started approximately six months ago and have been gradually worsening since then. Mr. JM is married with three children and works as a farmer.
 
-On physical examination, there was a large defect on the left side of the scalp overlying the parietal bone extending to the occipital region measuring approximately 7 x 6 cm in size. The defect was covered with a yellowish membrane. Additionally, the baby had low set ears and an irregularly shaped head. There were no other abnormalities noted on systemic examination.
+Upon further inquiry, it was revealed that Mr. JM had no significant medical history or previous hospitalizations. He denied any history of trauma or exposure to toxic substances. His family history was unremarkable for any neurological disorders.
 
-A diagnosis of aplasia cutis congenita with possible underlying cranial malformation was made based on clinical findings. The baby received routine care including oxygen supplementation, intravenous fluids, and prophylactic antibiotics to prevent infection.
+On physical examination, Mr. JM appeared thin and weak but was fully conscious and oriented to time, place, and person. Neurological examination revealed muscle wasting in both upper and lower limbs, particularly in the proximal muscles such as the shoulders and hips. Muscle strength was significantly reduced in all four limbs (grade 3/5), with associated hypotonia.
 
-Further investigations were conducted to assess for any associated anomalies or underlying cranial abnormalities. A brain ultrasound scan showed absence of skull bone overlying the left parietal region without any evidence of intracranial abnormalities or hemorrhage.
+Further investigations were conducted to determine the underlying cause of his symptoms. Laboratory tests including complete blood count (CBC), liver function tests (LFTs), renal function tests (RFTs), electrolytes, thyroid function tests (TFTs), vitamin B12 levels, folate levels, erythrocyte sedimentation rate (ESR), C-reactive protein (CRP) levels were all within normal limits.
 
-The multidisciplinary team consisting of neurosurgeons and plastic surgeons discussed management options for this patient's condition. Due to financial constraints, advanced imaging such as MRI could not be performed at this time.
+An electromyography (EMG) test was performed which showed evidence of myopathic changes characterized by low amplitude motor unit potentials with early recruitment pattern suggestive of a primary muscle disorder rather than a peripheral neuropathy.
 
-The patient's wound was managed with daily dressing changes using sterile saline-soaked gauze pads until further interventions could be planned.
+Based on these findings, a muscle biopsy was recommended to confirm the diagnosis suspected to be muscular dystrophy or another myopathy disorder.
 
-Given that this is an isolated case without significant complications or associated anomalies identified thus far, conservative management strategies were considered appropriate for now while awaiting further evaluation and consultation with specialists.
+During counseling sessions with Mr.JM's family members about potential genetic causes for his condition; it came to light that there is consanguinity between his parents who are first cousins from neighboring villages.
 
-The baby was discharged home after 10 days of hospitalization with instructions for regular follow-up at the local clinic. The parents were educated on wound care and signs of infection to watch out for. They were also provided with information about potential future interventions, such as autologous skin grafting, if deemed necessary.
-
-Follow-up appointments were scheduled with the plastic surgery and neurosurgery teams to monitor the progress of the wound healing and assess for any underlying cranial abnormalities that may require intervention in the future.
-
-In conclusion, this case presents a newborn female infant with aplasia cutis congenita involving a defect in the left parietal region of the scalp. Further evaluation is needed to determine if there are any associated cranial malformations or complications that may require surgical intervention. The patient will continue to be closely monitored by a multidisciplinary team to ensure optimal management and outcomes.
+In conclusion, Mr.JM, a 45-year-old male farmer from Kibwezi, presented with progressive weakness and muscle wasting. Initial investigations have ruled out common causes of muscle weakness, and further evaluation with a muscle biopsy is planned to confirm the suspected diagnosis of a primary muscle disorder. The consanguinity between his parents raises the possibility of an underlying genetic cause for his condition. Further genetic testing may be considered in the future to provide more insight into the exact etiology of his symptoms.

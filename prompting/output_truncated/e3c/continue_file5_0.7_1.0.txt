@@ -1,13 +1,13 @@
-On admission, the patient was febrile with a temperature of 38.5°C (101.3°F), and his blood pressure was within normal limits. Physical examination revealed bilateral conjunctival injection, erythematous tonsils with exudates, and cervical lymphadenopathy. The patient appeared fatigued but was alert and oriented.
+On examination, the patient's vital signs were stable with a temperature of 38.5°C (101.3°F), blood pressure of 120/70 mmHg, heart rate of 90 beats per minute, and respiratory rate of 18 breaths per minute. The patient appeared fatigued but was alert and oriented. There were no signs of respiratory distress or meningismus.
 
-Laboratory investigations were conducted, including a complete blood count (CBC) which showed leukocytosis with neutrophilia and thrombocytopenia. Liver function tests indicated mildly elevated liver enzymes, while renal function tests were within normal range. Serological testing for common viral infections such as Epstein-Barr virus (EBV), cytomegalovirus (CMV), and human immunodeficiency virus (HIV) came back negative.
+The physical examination revealed a diffuse maculopapular rash over the trunk, extremities, and face, including the eyelids. The rash was non-blanching and not pruritic. The throat examination showed mild erythema without exudates or tonsillar enlargement. Neck stiffness was noted upon flexion but there were no focal neurological deficits.
 
-Given the clinical presentation and laboratory findings, further investigations were carried out to identify the cause of the patient's symptoms. A lumbar puncture was performed to analyze cerebrospinal fluid (CSF). CSF analysis revealed lymphocytic pleocytosis with an elevated protein level but normal glucose level.
+Laboratory investigations showed leukopenia with a white blood cell count of 3.2 x 10^9/L (normal range: 4-11 x 10^9/L) with lymphopenia (0.8 x10^9/L; normal range:1-4 x10^9/L). Platelet count was within normal limits at 200 x10^9/L (normal range:150-450 x10^9/L). Liver function tests demonstrated mild elevation in liver enzymes with alanine transaminase (ALT) of 68 U/L (normal range: <40 U/L) and aspartate transaminase (AST) of 56 U/L (normal range:<40 U/L).
 
-To rule out infectious etiologies, CSF samples were sent for bacterial culture as well as polymerase chain reaction (PCR) testing for common pathogens like Neisseria meningitidis, Streptococcus pneumoniae, Haemophilus influenzae type b (Hib), enteroviruses, herpes simplex virus-1/2 (HSV-1/2), varicella-zoster virus (VZV), and West Nile virus among others.
+Given the clinical presentation and laboratory findings, further investigations were initiated to determine the cause of these symptoms.
 
-Additionally, serological testing for tick-borne illnesses such as Lyme disease was also requested due to the presence of rash along with other symptoms in the clinical presentation.
+A nasopharyngeal swab for SARS-CoV-2 reverse transcription-polymerase chain reaction test was performed to rule out COVID-19 infection due to the ongoing pandemic. Additionally, serological tests for viral infections including Epstein-Barr virus (EBV), cytomegalovirus (CMV), and human immunodeficiency virus (HIV) were requested.
 
-The patient was placed on supportive care measures including intravenous fluids to maintain hydration and fever control medications. Empiric antibiotic therapy consisting of ceftriaxone and vancomycin was initiated pending the results of the CSF studies.
+The patient was started on supportive care, including intravenous fluids and antipyretics to manage his symptoms. Isolation precautions were implemented in accordance with hospital protocols until infectious etiologies could be ruled out.
 
-Further investigations and consultations with specialists were scheduled to determine the underlying cause of this patient's symptoms and provide appropriate management.
+Further clinical evaluation and investigations are required to establish the definitive diagnosis and guide appropriate management for this patient.

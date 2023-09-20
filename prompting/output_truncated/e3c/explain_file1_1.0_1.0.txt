@@ -1,21 +1,35 @@
-This patient is a 21-year-old female with a diagnosis of Sturge-Weber Syndrome (SWS). She initially presented with frequent non-pulsating headaches that had been occurring for the past two years. These headaches responded to non-steroidal anti-inflammatory drugs and were not worsened by physical activity. There were no accompanying symptoms such as nausea or aura.
+Based on the clinical case you provided, it seems like the patient has a complex medical condition involving several different symptoms and findings. Let's break down the information:
 
-The patient has a history of seizures, which began on the fifteenth day of life and led to her diagnosis of SWS. At the age of 6, she underwent callosotomy surgery to control her seizures. However, at age 18, she experienced a seizure during laser treatment for her port wine birthmark. Since then, she has been taking carbamazepine and has remained seizure-free.
+Medical History:
+- At age 6, she underwent callosotomy, a surgical procedure to control her seizures.
+- At age 18, during laser treatment for her port wine birthmark (a type of vascular birthmark), she experienced her first seizure since the callosotomy.
+- She was subsequently prescribed carbamazepine, an antiseizure medication, at a daily dose of 400 mg and has remained seizure-free since then.
 
-In terms of cognitive development, the patient's parents reported that she had normal development during infancy but struggled in school and is currently barely literate. Her family history is unremarkable except for her elder sister having a port wine stain on her face.
+Developmental Background:
+- Despite normal development in infancy, she struggled academically and is barely literate.
 
-On examination, characteristics associated with SWS were observed: facial nevus (a birthmark) on the right forehead, right eyelid nasal wing, and cheek. Intraoral examination revealed overgrowth of gingiva (gums) on the right side, which appeared reddish in color and blanched upon applying pressure due to angiomatous enlargement.
+Family History:
+- Her elder sister also has a port wine stain but does not exhibit any other symptoms typically associated with Sturge Weber Syndrome (SWS), which is often associated with this type of birthmark. No research or investigation has been done regarding her sister's birthmark.
 
-The patient also exhibited mild asymmetry in her extremities; specifically, her left arm and leg appeared slightly smaller than those on the right side. Hemiparesis (weakness) was present in both upper and lower extremities but only affected this smaller side.
+Current Medications:
+- Ketiapin (quetiapine) 25 mg daily for anxiety disorder
+- Venlafaxine 75 mg daily for both anxiety disorder and chronic headaches
+- NSAID (nonsteroidal anti-inflammatory drugs) - specific drug not mentioned
 
-Her ophthalmological evaluation indicated glaucoma in her right eye.
-A psychiatric examination revealed signs consistent with an anxiety disorder.
-Neurological examination showed no significant findings apart from hemiparesis.
+Physical Examination Findings:
+1. Facial nevus: A discoloration or mole-like growth caused by choroid angioma that affects the right forehead, right eyelid, nasal wing, and cheek.
+2. Gingival overgrowth: Enlargement of gum tissue on the right side with angiomatous features.
+3. Extremity asymmetry: Slight size difference between left arm/leg compared to their counterparts on the right side; hemiparesis present in both upper and lower extremities of equal size.
+4. Ophthalmological evaluation: Diagnosed with glaucoma in the right eye.
 
-Radiological investigations found diffuse atrophy in the right hemisphere on cranial CT scans and irregular double-contoured gyriform cortical calcifications in the right occipital area. Brain MRI with gadolinium enhancement revealed multiple dilated pial venous vascular structures on the right hemisphere along with diffuse atrophy. Other findings included thickening of the right calvaria (skull bone) compared to the left and asymmetrically smaller right hemisphere.
+Radiological Findings:
+- Cranial CT scans: Diffuse atrophy (shrinking) in the right hemisphere and irregular double-contoured cortical calcifications in the right occipital area.
+- Gadolinium-enhanced brain MRI: Revealed multiple dilated pial venous vascular structures on the right hemisphere, along with diffuse atrophy. Axial T1 and T2 weighted images showed asymmetry in calvarial thickness between left and right sides, extensive venous formations around the corpus of the right lateral ventricle, and various vascular formations at different locations.
 
-Further examination with T2 weighted MRI showed extensive venous formations around the corpus of the right lateral ventricle, as well as at Gallen vein localization, Willis polygon localization (anterior to third ventricle), and temporooccipital area.
+Psychiatric Evaluation:
+- Signs of anxiety disorder identified.
 
-Lastly, a proteus intelligence test was performed, which yielded a score of 75 points indicating mild mental retardation.
+Intelligence Testing:
+- She scored 75 points on a Proteus intelligence test, suggesting mild mental retardation.
 
-In summary, this young woman presented with a range of symptoms consistent with Sturge-Weber Syndrome, including frequent headaches, seizures since infancy (despite prior surgery), hemiparesis affecting her left side due to asymmetry in brain development, glaucoma in her right eye, facial nevus (birthmark), excessive growth and reddening of gingiva on one side of her mouth. These observations were confirmed through radiological investigations showing vascular abnormalities in multiple regions of
+Based on these findings, it appears that this patient may have Sturge Weber Syndrome (SWS), a rare neurological disorder characterized by abnormal blood vessel formation along with other associated symptoms. SWS can affect various aspects of an individual's health including seizures (which led to her callosotomy), cognitive development (intellectual disability), glaucoma, skin abnormalities (facial nevus), gingival overgrowth, hemiparesis (weakness on one side of the body), and radiological findings

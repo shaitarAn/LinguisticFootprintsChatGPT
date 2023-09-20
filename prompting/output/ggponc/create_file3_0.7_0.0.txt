@@ -1,15 +1,19 @@
-Klinischer Fall: 
+Klinischer Fall: Präoperative biliäre Drainage bei einem Patienten mit hilärem Cholangiokarzinom
 
-Ein 65-jähriger männlicher Patient wird mit einem vermuteten hilären Cholangiokarzinom in ein hepatobiliäres Zentrum überwiesen. Der Patient präsentiert sich mit Symptomen wie Ikterus, Gewichtsverlust und unklaren Oberbauchschmerzen. Nach einer umfassenden Untersuchung und Bildgebung wird die Diagnose eines Cholangiokarzinoms bestätigt. Die Tumormarker sind erhöht und es besteht eine Hyperbilirubinämie.
+Ein 62-jähriger männlicher Patient stellt sich in der Onkologie-Klinik mit lang anhaltenden Oberbauchschmerzen, Gewichtsverlust und fortgeschrittener Gelbsucht vor. Nach einer gründlichen Anamnese und körperlichen Untersuchung wird bei dem Patienten ein hiläres Cholangiokarzinom diagnostiziert.
 
-Aufgrund des lokal fortgeschrittenen Tumors wird eine kurativ intendierte Resektion angestrebt. Die Entscheidung über eine präoperative biliäre Drainage (PBD) muss nun getroffen werden.
+Aufgrund der fortgeschrittenen Erkrankung wird eine kurativ intendierte Resektion als Behandlungsziel angestrebt. Das interdisziplinäre Tumorboard entscheidet, dass eine präoperative biliäre Drainage (PBD) vor der geplanten Operation durchgeführt werden soll, um die Symptome zu lindern und die Chancen auf eine erfolgreiche Resektion zu verbessern.
 
-Nach einer interdisziplinären Planung der Behandlung wird beschlossen, eine PBD durchzuführen, um den Ikterus zu lindern und das postoperative Outcome zu verbessern. Der Zugangsweg wird als perkutan-transhepatisch gewählt, da die endoskopische Variante aufgrund der Lage des Tumors nicht möglich ist.
+Der Zugangsweg für die biliäre Drainage wird perkutan-transhepatisch gewählt, da aufgrund der Lokalisation des Gallenwegverschlusses eine transpapilläre oder transgastrische/transduodenale Drainage nicht möglich ist.
 
-Die PBD wird erfolgreich durchgeführt, wobei der Patient nach der Intervention eine vorübergehende Besserung der Symptome erfährt. Es kommt jedoch zu einer Komplikation in Form einer Cholangitis, die erfolgreich mit Antibiotika behandelt wird.
+Unter Ultraschall- und Röntgenkontrolle führt der Interventional Radiologe die perkutan-transhepatische Drainage durch. Eine biliäre Stentimplantation wird erfolgreich durchgeführt, um den Gallenfluss zu gewährleisten und die Symptome des Patienten zu lindern.
 
-Nach einer ausreichenden Drainage und Stabilisierung des Patienten wird die kurative Resektion des Tumors durchgeführt. Der Eingriff verläuft komplikationslos, und der Patient erholt sich gut von der Operation.
+Der Patient wird engmaschig überwacht und erholt sich gut von dem Eingriff. Die Biliärdrainage bleibt bis zur geplanten Operation in situ, um eine ausreichende Entlastung der Gallenwege sicherzustellen.
 
-Die postoperative Nachsorge umfasst regelmäßige Kontrolluntersuchungen, um mögliche Tumorrezidive oder Komplikationen frühzeitig zu erkennen. Der Patient wird in ein onkologisches Nachsorgeprogramm aufgenommen, um eine adjuvante Therapie zu erhalten.
+Nach einer Woche wird der Patient für die geplante Operation vorbereitet. Die präoperative biliäre Drainage hat die Symptome des Patienten erfolgreich gelindert und die Leberfunktion verbessert. Die Operation verläuft komplikationslos, und das hiläre Cholangiokarzinom wird vollständig reseziert.
 
-Zusammenfassend zeigt dieser Fall die Bedeutung einer präoperativen biliären Drainage bei Patienten mit hilärem Cholangiokarzinom, um den Ikterus zu lindern und das postoperative Outcome zu verbessern. Eine interdisziplinäre Planung und Durchführung der Behandlung in einem spezialisierten Zentrum sind entscheidend, um die bestmögliche Versorgung für den Patienten sicherzustellen.
+Nach der Operation wird der Patient einer adjuvanten Chemotherapie unterzogen, um das Risiko eines lokalen Rezidivs zu verringern.
+
+Der Patient wird regelmäßig nachuntersucht, und die Langzeitprognose hängt von der Tumorhistologie, dem Tumorgrad und dem pathologischen Stadium ab. Dank der frühzeitigen Diagnose und der rechtzeitigen Behandlung hat der Patient gute Chancen auf eine langfristige Remission und eine verbesserte Lebensqualität.
+
+Anmerkung: Dieser Fall basiert auf den Leitlinien des deutschen Leitlinienprogramms für die Onkologie: Hepatozelluläres Karzinom und biliäre KarzinomePräoperative biliäre Drainagen. Es ist wichtig zu beachten, dass dieser Fall fiktiv ist und nicht auf einem tatsächlichen Patienten basiert.

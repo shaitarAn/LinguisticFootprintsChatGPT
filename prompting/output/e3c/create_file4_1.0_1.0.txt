@@ -1,29 +1,17 @@
-Case 3: Baby ZK, a female infant from the Ogoni tribe, was delivered at term in a hospital by spontaneous vaginal delivery to a 28-year-old primigravida mother. The baby cried immediately after birth and weighed 2.5kg. At the time of delivery, it was noted that a significant portion of the baby's scalp was missing along with part of the skull bone. The pregnancy was uncomplicated, and the mother denied using any medications during her pregnancy.
+Case 2: Mr. JK, a 60-year-old man of European descent, was admitted to the hospital with complaints of progressive weakness and difficulty walking for the past three months. He had a past medical history of diabetes mellitus and hypertension which were well-controlled with medications.
 
-Physical examination revealed an irregularly shaped defect on the vertex of the scalp overlying the parietal bone bilaterally, extending to the occipital region. The defect measured approximately 7 x 6 cm in size and was covered with a thin layer of yellow membrane. Additionally, Baby ZK had low set ears and appeared irritable.
+Mr. JK reported that his symptoms began insidiously and gradually worsened over time. He denied any significant trauma or recent illnesses. Physical examination revealed muscle atrophy in both lower limbs, bilateral foot drop, and weakness in hip flexors and knee extensors.
 
-Further examination showed a tense anterior fontanelle and signs of respiratory distress. However, other systems appeared normal upon initial assessment.
+Further history taking revealed that Mr. JK had been experiencing frequent falls due to his weakened legs. He also complained of numbness and tingling in his lower extremities bilaterally but denied any bowel or bladder dysfunction.
 
-Based on these findings, a tentative diagnosis of aplasia cutis congenita with possible associated complications such as meningitis or other congenital anomalies was made.
+Laboratory investigations including complete blood count, liver function tests, renal function tests, thyroid function tests, vitamin B12 levels, folate levels, glucose levels, serum electrolytes level (calcium included), sedimentation rate were all within normal limits.
 
-Baby ZK received routine care according to established protocols which included administration of oxygen for respiratory support, intravenous fluids for hydration, and antibiotics at meningitis doses to prevent any potential infection.
+As part of the diagnostic work-up for Mr.JK's condition an electromyography (EMG) was performed which demonstrated prolonged motor latencies consistent with a peripheral neuropathy affecting the bilateral lower limbs more predominantly than upper limbs.
 
-The patient's respiratory distress gradually subsided, allowing for initiation of oral feeds which were well tolerated throughout her hospital stay. A multidisciplinary team consisting of neurosurgeons and plastic surgeons became involved in formulating plans for future intervention which involved raising a flap cover to facilitate autologous skin grafting onto the defect site previously observed on Baby ZK's scalp.
+A nerve conduction study revealed reduced compound muscle action potential amplitudes along with delayed distal motor latencies indicating an axonal polyneuropathy mainly affecting myelinated fibers predominantly involving lower limbs (both proximal & distal) compared to upper limb nerves.
 
-To further investigate potential underlying abnormalities or associated anomalies present in this case, additional diagnostic tests were performed including a babygram (radiograph), an abdominopelvic scan (ultrasound), as well as brain magnetic resonance imaging (MRI).
+Based on these findings along with clinical presentation and history taken it is suspected that Mr.JK is suffering from chronic inflammatory demyelinating polyneuropathy(CIDP). To confirm this suspicion further investigations like cerebrospinal fluid analysis including protein electrophoresis will be considered as one step before initiating treatment based on certain specific criteria used for definite diagnosis confirmation.
 
-The babygram and abdominopelvic scan results were within normal limits, providing reassurance regarding the health of major organ systems. However, the brain MRI revealed an absence of parietal bone towards the vertex bilaterally extending from approximately 2 cm behind the anterior fontanelle down to the posterior fontanelle, resulting in a sizable defect measuring approximately 7.5 cm x 6 cm (anteroposterior x transverse). Notably, subcutaneous scalp tissues were not visualized in this region; however, there was dural overlay overlying the brain parenchyma in these areas. The remaining cranial vault bones including occipital, frontal, and temporal bones appeared intact without any abnormalities.
 
-No intra-axial or extra-axial masses or collections were observed during interpretation of images from Baby ZK's brain MRI. Additionally, no areas of abnormal enhancement were noted on contrast imaging sequences. The cortical sulci (grooves), sylvian fissures (brain fissures), basal cisterns (spaces at base of skull), and ventricles all appeared normal in size and shape within standard parameters.
 
-The orbits and retro-orbital structures demonstrated normal findings as well.
-
-In summary, based upon these imaging findings collectively taken together with prior clinical assessments made during Baby ZK's hospital stay thus far, a final diagnosis consistent with aplasia cutis congenita was confirmed.
-
-Following discharge after an 18-day admission period under close monitoring by healthcare providers who ensured proper wound care through daily dressings utilizing agents such as sofra-tulle along with saline-soaked gauze pads to maintain optimal healing conditions for Baby ZK's scalp defect site; plans for continued follow-up at appropriate specialty clinics are underway.
-
-In addition to appointments scheduled for routine wound assessments and dressing changes post-discharge from hospital care; it has been determined that prolongued medical management, including administration of oral antibiotics and ongoing wound care will be the necessary course of action for optimal post-operative recovery.
-
-The multidisciplinary team has also arranged for future interventions aimed at addressing the long-term cosmetic effects of this congenital condition. These intervention plans involve collaborating with plastic surgeons who will skillfully perform a flap cover procedure in conjunction with autologous skin grafting to facilitate restoration and healing at Baby ZK's scalp site exhibiting aplasia cutis congenita.
-
-Baby ZK's parents have been educated on potential post-operative complications and the importance of strict adherence to medication administration, as well as maintaining diligent wound care practices during this extended course of treatment.
+Note: It is important to remember that the above case is fictional and should not be used as a substitute for seeking appropriate medical advice from a healthcare professional.

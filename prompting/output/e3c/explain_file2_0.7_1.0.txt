@@ -1,13 +1,49 @@
-This clinical case describes a 36-year-old pregnant woman who presented with a 3-month history of epigastric abdominal pain. The pain was dull and persistent, gradually worsening over time, and occasionally radiating to the chest. She also experienced significant weight loss but denied other associated symptoms such as early satiety, jaundice, fever, itch, or spontaneous bleeding.
+This clinical case describes a patient who presented with various symptoms and signs, leading to a diagnosis of hepatocellular carcinoma (liver cancer) in pregnancy. Here is a breakdown of the key information:
 
-Upon examination, the patient showed signs of wasting, mild pallor, a tinge of jaundice but was well hydrated and had no palpable lymph nodes. Her abdomen appeared grossly distended with distorted contours in the upper half and visible distended veins on the anterior abdominal wall. The liver was enlarged with a hard nodular texture and irregular edges. There was mild tenderness on palpation and a bruit could be heard upon auscultation.
+Patient background:
+- The patient has no known chronic illnesses such as diabetes or hypertension.
+- She denies alcohol consumption and smoking.
+- There are no apparent symptoms related to the heart, lungs, kidneys, or reproductive system.
 
-Further evaluation revealed laboratory abnormalities including low hemoglobin levels (10.3g/dl), elevated white blood cell count (10,200 cells/dl) with increased neutrophils and decreased lymphocytes and monocytes percentages. Platelet count was normal at 350000/ul. Total protein and albumin levels were low (44g/L and 29g/L respectively) along with an elevated INR (1.3). The patient tested positive for hepatitis B surface antigen (HBsAg) but negative for hepatitis B e antigen (HBeAg). Hepatitis B virus DNA level was high at 126869 IU/ml indicating an active infection.
+Clinical examination findings:
+- Wasting (unexplained weight loss), mild pallor (pale appearance), and a tinge of jaundice (yellowing of the skin).
+- Well hydrated, not feverish, and no palpable lymph nodes.
+- Palmer erythema (redness of the palms), but no clubbing (enlarged fingertips) or parotid enlargement (swelling of salivary glands).
+- Normal respiratory, cardiovascular, and neurological examinations.
+- Grossly distended abdomen with distorted contour in the upper half. Visibly distended veins on the anterior abdominal wall draining away from the umbilicus.
+- Enlarged liver below costal margin with hard texture, nodules on its surface. Mild tenderness noted with a bruit heard on auscultation.
+- Spleen not palpable but mild ascites (accumulation of fluid in the abdomen) present along with edema in both legs up to mid-shin level.
 
-Abdominal ultrasound showed a heterogeneous coarse liver with multiple hypoechoic lesions consistent with hepatocellular carcinoma (cancer originating from liver cells) on top of pre-existing cirrhosis of the liver.
+Pregnancy-related findings:
+- Symphysio fundal height measured at 26 cm indicating gestational age around 26 weeks. The fetus was in breech presentation.
+- Fetal heart rate was regular at 134 beats per minute.
+- Rectal and vaginal examinations were unremarkable.
 
-Due to unbearable abdominal pain that continued to worsen despite treatment measures like analgesia,furosemide,and spironolactone,the decision was made to terminate her pregnancy at 30 weeks 3 days gestation. The patient delivered a stillborn baby weighing 1.2kg.
+Laboratory assessments:
+Hemoglobin level: 10.3 g/dL
+White blood cell count: 10,200 cells/dL
+Neutrophils: 59.3%
+Lymphocytes: 26.1%
+Monocytes: 10.1%
+Eosinophils: 2.7%
+Platelet count: 350,000/µL
+Liver function tests revealed raised GGT (gamma-glutamyl transferase) and AST (aspartate aminotransferase) levels, while bilirubin was within normal range.
+Total protein and albumin levels were low at 44 g/L and 29 g/L, respectively.
+INR (international normalized ratio) was elevated at 1.3, indicating impaired blood clotting.
+HBsAg (hepatitis B surface antigen) was positive, indicating a hepatitis B infection. HBeAg (hepatitis B e-antigen) was negative with HBV DNA viral load of 126869 IU/mL.
+VDRL test for syphilis was positive but TPHA test not performed.
+Alpha-fetoprotein (AFP), a tumor marker, was significantly elevated at >50,000 KU/L.
 
-The patient was discharged after 5 days and advised to follow up with the gastrointestinal clinic. However, she was lost to follow-up after the first two post-discharge visits at 2 weeks and 4 weeks.
+Imaging:
+Abdominal ultrasound showed a heterogeneous coarse liver with multiple hypoechoic lesions. Liver size measured around 17.2 cm with mild ascites present.
+Pelvic scan confirmed the presence of a fetus aged approximately 27 weeks and three days old with active movements.
 
-This case highlights a rare and challenging situation of hepatocellular carcinoma in pregnancy, where the presence of liver cancer complicates an already delicate condition. The management involves a multidisciplinary approach to balance the needs of both mother and fetus, with close monitoring for potential complications such as liver decompensation.
+Management and outcomes:
+The patient received analgesia to manage pain along with furosemide and spironolactone to address fluid retention in the abdomen and legs due to liver dysfunction.
+Lamivudine, an antiviral medication for hepatitis B, was added to prevent transmission of the infection from mother to child.
+The plan initially aimed for continuation of pregnancy until at least week 32 for better neonatal survival chances but had to be terminated early due to progressive unbearable abdominal pain at week 30 day three by successful induction of labor.
+The outcome resulted in stillbirth weighing approximately 1.2 kg.
+Post-delivery, the patient experienced a significant reduction in pain and was discharged home after five days.
+A follow-up visit at the gastrointestinal clinic was scheduled, but the patient was lost to follow-up after two weeks and four weeks post-discharge.
+
+It is important to note that hepatocellular carcinoma during pregnancy is a rare condition associated with significant risks for both the mother and fetus. Prompt diagnosis, appropriate management, and close monitoring are crucial for optimizing outcomes in such cases.

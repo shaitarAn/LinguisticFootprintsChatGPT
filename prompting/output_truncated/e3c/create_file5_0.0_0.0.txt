@@ -1,21 +1,23 @@
 Patient Information:
-On the 15th November 2021, a previously healthy, 25-year-old Caucasian female was admitted to the medical ward at St. Mary's Hospital with a two-week history of fever, fatigue, and joint pain. The patient reported no significant medical history, surgeries, or medication use. She worked as a teacher and denied any recent travel or known contact with COVID-19 cases.
 
-Clinical Findings:
-Upon examination, the patient appeared fatigued with a temperature of 38.9°C and a heart rate of 110 beats per minute. She complained of generalized joint pain, particularly in her wrists and knees. A faint maculopapular rash was observed on her trunk and extremities. The rest of the physical examination, including cardiovascular, respiratory, and abdominal assessments, was unremarkable.
+On the 15th October 2021, a previously healthy, 32-year-old Caucasian female was admitted to the medical ward at St. Mary's Hospital, London. The patient was transferred from a local clinic due to worsening symptoms. She presented with a two-week history of fever, a widespread rash on her trunk and extremities, severe headache accompanied by neck stiffness, a persistent sore throat, and a dry cough. Additionally, she reported experiencing intermittent episodes of diarrhea for the past three days. The patient denied any joint pain, oral or nasal ulcers, or discharge from her urethra.
 
-Diagnostic Assessment:
-Initial blood investigations revealed an elevated C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), and white cell count (WCC). Rheumatoid factor and antinuclear antibody (ANA) tests were negative. Blood and urine cultures were also negative. X-rays of the affected joints showed no abnormalities.
+Medical History:
 
-Diagnosis and Differentials:
-Based on the clinical presentation and laboratory findings, a differential diagnosis of viral infections such as acute viral syndrome, Epstein-Barr virus (EBV) infection, or parvovirus B19 infection was considered. Autoimmune conditions like rheumatoid arthritis and systemic lupus erythematosus (SLE) were also included in the differential diagnosis.
+The patient had no significant medical history and was not taking any medications prior to the onset of her symptoms. She had no known allergies and had not traveled outside of the country recently. Her family history was unremarkable, with no known genetic or hereditary conditions.
 
-Therapeutic Intervention:
-The patient was started on nonsteroidal anti-inflammatory drugs (NSAIDs) for symptomatic relief of joint pain and fever. She was advised to rest and maintain hydration. Follow-up appointments were scheduled to monitor her symptoms and conduct further investigations if necessary.
+Clinical Presentation:
 
-Follow-up and Outcomes:
-The patient returned for a follow-up visit two weeks later. She reported a significant improvement in her symptoms, with resolution of the fever and joint pain. The rash had also disappeared. Repeat blood tests showed a normalization of the inflammatory markers. Based on the clinical improvement and negative serological tests for viral infections, a diagnosis of acute viral syndrome was made.
+Upon admission, the patient appeared fatigued and mildly dehydrated. Her vital signs were as follows: temperature of 38.5°C (101.3°F), heart rate of 100 beats per minute, blood pressure of 120/80 mmHg, and respiratory rate of 18 breaths per minute. Physical examination revealed a diffuse maculopapular rash on her trunk and extremities, including her eyelids. The rash was non-blanching and not pruritic. The patient exhibited signs of meningeal irritation, with neck stiffness and pain upon flexion. Her throat appeared erythematous, and she had enlarged tonsils with no exudates. Lung auscultation revealed clear breath sounds bilaterally, and her abdomen was soft and non-tender. No joint swelling or tenderness was noted.
 
-The patient was discharged with instructions to continue NSAIDs as needed for any residual joint pain. She was advised to monitor her symptoms and seek medical attention if they recurred or worsened. A follow-up appointment was scheduled in one month to ensure complete resolution of symptoms.
+Diagnostic Workup:
 
-In conclusion, this case highlights the importance of considering viral infections and autoimmune conditions in patients presenting with fever, joint pain, and rash. A thorough diagnostic assessment and close follow-up are crucial in determining the appropriate diagnosis and management plan for each individual patient.
+Laboratory investigations were ordered to further evaluate the patient's condition. Initial blood tests showed a white blood cell count of 12,000 cells/mm³, with a predominance of neutrophils. Liver function tests, renal function tests, and electrolyte levels were within normal limits. A throat swab was obtained for culture and sensitivity testing, and a chest X-ray was performed to rule out any underlying pulmonary pathology.
+
+Working Diagnosis:
+
+Based on the patient's clinical presentation, the differential diagnosis includes several infectious and non-infectious etiologies. Infectious causes such as viral or bacterial meningitis, Epstein-Barr virus (EBV) infection, and atypical pneumonia were considered. Non-infectious causes, including drug reactions and autoimmune disorders, were also taken into account.
+
+Treatment and Management:
+
+The patient was started on empiric antibiotic therapy with intravenous ceftriaxone and acyclovir to cover potential bacterial and viral causes of meningitis. Supportive care measures, including hydration and pain management, were initiated. The patient was placed on droplet precautions, and strict isolation protocols were followed to prevent the spread of

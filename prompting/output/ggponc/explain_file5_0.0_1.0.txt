@@ -1,15 +1,15 @@
-In diesem Text geht es um die histopathologische Aufarbeitung und Klassifikation von Resektaten bei Pankreaskarzinomen. Es wird betont, dass einheitliche Standards bei der histopathologischen Aufarbeitung gelten sollten, insbesondere in Bezug auf den zirkumferentiellen Resektionsrand. Dieser ist besonders wichtig, da hier häufig eine R1-Situation vorliegt, d.h. Tumorzellen bis zum Rand des entfernten Gewebes reichen.
+In diesem Text geht es um die Aufarbeitung und Bewertung von Pankreaskarzinomen (Bauchspeicheldrüsenkrebs) nach einer Operation. Es wird erklärt, dass die Gefäßachse und tumorinfiltrierte Lymphknoten in der Arteria mesenterica superior-Ebene besonders wichtig sind und in die Aufarbeitung einbezogen werden müssen.
 
-Es wird empfohlen, im Rahmen einer standardisierten histopathologischen Aufarbeitung die Resektionsgrenzen zu markieren und diese Farbmarkierungen im histologischen Schnitt zu identifizieren. Dadurch kann genau gemessen werden, wie weit die Tumorzellen von welchem Resektionsrand entfernt sind. Diese Informationen werden dem Operateur mitgeteilt.
+Um den Abstand der Tumorzellen zu den Resektionsrändern genau zu bestimmen, hat es sich bewährt, diese Ränder farbig zu markieren und im histologischen Schnitt zu identifizieren. Im Mikroskop kann dann gemessen werden, wie weit die Tumorzellen von welchem Resektionsrand entfernt sind. Diese Maßzahl wird dem Befund hinzugefügt und dem Operateur mitgeteilt.
 
-Um der Tatsache Rechnung zu tragen, dass Karzinomzellen häufig an den zirkumferentiellen Resektionsrand heranreichen können, wird ein neues Konzept empfohlen: das "Konzept des zirkumferentiellen Resektionsrands" (CRM). Dabei werden R0-resezierte Pankreaskarzinome als CRM-positiv klassifiziert, wenn der Abstand der Tumorzellen zum Resektionsrand weniger als 1 mm beträgt (R0 narrow). Sind die Karzinomzellen mehr als 1 mm vom definitiven Absetzungsrand entfernt, handelt es sich um eine "CRM-negative" R0-Situation (R0 wide).
+Es wird empfohlen, ein neues Konzept namens "Konzept des zirkumferentiellen Resektionsrands" (CRM) anzuwenden. Dabei werden Pankreaskarzinome als CRM-positiv klassifiziert, wenn der Abstand der Tumorzellen zum Resektionsrand weniger als 1 mm beträgt (R0 narrow). Wenn die Karzinomzellen mehr als 1 mm vom Rand entfernt sind, handelt es sich um eine "CRM-negative" Situation (R0 wide).
 
-Die Frage nach dem prognostisch relevanten Abstand zum Resektionsrand kann noch nicht abschließend beantwortet werden. Es wurde jedoch gezeigt, dass Patienten mit einem Abstand von mehr als 1,5 mm eine bessere Prognose haben.
+Es ist noch nicht abschließend geklärt, welcher Abstand zum Resektionsrand prognostische Bedeutung hat. Eine große Studie hat jedoch gezeigt, dass Patienten mit einem Abstand von mehr als 1,5 mm eine bessere Prognose haben.
 
-Das UICC-Tumorstadium ist der wichtigste Prognoseparameter nach einer Resektion eines Pankreaskarzinoms. Das Vorhandensein von Lymphknotenmetastasen ist ein entscheidender Prognosefaktor. Es wird empfohlen, mindestens zehn Lymphknoten zu entfernen, um eine korrekte Kategorisierung vornehmen zu können.
+Das UICC-Tumorstadium ist nach der Operation eines Pankreaskarzinoms der wichtigste Prognoseparameter. Das Vorhandensein von Lymphknotenmetastasen ist ein entscheidender Faktor für die Prognose. Es sollten mindestens zehn Lymphknoten entfernt werden, um eine korrekte Kategorisierung vorzunehmen.
 
-Die Angabe der Lymphknotenratio (Anzahl der befallenen Lymphknoten zur Anzahl der untersuchten Lymphknoten) hat prognostische Bedeutung.
+Die Angabe der Lymphknotenratio (Verhältnis von befallenen zu untersuchten Lymphknoten) ist prognostisch relevant.
 
-Das Grading des duktalen Adenokarzinoms des Pankreas basiert auf histologischen und zytologischen Kriterien und korreliert mit der Prognose. Ein Regressionsgrading ist noch nicht etabliert.
+Das Grading des duktalen Adenokarzinoms des Pankreas basiert auf histologischen und zytologischen Kriterien und hat prognostische Bedeutung.
 
-Für die Invasion von Lymphgefäßen, Perineuralscheiden und Blutgefäßen gibt es Hinweise auf eine prognostische Bedeutung, die jedoch weiter validiert werden müssen.
+Für bestimmte Parameter wie Lymphgefäßinvasion, Perineuralscheideninfiltration und Blutgefäßinvasion gibt es Hinweise auf eine prognostische Bedeutung, jedoch sind weitere Validierungen erforderlich.

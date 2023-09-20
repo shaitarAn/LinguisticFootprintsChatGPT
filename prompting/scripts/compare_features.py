@@ -47,18 +47,22 @@ for feature_to_extract in features_to_visualize:
 
             # Store the parameter name
             parameter_names.append(params)
-            
-            # print(feature_data)
 
             # add feauture_data to combined_dataframe
             combined_dataframe = pd.concat([combined_dataframe, feature_data], axis=1)
 
 
+    parameters = sorted(parameter_names)
     combined_dataframe = combined_dataframe.transpose()
     # print(combined_dataframe)
 
     # Convert all columns in the DataFrame to numeric
     combined_dataframe = combined_dataframe.apply(pd.to_numeric, errors='ignore')
+
+    # Sort the DataFrame by the parameter names
+    combined_dataframe = combined_dataframe.sort_index()
+
+    # print(combined_dataframe)
 
     if not os.path.exists(f"../plots/{feature_to_extract}"):
         os.makedirs(f"../plots/{feature_to_extract}")

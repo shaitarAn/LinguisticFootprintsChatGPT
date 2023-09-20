@@ -1,17 +1,25 @@
-Case 1 involves a male infant, known as baby NU, who was delivered at term in a hospital. At birth, it was noticed that there was absence of skin and skull bone on the vertex of the scalp. The baby's parents are cousins and there was a history of fresh stillbirth during the mother's first delivery. The baby had low set ears, respiratory distress, and a tense anterior fontanelle.
+Clinical Case 1:
+In this case, a baby was born with a large defect on the scalp, known as aplasia cutis congenita. The defect measured 10 x 8 cm in the midline and 6 x 6 cm in the occipital region. The baby also had low set ears, irritability, tense anterior fontanelle (soft spot on the head), and respiratory distress. A diagnosis of aplasia cutis congenita with possible meningitis was made.
 
-A diagnosis of aplasia cutis congenita with possible meningitis was made. The baby received routine care including oxygen, intravenous fluids, antibiotics for meningitis, and wound dressings. The respiratory distress improved over time and oral feeds were started.
+The baby received routine care including oxygen, intravenous fluids, antibiotics for meningitis, and wound dressings. The multidisciplinary team consisting of neurosurgeons and plastic surgeons were involved in the management.
 
-Brain magnetic resonance imaging (MRI) revealed absence of parietal bone towards the vertex bilaterally with an area of defect measuring 8.3 cm x 5.3 cm (AP X TR). However, the brain structures were normal in morphology and signal intensity.
+A brain magnetic resonance imaging (MRI) showed that there was absence of parietal bone towards the vertex bilaterally extending from 2 cm behind the anterior fontanelle down to the posterior fontanelle. The brain in this region was covered by dural meninges. However, other parts of the skull were spared and brain structures appeared normal.
 
-The burns and plastic unit along with neurosurgeons made plans for future intervention to raise a flap cover for autologous skin grafting. The baby was discharged after 18 days on oral antibiotics and wound care for follow-up at specialty clinics.
+Plans were made for future intervention which involved raising a flap cover for autologous skin grafting.
 
-Case 2 involves another infant, known as baby YA, who was referred at 48 hours old due to absence of part of the skull bone noticed at birth. This baby was delivered at home without trauma to the head. Clinical findings included fever, cyanosis (bluish discoloration), hypertonicity (increased muscle tone), desquamating skin (skin peeling), hypoplastic finger/toe nails (underdeveloped nails), dilated abdominal wall veins, and a systolic cardiac murmur.
+The baby was discharged after 18 days with oral antibiotics and daily wound dressing for follow-up at specialty clinics.
 
-A working diagnosis of multiple congenital anomalies including aplasia cutis congenita and ventricular septal defect (a heart defect) with meningitis was made. Blood culture revealed Providencia species while CSF culture revealed E. coli, indicating infection. Financial constraints prevented further investigations such as brain MRI, echocardiography, and chromosomal studies.
+Clinical Case 2:
+In this case, a newborn baby was found to have a part of their skull bone missing at birth. There were no overt traumatic events during delivery or any history of exposure to harmful factors during pregnancy.
 
-The baby was treated with antibiotics and wound care for the scalp defect. Complications included CSF leakage and meningitis, which resolved over time. The burns and plastic unit planned for mesh repair of the defect.
+The baby presented with various clinical findings including fever, cyanosis (bluish discoloration), hypertonicity (increased muscle tone), subcutaneous tissue defect on scalp extending from frontal to occipital area with leakage of cerebrospinal fluid (CSF). Additionally, there were skin desquamation (peeling skin), hypoplastic finger and toe nails, dilated abdominal wall veins as well as a heart murmur.
 
-Unfortunately, the baby was discharged but died 7 days later.
+A working diagnosis of multiple congenital anomalies was made, including congenital cutis aplasia (missing skull bone) and ventricular septal defect (a hole in the heart wall). Meningitis was also suspected.
 
-These are two separate cases involving infants with congenital abnormalities affecting the skull bone. Baby NU had aplasia cutis congenita while baby YA had multiple congenital anomalies including aplasia cutis congenita and a heart defect. Both cases required multidisciplinary team management and surgical interventions to address the issues with the scalp defects.
+Bacterial cultures from blood and CSF revealed Providencia species and E. coli respectively, indicating an infection. Due to financial constraints, additional tests such as brain MRI, echocardiography, and chromosomal studies could not be done.
+
+The baby received treatment with antibiotics and wound care for the scalp defect. Complications such as CSF leakage and meningitis occurred but resolved over time.
+
+Plans were made for surgical intervention including prolene mesh/titanium mesh placement and latissimus dorsi musculocutaneous flap cover.
+
+The baby was discharged upon parents' request after 35 days of admission but unfortunately died 7 days later.

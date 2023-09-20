@@ -1,17 +1,22 @@
-This clinical case describes a 21-year-old female patient who has been diagnosed with Sturge-Weber syndrome (SWS). SWS is a rare neurological disorder characterized by the presence of a facial birthmark, neurological abnormalities, and eye involvement.
+This clinical case involves a young woman who has a history of callosotomy, which is a surgical procedure to control seizures. At the age of 18, she experienced her first seizure since the callosotomy during a laser treatment for her port wine birthmark. She was then prescribed carbamazepine, an antiepileptic medication, and has not had any further seizures since.
 
-The patient presented with non-pulsating headaches that had been occurring frequently for the past two years. These headaches were relieved by non-steroidal anti-inflammatory drugs (NSAIDs) and did not worsen with physical activity. There were no accompanying symptoms such as nausea or aura. The pain was described as bilateral, generalized, and pressing in quality.
+Her parents report that despite having normal development in infancy, she struggled academically and is barely literate. There are no significant findings in her family history except for her elder sister having a port wine stain on her face, but no investigations were done regarding this.
 
-The patient had a history of seizures since the fifteenth day of life, which led to her diagnosis of SWS. At six years old, she underwent callosotomy surgery to control her seizures. However, at 18 years old, she experienced another seizure after laser treatment for her port wine birthmark. Since then, she has been prescribed carbamazepine and has remained seizure-free.
+The patient is also being treated for anxiety disorder and chronic headaches with medications such as ketiapin and venlafaxine. Additionally, she takes NSAID drugs for pain relief. While the headaches showed slight improvement in severity after one week of treatment, the frequency remained unchanged.
 
-In terms of cognitive development, the patient had normal development in infancy but struggled academically and is considered to be mildly mentally retarded according to intelligence testing.
+On physical examination, several findings were noted:
 
-On physical examination, a facial nevus (birthmark) was observed on the right side of her forehead, eyelid, nasal wing, and cheek. Intraoral examination showed overgrowth of gingiva (gums) on the right side that appeared angiomatous (related to blood vessels). Mild asymmetry was noted in her extremities; specifically her left arm and leg were smaller than their counterparts on the right side. She also exhibited hemiparesis (weakness) on both sides of this smaller portion.
+1. Facial nevus: Choroid angioma on the right forehead, right eyelid nasal wing and cheek.
+2. Gingival overgrowth: Bright red enlargement of the gums on the right side with blanching upon pressure.
+3. Mild asymmetry in extremities: The left arm and leg are slightly smaller than their counterparts on the right side.
+4. Hemiparesis: Weakness affecting both upper and lower extremities on the same (left) side.
+5. Glaucoma: Diagnosis of glaucoma in the right eye.
+6. Anxiety disorder signs observed during psychiatric examination.
 
-Ophthalmological evaluation revealed glaucoma in her right eye. Psychiatric examination indicated signs of an anxiety disorder.
+Neurological examination did not reveal any other remarkable findings except for hemiparesis (weakness on one side). Cranial CT scans showed diffuse atrophy (shrinkage) in the right hemisphere along with irregular double-contoured gyriform cortical calcifications in the right occipital area.
 
-Neurological examination did not show any remarkable findings except for the hemiparesis previously mentioned. Cranial CT scans showed diffuse atrophy (shrinkage) in the right hemisphere and irregular double-contoured gyriform cortical calcifications (abnormal calcium deposits) in the right occipital area. Gadolinium-enhanced brain MRI revealed multiple dilated pial venous vascular structures on the right hemisphere, as well as diffuse atrophy on the same side.
+Gadolinium-enhanced brain MRI revealed multiple dilated pial venous vascular structures on the right hemisphere, along with diffuse atrophy on the same side. Further MRI images showed asymmetry in calvarial thickness, with the right hemisphere appearing smaller compared to the left. Extensive venous formations were also observed around the corpus of the right lateral ventricle, as well as at various other locations.
 
-Additional findings from the MRI included right calvarial thickness compared to the left and asymmetrically smaller size of the right hemisphere. Extensive venous formations were seen around the corpus of the right lateral ventricle, Gallen vein localization, perivascular space anterior to third ventricle at Willis polygon localization, and in the right temporooccipital area at quadrigeminal cistern localization.
+Based on a Proteus intelligence test, she scored 75 points and was considered to be mildly mentally retarded.
 
-In summary, this patient with SWS presented with frequent non-pulsating headaches relieved by NSAIDs. She had a history of seizures and underwent callosotomy surgery but experienced another seizure after laser treatment for her birthmark. She also exhibited cognitive impairment and various physical findings including facial nevus, gingival overgrowth, hemiparesis, glaucoma in her right eye, and extensive vascular formations observed on imaging studies.
+It is important to note that this information is based solely on a written description of a clinical case and should not be used for diagnostic purposes.

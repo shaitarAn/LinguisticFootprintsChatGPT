@@ -1,16 +1,19 @@
-Fiktiver klinischer Fall:
+Klinischer Fall: Frau Müller, 65 Jahre alt, mit metastasiertem Brustkrebs
 
-Patient: Herr Müller, 65 Jahre alt
-Diagnose: Fortgeschrittener Lungenkrebs im Stadium IV, nicht heilbar
+Anamnese:
+Frau Müller, 65 Jahre alt, wurde vor einem Jahr mit Brustkrebs diagnostiziert. Trotz einer umfassenden Behandlung, einschließlich Operation, Chemotherapie und Bestrahlung, haben sich Metastasen in der Leber und den Knochen gebildet. Frau Müller leidet unter starken Schmerzen in den Knochen, Übelkeit und Erschöpfung. Sie hat auch Schwierigkeiten beim Gehen und ist auf einen Rollstuhl angewiesen. Ihre Lebensqualität hat stark abgenommen, und sie fühlt sich oft traurig und ängstlich.
 
-Herr Müller wurde vor sechs Monaten mit fortgeschrittenem Lungenkrebs diagnostiziert. Seitdem hat er eine Reihe von Behandlungen durchlaufen, darunter Chemotherapie und Bestrahlung. Trotz der Behandlung hat sich sein Zustand in den letzten Wochen verschlechtert. Er leidet unter starken Schmerzen in der Brust, Atemnot und Müdigkeit. Herr Müller hat auch Gewicht verloren und fühlt sich oft schwach.
+Untersuchungsergebnisse:
+Die körperliche Untersuchung zeigt eine deutliche Gewichtsabnahme und eine eingeschränkte Beweglichkeit aufgrund der Knochenmetastasen. Laboruntersuchungen zeigen erhöhte Leberwerte und eine Anämie. Eine bildgebende Untersuchung bestätigt die Metastasen in der Leber und den Knochen.
 
-Die Bedürfnisse von Herrn Müller sind vielfältig. Er benötigt dringend eine effektive Schmerztherapie, um seine Schmerzen zu lindern und seine Lebensqualität zu verbessern. Er hat auch den Wunsch, über seine Krankheit und Behandlungsoptionen informiert zu werden, um fundierte Entscheidungen treffen zu können. Darüber hinaus benötigt er psychosoziale Unterstützung, um mit den emotionalen Belastungen seiner Erkrankung umzugehen. Herr Müller hat auch spirituelle Fragen und wünscht sich Unterstützung bei der Suche nach Sinn und Bedeutung in seinem Leben.
+Diagnose:
+Metastasierter Brustkrebs mit Leber- und Knochenmetastasen.
 
-Auch die Bedürfnisse von Herrn Müllers Angehörigen sind hoch. Seine Ehefrau ist überfordert mit der Pflege und Betreuung ihres kranken Mannes. Sie benötigt praktische Unterstützung und Anleitung bei der Pflege zu Hause. Darüber hinaus ist sie psychisch stark belastet und benötigt Unterstützung, um mit der Situation umgehen zu können. Sie hat auch viele Fragen zur Schmerztherapie und Symptomkontrolle und wünscht sich Informationen und Beratung in diesem Bereich.
+Behandlung:
+Aufgrund der fortgeschrittenen Erkrankung und der starken Symptome wird Frau Müller in die palliative Versorgung überwiesen. Das Ziel der Behandlung ist die Linderung von Schmerzen und anderen belastenden Symptomen sowie die Verbesserung der Lebensqualität.
 
-Um die Bedürfnisse von Herrn Müller und seiner Frau zu erfassen, wird ein Gespräch mit ihnen geführt. Dabei werden validierte Erfassungsinstrumente verwendet, um die realen Symptomprävalenzen zu ermitteln. Herr Müller wird auch nach seinen eigenen Bedürfnissen und Zielen befragt, um den Behandlungsplan entsprechend anzupassen.
+Therapieplan:
+Frau Müller wird von einem interdisziplinären Team betreut, bestehend aus einem Palliativmediziner, einem Onkologen, einem Schmerztherapeuten, einem Psychoonkologen und einem Physiotherapeuten. Die Behandlung umfasst die Verabreichung von Schmerzmedikamenten, um die Schmerzen zu lindern, sowie die Gabe von Antiemetika gegen die Übelkeit. Eine physiotherapeutische Behandlung wird eingeleitet, um die Beweglichkeit zu verbessern und den Rollstuhlbedarf zu reduzieren. Frau Müller erhält auch psychosoziale Unterstützung, um mit den emotionalen Herausforderungen der Erkrankung umzugehen.
 
-Aufgrund der Komplexität von Herrn Müllers Situation wird ein spezialisiertes Palliativversorgungsteam (SPV-Team) hinzugezogen. Das SPV-Team führt eine umfassende Bedarfserhebung durch und bewertet die Komplexität der Gesamtsituation. Dabei werden verschiedene Faktoren berücksichtigt, wie die Intensität der Symptome, psychosoziale Belastungen und der Funktionsstatus von Herrn Müller. Basierend auf dieser Bewertung wird die Komplexität als hoch eingestuft.
-
-Das SPV-Team erstellt
+Verlauf:
+Im Verlauf der Behandlung verbessert sich Frau Müllers Schmerzsymptomatik deutlich. Die Schmerzmedikation wird entsprechend angepasst, um eine optimale Schmerzlinderung zu erreichen. Die Übelkeit nimmt ebenfalls ab, sodass Frau Müller wieder in der Lage ist, Nahrung aufzunehmen. Durch die physiotherapeutische Behandlung kann sie ihre Beweglichkeit verbessern und ist in der Lage, kurze Strecken ohne Rollstuhl zurückzulegen. Die psychosoziale Unterstützung hilft ihr, mit den emotionalen Belastungen umzugehen und ihre

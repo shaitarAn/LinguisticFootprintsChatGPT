@@ -102,7 +102,7 @@ def main():
                 continue 
 
         print("-------------------")
-        print(corpus)      
+        # print(corpus)      
 
         human_dict = {}
         machine_dict = {}  
@@ -111,7 +111,7 @@ def main():
 
         for system in os.listdir(os.path.join(root, subdirectory)):
     
-            print(system)
+            # print(system)
 
             if system == 'human':
                 human_dict, human_file_dict = extract_connectives(lang, corpus, system)

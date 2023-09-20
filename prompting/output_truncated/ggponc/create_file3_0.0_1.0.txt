@@ -1,18 +1,26 @@
 Klinischer Fall: Präoperative biliäre Drainage bei einem Patienten mit hilärem Cholangiokarzinom
 
-Ein 65-jähriger männlicher Patient stellt sich mit Symptomen wie Gelbsucht, Gewichtsverlust und Bauchschmerzen in der Leberklinik vor. Nach einer gründlichen Untersuchung wird bei ihm ein hiläres Cholangiokarzinom diagnostiziert. Die Tumorerkrankung hat die Gallenwege blockiert und zu einer Hyperbilirubinämie geführt.
+Patient:
+Herr Müller, 62 Jahre alt, präsentiert sich mit Ikterus, Gewichtsverlust und allgemeiner Schwäche. Er hat keine relevanten Vorerkrankungen und ist Nichtraucher.
 
-Aufgrund der Diagnose und des Zustands des Patienten wird eine kurativ intendierte Resektion als bevorzugte Behandlungsoption angesehen. Da jedoch eine Hyperbilirubinämie als wichtiger modifizierbarer Risikofaktor für ein negatives postoperatives Outcome identifiziert wurde, muss eine präoperative biliäre Drainage (PBD) in Betracht gezogen werden.
+Anamnese:
+Der Patient berichtet über eine zunehmende Gelbsucht in den letzten Wochen sowie unerklärlichen Gewichtsverlust von etwa 5 kg. Er fühlt sich schwach und hat keinen Appetit. Es gibt keine Hinweise auf Fieber oder Bauchschmerzen.
 
-Die Entscheidung zur Durchführung einer PBD basiert auf den medizinischen Leitlinien für das hepatozelluläre Karzinom und biliäre Karzinome. Es gibt begrenzte Evidenz aus retrospektiven Analysen und vereinzelten prospektiven randomisierten Studien, die die Indikation zur PBD unterstützen.
+Untersuchungsbefunde:
+Bei der körperlichen Untersuchung zeigt sich ein deutlicher Ikterus der Haut und Skleren. Der Bauch ist weich, nicht druckempfindlich und es sind keine tastbaren Raumforderungen zu spüren. Die Laborergebnisse zeigen erhöhte Leberwerte (Bilirubin: 4 mg/dl; ALAT: 120 U/l; ASAT: 100 U/l) sowie einen erhöhten Tumormarker CA19-9 (500 U/ml).
 
-In diesem Fall wird aufgrund der Blockade der Gallenwege durch den Tumor eine PBD empfohlen. Der Zugangsweg kann entweder perkutan-transhepatisch oder transpapillär erfolgen. Aufgrund der Expertise im Zentrum wird sich für die transpapilläre Methode entschieden.
+Diagnosestellung:
+Aufgrund der klinischen Symptome, des erhöhten Bilirubinspiegels und des erhöhten CA19-9-Wertes wird ein hiläres Cholangiokarzinom vermutet. Zur weiteren Abklärung wird eine bildgebende Diagnostik durchgeführt.
 
-Die PBD soll dazu beitragen, die Hyperbilirubinämie zu reduzieren und das postoperative Outcome des Patienten zu verbessern. Es besteht jedoch auch das Risiko von Komplikationen im Zusammenhang mit der interventionellen Therapie, wie z.B. Infektionen oder Tumorzellverschleppung.
+Bildgebung:
+Eine abdominale Sonographie zeigt eine Dilatation der intrahepatischen Gallengänge sowie einen Verschluss des extrahepatischen Gallengangs im Bereich des Hilus hepatis. Eine anschließende MRCP (Magnetresonanz-Cholangiopankreatikographie) bestätigt den Verdacht auf ein hiläres Cholangiokarzinom.
 
-Die PBD wird erfolgreich durchgeführt und die Hyperbilirubinämie des Patienten verbessert sich signifikant. Nach Abschluss der Drainage wird eine kurative Resektion des hilären Cholangiokarzinoms geplant.
+Therapieentscheidung:
+Aufgrund der Diagnose eines hilären Cholangiokarzinoms wird eine kurativ intendierte Resektion angestrebt. Da etwa 25% bis 35% der Patienten mit einem hilären Cholangiokarzinom Kandidaten für eine präoperative biliäre Drainage sind, wird auch bei Herrn Müller eine solche in Erwägung gezogen.
 
-Zusammenfassend zeigt dieser Fall die Bedeutung einer präoperativen biliären Drainage bei Patienten mit hilärem Cholangiokarzinom, um das postoperative Outcome zu verbessern. Die Entscheidung zur Durchführung einer PBD sollte in einem spezialisierten hepatobiliären Zentrum getroffen werden, unter Berücksichtigung der Expertise verschiedener Fachdisziplinen wie Chirurgie, Interventionelle Endoskopie und Radiologie.
+Präoperative biliäre Drainage:
+Die Entscheidung zur präoperativen biliären Drainage hängt von verschiedenen Faktoren ab, darunter das Behandlungsziel und die Lokalisation des Gallenwegverschlusses. Bei einem hilären Cholangiokarzinom kann eine PBD in Betracht gezogen werden, um die Symptome des Gallenstaus zu lindern und die Leberfunktion vor der geplanten Resektion zu verbessern.
 
-Referenz:
-- Deutsches Leitlinienprogramm für die Onkologie: Hepatozelluläres Karzinom und biliäre KarzinomePräoperative biliäre Drainagen (PBD)
+Entsprechend den medizinischen Leitlinien kann die PBD perkutan-transhepatisch, transpapillär oder transgastrisch/transduodenal erfolgen. In diesem Fall wird aufgrund der Lokalisation des Verschlusses im Bereich des Hilus hepatis eine perkutan-transhepatische Drainage empfohlen.
+
+Der Patient wird über

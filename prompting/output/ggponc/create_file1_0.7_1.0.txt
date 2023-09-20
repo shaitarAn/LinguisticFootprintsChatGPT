@@ -1,21 +1,28 @@
-Klinischer Fall: Adjuvante Strahlentherapie bei einem Patienten mit Weichgewebesarkom
+Klinischer Fall: Postoperative Strahlentherapie bei Weichgewebesarkom
 
-Patient: Herr Müller, 58 Jahre alt, männlich
+Patient:
+Herr Schmidt, 57 Jahre alt, ohne relevante Vorerkrankungen
 
-Anamnese: Herr Müller stellt sich in der onkologischen Klinik vor. Er klagt über Schmerzen und eine zunehmende Schwellung im rechten Oberschenkel. Die Beschwerden bestehen seit etwa vier Wochen und haben sich allmählich verschlimmert. Er berichtet von einer allgemeinen Abgeschlagenheit und Gewichtsverlust in den letzten Monaten.
+Anamnese:
+Herr Schmidt stellte sich mit Beschwerden in der rechten Oberschenkelregion vor. Er berichtete über seit einigen Monaten bestehende Schmerzen und eine zunehmende Schwellung im Bereich des Oberschenkels. Es wurden keine Begleitsymptome wie Fieber oder Gewichtsverlust festgestellt.
 
-Diagnose: Bei der körperlichen Untersuchung findet der Arzt einen gut abgrenzbaren Tumor im rechten Oberschenkel. Eine Biopsie wird durchgeführt und das histologische Ergebnis zeigt ein hochgradiges malignes Weichgewebesarkom (G3). Die Bildgebung bestätigt den Verdacht auf ein Sarkom ohne Hinweise auf Metastasen.
+Körperliche Untersuchung:
+Bei der körperlichen Untersuchung war eine deutliche Schwellung im rechten Oberschenkelbereich zu erkennen. Der Tumor war gut abgrenzbar und schien von den umgebenden Geweben verschieblich zu sein. Es wurden keine Lymphknotenvergrößerungen oder Hautveränderungen festgestellt.
 
-Therapieentscheidung: Aufgrund des lokal fortgeschrittenen Stadiums des Sarkoms entscheidet das interdisziplinäre Tumorboard, dass eine Operation in Kombination mit adjuvanter Strahlentherapie die beste Behandlungsoption für Herrn Müller ist. Der Tumor soll vollständig entfernt werden (R0-Resektion), gefolgt von einer perkutanen Strahlentherapie.
+Diagnostik:
+Eine Magnetresonanztomographie (MRT) des Oberschenkels ergab einen etwa 10 cm großen Tumor im Bereich des M. quadriceps femoris mit Infiltration in das umliegende Weichteilgewebe. Eine Biopsie wurde durchgeführt und histologisch wurde die Diagnose eines hochgradig differenzierten Weichgewebesarkoms (G3) gestellt.
 
-Behandlungsdetails:
-- Der Tumor wird chirurgisch entfernt, wobei darauf geachtet wird, dass gesunde Gewebe ausreichend weit entfernt werden.
-- Nach der Operation beginnt die adjuvante perkutane Strahlentherapie innerhalb von 6 Wochen.
-- Die Strahlentherapie besteht aus einer Gesamtdosis von 45 Gy, aufgeteilt in Einzeldosen von 1,8 Gy. Zusätzlich wird ein Boost von 18 Gy in Einzeldosen von 1,8 Gy verabreicht.
-- Die Strahlentherapie zielt auf das Tumorbett und die umliegenden Gewebe ab, um eine lokale Rezidivbildung zu verhindern.
+Staging:
+Eine Computertomographie (CT) des Thorax, Abdomens und Beckens zeigte keine Hinweise auf Fernmetastasen.
 
-Verlauf: Herr Müller erholt sich gut nach der Operation und beginnt rechtzeitig mit der adjuvanten Strahlentherapie. Er wird regelmäßig kontrolliert, um mögliche Nebenwirkungen zu überwachen und den Therapieverlauf zu beurteilen.
+Therapieentscheidung:
+Nach interdisziplinärer Beratung wurde beschlossen, den Tumor chirurgisch zu entfernen und anschließend eine adjuvante Strahlentherapie durchzuführen. Eine R0-Resektion wurde bestätigt.
 
-Diskussion: Die Entscheidung für eine adjuvante Strahlentherapie basiert auf den Ergebnissen randomisierter Studien und großen prospektiven Datenbankanalysen. Diese zeigen einen deutlichen Effekt der adjuvanten Strahlentherapie auf die Senkung der lokalen Rückfallrate bei R0-resezierten Weichgewebesarkomen. Das Überleben wurde in randomisierten Studien nicht statistisch signifikant verbessert, möglicherweise aufgrund des "prescription bias". Bei R1-Resektionen kann die lokale Rückfallrate durch höhere Bestrahlungsdosen weiter reduziert werden.
+Therapie:
+Herr Schmidt unterzog sich einer Operation, bei der der Tumor im rechten Oberschenkel vollständig entfernt wurde. Im Anschluss daran begann er mit einer adjuvanten Strahlentherapie gemäß den aktuellen Leitlinien. Es wurden insgesamt 45 Gy in Einzeldosen von 1,8 Gy verabreicht, gefolgt von einem Boost von weiteren 18 Gy in Einzeldosen von 1,8 Gy.
 
-Abschluss: Die Behandlung eines Weichgewebesarkoms erfordert eine multidisziplinäre Herangehensweise. Eine Operation gefolgt von adjuvanter perkutaner Strahlentherapie ist ein bewährtes Behandlungskonzept zur Senkung des lokalen Rezidivrisikos. Eine enge Überwachung des Patienten und eine individuelle Therapieplanung sind entscheidend, um optimale Ergebnisse zu erzielen.
+Verlaufskontrollen:
+Herr Schmidt wurde regelmäßig nachbeobachtet und es traten keine Komplikationen auf. Die Wundheilung verlief komplikationslos und es wurden keine Hinweise auf einen lokalen Rückfall oder Fernmetastasen gefunden.
+
+Fazit:
+Die adjuvante Strahlentherapie bei Weichgewebesarkomen hat sich in randomisierten Studien als wirksam erwiesen, um die lokale Rückfallrate zu senken. Bei Herrn Schmidt konnte durch die postoperative Strahlentherapie eine gute lokale Kontrolle des Tumors erreicht werden. Er wird weiterhin regelmäßig nachbeobachtet, um mögliche Spätfolgen oder ein Wiederauftreten des Tumors frühzeitig zu erkennen und entsprechend zu behandeln.

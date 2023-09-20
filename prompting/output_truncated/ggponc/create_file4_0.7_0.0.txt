@@ -1,18 +1,12 @@
-Fiktiver klinischer Fall:
-
-Patient: Herr Müller, 65 Jahre alt
+Patientenfall: Frau Müller, 65 Jahre alt, mit metastasierendem Brustkrebs
 
 Anamnese:
-Herr Müller wurde vor einem Jahr mit einer fortgeschrittenen Lungenkrebsdiagnose konfrontiert. Trotz einer Chemotherapie und Bestrahlung hat sich sein Zustand in den letzten Monaten verschlechtert. Herr Müller leidet unter starken Schmerzen, Atemnot und Müdigkeit. Er hat Schwierigkeiten beim Essen und Trinken und hat in den letzten Wochen signifikant an Gewicht verloren. Zudem ist er emotional belastet und fühlt sich oft niedergeschlagen. Seine Ehefrau unterstützt ihn so gut sie kann, ist aber besorgt und überfordert mit der Pflege und den vielen Entscheidungen, die getroffen werden müssen.
+Frau Müller, 65 Jahre alt, wurde vor einem Jahr mit einer Diagnose von Brustkrebs im fortgeschrittenen Stadium konfrontiert. Trotz einer umfassenden Behandlung, einschließlich Operation, Chemotherapie und Bestrahlung, hat sich die Erkrankung weiter ausgebreitet und es wurden Metastasen in Leber und Lunge festgestellt. Frau Müller hat seit einigen Wochen anhaltende Schmerzen in der Brust und im Rücken, die mit zunehmender Intensität auftreten. Sie ist schnell erschöpft und hat Schwierigkeiten beim Atmen. Darüber hinaus fühlt sie sich häufig ängstlich und niedergeschlagen. Frau Müller lebt alleine und hat keine engen Familienangehörigen, die sie unterstützen könnten.
 
-Erfassen der Patientenbedürfnisse:
-Herr Müller hat eine Vielzahl von physischen, psychischen und sozialen Bedürfnissen. Seine physischen Bedürfnisse umfassen die Linderung von Schmerzen, Atemnot und Müdigkeit sowie die Verbesserung der Ernährungssituation. Psychisch benötigt er Unterstützung, um mit seinen emotionalen Belastungen umgehen zu können. Zudem hat er Bedarf an Informationen über seine Erkrankung und die Behandlungsoptionen. Auf sozialer Ebene benötigt er Unterstützung bei der Bewältigung des Alltags und bei Entscheidungen, die getroffen werden müssen.
+Diagnose und Behandlung:
+Aufgrund der Symptome und der bildgebenden Untersuchungen wird bei Frau Müller eine Verschlechterung des metastasierenden Brustkrebses diagnostiziert. Die Krankheit hat sich weiter ausgebreitet und beeinträchtigt nun die Funktion von Lunge und Leber. Um ihre Schmerzen zu lindern und ihre Atmung zu verbessern, wird Frau Müller eine palliative Strahlentherapie und eine medikamentöse Schmerztherapie verschrieben. Zusätzlich wird ihr ein Atemtrainer empfohlen, um ihre Atemmuskulatur zu stärken.
 
-Erfassen der Bedürfnisse der Angehörigen:
-Herr Müllers Ehefrau hat praktische Fragen zur Pflege und Versorgung ihres Mannes. Sie benötigt auch Unterstützung bei ihrer eigenen Belastung und Informationen über die Schmerztherapie und Symptomkontrolle.
+Erfassung der Patientenbedürfnisse und Ermittlung der Komplexität:
+Da Frau Müller physische, psychische, soziale und spirituelle Bedürfnisse hat, wird ein multiprofessionelles Team eingesetzt, um ihren individuellen Bedürfnissen gerecht zu werden. Das Team besteht aus einem Palliativmediziner, einer Palliativpflegekraft, einem Psychoonkologen und einem Sozialarbeiter. Diese Experten werden regelmäßig mit Frau Müller und ihren Angehörigen zusammenarbeiten, um ihre Bedürfnisse zu erfassen und zu adressieren.
 
-Ermittlung der Komplexität:
-Aufgrund der vorliegenden Informationen wird die Situation von Herrn Müller als hochkomplex eingestuft. Die intensiven Symptome, die gleichzeitig auftreten, wie Schmerzen, Atemnot, Müdigkeit und Gewichtsverlust, tragen zur Komplexität bei. Auch die psychische Belastung von Herrn Müller und seiner Frau sowie die schwierigen Entscheidungen, die getroffen werden müssen, erhöhen die Komplexität.
-
-Therapie- und Behandlungsplan:
-Aufgrund der hohen Komplexität wird ein spezialisiertes Palliativversorgungsteam in die Behandlung von Herrn Müller einbezogen. Das Team besteht aus Palliativmedizinern, Schmerztherapeuten, Psychologen und Pflegekräften. Gemeinsam mit Herrn Müller und seiner Frau wird ein individueller Therapie- und Behandlungsplan erstellt, der auf die Bedürfnisse und Ziele des Patienten abgestimmt ist. Dies beinhaltet die Linderung von Schmerzen und anderen Symptomen, die Verbesserung der Ernährungssituation, die psychosoziale Unterstützung für
+Die Bedürfnisse von Frau Müller umfassen die effektive Schmerzkontrolle, die Verbesserung ihrer Atmung und die Bewältigung ihrer Ängste und Depressionen. Sie möchte auch über ihre Krankheit und Behandlungsoptionen informiert sein und in Entscheidungen über ihre Pflege und Behandlung einbezogen werden. Darüber hinaus benötigt sie Unterstützung bei der Bewältigung ihrer Krankheit und bei der Organisation ihrer häuslichen Pflege. Sie hat
