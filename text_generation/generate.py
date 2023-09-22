@@ -29,7 +29,7 @@ class OpenAiModels:
     def generate(self, messages, temp, freq_pen):
         """returns completion time in tokens per second and the generated text"""
         # todo: test the 16k model
-        if not self.model_name == "gpt-3.5-turbo" or self.model_name == "gpt-3.5-turbo-16k":
+        if not self.model_name in ["gpt-3.5-turbo", "gpt-3.5-turbo-16k"]:
             print(f"{self.model_name} not implemented")
             exit(1)
 
@@ -38,6 +38,11 @@ class OpenAiModels:
             'messages': messages,
             'temperature': temp,
             'frequency_penalty': freq_pen,
+
+            # todo: we could do this also variable, from calling the script, and with defaults, as with temp
+            # just in case you want to change it later?
+            'presence_penalty': 0,
+            'max_tokens': 2000
         }
 
         for i in range(10):
@@ -205,6 +210,7 @@ def generate_from_filename(filename):
     global prompt_template
     global time_log
     global min_len
+    global corpus
 
     # define the prompt text:
     if prompt_type == "continue" or prompt_type == "create":
@@ -220,7 +226,7 @@ def generate_from_filename(filename):
 
     # save the generated text in the appropriate folder
     new_filename = update_num_toks_in_filename(machine_text, filename)
-    folder = os.path.join(outfolder, "machine", prompt_type)
+    folder = os.path.join(outfolder, corpus, "machine", prompt_type)
     if not os.path.exists(folder):
         os.makedirs(folder)
     filepath = os.path.join(folder, new_filename)
@@ -235,13 +241,12 @@ if __name__ == "__main__":
                                                         "{filename:{'title': '...', 'prompt': '...', 'text': '...'}}")
     parser.add_argument("corpus", type=str, choices=["20min", "cnn", "cs_en", "cs_de", "e3c", "GGPONC", "pubmed_de", "pubmed_en", "zora_de", "zora_en"])
 
-    # todo: add description of prompts.json
     parser.add_argument("--prompt_file", type=str, default="", help="Json file containing the prompts. If it is not given a default 'continue-prompt' will be used.")
     parser.add_argument("--prompt_type", type=str, choices=["continue", "explain", "create"], default="continue")
-    parser.add_argument("--outfolder", type=str, default="", help="In this directory a subdirectory 'machine' will be created (if it does not yet exist),"
+    parser.add_argument("--outfolder", type=str, default="", help="In this directory a subdirectory for the corpus (if it does not yet exist), will be created "
+                                                                  "Then it will create a further subidectory called 'machine' "
                                                                   "with a further subdirectory for the prompt type")
     parser.add_argument("--start_from", type=int, default=0, help="If part of the files are already done, this is the one to start from")
-    # todo: we have the corpus name somewhere esle, so here we can directly specify the folder
     parser.add_argument("--time_log", type=str, default="", help="create a csv file to save the completion time."
                                                                 "Provide the folder in which to save the file here")
     parser.add_argument("--one_file", default="", type=str, help="generate just one file. "
