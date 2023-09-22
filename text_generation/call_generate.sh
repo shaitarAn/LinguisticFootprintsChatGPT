@@ -1,10 +1,32 @@
 #!/bin/bash
 
-infolder="../data/sample_100_JSON"  # Folder with all the JSON for generation
-outfolder="../data/final_files_simple_prompt_2"
+model="gpt-3.5-turbo-16k"
+infolder="../data/sample_5_JSON"  # Folder with all the JSON for generation
+outfolder="../data/test_new_script"
 
-prompt_file_de="prompts/simple_prompt_sci_art_de.txt"
-prompt_file_en="prompts/simple_prompt_sci_art_en.txt"
+prompt_file="../prompting/scripts/prompts.json"
+
+corpora=("cs_de" "cs_en")
+
+prompt_types=("continue" "explain" "create")
+temps=("1")
+freq_pens=("1")
+
+for temp in "${temps[@]}";do
+  for freq_pen in "${freq_pens[@]}";do
+    for prompt_type in "${prompt_types[@]}";do
+      for corpus in "${corpora[@]}";do
+        echo "Generation in progress. prompt type: $prompt_type, Corpus: $corpus, temp:$temp, freq_pen:$freq_pen"
+        python3 generate.py $model $infolder/$corpus.json $corpus --outfolder $outfolder/$corpus \
+        --prompt_file $prompt_file --prompt_type $prompt_type \
+        --time_log completion_time/test_new_script \
+        --temp $temp --freq_pen $freq_pen
+      done
+    done
+  done
+done
+
+
 
 #list of inputs
 inputs=(
@@ -19,8 +41,8 @@ inputs=(
 	"gpt-3.5-turbo $infolder/cs_en.json en --outfolder $outfolder/cs_en --time_log cs_en"
 	"gpt-3.5-turbo $infolder/cs_de.json de --outfolder $outfolder/cs_de --time_log cs_de"
 )
-# loop through the inputs and call python file
-for input in "${inputs[@]}";
-do
-	python3 generate.py $input
-done
+## loop through the inputs and call python file
+#for input in "${inputs[@]}";
+#do
+#	python3 generate.py $input
+#done
