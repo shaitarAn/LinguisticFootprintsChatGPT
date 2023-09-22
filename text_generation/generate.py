@@ -226,7 +226,7 @@ def generate_from_filename(filename):
 
     # save the generated text in the appropriate folder
     new_filename = update_num_toks_in_filename(machine_text, filename)
-    folder = os.path.join(outfolder, corpus, "machine", prompt_type)
+    folder = os.path.join(outfolder, corpus, "machine")
     if not os.path.exists(folder):
         os.makedirs(folder)
     filepath = os.path.join(folder, new_filename)
@@ -244,8 +244,7 @@ if __name__ == "__main__":
     parser.add_argument("--prompt_file", type=str, default="", help="Json file containing the prompts. If it is not given a default 'continue-prompt' will be used.")
     parser.add_argument("--prompt_type", type=str, choices=["continue", "explain", "create"], default="continue")
     parser.add_argument("--outfolder", type=str, default="", help="In this directory a subdirectory for the corpus (if it does not yet exist), will be created "
-                                                                  "Then it will create a further subidectory called 'machine' "
-                                                                  "with a further subdirectory for the prompt type")
+                                                                  "Then it will create a further subidectory called 'machine' ")
     parser.add_argument("--start_from", type=int, default=0, help="If part of the files are already done, this is the one to start from")
     parser.add_argument("--time_log", type=str, default="", help="create a csv file to save the completion time."
                                                                 "Provide the folder in which to save the file here")

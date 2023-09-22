@@ -2,13 +2,18 @@
 
 model="gpt-3.5-turbo-16k"
 infolder="../data/sample_5_JSON"  # Folder with all the JSON for generation
-outfolder="../data/test_new_script"
+
+outfolder="../data/test_new_script" # in this folder subfolders task/corpus/system will be created
 
 prompt_file="../prompting/scripts/prompts.json"
 
-corpora=("cs_de" "cs_en")
+corpora=("pubmed_de" "pubmed_en")  # list of all the corpora to use
+
+time_log="completion_time/test_new_script"  #Folder to save the time logs, they are saved as <corpus_name>_date.csv
 
 prompt_types=("continue" "explain" "create")
+
+# this can be expanded, but then would have to save it in a different folder for each parameter version
 temps=("1")
 freq_pens=("1")
 
@@ -17,32 +22,11 @@ for temp in "${temps[@]}";do
     for prompt_type in "${prompt_types[@]}";do
       for corpus in "${corpora[@]}";do
         echo "Generation in progress. prompt type: $prompt_type, Corpus: $corpus, temp:$temp, freq_pen:$freq_pen"
-        python3 generate.py $model $infolder/$corpus.json $corpus --outfolder $outfolder/$corpus \
+        python3 generate.py $model $infolder/$corpus.json $corpus --outfolder $outfolder/$prompt_type \
         --prompt_file $prompt_file --prompt_type $prompt_type \
-        --time_log completion_time/test_new_script \
+        --time_log $time_log \
         --temp $temp --freq_pen $freq_pen
       done
     done
   done
 done
-
-
-
-#list of inputs
-inputs=(
-  # "gpt-3.5-turbo $infolder/zora_de.json de --outfolder $outfolder/zora_de --time_log zora_de --prompt_file $prompt_file_de"
-  # "gpt-3.5-turbo $infolder/zora_en.json en --outfolder $outfolder/zora_en --time_log zora_en --prompt_file $prompt_file_en"
-	# "gpt-3.5-turbo $infolder/20min.json de --outfolder $outfolder/20min --time_log 20min"
-	# "gpt-3.5-turbo $infolder/cnn.json en --outfolder $outfolder/cnn --time_log cnn --start_from 60"
-	# "gpt-3.5-turbo $infolder/e3c.json en --outfolder $outfolder/e3c --time_log cnn"
-	# "gpt-3.5-turbo $infolder/GGPONC.json de --outfolder $outfolder/GGPONC --time_log GGPONC --start_from 87"
-	# "gpt-3.5-turbo $infolder/pubmed_de.json de --outfolder $outfolder/pubmed_de --time_log pubmed_de --prompt_file $prompt_file_de"
-	# "gpt-3.5-turbo $infolder/pubmed_en.json en --outfolder $outfolder/pubmed_en --time_log pubmed_en --prompt_file $prompt_file_en"
-	"gpt-3.5-turbo $infolder/cs_en.json en --outfolder $outfolder/cs_en --time_log cs_en"
-	"gpt-3.5-turbo $infolder/cs_de.json de --outfolder $outfolder/cs_de --time_log cs_de"
-)
-## loop through the inputs and call python file
-#for input in "${inputs[@]}";
-#do
-#	python3 generate.py $input
-#done
