@@ -7,6 +7,7 @@ import argparse
 from tqdm import tqdm
 from datetime import datetime
 import time
+import copy
 
 
 
@@ -24,161 +25,281 @@ class OpenAiModels:
         if org_id:
             self.headers["OpenAI-Organization"] = org_id
 
-    def generate(self, prompt, temp=0.7):
+
+    def generate(self, messages, temp, freq_pen):
         """returns completion time in tokens per second and the generated text"""
+        # todo: test the 16k model
+        if not self.model_name == "gpt-3.5-turbo" or self.model_name == "gpt-3.5-turbo-16k":
+            print(f"{self.model_name} not implemented")
+            exit(1)
 
-        if self.model_name == "gpt-3.5-turbo":
-            data = {
-                'model': 'gpt-3.5-turbo',
-                'messages': [{'role': 'user', 'content': prompt}],
-                'temperature': temp,
-            }
+        data = {
+            'model': self.model_name,
+            'messages': messages,
+            'temperature': temp,
+            'frequency_penalty': freq_pen,
+        }
 
-            for i in range(10):
-                time_0 = time.perf_counter()
-                response = requests.post('https://api.openai.com/v1/chat/completions', headers=self.headers, data=json.dumps(data))
-                time_1 = time.perf_counter()
-                if response.status_code == 200:
-                    result = response.json()
+        for i in range(10):
+            time_0 = time.perf_counter()
+            response = requests.post('https://api.openai.com/v1/chat/completions', headers=self.headers, data=json.dumps(data))
+            time_1 = time.perf_counter()
+            if response.status_code == 200:
+                result = response.json()
 
-                    if not "error" in result:
-                        completion_tokens = result["usage"]["completion_tokens"]
-                        tokens_per_second = completion_tokens/(time_1-time_0)
-                        # todo: add checkpoint if the prompt is in the generated text and if so, run again
-                        return tokens_per_second, result["choices"][0]["message"]["content"]  # result["choices"][0]["text"]
-                    else:
-                        print("\n\nOpenAI error: ", result["error"])
+                if not "error" in result:
+                    completion_tokens = result["usage"]["completion_tokens"]
+                    tokens_per_second = completion_tokens/(time_1-time_0)
+                    # todo: add checkpoint if the prompt is in the generated text and if so, run again
+                    # I think this is happening in function generate()
+                    return tokens_per_second, result["choices"][0]["message"]["content"]  # result["choices"][0]["text"]
+                else:
+                    print("\n\nOpenAI error: ", result["error"])
 
-                elif response.status_code < 500:
-                    print("\n\nHTTP ERROR:", response.status_code)
+            elif response.status_code < 500:
+                print("\n\nHTTP ERROR:", response.status_code)
 
-                    if response.status_code == 400:
-                        print(f"\nPrompt:\n{prompt}\n############################\n")
+                if response.status_code == 400:
+                    print(f"\nPrompt:\n{messages}\n############################\n")
 
-                    try:
-                        error_dict = response.json()
-                        print(error_dict)
-                    except:
-                        pass
-                    exit()
-
-
-                else:  # Serverside errors (<500)
-                    time.sleep(1.2 ** i)  # exponential increase between failed requests, last request waits for approx. 5 seconds
-
-            print("##########\nGeneration failed")
-            print("\n\nHTTP ERROR:", response.status_code)
-            try:
-                print(f"Reason: {response.reason}")
-            except:
-                pass
-            exit()
+                try:
+                    error_dict = response.json()
+                    print(error_dict)
+                except:
+                    pass
+                exit()
 
 
-def truncate_texts(machine_text, human_text, tokenizer):
+            else:  # Serverside errors (<500)
+                time.sleep(1.2 ** i)  # exponential increase between failed requests, last request waits for approx. 5 seconds
 
-    machine_text_tok_list = tokenizer.token_list(machine_text)
-    human_text_tok_list = tokenizer.token_list(human_text)
+        print("##########\nGeneration failed")
+        print("\n\nHTTP ERROR:", response.status_code)
+        try:
+            print(f"Reason: {response.reason}")
+        except:
+            pass
+        exit()
 
-    min_length = min(len(machine_text_tok_list), len(human_text_tok_list))
 
-    return " ".join(machine_text_tok_list[:min_length]), " ".join(human_text_tok_list[:min_length]), min_length
+# Todo: here go without it, and then make a separate script, that truncates all 4 versions to the same length
+# def truncate_texts(machine_text, human_text, tokenizer):
+#
+#     machine_text_tok_list = tokenizer.token_list(machine_text)
+#     human_text_tok_list = tokenizer.token_list(human_text)
+#
+#     min_length = min(len(machine_text_tok_list), len(human_text_tok_list))
+#
+#     return " ".join(machine_text_tok_list[:min_length]), " ".join(human_text_tok_list[:min_length]), min_length
 
+# todo: rewrite to work with new prompting system
+def generate(model, prompt_template, prompt_text, temp, freq_pen, min_len=500):
+    """Generates a text using the model and given parameters.
+    Asks for more if the min_len is not reached
+    @:return tokens_per_second [float]: estimated generations speed in tokens per second
+    @:return text[str]: generated text, untokenized"""
 
-def generate(model, prompt, lang, min_len = 500):
-    
-    # print(f"\ngenerating, iteration num: {iter}", end="\r")
-    tokenizer = Tokenizer(lang)
-    tokens_per_second, text = model.generate(prompt)
-    num_toks, _ = tokenizer.tokenize_text(text)
+    # create messages from the template, i.e. start conversation
+    intext = " ".join(prompt_text.split()[:1000])  # truncate it if too long
+    prompt_filled = copy.deepcopy(prompt_template)
+    prompt_filled[1]["content"] = prompt_filled[1]["content"].format(intext=intext)  # fill in the text where needed
+    messages = prompt_filled[:2]
 
+    # generate a first time, save tokens per second
+    tokens_per_second, new_text = model.generate(messages, temp, freq_pen)
+    gen_text = new_text.replace(prompt_text, "")  # remove prompt text, if it was repeated
+    num_toks = len(gen_text.split())
+
+    # add text until long enough
     while num_toks < min_len:
+        # add the assistant response to the messages, always redo, so we have a max of 3 conversation inputs
+        # [{role: "system", content: "Your are this and that"},
+        # {role:"user", content: "initial prompt"},
+        # {role:"system", content: "so far generated text"},
+        # {role: "user", content: "additional prompt"}]
+        messages = prompt_filled[:2]
+        # add the so far generated text
+        messages.append({
+            "role": "assistant", "content": gen_text
+        })
+        # add the additional prompt:
+        messages.append(prompt_template[2])
 
+        # generate again
+        _, new_text = model.generate(messages, temp, freq_pen)
+        # check if the prompt is included (unlikely, but better save than sorry)
+        new_text = new_text.replace(prompt_text, "")
+        # save the full text that was generated so far
+        # check if the model put the beginning from the prompt into the text
+        if gen_text in new_text:
+            gen_text = new_text
+        else:
+            gen_text += " " + new_text
+        num_toks = len(gen_text.split())
 
-        prompt += text
-        text += model.generate(prompt)[1]
-        num_toks, _ = tokenizer.tokenize_text(text)
+    return tokens_per_second, gen_text
 
-    # print("", end="\r\r")
-    return tokens_per_second, text
-
-
-def write_texts(machine, human, filename, outfolder):
-    """ write the two text file in two folders "machine" and "human"""
-    outfolders = [f"{outfolder}/machine", f"{outfolder}/human"]
-    for text, folder in zip([machine, human], outfolders):
-        if not os.path.exists(folder):
-            os.makedirs(folder)
-        filepath = f"{folder}/{filename}"
-        with open(filepath, "w", encoding="utf-8") as outfile:
-            outfile.write(text)
-
-def get_prompt(lang, prompt_file=None):
-    """Returns the prompt, either from a file, or creates the simple prompt"""
-    if prompt_file:
-        with open(prompt_file, "r", encoding="utf-8") as infile:
-            prompt_source = infile.read()
-    else:
-        if lang == "en":
-            prompt_source = "Complete the following text:\n<title>\n\n<prompt>"
-        if lang == "de":
-            prompt_source = "Vervollständige den folgenden text:\n<title>\n\n<prompt>"
-
-    return prompt_source
-
-
-def get_formatted_texts(filename, source_dict, prompt_source, model, tokenizer, time_log = False):
-
+def update_num_toks_in_filename(text, filename):
+    """naive estimate of the number of tokens for the new filename"""
     year, title, _, lang = parse_filename(filename)
-
-    prompt = re.sub("<title>", source_dict[filename]["title"], prompt_source)
-    prompt = re.sub("<prompt>", source_dict[filename]["prompt"], prompt)
-    tokens_per_second, machine_text = generate(model, prompt, lang)
-    if time_log:
-        with open(completion_filepath, "a", encoding="utf-8") as outfile:
-            outfile.write(f"{tokens_per_second},{datetime.now().strftime('%H-%M-%S')}\n")
-
-    # truncate and tokenize the texts
-    machine, human, num_toks = truncate_texts(machine_text, source_dict[filename]["text"], tokenizer)
-
+    num_toks = len(text.split())
     if year:
         new_filename = f"{year}-{title}_{num_toks}_{lang}.txt"
     else:  # The GGPONC corpus has no years,
         new_filename = f"{title}_{num_toks}_{lang}.txt"
+    return new_filename
 
-    return machine, human, new_filename
+# todo: new folder structure, machine has additional subfolders "continue, explain and create"
+# def write_texts(machine, human, outfolder, prompt_type, filename):
+#     """ write the two text file in two folders "machine" and "human"""
+#     outfolders = [f"{outfolder}/machine/{prompt_type}", f"{outfolder}/human"]
+#     for text, folder in zip([machine, human], outfolders):
+#         if not os.path.exists(folder):
+#             os.makedirs(folder)
+#         new_filename = update_num_toks_in_filename(text, filename)
+#         filepath = f"{folder}/{new_filename}"
+#         with open(filepath, "w", encoding="utf-8") as outfile:
+#             outfile.write(text)
+
+def write_text(text, filename, outfolder, prompt_type):
+    """write the generated text"""
+    filepath = os.path.join(outfolder, "machine", prompt_type, filename)
+    with open(filepath, "w", encoding="utf-8") as outfile:
+        outfile.write(text)
+
+# todo: Rewrite to make it take the prompts.json as input
+# Arguments should be corpus:str, type:str (!! find better variable name, it should be "continue, explain, create"
+# additionalprompt=False In case it is asking form more text.
+# def get_prompt(prompt_template, text, messages=[]):
+#     """returns the list of messages that are to be sent to the api"""
+#
+#     if not messages:  # add the system description and the first message
+#         # fill in the text where needed, truncate it if too long
+#         intext = " ".join(text.split()[:1000])
+#         prompt_template[1]["content"].format(intext=intext)
+#         messages += prompt_template[:2]
+#     else:  # just add the auxiliary prompt to the conversation
+#         messages.append(prompt_template[2])
+#
+#     return messages
+    # """Returns the prompt, either from a file, or creates the simple prompt"""
+    # if prompt_file:
+    #     with open(prompt_file, "r", encoding="utf-8") as infile:
+    #         prompt_source = infile.read()
+    # else:
+    #     if lang == "en":
+    #         prompt_source = "Complete the following text:\n<title>\n\n<prompt>"
+    #     if lang == "de":
+    #         prompt_source = "Vervollständige den folgenden text:\n<title>\n\n<prompt>"
+    #
+    # return prompt_source
+
+
+def generate_from_filename(filename):
+    """function to generate from a single file
+    to use in a for-loop or on a single file below"""
+    global temp
+    global freq_pen
+    global source_dict
+    global model
+    global prompt_template
+    global time_log
+    global min_len
+
+    # define the prompt text:
+    if prompt_type == "continue" or prompt_type == "create":
+        prompt_text = f"{source_dict[filename]['title']}\n\n{source_dict[filename]['prompt']}"
+    else:
+        prompt_text = f"{source_dict[filename]['text']}"
+
+
+    tokens_per_second, machine_text = generate(model, prompt_template, prompt_text, temp, freq_pen, min_len)
+    if time_log:
+        with open(completion_filepath, "a", encoding="utf-8") as outfile:
+            outfile.write(f"{tokens_per_second},{datetime.now().strftime('%H-%M-%S')}\n")
+
+    # save the generated text in the appropriate folder
+    new_filename = update_num_toks_in_filename(machine_text, filename)
+    folder = os.path.join(outfolder, "machine", prompt_type)
+    if not os.path.exists(folder):
+        os.makedirs(folder)
+    filepath = os.path.join(folder, new_filename)
+    with open(filepath, "w", encoding="utf-8") as outfile:
+        outfile.write(machine_text)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("model", type=str, choices=["gpt-3.5-turbo"], help="OpenAI model to use, takes api-key form environment varialbe called"
-                                                                           "OPENAI_KEY and optionally ORG_ID")
+    parser = argparse.ArgumentParser(description="Generate with the OpenAI API. The API key needs to be specified as an environment variable called 'OPENAI_KEY'"
+                                                 "If needed the organization's ID needs to be specified as 'ORG_ID'")
+    parser.add_argument("model", type=str, choices=["gpt-3.5-turbo", "gpt-3.5-turbo-16k"], help="OpenAI model to use")
     parser.add_argument("source_file", type=str, help="Filepath of the JSON file with the human texts in following format:"
                                                         "{filename:{'title': '...', 'prompt': '...', 'text': '...'}}")
-    parser.add_argument("lang", type=str, choices=["de", "en"], help="language")
-    parser.add_argument("--prompt_file", type=str, default="", help="File containing the prompt. The prompt can include placeholders"
-                                                        "<title> and <prompt> for including text from the human files.")
+    parser.add_argument("corpus", type=str, choices=["20min", "cnn", "cs_en", "cs_de", "e3c", "GGPONC", "pubmed_de", "pubmed_en", "zora_de", "zora_en"])
 
-    parser.add_argument("--outfolder", type=str, default="")
+    # todo: add description of prompts.json
+    parser.add_argument("--prompt_file", type=str, default="", help="Json file containing the prompts. If it is not given a default 'continue-prompt' will be used.")
+    parser.add_argument("--prompt_type", type=str, choices=["continue", "explain", "create"], default="continue")
+    parser.add_argument("--outfolder", type=str, default="", help="In this directory a subdirectory 'machine' will be created (if it does not yet exist),"
+                                                                  "with a further subdirectory for the prompt type")
     parser.add_argument("--start_from", type=int, default=0, help="If part of the files are already done, this is the one to start from")
-    parser.add_argument("--time_log", type=str, default="", help="create a csv file, saving the completion time in "
-                                                                "tokens per second for each text of the corpus. Provide the domain name [20min, cnn, etc] here.")
-    parser.add_argument("--one_file", default="", type=str, help="just generate one specific file. "
-                                                     "give the filename that will be found in the json_file")
+    # todo: we have the corpus name somewhere esle, so here we can directly specify the folder
+    parser.add_argument("--time_log", type=str, default="", help="create a csv file to save the completion time."
+                                                                "Provide the folder in which to save the file here")
+    parser.add_argument("--one_file", default="", type=str, help="generate just one file. "
+                                                     "provide the filename that will be found in the json_file")
+    parser.add_argument("--temp", type=int, default=1, help="Temperature parameter for GPT")
+    parser.add_argument("--freq_pen", type=int, default=1, help="Frequency penalty, parameter for GPT")
+    parser.add_argument("--min_len", type=int, default=500, help="minimum length of the generated texts")
+
     args = parser.parse_args()
+
+
     model_name = args.model
     source_file = args.source_file
-    lang = args.lang
+    corpus = args.corpus
+    prompt_type = args.prompt_type
     prompt_file = args.prompt_file
     outfolder = args.outfolder
     start_from = args.start_from
+    time_log = args.time_log
+    one_file = args.one_file
+    temp = args.temp
+    freq_pen = args.freq_pen
+    min_len = args.min_len
+
+    # infer lang from corpus
+    corpora_de = ["20min", "cs_de", "GGPONC", "pubmed_de", "zora_de"]
+    lang = "de" if corpus in corpora_de else "en"
 
     # open the specified source file
     with open(source_file, "r", encoding="utf-8") as infile:
         source_dict = json.load(infile)
 
     # Open the prompt file, if specified, otherwise apply a simple prompt
-    prompt_source = get_prompt(lang, prompt_file)
+    if prompt_file:
+        with open(prompt_file, "r", encoding="utf-8") as infile:
+            prompt_dict = json.load(infile)
+    else:  # default version of the prompt (simple continue)
 
+        prompt_dict = {
+            f"{corpus}":{
+                f"{prompt_type}": [
+                    {
+                      "role": "system",
+                      "content": ""
+                    },
+                    {
+                      "role": "user",
+                      "content": "Continue the following text: {intext}" if lang == "en" else "Vervollständige den folgenden text: {intext}"
+                    },
+                    {
+                      "role": "user",
+                      "content": "Continue generating the text" if lang == "en" else "Fahre mit der Erstellung des Textes fort."
+                    }
+                  ],
+            }
+        }
+
+    prompt_template = prompt_dict[corpus][prompt_type]
 
     # Initialize the specified model
     api_key = os.getenv("OPENAI_KEY")
@@ -189,28 +310,27 @@ if __name__ == "__main__":
     tokenizer = Tokenizer(lang)
 
     # make default output directory
-    # save only the day in the filename and then add the time as a second column
     if not outfolder:
         outfolder = "output" + datetime.now().strftime("%Y-%m-%d")
 
+
+    # todo: count generated / billed tokens
     # record completion time
-    completion_filename = args.time_log + datetime.now().strftime("%Y-%m-%d") + ".csv"
-    completion_filepath = os.path.join("completion_time", completion_filename)
+
     if args.time_log:
-        if not os.path.exists("completion_time"):
-            os.makedirs("completion_time")
-        if not os.path.exists(completion_filepath):
-            with open(completion_filepath, "w", encoding="utf-8") as outfile:
-                outfile.write("Completion time in Tokens per second,time of the call in H-M-S\n")
+        completion_filename = corpus + datetime.now().strftime("%Y-%m-%d") + ".csv"
+        completion_filepath = os.path.join(time_log, completion_filename)
+        if not os.path.exists(time_log):
+            os.makedirs(time_log)
+        with open(completion_filepath, "w", encoding="utf-8") as outfile:
+            outfile.write("Completion time in Tokens per second,time of the call in H-M-S\n")
 
     if args.one_file:
-        machine, human, new_filename = get_formatted_texts(args.one_file, source_dict, prompt_source, model, tokenizer,
-                                                           args.time_log)
-        write_texts(machine, human, new_filename, outfolder)
+
+        generate_from_filename(one_file)
     else:
         # Go over all the documents
         for filename in tqdm(list(source_dict.keys())[start_from:]):
-            machine, human, new_filename = get_formatted_texts(filename, source_dict, prompt_source, model, tokenizer,
-                                                               args.time_log)
-            write_texts(machine, human, new_filename, outfolder)
+            generate_from_filename(filename)
+
 
