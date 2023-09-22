@@ -222,7 +222,7 @@ def generate_from_filename(filename):
     tokens_per_second, machine_text = generate(model, prompt_template, prompt_text, temp, freq_pen, min_len)
     if time_log:
         with open(completion_filepath, "a", encoding="utf-8") as outfile:
-            outfile.write(f"{tokens_per_second},{datetime.now().strftime('%H-%M-%S')}\n")
+            outfile.write(f"{tokens_per_second},{prompt_type},{datetime.now().strftime('%H-%M-%S')}\n")
 
     # save the generated text in the appropriate folder
     new_filename = update_num_toks_in_filename(machine_text, filename)
@@ -327,8 +327,10 @@ if __name__ == "__main__":
         completion_filepath = os.path.join(time_log, completion_filename)
         if not os.path.exists(time_log):
             os.makedirs(time_log)
-        with open(completion_filepath, "w", encoding="utf-8") as outfile:
-            outfile.write("Completion time in Tokens per second,time of the call in H-M-S\n")
+        # create the new file, if it exists already (i.e. we have generated some texts earlier today) it will just append
+        if not os.path.exists(completion_filepath):
+            with open(completion_filepath, "w", encoding="utf-8") as outfile:
+                outfile.write("Completion-time,prompt-type,time of the call in H-M-S\n")
 
     if args.one_file:
 
