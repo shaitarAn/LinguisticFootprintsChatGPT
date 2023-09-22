@@ -46,7 +46,10 @@ for top_directory in os.listdir(png_directory):
             new_image.paste(list_of_images[3], (w, h))
             new_image.paste(list_of_images[4], (0, h*2))
             new_image.paste(list_of_images[5], (w, h*2))
-            # new_image.paste(list_of_images[5], (0, h))
+            new_image.paste(list_of_images[6], (0, h*3))
+            new_image.paste(list_of_images[7], (w, h*3))
+            new_image.paste(list_of_images[8], (0, h*4))
+            new_image.paste(list_of_images[9], (w, h*4))
 
             # save it
             new_image.save(f'{output_dir}/{top_directory}.png')

@@ -105,8 +105,8 @@ def count_oov_words(doc, system):
     if not os.path.exists(f"../output_truncated/oov/"):
         os.makedirs(f"../output_truncated/oov/")
     with open(f"../output_truncated/oov/{corpus}_{params}.txt", "a") as f:
-        f.write("--------------------\n")
-        f.write(f"{system}\n")
+        # f.write("--------------------\n")
+        # f.write(f"{system}\n")
         for token in doc:
             if token.is_oov:
                 f.write(token.text+"\n")
@@ -114,7 +114,7 @@ def count_oov_words(doc, system):
 
 def main():
 
-    if corpus in ["cnn", "e3c", "zora_en", "pubmed_en"]:
+    if corpus in ["cnn", "e3c", "zora_en", "pubmed_en", "cs_en"]:
         lang = 'en'
     else:
         lang = 'de'
@@ -147,6 +147,7 @@ def main():
 
                     connectives = extract_connectives(lang, os.path.join(f"../output_truncated/{corpus}", file_name))
                     total_connectives = sum([connectives[key]['lower'] + connectives[key]['capitalized'] for key in connectives])
+                    uppper_connectives = sum([connectives[key]['capitalized'] for key in connectives])
 
                     # print(connectives)
 
@@ -170,6 +171,7 @@ def main():
 
                     # add a column with the number of connectives
                     df['connectives'] = total_connectives
+                    df['connectives_cap'] = uppper_connectives
 
                     #  drop column "text"
                     df.drop(columns=['text'], inplace=True)

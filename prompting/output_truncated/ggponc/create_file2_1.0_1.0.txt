@@ -44,4 +44,7 @@ Aufgrund des lokal begrenzten Urothelkarzinoms wird folgende Therapie empfohlen:
 Die exophytische Tumorläsion wird mittels transurethraler Resektion entfernt. Das entnommene Gewebe wird histopathologisch untersucht, um den Grad der Differenzierung und das Stadium des Karzinoms zu bestimmen.
 
 2. Adjuvante intravesikale Chemotherapie:
-Nach der transurethralen Resektion des Tumors erhält Herr Müller eine adjuvante intravesikale Chemotherapie mit Mitomycin C, um eventuell verbliebene Blasentumorzellen abzutöten und das Risiko eines lokalen Rezidivs
+Nach der transurethralen Resektion des Tumors erhält Herr Müller eine adjuvante intravesikale Chemotherapie mit Mitomycin C, um eventuell verbliebene Blasentumorzellen abzutöten und das Risiko eines lokalen Rezidivs zu reduzieren.
+
+3. Follow-up:
+Herr Müller wird einem regelmäßigen Follow-up-Programm unterzogen, um das Ansprechen auf die Behandlung und mögliche Rückfälle zu überwachen. Dies beinhaltet regelmäßige zystoskopische Untersuchungen und Kontrollen

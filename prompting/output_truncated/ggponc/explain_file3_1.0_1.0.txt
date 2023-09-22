@@ -12,4 +12,6 @@ Für intrahepatische Gallengangskarzinome (Krebs in den Gallengängen innerhalb 
 
 Die Frage nach dem technischen Vorgehen bei der präoperativen Drainage ist ebenfalls noch nicht geklärt. Es gibt widersprüchliche Ergebnisse bezüglich auftretender Komplikationen und Erfolgsraten, wobei letztere bei perkutaner transhepatischer Cholangiendrainage (PTCD) etwas höher zu sein scheinen als bei endoskopischer retrograder Cholangiopankreatikographie (ERCP).
 
-Es wurden zwei Metaanalysen mit bis zu vier retrospektiven nicht-randomisierten Studien durchgeführt. Diese zeigen eine vergleichbare oder leicht höhere Morbidität nach ERCP im Vergleich zur PTCD. Eine randomisierte Studie musste
+Es wurden zwei Metaanalysen mit bis zu vier retrospektiven nicht-randomisierten Studien durchgeführt. Diese zeigen eine vergleichbare oder leicht höhere Morbidität nach ERCP im Vergleich zur PTCD. Eine randomisierte Studie musste vorzeitig abgebrochen werden, da in der PTCD-Gruppe eine signifikant höhere Gesamtmortalität festgestellt wurde. Allerdings wurde bei 56% der Patienten zusätzlich zur ERCP auch noch eine PTCD-Drainage durchgeführt.
+
+Auch

@@ -17,4 +17,4 @@ Histopathologischer Befund:
 Die histopathologische Untersuchung des Resektats bestätigte die Diagnose eines Pankreaskarzinoms. Es handelte sich um ein duktales Adenokarzinom. Die Größe des Tumors betrug 3,5 cm. Es wurden keine Lymphknotenmetastasen gefunden. Bei der Beurteilung des Resektionsstatus zeigte sich, dass der zirkumferentielle Resektionsrand in allen drei Bereichen (vorderer, medialer und hinterer Resektionsrand) tumorinfiltriert war, was zu einer R1-Situation führte. Die hintere Fläche des Prozessus uncinatus war ebenfalls tumorinfiltriert.
 
 Therapie und Prognose:
-Basierend auf dem histopathologischen Befund und der R1-Situation wurde die weitere Therapieplanung mit dem interdisziplinären Tumorboard besprochen.
+Basierend auf dem histopathologischen Befund und der R1-Situation wurde die weitere Therapieplanung mit dem interdisziplinären Tumorboard besprochen. Es wurde beschlossen, dass Herr Schmidt eine adjuvante Chemotherapie mit Gemcitabin beginnen sollte, um das Risiko eines lokalen oder systemischen Rezidivs zu verringern. Die Behandlung wurde engmaschig

@@ -1,31 +1,34 @@
 Klinischer Fall: Präoperative biliäre Drainage bei einem Patienten mit hilärem Cholangiokarzinom
 
 Patient:
-Herr Müller, 62 Jahre alt, präsentiert sich mit Ikterus, Gewichtsverlust und allgemeiner Schwäche. Er hat keine relevanten Vorerkrankungen und ist Nichtraucher.
+Herr Müller, 62 Jahre alt, präsentiert sich in der Klinik mit rezidivierenden Schmerzen im rechten Oberbauch und Gewichtsverlust von 5 kg in den letzten drei Monaten. Er hat eine Vorgeschichte von chronischer Hepatitis B-Infektion und wurde vor zwei Jahren wegen einer Leberzirrhose diagnostiziert.
 
 Anamnese:
-Der Patient berichtet über eine zunehmende Gelbsucht in den letzten Wochen sowie unerklärlichen Gewichtsverlust von etwa 5 kg. Er fühlt sich schwach und hat keinen Appetit. Es gibt keine Hinweise auf Fieber oder Bauchschmerzen.
+Herr Müller berichtet über anhaltende Müdigkeit, Appetitlosigkeit und Übelkeit. Er gibt an, dass die Schmerzen im rechten Oberbauch zunehmend stärker geworden sind und sich bis in den Rücken erstrecken. Es besteht kein Fieber oder Gelbsucht.
 
-Untersuchungsbefunde:
-Bei der körperlichen Untersuchung zeigt sich ein deutlicher Ikterus der Haut und Skleren. Der Bauch ist weich, nicht druckempfindlich und es sind keine tastbaren Raumforderungen zu spüren. Die Laborergebnisse zeigen erhöhte Leberwerte (Bilirubin: 4 mg/dl; ALAT: 120 U/l; ASAT: 100 U/l) sowie einen erhöhten Tumormarker CA19-9 (500 U/ml).
+Körperliche Untersuchung:
+Bei der körperlichen Untersuchung zeigt Herr Müller eine leichte Ikterus-Sklera sowie Druckschmerzhaftigkeit im rechten Oberbauch. Die übrige körperliche Untersuchung ist unauffällig.
 
-Diagnosestellung:
-Aufgrund der klinischen Symptome, des erhöhten Bilirubinspiegels und des erhöhten CA19-9-Wertes wird ein hiläres Cholangiokarzinom vermutet. Zur weiteren Abklärung wird eine bildgebende Diagnostik durchgeführt.
+Diagnostische Tests:
+Eine Ultraschalluntersuchung des Abdomens zeigt eine Dilatation der intrahepatischen Gallengänge sowie einen Tumor am Übergang zwischen dem extrahepatischen Gallengangssystem und dem Pankreasgang. Eine CT-Untersuchung bestätigt diese Befunde und zeigt zusätzlich multiple Lymphknotenvergrößerungen entlang des hepatobiliären Systems.
 
-Bildgebung:
-Eine abdominale Sonographie zeigt eine Dilatation der intrahepatischen Gallengänge sowie einen Verschluss des extrahepatischen Gallengangs im Bereich des Hilus hepatis. Eine anschließende MRCP (Magnetresonanz-Cholangiopankreatikographie) bestätigt den Verdacht auf ein hiläres Cholangiokarzinom.
+Diagnose:
+Basierend auf den klinischen Symptomen und den bildgebenden Befunden wird bei Herrn Müller ein hiläres Cholangiokarzinom diagnostiziert.
 
-Therapieentscheidung:
-Aufgrund der Diagnose eines hilären Cholangiokarzinoms wird eine kurativ intendierte Resektion angestrebt. Da etwa 25% bis 35% der Patienten mit einem hilären Cholangiokarzinom Kandidaten für eine präoperative biliäre Drainage sind, wird auch bei Herrn Müller eine solche in Erwägung gezogen.
+Behandlungsentscheidung:
+Da eine kurativ intendierte Resektion möglich ist, wird eine präoperative biliäre Drainage (PBD) in Erwägung gezogen. Die Entscheidung für die PBD basiert auf der Tatsache, dass etwa 25% bis 35% der Patienten mit hilärem Cholangiokarzinom Kandidaten für diese Behandlungsoption sind.
 
-Präoperative biliäre Drainage:
-Die Entscheidung zur präoperativen biliären Drainage hängt von verschiedenen Faktoren ab, darunter das Behandlungsziel und die Lokalisation des Gallenwegverschlusses. Bei einem hilären Cholangiokarzinom kann eine PBD in Betracht gezogen werden, um die Symptome des Gallenstaus zu lindern und die Leberfunktion vor der geplanten Resektion zu verbessern.
+Durchführung der präoperativen biliären Drainage:
+Unter radiologischer Kontrolle wird bei Herrn Müller eine perkutan-transhepatische biliäre Drainage (PTBD) durchgeführt. Dabei wird ein Katheter in den Gallengang eingebracht, um den Gallenfluss zu verbessern und die Symptome zu lindern. Die PTBD ermöglicht auch die Entnahme von Gewebeproben zur weiteren Diagnosestellung und Bestimmung des Tumorstadiums.
 
-Entsprechend den medizinischen Leitlinien kann die PBD perkutan-transhepatisch, transpapillär oder transgastrisch/transduodenal erfolgen. In diesem Fall wird aufgrund der Lokalisation des Verschlusses im Bereich des Hilus hepatis eine perkutan-transhepatische Drainage empfohlen.
+Nachbehandlung:
+Herr Müller erholt sich gut von dem Eingriff und erfährt eine deutliche Linderung seiner Schmerzen sowie eine Verbesserung seines Allgemeinzustands. Nach Abschluss aller diagnostischen Untersuchungen wird er als geeigneter Kandidat für eine kurative Resektion eingestuft.
 
-Der Patient wird über den Nutzen und mögliche Risiken einer präoperativen biliären Drainage aufgeklärt. Nach Zustimmung zur Durchführung erfolgt die Platzierung einer perkutan-transhepatischen Drainage unter radiologischer Kontrolle.
+Resektion des Cholangiokarzinoms:
+Eine Woche nach der PTBD wird bei Herrn Müller eine partielle hepatische Lobektomie durchgeführt, um den Tumor vollständig zu entfernen. Der postoperative Verlauf verläuft komplikationslos und Herr Müller kann das Krankenhaus nach einer Woche verlassen.
 
-Nach erfolgreicher Entlastung des Gallenstaus und Verbesserung der Leberfunktion wird der Patient zur weiteren Diagnostik und Planung der kurativen Resektion an ein spezialisiertes Zentrum überwiesen.
+Nachsorge:
+Herr Müller wird regelmäßig zur Nachsorgeuntersuchungen bestellt, um eine mögliche Tumorrezidiv oder Metastasierung frühzeitig zu erkennen. Er erhält auch eine antivirale Therapie zur Kontrolle seiner chronischen Hepatitis B-Infektion und wird von einem interdisziplinären Team betreut, bestehend aus Onkologen, Gastroenterologen und Hepatologen.
 
 Fazit:
-Die präoperative biliäre Drainage kann bei ausgewählten Patienten mit hilärem Cholangiokarzinom eine sinnvolle Maßnahme sein, um die Symptome des Gallenstaus zu lindern und die Leberfunktion vor einer geplanten Resektion zu verbessern. Die Entscheidung zur Durchführung sollte jedoch individuell unter Berücksichtigung des Behandlungsziels, der Lokalisation des Verschlusses und möglicher Risiken getroffen werden.
+Die präoperative biliäre Drainage ist eine wichtige Behandlungsoption bei Patienten mit hilärem Cholangiokarzinom, die für eine kurative Resektion in Frage kommen. Sie ermöglicht die Verbesserung der Symptome und erleichtert den chirurgischen Eingriff. Eine enge Zusammenarbeit zwischen verschiedenen Fachdisziplinen ist entscheidend, um den Patienten optimal zu behandeln und die besten Ergebnisse zu erzielen.

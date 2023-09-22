@@ -10,4 +10,6 @@ Metaanalysen und systematische Reviews zeigen, dass die Sensitivität der NMP22-
 
 Die Spezifität des NMP22-Tests kann durch den Ausschluss bestimmter klinischer Bedingungen wie Steine, Infektionen, Entzündungen oder Hämaturie erhöht werden. Eine andere Studie untersuchte die Vorhersagewahrscheinlichkeit eines positiven NMP22-Tests bei negativer Urinzytologie und fand eine prädiktive Wahrscheinlichkeit von 67,5% für das Alter und 71,3% für den NMP22-Test.
 
-Es werden auch andere Urinmarker beschrieben, wie das Blasentumor assoziierte Antigen (hCFHrp), das durch semiquantitative bzw. qualitative Tests nachgewiesen werden kann und
+Es werden auch andere Urinmarker beschrieben, wie das Blasentumor assoziierte Antigen (hCFHrp), das durch semiquantitative bzw. qualitative Tests nachgewiesen werden kann und als Zusatzverfahren zur Zystoskopie bei der Primärdiagnostik von der FDA zugelassen ist. Die Sensitivität und Spezifität dieser Tests sind ähnlich wie bei der Urinzytologie.
+
+Weitere Urinmarker, wie Survivin,

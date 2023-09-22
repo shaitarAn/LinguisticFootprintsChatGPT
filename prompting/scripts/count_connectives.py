@@ -93,7 +93,7 @@ def main():
     for subdirectory in os.listdir(root):
         # itarate over files in subdirectory
         corpus = subdirectory
-        if corpus in ['20min', 'GGPONC', "pubmed_de", "zora_de"]:
+        if corpus in ['20min', 'GGPONC', "pubmed_de", "zora_de", "cs_de"]:
             lang = 'de'
         else:
             lang = 'en'

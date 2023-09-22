@@ -22,4 +22,4 @@ Dieser Text bezieht sich auf die Behandlung von Sarkomen, speziell auf die adjuv
 
 11. Im Gegensatz zu anderen Tumorentitäten sind negative Auswirkungen eines langen Intervalls zwischen Chirurgie und Behandlungsbeginn bei Sarkomen nicht gut belegt. Daher wird empfohlen, die Strahlentherapie innerhalb von 6 Wochen nach Resektion zu beginnen.
 
-12.
+12. Eine adjuvante Brachytherapie kann 5 Tage nach der Operation begonnen werden, ein früherer Beginn kann jedoch mit einem erhöhten Risiko für akute Komplikationen verbunden sein.

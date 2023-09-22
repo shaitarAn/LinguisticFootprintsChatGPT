@@ -2,13 +2,13 @@
 
 #  example: ./run_pipeline.sh 
 
-for temp in 0.0 0.7 1.0 
+for temp in 1.0 0.7 0.0 
 do
-    for fp in 0.0 1.0
+    for fp in 1.0 0.0
     do
         params=$temp\_$fp
         echo "Running $params"
-        for corpus in 'pubmed_de' 'ggponc' 'cnn' 'pubmed_en' 'e3c' '20min' 'zora_en' 'zora_de'
+        for corpus in 'cs_en' 'cs_de' 'ggponc' '20min' 'pubmed_de' 'pubmed_en' 'ggponc' 'cnn' 'e3c' '20min' 'zora_en' 'zora_de'
         do
 
             echo "Running $corpus"

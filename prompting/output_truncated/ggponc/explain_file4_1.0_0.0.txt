@@ -10,4 +10,6 @@ Der Goldstandard zur Ermittlung der Bedürfnisse ist die Selbstbeurteilung durch
 
 Die Komplexität der Gesamtsituation wird anhand der erfassten Bedürfnisse und Probleme bewertet und in niedrig/mittel oder hoch eingeteilt. Es werden verschiedene Faktoren genannt, die die Komplexität beeinflussen, wie die Intensität von Symptomen, das gleichzeitige Auftreten mehrerer Probleme oder der Funktionsstatus des Patienten.
 
-Die Bewertung der Komplexität ist entscheidend für die Erstellung eines angemessenen Therapie- und Behandlungsplans. Patienten mit hoher Situationskomplexität sollten in der Regel spezialisierte Palliativversorgung erhalten, während bei Patienten mit niedrig/mittlerer Komplexität allgemeine Palliativversorgung ausreichend sein kann. Die Entscheidung darüber sollte jedoch individuell
+Die Bewertung der Komplexität ist entscheidend für die Erstellung eines angemessenen Therapie- und Behandlungsplans. Patienten mit hoher Situationskomplexität sollten in der Regel spezialisierte Palliativversorgung erhalten, während bei Patienten mit niedrig/mittlerer Komplexität allgemeine Palliativversorgung ausreichend sein kann. Die Entscheidung darüber sollte jedoch individuell je nach Patientensituation getroffen werden.
+
+Es wird darauf hingewiesen, dass die Beurteilung der Komplexität durch ein spezialisiertes Palliativversorgungsteam erfolgen sollte, wobei die Durchführung, Erstellung und Auswertung der Bedarfserhebung

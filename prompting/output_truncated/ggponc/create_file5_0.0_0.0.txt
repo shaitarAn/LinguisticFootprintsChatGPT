@@ -1,27 +1,23 @@
-Klinischer Fall: Pankreaskarzinom mit R1-Situation
+Klinischer Fall: Pankreaskarzinom
 
-Patient: Herr Müller, 65 Jahre alt, männlich
+Patient: Herr Müller, 62 Jahre alt, männlich
 
 Anamnese:
-Herr Müller stellt sich mit seit einigen Wochen bestehenden unspezifischen Oberbauchbeschwerden in unserer Klinik vor. Er berichtet über Gewichtsverlust, Appetitlosigkeit und gelegentliche Übelkeit. In der Familienanamnese ist kein erhöhtes Risiko für Pankreaskarzinom bekannt.
+Herr Müller stellt sich mit seit einigen Wochen bestehenden unspezifischen Oberbauchbeschwerden in unserer Klinik vor. Er berichtet über eine Gewichtsabnahme von etwa 5 kg in den letzten Monaten und gelegentliche Übelkeit. Er ist Raucher und konsumiert regelmäßig Alkohol. In der Familienanamnese gibt es keine Hinweise auf eine familiäre Belastung mit Pankreaskarzinom.
 
 Klinischer Befund:
-Bei der körperlichen Untersuchung zeigt sich eine leichte Druckempfindlichkeit im Oberbauch, ansonsten sind keine pathologischen Befunde feststellbar. Die Laborwerte zeigen eine leichte Erhöhung der Leberenzyme und des Tumormarkers CA 19-9.
+Bei der körperlichen Untersuchung zeigt sich ein unauffälliger Allgemeinzustand. Der Bauch ist weich, ohne Druckschmerzhaftigkeit oder tastbare Raumforderungen. Die Laborwerte zeigen eine leichte Erhöhung der Leberenzyme und des Bilirubins.
 
 Diagnostik:
-Zur weiteren Abklärung wird eine abdominale Sonographie durchgeführt, die eine Raumforderung im Pankreaskopf zeigt. Zur weiteren Charakterisierung erfolgt eine kontrastmittelverstärkte CT-Untersuchung des Abdomens. Diese bestätigt den Verdacht auf ein Pankreaskarzinom im Bereich des Pankreaskopfes. Es liegen keine Hinweise auf Fernmetastasen vor.
-
-Therapie:
-Aufgrund der Lokalisation des Tumors wird eine Whipple-Operation zur Resektion des Pankreaskopfes, des Duodenums, des Gallengangs und des distalen Magens durchgeführt. Während der Operation wird der zirkumferentielle Resektionsrand in Zusammenarbeit mit dem Chirurgen markiert, um eine R1-Situation zu vermeiden.
+Zur weiteren Abklärung der Oberbauchbeschwerden wird eine Sonographie des Abdomens durchgeführt. Dabei zeigt sich eine Dilatation des Gallengangs und des Pankreasgangs. Eine anschließende CT-Untersuchung bestätigt den Verdacht auf ein Pankreaskarzinom im Bereich des Pankreaskopfs. Es wird eine endoskopische retrograde Cholangiopankreatikographie (ERCP) durchgeführt, um den Gallengang zu entlasten und eine Gewebeprobe zu entnehmen.
 
 Histopathologische Aufarbeitung:
-Das Resektat wird zur histopathologischen Aufarbeitung an die Pathologie übergeben. Hier wird besonders auf die korrekte Klassifikation des Tumors nach den international gültigen R-Kriterien geachtet. Zusätzlich wird der zirkumferentielle Resektionsrand, bestehend aus dem vorderen, medialen und posterioren Resektionsrand, sowie die hintere Fläche des Prozessus uncinatus besonders aufgearbeitet.
+Die Gewebeprobe wird zur histopathologischen Aufarbeitung an das Pathologielabor geschickt. Dort wird das Resektat nach den international gültigen Standards aufgearbeitet. Besonderes Augenmerk liegt auf der Beurteilung des zirkumferentiellen Resektionsrandes, da hier häufig eine R1-Situation vorliegt. Im Rahmen der standardisierten histopathologischen Aufarbeitung wird der zirkumferentielle Resektionsrand im makroskopischen Zuschnitt markiert, in Kooperation mit dem operierenden Chirurgen.
 
-Histopathologischer Befund:
-Die histopathologische Untersuchung des Resektats ergibt ein Pankreaskarzinom im Stadium T3N0M0. Es handelt sich um ein duktal-adenozentrisches Karzinom mit einer Größe von 3 cm. Die Tumorinfiltration reicht bis an den zirkumferentiellen Resektionsrand heran, jedoch ohne Infiltration des umgebenden Gewebes. Es liegen keine Lymphknotenmetastasen vor.
+Das histopathologische Ergebnis zeigt ein Adenokarzinom des Pankreaskopfs mit einer Größe von 3 cm. Es handelt sich um ein duktal infiltrierendes Karzinom mit einer Infiltration des perineuralen Gewebes. Die Tumorinvasion reicht bis an den zirkumferentiellen Resektionsrand heran, wobei jedoch keine Tumorinfiltration des Resektionsrandes vorliegt (R0-Situation). Die hintere Fläche des Prozessus uncinatus wird ebenfalls aufgearbeitet und zeigt keine Tumorinfiltration.
 
-Therapieempfehlung:
-Aufgrund der R1-Situation wird eine adjuvante Chemotherapie mit Gemcitabin empfohlen, um mögliche Mikrometastasen zu behandeln und das Risiko eines Rezidivs zu reduzieren. Eine regelmäßige Nachsorge mit klinischer Untersuchung, Tumormarkerbestimmung und bildgebender Diagnostik wird empfohlen, um ein mögliches Rezidiv frühzeitig zu erkennen.
+Therapie:
+Aufgrund des histopathologischen Befundes wird Herr Müller in unserem interdisziplinären Tumorboard besprochen. Aufgrund der R0-Situation wird eine adjuvante Chemotherapie mit Gemcitabin empfohlen. Herr Müller wird über die Therapieoptionen aufgeklärt und entscheidet sich für die Durchführung der adjuvanten Chemotherapie.
 
-Prognose:
-Die
+Verlauf:
+Herr Müller erhält über einen Zeitraum von 6 Monaten eine adjuvante Chemotherapie mit Gemcitabin. Die Therapie verläuft ohne größere Komplikationen. Nach Abschluss
