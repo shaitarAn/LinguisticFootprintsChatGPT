@@ -1,0 +1,14 @@
+In dem Text werden verschiedene Aspekte der Strahlentherapie bei Sarkomen (Weichgewebstumoren) diskutiert. Hier ist eine Zusammenfassung der wichtigsten Punkte:
+
+- Die Bestrahlung hatte keinen Einfluss auf G1 Sarkome.
+- Analysen aus großen Datenbanken haben gezeigt, dass die adjuvante Strahlentherapie die lokale Rückfallrate reduziert, außer bei kleinen Tumoren mit niedriger Malignität, die weit im Gesunden entfernt wurden.
+- Eine Metaanalyse hat gezeigt, dass die adjuvante Strahlentherapie die lokale Rückfallrate halbiert.
+- Es konnte kein statistisch signifikanter Überlebensvorteil durch die Strahlentherapie nachgewiesen werden.
+- Eine mögliche Ursache für den fehlenden Überlebensvorteil könnte der "prescription bias" sein, also dass Patienten mit hohem Rückfallrisiko eher eine Strahlentherapie erhalten.
+- In Studien mit geringem Bias wurde ein signifikanter Überlebensvorteil durch die adjuvante Strahlentherapie festgestellt.
+- Bei R1-Resektionen (unvollständige Entfernung des Tumors) ist das Risiko für Lokalrezidive erhöht und das Gesamtüberleben schlechter. Eine Nachresektion wird empfohlen, wenn sie chirurgisch möglich ist.
+- Bei atypischen lipomatösen Tumoren konnte eine adjuvante Strahlentherapie nach R0-Rektion (komplette Entfernung des Tumors) keine signifikante Verringerung der Lokalrezidivrate bewirken, nach marginaler Resektion jedoch schon.
+- Der Beginn der postoperativen Strahlentherapie sollte zeitnah erfolgen, etwa 3 Wochen nach der Operation. Ein langes Intervall zwischen Chirurgie und Strahlentherapie kann negative Auswirkungen haben, obwohl dies bei Weichgewebesarkomen nicht gut belegt ist.
+- Die adjuvante Brachytherapie (interne Bestrahlung) wurde in einer Studie 5 Tage nach der Chirurgie begonnen.
+
+Es ist wichtig zu beachten, dass diese Informationen aus den Leitlinien stammen und auf dem aktuellen Stand des Wissens basieren. Es kann jedoch immer neue Forschung geben, die zu neuen Erkenntnissen führt.

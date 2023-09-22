@@ -1,0 +1,27 @@
+Klinischer Fall: Postoperative Strahlentherapie bei einem Weichgewebesarkom
+
+Patient:
+Herr Müller, 55 Jahre alt, ohne relevante Vorerkrankungen
+
+Anamnese:
+Herr Müller stellt sich mit Schmerzen und einer tastbaren Raumforderung im linken Oberschenkel vor. Die Beschwerden bestehen seit etwa drei Monaten und haben sich in den letzten Wochen verschlimmert. Er berichtet von einer allgemeinen Abgeschlagenheit und Gewichtsverlust in den letzten Monaten.
+
+Untersuchungsbefund:
+Bei der körperlichen Untersuchung wird eine schmerzhafte, gut abgrenzbare Raumforderung im linken Oberschenkel festgestellt. Die Haut über der Läsion ist nicht verändert. Es sind keine Lymphknotenvergrößerungen palpabel.
+
+Diagnosestellung:
+Eine MRT-Untersuchung des linken Oberschenkels zeigt eine große, heterogene Raumforderung im Bereich des Musculus quadriceps femoris mit Infiltration des umgebenden Weichgewebes. Eine Biopsie wird durchgeführt und das histologische Ergebnis ergibt ein hochgradiges Weichgewebesarkom (G3).
+
+Therapieentscheidung:
+Aufgrund der Diagnose eines hochgradigen Weichgewebesarkoms entscheidet das interdisziplinäre Tumorboard die Durchführung einer radikalen Resektion der Tumormasse unter Berücksichtigung eines ausreichenden Sicherheitsabstands (R0-Resektion). Aufgrund der hohen Rückfallrate bei dieser Art von Sarkomen wird zusätzlich eine postoperative Strahlentherapie empfohlen.
+
+Behandlung:
+Herr Müller wird einer radikalen Resektion der Tumormasse unterzogen. Die Operation verläuft komplikationslos und es kann eine R0-Resektion erreicht werden. Aufgrund der vorliegenden Studiendaten wird Herr Müller im Anschluss an die Operation einer postoperativen Strahlentherapie unterzogen.
+
+Die Strahlentherapie erfolgt perkutan mit einer Gesamtdosis von 45 Gy in Einzeldosen von 1,8 Gy. Zusätzlich wird ein Boost von 18 Gy in Einzeldosen von 1,8 Gy auf das Operationsgebiet appliziert. Die Behandlung erfolgt über einen Zeitraum von sechs Wochen.
+
+Verlaufskontrollen:
+Herr Müller wird regelmäßig nachbeobachtet, um mögliche Nebenwirkungen der Strahlentherapie zu erfassen und den Verlauf des Sarkoms zu kontrollieren. Nach Abschluss der Therapie zeigt sich eine gute Wundheilung ohne Hinweise auf lokale Rezidive oder Fernmetastasen.
+
+Fazit:
+Die postoperative Strahlentherapie bei Weichgewebesarkomen hat sich in randomisierten Studien als effektive Methode zur Senkung der lokalen Rückfallrate erwiesen. Bei Herrn Müller konnte durch die Kombination aus radikaler Resektion und adjuvanter Strahlentherapie ein günstiger Verlauf erzielt werden, ohne dass es zu einem lokalen Rezidiv kam. Eine regelmäßige Nachsorge ist jedoch weiterhin erforderlich,

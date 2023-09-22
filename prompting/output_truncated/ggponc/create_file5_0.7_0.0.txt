@@ -1,0 +1,31 @@
+Fiktiver klinischer Fall: Pankreaskarzinom
+
+Patienteninformation:
+Name: Herr Müller
+Alter: 60 Jahre
+Geschlecht: männlich
+
+Anamnese:
+Herr Müller präsentiert sich mit fortgeschrittenen Bauchschmerzen, Gewichtsverlust und Verdauungsstörungen in unserer Klinik. In seiner Anamnese gab er an, dass er in den letzten Monaten einen progressiven Gewichtsverlust von etwa 10 kg erlebt hat. Zusätzlich hat er über anhaltende Verdauungsprobleme, wie Übelkeit und Durchfall, geklagt. Er berichtete auch über starke Bauchschmerzen, die hauptsächlich im rechten Oberbauch lokalisiert sind und in den Rücken ausstrahlen. Eine gründliche körperliche Untersuchung ergab einen tastbaren, schmerzhaften Tumor im rechten Oberbauch.
+
+Diagnostische Untersuchungen:
+- Eine Computertomographie (CT) des Abdomens zeigte eine Raumforderung im Pankreaskopf.
+- Ein endoskopisch retrograder Cholangiopankreatikographie (ERCP) ergab eine Obstruktion des Gallengangs.
+- Eine Gewebeprobe wurde durch eine Endoskopie mit Feinnadelaspiration (EUS-FNA) entnommen und histopathologisch untersucht.
+
+Diagnose:
+Basierend auf den histopathologischen Untersuchungsergebnissen wurde bei Herrn Müller ein Pankreaskarzinom diagnostiziert. Der Tumor wurde als duktales Adenokarzinom klassifiziert und befand sich im Pankreaskopf. Es wurde eine Obstruktion des Gallengangs festgestellt.
+
+Behandlung:
+Herr Müller wurde zur weiteren Behandlung an die chirurgische Abteilung überwiesen. Dort wurde ihm eine Whipple-Operation empfohlen, bei der der Tumor zusammen mit einem Teil des Pankreas, des Duodenums, des Gallengangs und der Gallenblase entfernt werden sollte.
+
+Histopathologische Aufarbeitung:
+Im Rahmen der histopathologischen Aufarbeitung des Resektats wurden die international gültigen R-Klassifikationen angewendet. Besonderes Augenmerk wurde auf den zirkumferentiellen Resektionsrand gelegt, da hier häufig eine R1-Situation vorliegt. In Absprache mit dem operierenden Chirurgen wurden die Resektionsgrenzen im makroskopischen Zuschnitt markiert. Der zirkumferentielle Resektionsrand setzte sich aus einem vorderen, medialen und posterioren Resektionsrand bzw. der entsprechenden Resektionsfläche zusammen. Zusätzlich wurde die hintere Fläche des Prozessus uncinatus besonders aufgearbeitet.
+
+Das histopathologische Ergebnis bestätigte die Diagnose eines duktalen Adenokarzinoms im Pankreaskopf. Es wurden keine Lymphknotenmetastasen nachgewiesen, jedoch wurde eine tumorinfiltrierte Resektionsfläche am posterioren Resektionsrand festgestellt, was auf eine R1-Situation hinwies.
+
+Weitere Behandlung:
+Basierend auf den histopathologischen Ergebnissen wurde Herr Müller in die Onkologieabteilung zur weiteren Behandlung überwiesen. Dort wurde eine adjuvante Chemotherapie mit Gemcitabin empfohlen, um das Risiko eines Tumorrezidivs zu reduzieren.
+
+Verlauf:
+Herr

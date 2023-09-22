@@ -1,0 +1,15 @@
+1. Introduction
+
+Sarcopenia, characterized by the progressive loss of muscle mass, strength, and function with aging, poses a significant public health concern among older adults (Cruz-Jentoft et al., 2019). It is associated with increased risk of falls, disabilities, and reduced quality of life (Cruz-Jentoft et al., 2019; Landi et al., 2018). In recent years, there has been growing interest in exploring the potential role of dietary factors in the prevention and management of sarcopenia.
+
+Polyunsaturated fatty acids (PUFAs), particularly omega-3 and omega-6 fatty acids, have received considerable attention due to their diverse physiological functions and potential benefits for musculoskeletal health. PUFAs are essential components of cell membranes and play a crucial role in maintaining cellular integrity and function (Calder et al., 2020). Moreover, they have been implicated in mediating inflammation pathways that are involved in muscle wasting processes (Gao et al., 2017).
+
+While several studies have investigated the association between dietary intake or nutritional status of PUFAs with various health outcomes such as cardiovascular disease or cognitive decline (Del Gobbo et al., 2016; Tanprasertsuk et al., 2020), limited research has focused on their relationship with sarcopenia outcomes in community-dwelling older adults with sarcopenia. Understanding this relationship could provide valuable insights into potential strategies for preventing or managing sarcopenia.
+
+Therefore, the present study aims to explore whether dietary intake and nutritional status of specific PUFAs are correlated with sarcopenia outcomes in community-dwelling older adults with sarcopenia. This study builds upon existing evidence by investigating both dietary PUFA intake using comprehensive food records as well as nutritional PUFA status assessed through red blood cell membrane fatty acid profiles.
+
+To achieve this objective, data from the Exercise and Nutrition for Healthy AgeiNg (ENHANce) trial, an ongoing 5-armed triple blinded randomized controlled trial, will be utilized. The ENHANce trial aims to assess the effect of combined anabolic interventions (protein, omega-3 supplement, and exercise) on physical performance in sarcopenic older adults (> 65 years), compared to single or placebo interventions. Baseline data from the ENHANce trial will be used for a secondary, exploratory, cross-sectional analysis.
+
+By examining the associations between PUFAs intake and status with sarcopenia-defining parameters (muscle strength, mass, and physical performance), as well as physical activity and quality of life measures among older adults with sarcopenia, this study aims to generate new hypotheses regarding the potential role of PUFAs in influencing sarcopenia outcomes.
+
+Understanding these associations could have significant implications for nutritional guidelines targeting older adults at risk of or living with sarcopenia. Moreover, it may provide a basis for developing personalized

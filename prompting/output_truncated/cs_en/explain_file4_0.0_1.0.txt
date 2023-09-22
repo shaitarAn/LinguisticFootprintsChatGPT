@@ -1,0 +1,21 @@
+This news article discusses various aspects of data centers, including their cooling requirements, security measures, power supply backup systems, energy efficiency, and potential locations for future data centers.
+
+The article begins by highlighting the need to cool data centers and ensure their security from both physical and online threats. It mentions that multi-core processors have increased the number of servers in a data center to a huge scale, comparable to a small city in terms of power demand. Data centers are often located in areas with inexpensive electricity and surplus supply.
+
+To prevent complete shutdown in case of power line damage or other issues, data centers have backup power supplies such as rooms full of batteries and diesel generators. These backups provide enough time for the center to shut down properly or work with utility companies towards restoring power.
+
+The article also emphasizes the importance of having multiple data centers spread around the world for large companies like Google, Microsoft, or Amazon. This ensures that if one center faces problems due to natural disasters or other issues, work can be redirected smoothly to other centers.
+
+Energy efficiency is another crucial aspect discussed in the article. The Power Usage Effectiveness (PUE) ratio is mentioned as a measure of energy consumption efficiency. Leading-edge data centers typically run at PUEs around 1.2 or 1.25 compared to higher ratios like 4 or 5 five years ago.
+
+The focus now is on reducing server footprint as it is the most expensive component of running a data center. The LoCal energy project aims at reducing server size and energy consumption when they are not being fully utilized.
+
+The article acknowledges that despite efforts towards energy efficiency and cleaner energy sources by many companies operating clouds like Amazon's EC2, there is still room for improvement.
+
+Regarding future locations for data centers, factors such as customer base, internet connectivity quality/costs play significant roles. Areas along national highway systems tend to have better connectivity due to existing cable infrastructure while regions with cheap hydroelectric power like Washington State are attractive for data center deployment.
+
+The article also mentions the growing demand for internet access in Africa and suggests potential locations like South Africa or Kenya due to reasonable infrastructure, stable economy, good connectivity, and proximity to customers.
+
+The possibility of distributing computing power by placing computers in people's closets is briefly discussed as a potential alternative future. However, the author expresses skepticism about this concept.
+
+In conclusion, the article provides insights into various aspects of data centers including cooling requirements, security measures, backup power systems, energy efficiency efforts, and potential future locations. It highlights the importance of multiple data centers for large companies and discusses challenges and possibilities for improving energy efficiency in data centers.

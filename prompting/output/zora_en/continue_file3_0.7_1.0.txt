@@ -1,0 +1,17 @@
+The study of wordhood in languages has always been a complex and challenging task for linguists. This is particularly true for older Insular Celtic languages like Middle Welsh, which exhibit a large number of bound elements and intricate phonological interactions within morphological and phrasal structures.
+
+Previous research on these languages has suggested that individual words may not play a central role in their grammars. Instead, it has been proposed that the notion of 'word' may be less relevant in understanding the structure and organization of these languages.
+
+In this article, we aim to contribute to the ongoing discussion on wordhood by conducting an extensive investigation into the distribution of phonological and morphological domains within the Middle Welsh verbal complex. We draw upon current typological research on wordhood as well as address the challenges and limitations associated with studying wordhood in corpus languages.
+
+Our findings reveal numerous structures within Middle Welsh that could be considered as 'words' based on various criteria. However, these structures do not align neatly with traditional notions of what constitutes a word in European languages. This leads us to question the usefulness of applying such terminology for synchronic descriptions of Middle Welsh.
+
+In Section 1, we provide an introduction to the topic at hand, outlining the complexities involved in studying wordhood in older Insular Celtic languages like Middle Welsh. We highlight previous research that has raised doubts about traditional conceptions of words in these linguistic systems.
+
+Section 2 presents our methodological approach, explaining how we conducted our investigation into phonological and morphological domains within the Middle Welsh verbal complex. We discuss the challenges faced when working with corpus data and outline our strategies for overcoming them.
+
+In Section 3, we present our findings from this study. We analyze various linguistic structures within Middle Welsh and evaluate their potential categorization as 'words.' Through careful examination, we identify several structures that exhibit characteristics commonly associated with individual words but also acknowledge their divergence from typical European language patterns.
+
+Finally, in Section 4, we discuss the implications of our findings and reflect on the broader significance of reevaluating the concept of 'word' in Middle Welsh. We argue that a more nuanced understanding of wordhood is necessary to accurately describe and analyze the complex linguistic structures present in this language.
+
+Overall, this article contributes to a growing body of research on wordhood by providing a detailed investigation into the distribution of phonological and morphological domains within Middle Welsh. By challenging traditional notions of words in this language, we aim to stimulate further discussion and encourage researchers to adopt more flexible frameworks when studying wordhood in other complex linguistic systems.

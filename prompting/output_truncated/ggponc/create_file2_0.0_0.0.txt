@@ -1,0 +1,37 @@
+Klinischer Fall: Harnblasenkarzinom
+
+Patient: Herr Müller, 62 Jahre alt, männlich
+
+Anamnese:
+Herr Müller stellt sich in der Urologie vor mit Beschwerden beim Wasserlassen. Er berichtet über häufigen Harndrang, Schmerzen beim Wasserlassen und das Vorhandensein von Blut im Urin. Diese Symptome bestehen seit etwa zwei Wochen und haben sich in letzter Zeit verschlimmert. Herr Müller ist Raucher und hat in der Vergangenheit beruflich mit Chemikalien gearbeitet. Er hat keine familiäre Vorgeschichte von Harnblasenkarzinomen.
+
+Körperliche Untersuchung:
+Bei der körperlichen Untersuchung zeigt sich eine unauffällige äußere Genitalregion. Die digitale rektale Untersuchung ergibt keine Auffälligkeiten. Die Blase ist beim Abtasten nicht vergrößert.
+
+Diagnostische Untersuchungen:
+Herr Müller wird zur weiteren Abklärung der Symptome folgenden Untersuchungen unterzogen:
+
+1. Urinanalyse: Im Urin werden rote Blutkörperchen nachgewiesen.
+
+2. Zystoskopie: Bei der Zystoskopie wird ein Tumor im Bereich der Harnblase entdeckt. Eine Biopsie wird entnommen.
+
+3. Histopathologische Untersuchung: Die histopathologische Untersuchung der Biopsie bestätigt das Vorliegen eines Urothelkarzinoms.
+
+4. Uringebundene molekulare Marker: Aufgrund der Diagnose eines Harnblasenkarzinoms wird eine Untersuchung auf uringebundene molekulare Marker durchgeführt. Dabei werden die kommerziellen Testverfahren NMP22®, BTA Stat®/BTA TRAK® und UBC® verwendet.
+
+Ergebnisse:
+Die Untersuchung auf uringebundene molekulare Marker ergibt erhöhte Werte für NMP22® und BTA Stat®/BTA TRAK®. Der Wert für UBC® liegt im normalen Bereich.
+
+Therapie:
+Aufgrund der Diagnose eines Harnblasenkarzinoms wird Herr Müller einer umfassenden Therapie unterzogen. Die Therapieoptionen umfassen:
+
+1. Transurethrale Resektion des Tumors (TUR-B): Der Tumor wird endoskopisch entfernt.
+
+2. Intravesikale Chemotherapie: Nach der TUR-B wird eine Chemotherapie direkt in die Harnblase gegeben, um eventuell verbliebene Krebszellen zu zerstören.
+
+3. Radikale Zystektomie: Bei fortgeschrittenen Tumoren kann eine vollständige Entfernung der Harnblase notwendig sein. In diesem Fall wird eine radikale Zystektomie durchgeführt, bei der die Harnblase, die Prostata (bei Männern) und die umgebenden Lymphknoten entfernt werden. Eine Neoblase kann anschließend konstruiert werden, um den Urinabfluss wiederherzustellen.
+
+4. Adjuvante Chemotherapie: Nach der Operation kann eine adjuvante Chemotherapie empfohlen werden, um das Risiko eines erneuten Auftretens des Tumors zu verringern.
+
+Prognose:
+Die Prognose bei Harnblasenkarzinomen hängt von verschiedenen Faktoren ab, einschließlich des Stadiums

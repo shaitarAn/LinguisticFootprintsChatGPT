@@ -1,0 +1,13 @@
+1. Introduction
+
+The phenomenon of post-head compression in noun phrase referring expressions (NP REs) has been extensively studied in the field of interactive communication. Previous research has shown that language users tend to converge on linguistic forms and shorten their NP REs over the course of a communicative interaction (REF). This process of shortening is often accompanied by structural changes within the NP REs themselves.
+
+While existing studies have focused on the general patterns and tendencies observed in this shortening process, there remains a gap in our understanding regarding how specific factors may influence the extent and nature of post-head compression. In particular, little attention has been given to investigating whether certain contextual variables or individual differences among interlocutors play a role in shaping these structural changes.
+
+Therefore, the aim of this study is to explore how different contextual factors impact post-head compression in NP REs during interactive communication. By examining an experimentally elicited corpus of spoken English, consisting of conversational dyads engaged in a referential communication task involving repeated references to visual stimuli, we seek to uncover any variations or deviations from previously observed patterns.
+
+Specifically, we will investigate whether interlocutors' familiarity with each other affects their tendency to shorten NP REs and if there are any differences between participants who share a close relationship versus those who are less acquainted. Additionally, we will examine whether task complexity influences the degree of post-head compression exhibited by speakers.
+
+By addressing these research questions, this study aims to contribute valuable insights into our understanding of how social dynamics and cognitive demands shape language production during interactive communication. The findings will not only enhance our knowledge about post-head compression but also shed light on broader issues related to linguistic adaptation and information processing strategies employed by individuals engaged in real-time conversations.
+
+The remainder of this paper is organized as follows: Section 2 provides an overview of relevant literature on post-head compression and its underlying mechanisms; Section 3 describes the methodology employed for data collection and analysis; Section 4 presents the results of our investigation; and finally, Section 5 discusses the implications of our findings and suggests avenues for future research.

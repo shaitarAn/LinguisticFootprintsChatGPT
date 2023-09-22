@@ -1,0 +1,9 @@
+The introduction of this Zora article discusses the unique characteristics of the Insular Celtic languages, particularly their sentence structure and phonological and morphological features. It mentions that these languages have been described as having a 'sentence word' or a strong group accent, which affects the individual words in terms of their phonological autonomy. The article also highlights the presence of bound formatives and interactions between elements within a phrase in these languages.
+
+However, it points out that there is currently no clear definition or criteria for what constitutes a 'word' or 'phonological autonomy' in these languages. Native grammars from Early Irish and Middle Welsh do not provide a specific concept corresponding to the modern understanding of a word.
+
+Drawing on recent typological research on wordhood, this study aims to investigate the potential word-like properties of the verbal complex in Middle Welsh prose. The focus will be on manuscripts from the fourteenth and early fifteenth centuries, with poetry used to highlight any interesting differences compared to prose.
+
+The restriction to finite verbal structures is based on previous observations that patterns of wordhood may vary among different parts of speech within a language. In Middle Welsh, the verbal complex consists of various grammatical markers such as conjunctions, polarity markers, P- and T-markers. An example is provided with eight markers present in one particular verbal complex.
+
+The study is organized into three main sections: Section 2 explains the approach taken in this study; Section 3 discusses the morphological structuring of the verbal complex; and Section 4 explores phonological and prosodic processes within this structure. Finally, Section 5 summarizes and discusses findings while suggesting future avenues for research.

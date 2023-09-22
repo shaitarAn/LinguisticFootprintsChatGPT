@@ -1,0 +1,16 @@
+Adenosine is a purine nucleoside that plays a crucial role in various physiological and pathological processes, including cancer. In the tumor microenvironment (TME), adenosine signaling has been shown to have profound effects on immune responses and tumor progression. This review aims to provide an overview of the current understanding of the adenosinergic system in cancer, focusing on its role in immune cells, tumor cells, and stromal cells within the TME.
+
+1.1 Adenosinergic Machinery in Immune Cells:
+In recent years, increasing evidence has highlighted the importance of adenosine signaling in regulating immune cell function within the TME. Adenosine receptors (A1, A2A, A2B, and A3) are expressed on various immune cell types including T cells, B cells, natural killer (NK) cells, dendritic cells (DCs), macrophages, and myeloid-derived suppressor cells (MDSCs). Activation of these receptors by eADO leads to immunosuppressive effects by inhibiting effector functions of cytotoxic T lymphocytes (CTLs) and promoting regulatory T cell (Treg) differentiation. Additionally, eADO can also modulate cytokine production and antigen presentation by DCs.
+
+1.2 Adenosinergic Machinery in Tumor Cells:
+Tumor cells themselves can produce adenosine through various mechanisms such as ectonucleotidase activity or upregulation of CD39/CD73 enzymes that convert eATP to eADO. The autocrine activation of adenosine receptors in tumor cells has been associated with increased proliferation, invasion capacity, angiogenesis promotion through vascular endothelial growth factor (VEGF) production and modulation of apoptosis resistance pathways.
+
+1.3 Adenosinergic Machinery in Stromal Cells:
+Stromal components within the TME also contribute to adenosinergic signaling regulation. For instance, cancer-associated fibroblasts (CAFs) and tumor-associated macrophages (TAMs) can express adenosine receptors and participate in the production of eADO. These stromal cells can promote tumor growth, metastasis, and immune evasion through the secretion of immunosuppressive factors, such as transforming growth factor-beta (TGF-β), interleukin-10 (IL-10), and indoleamine 2,3-dioxygenase (IDO).
+
+2. Therapeutic Targeting of the Adenosinergic System:
+Given the crucial role of adenosine signaling in cancer progression and immune evasion within the TME, targeting this pathway has gained significant attention as a potential therapeutic strategy. Several approaches have been explored to modulate adenosine signaling in cancer including blockade or inhibition of adenosine receptors with specific antagonists or antibodies, inhibition of ectonucleotidases responsible for eATP hydrolysis to eADO, or enhancing eATP levels to counteract immunosuppression caused by high levels of eADO.
+
+3. Future Directions:
+Understanding the complexity and dynamics of the adenosinergic system in cancer is crucial for developing effective therapeutic strategies. Further investigations are needed to identify novel targets within this pathway that could be exploited for therapeutic intervention. Additionally, combination therapies involving adenosinergic inhibitors with other immunotherapies

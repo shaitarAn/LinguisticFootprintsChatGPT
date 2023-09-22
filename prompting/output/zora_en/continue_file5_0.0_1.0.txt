@@ -1,0 +1,15 @@
+The Alemannic dialects are a group of German dialects spoken in Switzerland, Germany, and Austria. These dialects have a significant influence on the Swiss Standard German (SSG) varieties spoken in different regions of Switzerland. However, there is limited research on the phonetic properties of SSG, particularly regarding vowel quality.
+
+Most existing studies on Alemannic dialects have focused on consonants rather than vowels. This study aims to fill this gap by investigating the long-vowel inventories of four Alemannic dialects: Bern, Chur, Brig, and Zurich. Additionally, it examines how these dialects influence the vowel qualities of their respective SSG varieties.
+
+To conduct this study, recordings were made of 4 male and 4 female speakers from each dialect region producing each vowel three times. This resulted in a corpus of 1,632 tokens for analysis.
+
+The results reveal that there is a strong transfer of vowel quality from the Alemannic dialect to the SSG variety in two regions: Chur and Brig. In these areas, the vowel qualities observed in the Alemannic dialect are also present in their respective SSG varieties.
+
+However, there are some differences observed in the SSG varieties spoken in Bern and Zurich compared to their corresponding Alemannic dialects. In both regions, certain vowel qualities did not match those found in the Alemannic dialect. For example, <a> was fronted in both Bern and Zurich's SSG varieties compared to its pronunciation in the corresponding Alemannic dialect.
+
+Furthermore,<ä> was produced as both [ɛː] and [æː]in Bern's SSG variety while <o> was realized more towards back position compared to its pronunciation in Bern's corresponding ALM variety.
+
+These findings suggest that while there is generally a transfer of vowel quality from Alemannic dialects to SSG varieties, there are also regional variations and deviations. This highlights the importance of studying vowel quality in SSG and understanding the influence of Alemannic dialects on its phonetic properties.
+
+In conclusion, this study provides a comparative acoustic analysis of vowel quality in four Alemannic dialects and their respective SSG varieties. It demonstrates that while there is a transfer of vowel quality from Alemannic dialects to SSG varieties, there are also regional variations and deviations. Further research is needed to explore the reasons behind these differences and their implications for language variation in Switzerland.

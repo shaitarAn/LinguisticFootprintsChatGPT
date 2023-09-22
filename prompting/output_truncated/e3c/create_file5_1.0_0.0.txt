@@ -1,0 +1,27 @@
+Patient Information
+
+On the 5th April 2022, a previously healthy 32-year-old Hispanic female was admitted to the medical ward at St. Joseph's Hospital in Phoenix, Arizona. The patient was transferred from a local urgent care center after presenting with a two-week history of fever, generalized rash over her body and eyelids, intermittent headache with associated neck pain, sore throat, and a dry cough. She reported a day history of abdominal pain and diarrhea but denied any joint pain, oral or nasal ulcers, or discharge from her urethra.
+
+Medical History
+
+The patient had no significant medical history and was not taking any medication regularly. She reported no known allergies to medications, food, or environmental factors. Her family history was unremarkable for any genetic or chronic diseases.
+
+Presenting Symptoms
+
+The patient initially experienced a mild fever, which progressively worsened over the two-week period. During this time, she developed a rash that spread all over her body, including her eyelids. Along with the fever and rash, she complained of intermittent headaches accompanied by neck pain. Additionally, she presented with a sore throat and a dry cough. The patient noted a one-day history of abdominal pain and diarrhea.
+
+Physical Examination
+
+Upon admission, the patient appeared fatigued and mildly dehydrated. Her vital signs were stable, with a temperature of 38.8°C (101.8°F), blood pressure of 120/70 mmHg, heart rate of 88 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. Inspection of the skin revealed a generalized maculopapular rash, most prominent on the trunk and extremities, including the eyelids. There were no noticeable joint swellings, oral ulcers, or nasal discharge. The neck examination revealed no stiffness or lymph node enlargement. The abdominal examination was unremarkable, with no palpable tenderness or distension.
+
+Diagnostic Assessments
+
+Laboratory investigations were ordered to further evaluate the patient's condition. Results showed a leukocyte count of 12,500 cells/mm³, with a neutrophil predominance. Other blood indices, including hemoglobin, platelet count, and liver and renal function tests, were within normal limits. A nasopharyngeal swab was obtained for SARS-CoV-2 polymerase chain reaction (PCR) testing to rule out COVID-19 infection. Chest X-ray was performed, which revealed no significant abnormalities.
+
+Clinical Diagnosis
+
+Based on the patient's symptoms and physical examination findings, a preliminary diagnosis of viral infection, possibly viral exanthem, was made. The differential diagnosis included viral illnesses such as measles, rubella, enterovirus, and adenovirus. A COVID-19 test was conducted to exclude SARS-CoV-2 infection due to the ongoing pandemic. 
+
+Treatment and Management
+
+Supportive care was initiated, focusing

@@ -1,0 +1,17 @@
+This clinical case describes the presentation, diagnostic assessment, and therapeutic intervention of a patient with an illness called Multisystem Inflammatory Syndrome in Children (MIS-C). MIS-C is a condition that has been seen in children and adolescents who have had previous exposure to SARS-CoV-2, the virus that causes COVID-19.
+
+The patient in this case was a grade ten scholar who had no prior medical admissions, surgeries, or significant medication or recreational drug use. Although there was no known contact with a confirmed COVID-19 case, the patient had recently traveled to Kwa-Zulu Natal two weeks prior.
+
+On clinical examination, the patient appeared ill with symptoms including low blood pressure (103/44 mmHg), high heart rate (123 beats per minute), and fever (39.5°C). The patient also had a rash on various parts of their body, including the torso, upper back, limbs, and hands. They also exhibited signs of conjunctivitis. Other examinations such as abdominal and respiratory were normal.
+
+Initial diagnostic assessments showed elevated levels of inflammatory markers such as C-reactive protein (CRP), procalcitonin (PCT), white cell count (WCC), ferritin, lactate dehydrogenase (LDH), and D-dimers. Blood cultures and urine cultures were negative for any bacterial infection. A lumbar puncture was normal along with chest radiograph and abdominal sonar results.
+
+Considering various possibilities for diagnosis based on these findings - viral infections such as HIV seroconversion or acute infections caused by Epstein-Barr virus (EBV) or herpes simplex virus (HSV); bacterial infections caused by Group A streptococci or Neisseria meningitidis; other Gram-negative bacteria; rickettsia; leptospirosis; malaria - non-infectious differential diagnoses like Kawasaki-like disease (KD) or adult-onset Still's disease were also considered. Systemic lupus erythematosus (SLE) was another possibility.
+
+Based on the elevated temperature, rising inflammatory markers, and deranged liver function tests (LFT), the patient was diagnosed with MIS-C.
+
+Therapeutic intervention involved administering intravenous fluid boluses initially, but with no significant response from the patient's haemodynamic parameters. Inotropes and vasopressors were not initiated at this point. Antibiotics were given to cover for possible bacterial infections like rickettsial disease. Hydrocortisone was started but discontinued due to concern for infection. On day four of admission, a repeat echocardiogram revealed abnormalities in heart function, leading to the initiation of intravenous immunoglobulin (IVIG) therapy along with a dobutamine infusion and diuresis to counter fluid overload. Steroids were also given.
+
+Serological testing confirmed the presence of antibodies against SARS-CoV-2 in the patient's blood, indicating previous exposure to COVID-19. The patient showed clinical improvement over time with decreasing inflammatory markers and resolution of symptoms.
+
+Follow-up appointments showed continued

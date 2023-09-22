@@ -1,0 +1,13 @@
+Etablierung telemedizinischer Lösungen zur Verbesserung der Versorgung älterer Menschen in der stationären Langzeitpflege: Eine explorative Studie
+
+Abstract:
+Die Digitalisierung hat in vielen Bereichen des Gesundheitswesens bereits positive Veränderungen bewirkt und wird auch im Bereich der Gesundheitsförderung und Prävention zunehmend an Bedeutung gewinnen. Insbesondere in der Versorgung älterer Menschen in stationären Langzeitpflegeeinrichtungen besteht jedoch noch erhebliches Potenzial für die Nutzung digitaler Anwendungen. Angesichts der steigenden Anzahl älterer Menschen und des zunehmenden Fachkräftemangels in der Pflege ist es von großer Bedeutung, innovative Lösungen zu finden, die eine qualitativ hochwertige Versorgung gewährleisten.
+
+Eines der relevanten Themen ist die Implementierung telemedizinischer Lösungen in Pflegeeinrichtungen, die es ermöglichen, medizinische Dienstleistungen per Fernzugriff zu erbringen. Dies könnte eine effektive Möglichkeit sein, die Versorgung älterer Menschen zu verbessern und gleichzeitig die Arbeitsbelastung der Pflegefachkräfte zu reduzieren. Trotz der potenziellen Vorteile dieser Technologien und entsprechender Empfehlungen in der Literatur gibt es jedoch bisher nur wenig Forschung darüber, wie telemedizinische Lösungen in der stationären Langzeitpflege erfolgreich implementiert werden können.
+
+Das Ziel dieser explorativen Studie ist es daher, die Implementierung telemedizinischer Lösungen zur Verbesserung der Versorgung älterer Menschen in stationären Langzeitpflegeeinrichtungen genauer zu untersuchen. Dabei sollen sowohl die Perspektiven der Pflegefachkräfte als auch der älteren Menschen selbst berücksichtigt werden. Mittels qualitativer Interviews und Beobachtungen sollen die Erfahrungen und Einstellungen der Beteiligten in Bezug auf die Nutzung telemedizinischer Lösungen erfasst und analysiert werden.
+
+Die Ergebnisse dieser Studie werden dazu beitragen, ein besseres Verständnis dafür zu entwickeln, wie telemedizinische Lösungen in der stationären Langzeitpflege erfolgreich implementiert und genutzt werden können. Aufgrund des individuellen Bedarfs älterer Menschen und der Herausforderungen in der Pflege werden Empfehlungen für die Gestaltung und Anpassung dieser Technologien in Pflegeeinrichtungen abgeleitet. Diese Erkenntnisse können dazu beitragen, die Versorgung älterer Menschen zu verbessern, die Arbeitsbedingungen der Pflegefachkräfte zu erleichtern und somit einen Mehrwert für die stationäre Langzeitpflege zu schaffen.
+
+1. Einleitung:
+Die demographische Entwicklung stellt Gesellschaft und Gesundheitssystem vor große Herausforderungen. Insbesondere die Versorgung älterer Menschen in stationären Langzeitpflegeeinrichtungen ist ein Thema von

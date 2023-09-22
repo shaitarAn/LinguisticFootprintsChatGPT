@@ -1,0 +1,17 @@
+Title: Modulation of the Adenosinergic Machinery in Cancer: Exploring Potential Therapeutic Strategies for Tumor Immunomodulation
+
+Abstract:
+The modulation of the adenosinergic machinery has emerged as a promising avenue in cancer research, particularly in the context of tumor immunomodulation. Extracellular adenosine (eADO) signaling has been implicated as a crucial regulator of immune responses, exerting both immunosuppressive and pro-inflammatory effects in the tumor microenvironment (TME). While eADO has been extensively studied for its ability to mediate immunosuppression through the activation of P1 purinergic receptors (A1, A2A, A2B, and A3), the underlying mechanisms and potential therapeutic implications remain to be fully elucidated.
+
+Although the pro-inflammatory role of extracellular ATP (eATP) through the binding and activation of P2 purinergic receptors (P2X and P2Y) has been well-documented, the reciprocal relationship between eATP and eADO in the regulation of tumor immunity warrants further investigation. Accumulation of eATP in the TME, resulting from cell death or cellular stress triggered by factors such as hypoxia, nutrient starvation, or inflammation, not only influences immunosurveillance but also contributes to the production of eADO through its hydrolysis. Thus, the interplay between these two components of the adenosinergic machinery plays a pivotal role in shaping the immune landscape within tumors.
+
+In recent years, significant advancements have been made in understanding the diverse functions of the tumor adenosinergic system in various cell types present in the TME, including immune cells, tumor cells, and stromal cells. However, there remains a need to comprehensively explore and delineate the precise mechanisms by which eADO-mediated immunosuppression and eATP-induced inflammation crosstalk and interact within the tumor microenvironment. The elucidation of these intricate interactions may offer valuable insights into the development of novel adenosinergic therapies for cancer.
+
+This review aims to provide an updated and comprehensive understanding of the tumor adenosinergic system, focusing on the modulation of adenosine signaling in the context of tumor immunomodulation. We will discuss the intricate roles played by different members of the P1 and P2 purinergic receptor families in modulating immune responses within the TME, highlighting the potential for developing therapeutic strategies that target the adenosinergic machinery to enhance anti-tumor immune responses.
+
+2. Research Question:
+Given the existing knowledge on the adenosinergic machinery in cancer, our study aims to investigate the reciprocal relationship between eATP and eADO and their impact on tumor immunomodulation. Specifically, we aim to:
+
+1. Elucidate the mechanisms underlying the interplay between eATP and eADO in regulating immune responses within the tumor microenvironment.
+2. Investigate the cellular and molecular factors influencing the conversion of eATP to eADO in cancer cells.
+3. Examine

@@ -1,0 +1,28 @@
+Klinischer Fall: Harnblasenkarzinom
+
+Patient: Herr Müller, 65 Jahre alt, männlich
+
+Anamnese:
+Herr Müller stellt sich mit Beschwerden beim Wasserlassen vor. Er berichtet über häufigen Harndrang, Schmerzen beim Wasserlassen und das Vorhandensein von Blut im Urin. Diese Symptome bestehen seit etwa zwei Wochen und haben sich allmählich verschlimmert. Herr Müller ist Raucher und hat in der Vergangenheit regelmäßig Alkohol konsumiert.
+
+Untersuchungsbefunde:
+Bei der körperlichen Untersuchung zeigt sich eine leichte Druckschmerzhaftigkeit im Unterbauch. Der Urin ist trüb und enthält sichtbare Spuren von Blut.
+
+Diagnosestellung:
+Aufgrund der Symptome und des auffälligen Urins wird ein Harnblasenkarzinom vermutet. Um die Diagnose zu bestätigen, werden weitere Untersuchungen durchgeführt.
+
+Weitere Untersuchungen:
+1. Zystoskopie: Bei der Zystoskopie wird eine Tumormasse in der Harnblase festgestellt.
+2. Biopsie: Eine Gewebeprobe wird entnommen und histopathologisch untersucht.
+3. Urintest auf molekulare Marker: Zur Unterstützung der Diagnosestellung werden verschiedene kommerzielle Testverfahren verwendet, darunter NMP22®, BTA Stat®/BTA TRAK® und UBC®.
+
+Ergebnisse:
+Die histopathologische Untersuchung bestätigt die Diagnose eines Urothelkarzinoms (Harnblasenkrebs). Der Urintest auf molekulare Marker zeigt erhöhte Werte für NMP22®.
+
+Therapie:
+Aufgrund der Diagnose wird Herr Müller an eine urologische Klinik überwiesen, um die weitere Behandlung zu besprechen. Je nach Stadium des Harnblasenkarzinoms kann eine operative Entfernung des Tumors, eine Chemotherapie oder eine Strahlentherapie erforderlich sein.
+
+Nachsorge:
+Nach der Behandlung wird Herr Müller regelmäßig zur Nachsorgeuntersuchung einbestellt. Dabei werden unter anderem Zystoskopien und Urinuntersuchungen durchgeführt, um das Rückfallrisiko zu überwachen und frühzeitig eventuelle Rezidive zu erkennen.
+
+Hinweis: Dieser Fall ist rein fiktiv und basiert auf den Informationen aus dem deutschen Leitlinienprogramm für die Onkologie zum Thema Harnblasenkarzinom. Die Verwendung von spezifischen kommerziellen Testverfahren dient nur illustrativen Zwecken und stellt keine Empfehlung dar. Die tatsächliche Diagnosestellung und Therapieentscheidung sollten immer in Absprache mit einem Facharzt getroffen werden.

@@ -1,0 +1,17 @@
+In diesem Text geht es um die Fragestellung, ob eine präoperative biliäre Drainage (PBD) bei bestimmten Krankheitsbildern sinnvoll ist und welche Methode dabei angewendet werden sollte.
+
+Zunächst wird erwähnt, dass die Entscheidung zur PBD noch nicht eindeutig beantwortet worden ist. Die Evidenz, also der Forschungsstand zu diesem Thema, ist begrenzt und basiert hauptsächlich auf retrospektiven Analysen sowie vereinzelt auf prospektiven randomisierten Studien.
+
+Es wurde jedoch in einer kürzlich veröffentlichten Studie festgestellt, dass eine Hyperbilirubinämie (erhöhte Bilirubinwerte im Blut) der wichtigste modifizierbare Risikofaktor für ein negatives frühes postoperatives Outcome (Ergebnis nach der Operation) des Patienten sein kann. Es gibt verschiedene Grenzwerte für die Hyperbilirubinämie, abhängig vom Ausmaß des erforderlichen Eingriffs. Es gibt jedoch keine ausreichende Evidenz für einen spezifischen Grenzwert.
+
+Auf der anderen Seite kann eine PBD selbst das frühe postoperative Outcome negativ beeinflussen, zum Beispiel durch Komplikationen während des Eingriffs. Eine erhöhte Morbidität (Krankheitslast) wurde auch bei erfolgreicher Drainage festgestellt und es wird vermutet, dass dies auf das mögliche Einschleppen von Keimen in das Gallenwegsystem während des interventionellen Verfahrens zurückzuführen sein könnte.
+
+Bei einer Cholangitis (Entzündung der Gallengänge) besteht jedoch Einigkeit darüber, dass eine PBD erforderlich ist.
+
+Für intrahepatische Gallengangskarzinome (Krebs in den Gallengängen innerhalb der Leber) ist eine präoperative Gallengangsdekompression nur vor umfangreichen Resektionen und wenn auch die Gallenwege des zukünftigen Leberrestgewebes betroffen sind, erforderlich. 
+
+Die Frage nach dem technischen Vorgehen bei der präoperativen Drainage ist ebenfalls noch nicht geklärt. Es gibt widersprüchliche Ergebnisse bezüglich auftretender Komplikationen und Erfolgsraten, wobei letztere bei perkutaner transhepatischer Cholangiendrainage (PTCD) etwas höher zu sein scheinen als bei endoskopischer retrograder Cholangiopankreatikographie (ERCP).
+
+Es wurden zwei Metaanalysen mit bis zu vier retrospektiven nicht-randomisierten Studien durchgeführt. Diese zeigen eine vergleichbare oder leicht höhere Morbidität nach ERCP im Vergleich zur PTCD. Eine randomisierte Studie musste vorzeitig abgebrochen werden, da in der PTCD-Gruppe eine signifikant höhere Gesamtmortalität festgestellt wurde. Allerdings wurde bei 56% der Patienten zusätzlich zur ERCP auch noch eine PTCD-Drainage durchgeführt.
+
+Auch

@@ -1,0 +1,15 @@
+Title: The Role of Verb Morphology in Middle Welsh: A Comparative Analysis
+
+Abstract: The distribution of phonological and morphological domains within the Middle Welsh verb has been a subject of extensive study, with researchers questioning the significance of individual words in the grammatical structure of Insular Celtic languages. This article builds upon current typological research on wordhood and explores the limitations and challenges associated with studying wordhood in corpus languages. In light of these considerations, this paper aims to investigate the role played by verb morphology in Middle Welsh, offering a comprehensive analysis of its morphological and phonological word-like domains.
+
+1. Introduction
+
+The study of language structure has long been an area of interest for linguists seeking to unravel the intricate workings behind linguistic systems. One particular aspect that has garnered significant attention is the concept of wordhood - how words are defined and identified within different languages. While this notion may seem straightforward at first glance, it becomes increasingly complex when examining older Insular Celtic languages such as Middle Welsh.
+
+Middle Welsh is renowned for its abundance of bound elements within its verbal complex, leading some scholars to question whether individual words hold substantial importance within its grammatical framework. This inquiry into the role played by verb morphology in Middle Welsh aims to shed light on this issue by delving into both morphological and phonological aspects.
+
+Drawing upon recent typological research on wordhood as well as considering methodological challenges associated with studying corpus languages, this paper seeks to provide an extensive investigation into various morpho-phonetic structures present within Middle Welsh verbs. By analyzing these structures through a philological lens, we aim to determine whether traditional notions surrounding "words" adequately capture their complexity.
+
+The primary objective is not only to identify potential structures that could be labeled as "words" based on our findings but also to critically evaluate whether employing such terminology contributes significantly towards synchronic descriptions of this ancient language. Through careful examination and comparison with other linguistic systems, we hope to gain a deeper understanding of the role played by verb morphology in Middle Welsh and contribute to the broader field of language typology.
+
+In the following sections, we will first provide an overview of previous research on wordhood in Middle Welsh and highlight the gaps that exist within this area. We will then outline our research methodology, discussing the challenges associated with studying wordhood in corpus languages. Finally, we will present our findings from a comprehensive analysis of morphological and phonological

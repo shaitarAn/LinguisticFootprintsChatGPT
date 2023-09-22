@@ -1,0 +1,50 @@
+Fallbericht
+
+Patient: Hans Müller
+Alter: 64 Jahre
+Geschlecht: männlich
+Anamnese: Herr Müller stellt sich mit folgenden Symptomen vor:
+- Häufiges Wasserlassen
+- Brennen beim Wasserlassen
+- Blut im Urin
+
+Klinische Untersuchung:
+Bei der körperlichen Untersuchung zeigt der Patient keine auffälligen Befunde. Abdominaler Druck verursacht keinen Schmerz oder Unbehagen.
+
+Diagnostik:
+
+1. Ultraschalluntersuchung des Harntraktes:
+Die Ultraschalluntersuchung des Harntraktes zeigt eine unregelmäßige Verdickung der Blasenwand und Anzeichen einer möglichen Tumorläsion.
+
+2. Zystoskopie:
+Eine Zystoskopie wird durchgeführt, um das Innere der Harnblase zu visualisieren. Dabei wird eine exophytische Tumorläsion am Übergang des trigonalen Bereichs zur Prostata identifiziert.
+
+3. Molekulare Marker im Urin:
+Um den Verdacht auf ein Urothelkarzinom weiter abzuklären, werden molekulare Marker im Urin getestet. Es werden die kommerziellen Testverfahren NMP22®, BTA Stat®/BTA TRAK® und UBC® angewendet.
+
+Die Ergebnisse zeigen eine erhöhte Konzentration von Nukleärem Matrix Protein 22 (NMP22) im Urin von Herrn Müller (semi-quantitativer Enzym-Immunoassay).
+
+4. Bildgebung:
+
+a) Computertomographie (CT): 
+Eine CT des Bauchraums und des Beckens wird durchgeführt, um die Ausbreitung des Tumors im Harntrakt zu beurteilen. Es werden keine Anzeichen für eine regionale oder fernmetastatische Erkrankung gefunden.
+
+b) Magnetresonanztomographie (MRT):
+Eine MRT des Beckens wird durchgeführt, um die genaue Tumorlokalisation und das Ausmaß der Infiltration der umliegenden Strukturen zu bestimmen.
+
+Diagnose:
+
+Aufgrund der erhöhten NMP22-Konzentration im Urin und dem Nachweis einer exophytischen Tumorläsion bei der Zystoskopie wird bei Herrn Müller ein Urothelkarzinom diagnostiziert. Die genaue Staging-Untersuchung mittels Bildgebung zeigt ein lokal begrenztes Urothelkarzinom ohne Hinweise auf Metastasen.
+
+Therapie:
+
+Aufgrund des lokal begrenzten Urothelkarzinoms wird folgende Therapie empfohlen:
+
+1. Transurethrale Resektion des Tumors (TUR-B):
+Die exophytische Tumorläsion wird mittels transurethraler Resektion entfernt. Das entnommene Gewebe wird histopathologisch untersucht, um den Grad der Differenzierung und das Stadium des Karzinoms zu bestimmen.
+
+2. Adjuvante intravesikale Chemotherapie:
+Nach der transurethralen Resektion des Tumors erhält Herr Müller eine adjuvante intravesikale Chemotherapie mit Mitomycin C, um eventuell verbliebene Blasentumorzellen abzutöten und das Risiko eines lokalen Rezidivs zu reduzieren.
+
+3. Follow-up:
+Herr Müller wird einem regelmäßigen Follow-up-Programm unterzogen, um das Ansprechen auf die Behandlung und mögliche Rückfälle zu überwachen. Dies beinhaltet regelmäßige zystoskopische Untersuchungen und Kontrollen

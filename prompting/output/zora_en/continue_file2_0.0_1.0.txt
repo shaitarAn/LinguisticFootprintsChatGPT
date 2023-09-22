@@ -1,0 +1,11 @@
+Climate change is one of the most pressing issues facing our planet today, and effective communication about this issue is crucial for generating awareness and inspiring action. Framing, as a concept in communication research, has gained significant attention in recent years as a tool for understanding how messages are constructed and interpreted.
+
+However, despite the growing body of literature on framing climate change, there remains a lack of consensus on its definition and application. This lack of clarity hinders the synthesis of theoretical and empirical insights from various studies. Therefore, this systematic review aims to address this gap by examining trends in framing climate change communication over the past 25 years.
+
+To achieve this goal, we draw upon both quantitative and qualitative approaches to content analysis. We analyze 275 peer-reviewed articles that focus specifically on framing climate change. By comparing frames across different frame locations - including frame production (who constructs the frames), frame content (what elements are emphasized), audience frames (how audiences interpret the frames), and framing effects (the impact of these frames) - we aim to bridge perspectives within the field.
+
+Our findings reveal that while there has been a proliferation of research on framing climate change, little attention has been given to its bridging potential. The conceptual misfit between different frame locations limits our understanding of how frames interact with each other and shape public discourse on climate change.
+
+In light of these findings, we discuss potential directions for future research that can harness framing's bridging power more effectively. For example, exploring how different stakeholders construct frames could shed light on their underlying values and motivations. Additionally, investigating how audiences interpret these frames can provide insights into their cognitive processes and emotional responses.
+
+Ultimately, by better understanding how framing operates within climate change communication, we can develop more effective strategies for engaging diverse audiences in meaningful conversations about this critical issue. This systematic review serves as a starting point for further exploration into the role of framing in shaping public perceptions and actions related to climate change.

@@ -1,15 +1,21 @@
-In diesem Text geht es um die präoperative biliäre Drainage (PBD) bei Patienten mit hepatozellulärem Karzinom und biliären Karzinomen. Die PBD kann entweder vor einer kurativ intendierten Resektion oder als palliative Maßnahme durchgeführt werden. Die Entscheidung für eine PBD hängt von verschiedenen Faktoren ab, wie zum Beispiel der Lokalisation des Gallenwegverschlusses und dem Behandlungsziel.
+In diesem Text geht es um die präoperative biliäre Drainage (PBD) bei Patienten mit Gallengangskarzinomen. Die Autoren stellen fest, dass die Frage der Indikationsstellung zur PBD noch nicht abschließend beantwortet ist. Die Evidenz für die Wirksamkeit der PBD basiert hauptsächlich auf retrospektiven Analysen und nur vereinzelt auf prospektiven randomisierten Studien.
 
-Es gibt jedoch keine eindeutige Antwort auf die Frage, wann eine PBD indiziert ist. Die Evidenz basiert größtenteils auf retrospektiven Analysen und nur vereinzelt auf prospektiven randomisierten Studien. Eine kürzlich veröffentlichte Studie hat gezeigt, dass Hyperbilirubinämie ein wichtiger Risikofaktor für ein negatives postoperatives Outcome sein kann.
+Es wird darauf hingewiesen, dass Hyperbilirubinämie als wichtigster modifizierbarer Risikofaktor für ein negatives postoperatives Outcome identifiziert wurde. Es gibt jedoch keine ausreichende Evidenz für einen bestimmten Grenzwert des Bilirubinspiegels, ab dem eine PBD empfohlen werden sollte.
 
-Auf der anderen Seite kann die PBD selbst das postoperative Outcome negativ beeinflussen, zum Beispiel durch Komplikationen während des Eingriffs. Es wird vermutet, dass dies unter anderem darauf zurückzuführen ist, dass Keime in das Gallenwegsystem eingeschleppt werden können.
+Auf der anderen Seite kann eine PBD selbst das postoperative Outcome negativ beeinflussen, zum Beispiel durch Komplikationen während des Eingriffs oder das Einschleppen von Keimen in das Gallenwegsystem. Es wird auch darauf hingewiesen, dass selbst bei erfolgreicher Drainage eine erhöhte Morbidität festgestellt wurde.
 
-Die Indikation zur PBD muss differenziert betrachtet werden, je nachdem ob es sich um ein intrahepatisches oder perihiläres Gallengangskarzinom handelt. Bei intrahepatischen Karzinomen ist eine präoperative Dekompression der Gallengänge nur bei ausgedehnten Resektionen und Beteiligung des "Future Liver Remnant" erforderlich.
+Die Autoren betonen jedoch, dass eine PBD unbestritten notwendig ist, wenn eine Cholangitis vorliegt. Sie weisen auch darauf hin, dass die Indikation zur PBD je nach Art des Gallengangskarzinoms unterschiedlich betrachtet werden muss. Bei intrahepatischen Gallengangskarzinomen ist eine präoperative Dekompression nur vor ausgedehnten Resektionen und Beteiligung der Gallenwege des "Future Liver Remnant" erforderlich.
 
-Es gibt auch keine klare Empfehlung für das technische Vorgehen bei der präoperativen Drainage. Es gibt widersprüchliche Ergebnisse bezüglich Komplikationen und Erfolgsraten, wobei die perkutan-transhepatische Cholangiographie (PTCD) etwas höhere Erfolgsraten zu haben scheint.
+Die Frage nach dem technischen Vorgehen bei der präoperativen Drainage ist ebenfalls noch nicht abschließend geklärt. Es gibt widersprüchliche Ergebnisse bezüglich der Komplikationen und Erfolgsraten verschiedener Verfahren wie der endoskopischen retrograden Cholangiopankreatikographie (ERCP) und der perkutanen transhepatischen Cholangiodrainage (PTCD). Eine Metaanalyse zeigt eine vergleichbare oder etwas höhere Morbidität nach ERCP im Vergleich zur PTCD.
 
-Die Expertise des Behandlungszentrums kann auch einen Einfluss auf das Outcome haben. Eine multizentrische Studie aus China hat gezeigt, dass die periinterventionelle Morbidität nach endoskopischer Drainage höher war als nach PTCD.
+Es wird auch auf eine vorzeitig beendete randomisierte Studie hingewiesen, in der eine signifikant höhere Mortalität in der PTCD-Gruppe im Vergleich zur ERCP-Gruppe festgestellt wurde. Allerdings war bei vielen Patienten zusätzlich zur endoskopischen Drainage auch eine perkutane Drainage erforderlich.
 
-Zusammenfassend sollte die Indikation zur PBD in einem spezialisierten Zentrum erfolgen, in dem eine interdisziplinäre Planung der Behandlung möglich ist. Es sollten alternative Drainagewege verfügbar sein, da eine primär nicht ausreichende Drainage häufig vorkommt und dann eine alternative Therapie erforderlich ist.
+Die Expertise des Behandlungszentrums scheint einen Einfluss auf das Outcome bei PBD zu haben. In einer retrospektiven Analyse aus China wurde eine höhere periinterventionelle Morbidität nach ERCP im Vergleich zur PTCD festgestellt.
 
-Im Anhang des Textes befindet sich eine Literaturübersicht über Studien zur präoperativen biliären Drainage.
+Die nasobiliäre Drainage, die in Japan bevorzugt wird, scheint in westlichen Ländern weniger praktikabel zu sein und bietet keinen Vorteil gegenüber anderen Verfahren wie der Stentanlage.
+
+Es wird darauf hingewiesen, dass das Risiko einer Tumorzellverschleppung durch den Zugangsweg der Drainage selten ist, aber nach PTCD beobachtet wurde. Vor Augmentationsverfahren an der Leber sollte zumindest eine biliäre Drainage des zukünftigen Restlebergewebes erfolgen.
+
+Zusammenfassend wird empfohlen, dass die Indikation zur PBD in einem spezialisierten Zentrum erfolgen sollte, in dem eine interdisziplinäre Planung der Behandlung möglich ist. Es wird auch darauf hingewiesen, dass alternative Drainagewege erforderlich sein können, da eine primär insuffiziente Drainage nicht selten ist und dann eine alternative Therapiestrategie ergriffen werden muss.
+
+Insgesamt zeigt dieser Text die Unsicherheiten und Herausforderungen bei der Indikationsstellung und Durchführung einer präoperativen biliären Drainage bei Patienten mit Gallengangskarzinomen auf. Es wird deutlich, dass weitere Forschung und evidenzbasierte Leitlinien erforderlich sind, um die bestmögliche Behandlung für diese Patientengruppe zu gewährleisten.

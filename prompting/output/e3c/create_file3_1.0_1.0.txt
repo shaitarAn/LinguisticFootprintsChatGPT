@@ -1,36 +1,34 @@
-Case Study: A 38-year-old woman with severe depression and history of self-harm
+Title: A 42-year-old Woman with Mental Health Issues following Self-inflicted Injury
 
-History:
-The patient, a 38-year-old woman, was admitted to our psychiatric facility following a suicide attempt by self-inflicted injuries three days prior to admission. She presented with multiple full- and partial-thickness burns covering approximately 42% of her total body surface area (TBSA). The burns involved the face and neck (6%), both upper extremities (10%), right thigh (5%), left thigh and leg (4%), as well as the anterior and posterior trunk region (17%). Prior to admission, she was diagnosed with major depressive disorder according to DSM-5 criteria.
+Case Presentation:
+A 42-year-old woman with a history of mental illness was admitted to our facility following a self-inflicted injury. The patient had attempted suicide by hanging two days prior to admission. She presented with signs of respiratory distress and was promptly transferred from a local psychiatric hospital.
 
-Clinical Course:
-Upon admission, the patient was started on appropriate pharmacotherapy for depression, including sertraline 50 mg daily. Due to her history of self-destructive behavior during periods of extreme distress, intermittent physical restraints were employed for short periods to ensure her safety.
+History of Presenting Illness:
+Three days before admission, the patient had experienced a significant episode of depression culminating in her suicide attempt. She tied a ligature around her neck and suspended herself until discovered in an unconscious state. Prompt emergency medical services were able to intervene successfully, resuscitating her at the scene before transferring her to our care.
 
-Nutritional Assessment:
-The patient's nutrition status was evaluated within the first week of hospitalization. At baseline assessment, she weighed 48 kilograms with a height of 160 cm, resulting in a BMI of 18.75 kg/m2 - indicating being underweight. Although there were no apparent gastrointestinal symptoms or signs during evaluation; however, information regarding her recent dietary intake prior to admission or any weight changes over the last six months could not be obtained accurately due to inconsistent recall ability caused by her mental health condition.
+Physical Examination:
+Upon arrival, the patient appeared lethargic but responsive to verbal stimuli. Bilateral petechial hemorrhages were noted on her conjunctiva and face, consistent with prolonged strangulation. Her vital signs showed tachycardia (heart rate = 115 beats per minute), normal blood pressure (130/80 mmHg), elevated respiratory rate (25 breaths per minute), and oxygen saturation maintained at 96% on room air.
 
-Malnutrition Evaluation:
-Accordingly subjective global assessment (SGA) tool classification at baseline indicated that she belonged in category B - moderately malnourished. Her serum albumin levels were within normal range at 3.9 g/L; however electrolyte imbalances were observed.
+Burn Assessment:
+A thorough examination revealed that the patient sustained extensive injuries from partial-thickness burns involving approximately 30% total body surface area (TBSA). The affected areas included both upper extremities accounting for approximately 5% TBSA each, anterior chest wall (7%), abdomen (5%), lower back (3%), bilateral thighs each contributing around 4%, as well as right calf and left foot making up approximately 2-3% TBSA overall.
 
-Nutrition Intervention:
-A nutrition management plan had been initiated from this stage onwards based on calculated energy requirements starting at an initial rate of 25 kcal/kg gradually increasing to 35 kcal/kg, and protein needs at 1.2 g/kg were divided into oral nutrition intake and oral nutrition supplements (ONS) with a ratio of 60:40 respectively. Additionally, micronutrient supplementation including vitamin A (5000 IU), vitamin C (250 mg), and zinc (20 mg) daily was prescribed.
+Management Course:
+The patient's immediate treatment entailed securing an adequate airway followed by continuous supplemental oxygen via nasal cannula at 2 liters/minute to maintain oxygen saturation above 95%. She received tetanus prophylaxis given no prior immunization record available and was started on broad-spectrum intravenous antibiotics to prevent infection in light of the burn wounds.
 
-Progress:
-During the first two weeks of hospitalization, the patient showed minimal improvement in her depressive symptoms but continued to exhibit low appetite resulting in weight loss. By the end of the second week, her body weight dropped to 45 kilograms while her serum albumin levels decreased to 3.2 g/L - indicative of ongoing malnourishment.
+Psychiatric Evaluation:
+A psychiatry consultation was requested soon after admission, and a comprehensive mental health evaluation confirmed the diagnosis of major depressive disorder with psychotic features. The patient had a known psychiatric history, including multiple previous suicide attempts documented. Consequently, she received both individual psychotherapy sessions and close monitoring by our psychiatric team throughout her hospital stay.
 
-Challenging Course:
-The patient's volatile mood and fluctuating appetite posed significant challenges to maintaining an optimal nutrition plan. Attempts to establish reliable enteral access were met with resistance as she displayed severe agitation during such procedures despite adequate analgesic medications and sedation attempts. Considering these limitations, partial parenteral nutrition with branched-chain amino acids (BCAAs) was initiated alongside ongoing enteral support for protein requirements.
+Burn Wound Care:
+The patient underwent daily wound care involving sterile dressing changes under sterile conditions. These measures were performed meticulously to minimize the risk of contamination and to promote wound healing. Regular assessment for signs of infection such as increasing erythema or purulent discharge was undertaken during each dressing change, with swab cultures collected when indicated.
 
-Outcome:
-Despite aggressive interventions, the patient's BMI continued its downward trend throughout treatment. On day 42, her body weight reached a minimum of 43 kilograms with serum albumin levels measured at 2.9g/L - indicating severe malnutrition status according to SGA classification system.
+Prognosis & Hospital Stay:
+Given physical injuries and accompanying significant depressive symptoms warranting intervention, it was decided to hospitalize the patient for effective stabilization over time. Her overall recovery trajectory proved favorable, although she experienced acute distress related to her mental health condition during her 45-day hospitalization period.
 
-Wound Healing Progression:
-At this stage, granulation tissue began forming on viable wound beds indicating positive progress towards healing; however due consideration was given which led healthcare professionals to decide against pursuing any skin graft surgeries considering both mental health stability and nutritional status concerns.
+Discharge Plan:
+Upon reaching stable physical condition with well-healing burns indicating reepithelialization without any evidence of infection or dehiscence at follow-up examinations, transition planning commenced in collaboration with both psychiatry services and appropriate outpatient care facilities specializing in mental health treatment and ongoing support services.
 
-Discharge Planning:
-On day 66, after a total duration of hospitalization lasting eight weeks, improvements were noted not only in psychological well-being but also general physical condition compared to admission status despite persistent severe muscle wasting and subcutaneous fat loss. The patient exhibited a total weight loss of 10 kilograms (BMI of 16.8 kg/m^2) with serum albumin levels recorded at 3.1 g/L, indicating an ongoing need for nutrition support. A comprehensive outpatient follow-up was arranged, involving collaboration between psychiatric and nutrition services to ensure continuity of care.
+Follow-up Care:
+Following her discharge from our facility, close surveillance would be maintained by an interdisciplinary team consisting of primary care physicians well-versed in managing chronic mental health conditions alongside specialized psychiatrists providing comprehensive psychotherapy sessions as deemed necessary. Supportive community programs were also identified to foster social reintegration while addressing psychosocial stressors serving high-risk populations like herself.
 
 Conclusion:
-The case highlights the complex management challenges faced in caring for mentally ill patients presenting with severe self-harm-related injuries and concomitant malnutrition. Early initiation of nutritional support coupled with appropriate psychiatric interventions is essential in achieving optimal outcomes for this vulnerable population within the limitations imposed by their mental health condition.
-
-NB: This clinical case is an imaginary representation based on the structure and writing style provided above and does not pertain to any actual patient or medical scenario.
+This clinical case highlights the challenges faced when caring for individuals with concomitant mental illness associated with significant self-inflicted injuries. A multidisciplinary approach encompassing medical management, psychiatric intervention, and coordinated rehabilitation services remains vital to ensure optimal recovery and prevent relapse in such complex cases.

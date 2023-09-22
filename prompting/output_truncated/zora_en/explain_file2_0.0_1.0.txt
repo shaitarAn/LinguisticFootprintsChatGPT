@@ -1,0 +1,13 @@
+This introduction is discussing the concept of framing in communication research and highlighting the need for a systematic review on the framing of climate change. 
+
+The first paragraph explains that framing is a popular theoretical approach in communication research, but there is a lack of consensus on its definition and scope. This makes it difficult to synthesize theoretical and empirical insights in communication research.
+
+The second paragraph mentions that previous systematic reviews on framing have not fully utilized its bridging potential. Framing has the ability to consider various aspects of the communication process, including strategic communication, journalistic cognitions, audience frames, framing effects, and cultural contexts.
+
+The third paragraph introduces the idea of reviewing how framing has been applied across different frame locations (communicator, text/message, receiver, culture) to gain insights into the cultural framing repository. The authors argue that studying one specific topic with many available studies (climate change) would be ideal for this purpose.
+
+The subsequent paragraphs provide reasons why climate change is an important topic for studying framing: its global significance as a problem; difficulty for audiences to engage with and understand; complexity and scientific uncertainty; connections between experts, policy makers, sources of information, and audiences; normative expectations for developing communication strategies; and growing research interest in this area.
+
+The authors also mention that there are limited systematic reviews available for framing in communication research overall. They suggest comparing findings from their study on climate change with existing reviews to assess field-specific applications.
+
+Finally, they explain their aim to conduct a systematic review on climate change framing by examining frame production (communicators' and journalists' frames), frame content (salient frames in communication), audience frames, and framing effects. They plan to use quantitative and qualitative approaches drawing from 25 years of published literature on climate change framing.

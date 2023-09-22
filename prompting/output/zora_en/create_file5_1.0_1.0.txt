@@ -1,0 +1,13 @@
+1. Introduction
+
+Swiss Standard German (SSG) has long been recognized as one of the official languages in Switzerland. However, despite its prominence, phonetic studies on SSG have been relatively scarce. While previous research efforts have predominantly focused on consonantal features in Alemannic (ALM) dialects, there remains a significant gap in our understanding of vowel properties and their influence on the respective varieties of SSG.
+
+Building upon the existing body of literature that highlights consonantal characteristics, this research aims to address the general lack of investigation into vowel quality by examining four ALM dialects and their specific impact on the vowel inventories within SSG varieties. By undertaking a comparative acoustic analysis between ALM and SSG vowels, we will shed light on possible instances of interference arising from ALM dialects as determinants for vowel qualities observed in SSG.
+
+To accomplish this objective, we conducted recordings with eight speakers (four males and four females) across four different geographic regions: Bern, Chur, Brig, and Zurich. Each speaker produced three repetitions for every vowel sound under investigation, resulting in a comprehensive corpus comprised of 1,632 tokens.
+
+The preliminary findings indicate that ALM vowel quality is predominantly transferred to the corresponding SSG varieties within two specific dialect regions: Chur and Brig. Conversely, deviations from ALM vowels are observed in both Bern and Zurich varieties of SSG. Notably, these deviations primarily involve fronting phenomena regarding <a> within either dialect's corresponding SSG variety. Furthermore,<ä> demonstrates variability with realizations ranging from [ɛː] to [æː], while <o> tends to be pronounced further back when compared to its representation within ALM.
+
+This study not only addresses an important research gap concerning Swiss Standard German but also deepens our understanding of how Alemannic influences shape regional variations within this standardized variety across different Swiss regions. By exploring vowel quality and its relationship to ALM dialects, we contribute to a more comprehensive understanding of the phonetic properties of SSG, thereby amplifying our knowledge of language variation within Switzerland.
+
+The subsequent sections will provide an in-depth analysis of the collected data, discussing the similarities and divergences between ALM and SSG vowels in each dialect region. Furthermore, we will examine potential sociolinguistic factors contributing to these vowel variations. Through this exploration, we aim to illuminate the intricate interplay between Alemannic dialectal influences and the Swiss Standard German varieties spoken across different regions.

@@ -1,0 +1,9 @@
+The introduction of this Zora article provides background information on the linguistic situation in German-speaking Switzerland, specifically focusing on the use of two varieties: Alemannic dialects (ALM) for oral communication and Swiss Standard German (SSG) for written communication. It explains that while everyone in German-speaking Switzerland is a native speaker of a local dialect, SSG is learned at school. The article mentions that both ALM and SSG can be used to some extent in each other's domains, and Swiss people often code-switch between the two varieties.
+
+The introduction also highlights that contact between ALM and SSG inevitably leads to interferences on various linguistic levels such as phonetics, morphology, syntax, and vocabulary. It notes that there have been limited acoustic studies on ALM dialects and describes previous research on vowels in SSG.
+
+The current study aims to systematically investigate the vowel qualities of four ALM dialects (from Bern, Chur, Brig, and Zurich) along with their respective SSG varieties using an instrumental phonetic approach. The study will analyze how much the vowel qualities in SSG are influenced by speakers' dialects.
+
+Furthermore, the introduction provides information about the three subgroups of Swiss ALM dialects: Low ALM found only in Basel city; High ALM spoken in the northern half; and Highest ALM spoken in the alpine southern half. It explains that High ALM developed diphthongs while Highest ALM maintained monophthongs historically.
+
+The introduction concludes by mentioning additional divisions based on east-west differences within each subgroup but acknowledges that these divisions are not always straightforward. Overall, it presents an overview of the linguistic landscape in German-speaking Switzerland before introducing specific research questions and hypotheses addressed by this study.

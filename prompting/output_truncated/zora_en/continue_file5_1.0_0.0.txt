@@ -1,0 +1,11 @@
+Swiss Standard German (SSG) is one of the official languages in Switzerland, but it has not received much attention in terms of its phonetic properties. While there have been some studies on consonants in Alemannic (ALM) dialects, research on vowels in this dialect family is scarce. This study seeks to address this research gap by examining the long-vowel inventories and vowel quality in four ALM dialects, as well as their respective SSG varieties.
+
+The main objective of this study is twofold. Firstly, it aims to provide a comparative acoustic analysis of ALM and SSG vowels, shedding light on the similarities and differences in vowel quality across these dialects. Secondly, it investigates the extent to which interference from ALM dialects influences the vowel qualities of SSG varieties.
+
+To achieve these goals, a total of 8 speakers (4 male and 4 female) from four different dialect regions - Bern, Chur, Brig, and Zurich - were recorded. Each speaker produced each vowel three times, resulting in a corpus of 1,632 tokens.
+
+The findings of the study reveal that in the dialect regions of Chur and Brig, ALM vowel quality is largely transferred to the SSG varieties. This suggests that speakers of these dialects maintain a strong influence on the vowel qualities of SSG in their respective regions. 
+
+However, in the SSG varieties spoken in Bern and Zurich, certain vowel qualities deviated from the ALM patterns. Particularly, the vowel <a> was fronted in both dialects' SSG varieties. Additionally, the SSG variant of <ä> in Bern was produced as both [ɛː] and [æː], indicating possible variation in vowel realization. The vowel <o> in these dialects' SSG varieties was also observed to be pronounced further back than in the ALM vowels.
+
+These findings have important implications for our understanding of Swiss Standard German and its relationship to Alemannic dialects. They highlight the influence of regional dialects on the vowel quality of SSG and contribute to filling the knowledge gap in the phonetic properties of SSG. Further research in this area can deepen our understanding of regional variation in Swiss German and its impact on the standard variety.

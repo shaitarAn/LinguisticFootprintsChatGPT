@@ -1,29 +1,22 @@
-Klinischer Fall: Pankreaskarzinom
+Klinischer Fall: Pankreaskarzinom mit positivem zirkumferentiellen Resektionsrand
 
-Patient: Herr Müller
-Alter: 63 Jahre
-Geschlecht: Männlich
+Patient: Herr Schmidt, 57 Jahre alt, männlich
 
 Anamnese:
-Herr Müller kommt mit Beschwerden wie Gewichtsverlust, Appetitlosigkeit, Bauchschmerzen und Gelbsucht in die Klinik. Nach einer detaillierten Anamneseerhebung stellt sich heraus, dass er auch seit einigen Monaten wiederholt dunklen, teerigen Stuhl hatte. Er gibt an, dass sein Vater vor einigen Jahren wegen Pankreaskarzinom behandelt wurde. Herr Müller hat keinen weiteren relevanten medizinischen oder familiären Hintergrund.
+Herr Schmidt wurde aufgrund unspezifischer Oberbauchschmerzen und Gewichtsverlust in unsere Klinik überwiesen. Er berichtet von wiederkehrenden Beschwerden über einen Zeitraum von etwa drei Monaten. Eine ausführliche Anamnese ergab keine bekannten Vorerkrankungen, jedoch wurde sein alkoholisches Trinkverhalten als überdurchschnittlich hoch beschrieben. In der Familienanamnese finden sich keine Hinweise auf erbliche Krebserkrankungen.
 
-Untersuchungsbefund:
-Bei der körperlichen Untersuchung fällt eine Gelbsucht auf, außerdem ist der Oberbauch druckschmerzhaft. Laboruntersuchungen zeigen erhöhte Werte von Bilirubin, ALAT und γ-Glutamyltransferase. Ein tumormarkerrelevanter Wert des CA 19-9 ist 240 U/mL (Normalwert < 35 U/mL). Eine abdominale Ultraschalluntersuchung zeigt einen verdickten Gallengang und eine Raumforderung im Pankreas. Eine anschließende kontrastmittelgestützte CT-Untersuchung des Abdomens bestätigt das Vorliegen eines Pankreastumors.
+Diagnostik:
+Eine umfassende Befunderhebung wurde durchgeführt, einschließlich einer körperlichen Untersuchung, Blutuntersuchungen, Bildgebung und einer Biopsie. Die Bildgebung mittels Computertomographie (CT) ergab eine Raumforderung im Pankreaskopf, was auf ein mögliches Pankreaskarzinom hinweist. Die Laborergebnisse zeigten einen erhöhten Tumormarkerwert für das Pankreaskarzinom, CA 19-9. Eine endoskopische retrograde Cholangiopankreatikographie (ERCP) wurde durchgeführt, um den Kanal des Pankreasgangs zu beurteilen und eine Biopsie zu entnehmen.
 
-Diagnose:
-Basierend auf den erhobenen Befunden wird bei Herrn Müller ein Pankreaskarzinom vermutet. Um eine genaue Diagnose zu stellen und das Stadium des Tumors zu bestimmen, wird eine Whipple-Operation durchgeführt.
+Histopathologische Aufarbeitung:
+Die im Rahmen der ERCP entnommene Biopsie wurde histopathologisch untersucht und bestätigte die Verdachtsdiagnose eines Pankreaskarzinoms. Aufgrund der Eindeutigkeit der Diagnose wurde dem Patienten nach entsprechender Aufklärung eine Whipple-Operation, also eine partielle Pankreasduodenektomie, empfohlen und von ihm akzeptiert.
 
-Histopathologische Aufarbeitung und Klassifikation des Resektats:
-Während der Operation wird der Tumor vollständig entfernt und zur weiteren histopathologischen Untersuchung geschickt. Im Rahmen der histopathologischen Aufarbeitung werden die Resektionsränder des Whipple-Resektats besonders beachtet. Es werden verschiedene Resektionsränder farbig markiert, um den Abstand der Tumorzellen zu den Resektionsgrenzen im mikroskopischen Schnitt festzustellen. Es stellt sich heraus, dass der zirkumferentielle Resektionsrand nicht betroffen ist, die Tumorzellen sind mehr als 1 mm davon entfernt (CRM-negativ).
+Während der Operation wurde eine standardisierte histopathologische Aufarbeitung des Resektats durchgeführt. In enger Zusammenarbeit mit dem operierenden Chirurgen wurden die zirkumferentiellen Resektionsränder markiert, um eine genaue Bewertung des Resektionsstatus zu ermöglichen. Die hintere Fläche des Prozessus uncinatus wurde ebenfalls speziell aufgearbeitet.
 
-Zusätzlich werden Lymphknoten entnommen und untersucht. Von den insgesamt 15 untersuchten Lymphknoten sind 3 von Tumorzellen befallen. Die Lymphknotenratio beträgt somit 3/15.
+Histopathologischer Befund:
+Die histopathologische Untersuchung des Resektats bestätigte die Diagnose eines Pankreaskarzinoms. Es handelte sich um ein duktales Adenokarzinom. Die Größe des Tumors betrug 3,5 cm. Es wurden keine Lymphknotenmetastasen gefunden. Bei der Beurteilung des Resektionsstatus zeigte sich, dass der zirkumferentielle Resektionsrand in allen drei Bereichen (vorderer, medialer und hinterer Resektionsrand) tumorinfiltriert war, was zu einer R1-Situation führte. Die hintere Fläche des Prozessus uncinatus war ebenfalls tumorinfiltriert.
 
-Das duktale Adenokarzinom des Pankreas wird histologisch auf der Grundlage der WHO-Klassifikation 2010 eingestuft. Es zeigt eine mäßige Drüsendifferenzierung, keine Muzinproduktion, eine moderate Mitosenanzahl und atypische Kerne. Das Grading des Tumors ist G2.
+Therapie und Prognose:
+Basierend auf dem histopathologischen Befund und der R1-Situation wurde die weitere Therapieplanung mit dem interdisziplinären Tumorboard besprochen. Es wurde beschlossen, dass Herr Schmidt eine adjuvante Chemotherapie mit Gemcitabin beginnen sollte, um das Risiko eines lokalen oder systemischen Rezidivs zu verringern. Die Behandlung wurde engmaschig überwacht, und Herr Schmidt zeigte eine gute Verträglichkeit der Chemotherapie. Er wurde auch zu einer engmaschigen Nachsorge mit regelmäßigen Bildgebungskontrollen und Tumormarkerbestimmungen eingeplant.
 
-Behandlung und Prognose:
-Basierend auf der histopathologischen Untersuchung des Resektats wird Herr Müller in die adjuvante Chemotherapie eingeschlossen. Die Entscheidung für die adjuvante Chemotherapie und deren genaue Zusammensetzung erfolgen gemäß den aktuellen Leitlinien.
-
-Die Prognose von Herrn Müller wird als relativ günstig eingestuft, da der Tumor vollständig entfernt wurde, keine Tumorzellen den zirkumferentiellen Resektionsrand erreicht haben und die Lymphknotenmetastasenquote niedrig ist. Die Verlaufskontrollen und Nachsorgeuntersuchungen werden gemäß den Leitlinien festgelegt, um ein mögliches Rezidiv frühzeitig zu erkennen.
-
-Rückmeldung an den Operateur:
-Der Operateur erhält den histopathologischen Befund, der die vollständige Entfernung des Tumors (R0-Resektion) bestätigt und den CRM-Status als negativ angibt. Dem Operateur wird außerdem mitgeteilt, dass 3 von 15 untersuchten Lymphknoten von Tumorzellen befallen sind, was zu einer Lymphknotenratio von 3/15 führt. Diese Informationen dienen der weiteren Planung der Nachsorge und Behandlung von Herrn Müller.
+Die Prognose von Patienten mit Pankreaskarzinom im fortgeschrittenen Stadium und positivem zirkumferentiellem Resektionsrand ist in der Regel ungünstig. Dennoch gibt es vereinzelt Fälle, in denen eine frühzeitige und adäquate Therapie zu einer längeren Überlebenszeit führen kann. Die regelmäßige Überwachung und Betreuung dieser Patienten ist entscheidend, um mögliche Rückfälle frühzeitig zu erkennen und geeignete Behandlungsmaßnahmen einzuleiten.

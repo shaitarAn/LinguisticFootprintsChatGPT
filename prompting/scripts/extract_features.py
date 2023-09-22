@@ -102,11 +102,11 @@ def process_file(file_path, lang):
     return td.extract_dict(doc), doc
 
 def count_oov_words(doc, system):
-    if not os.path.exists(f"../output/oov/"):
-        os.makedirs(f"../output/oov/")
-    with open(f"../output/oov/{corpus}_{params}.txt", "a") as f:
-        f.write("--------------------\n")
-        f.write(f"{system}\n")
+    if not os.path.exists(f"../output_truncated/oov/"):
+        os.makedirs(f"../output_truncated/oov/")
+    with open(f"../output_truncated/oov/{corpus}_{params}.txt", "a") as f:
+        # f.write("--------------------\n")
+        # f.write(f"{system}\n")
         for token in doc:
             if token.is_oov:
                 f.write(token.text+"\n")
@@ -114,7 +114,7 @@ def count_oov_words(doc, system):
 
 def main():
 
-    if corpus in ["cnn", "e3c", "zora_en", "pubmed_en"]:
+    if corpus in ["cnn", "e3c", "zora_en", "pubmed_en", "cs_en"]:
         lang = 'en'
     else:
         lang = 'de'
@@ -130,11 +130,11 @@ def main():
 
         system_dataframes = []  # Initialize the list before the loop
 
-        for file_name in os.listdir(f"../output/{corpus}/"):
+        for file_name in os.listdir(f"../output_truncated/{corpus}/"):
             
             # Check if the file contains the current identifier
             if identifier in file_name:
-                # output_file = ""
+                # output_truncated_file = ""
                 data = []
 
                 # only process files with the target extensions
@@ -145,15 +145,16 @@ def main():
                     # print(f"System: {system}")
 
 
-                    connectives = extract_connectives(lang, os.path.join(f"../output/{corpus}", file_name))
+                    connectives = extract_connectives(lang, os.path.join(f"../output_truncated/{corpus}", file_name))
                     total_connectives = sum([connectives[key]['lower'] + connectives[key]['capitalized'] for key in connectives])
+                    uppper_connectives = sum([connectives[key]['capitalized'] for key in connectives])
 
                     # print(connectives)
 
 
-                    # output_file = "../results/" + {corpus} + "/" + file_name[:-3] + "csv"
-                    # print(output_file)
-                    file_path = os.path.join(f"../output/{corpus}", file_name)
+                    # output_truncated_file = "../results_truncated/" + {corpus} + "/" + file_name[:-3] + "csv"
+                    # print(output_truncated_file)
+                    file_path = os.path.join(f"../output_truncated/{corpus}", file_name)
                     feature_values_list, obj = process_file(file_path, lang)
                     count_oov_words(obj, system)
 
@@ -170,10 +171,11 @@ def main():
 
                     # add a column with the number of connectives
                     df['connectives'] = total_connectives
+                    df['connectives_cap'] = uppper_connectives
 
                     #  drop column "text"
                     df.drop(columns=['text'], inplace=True)
-                    # df.to_csv(output_file, index=False)
+                    # df.to_csv(output_truncated_file, index=False)
 
                     #  transpose the dataframe and name the column with values as "system"
                     df = df.transpose()               
@@ -186,11 +188,11 @@ def main():
         combined_dataframe = pd.concat(system_dataframes, axis=1)
 
         # print(combined_dataframe.head())
-        if not os.path.exists(f"../results/{corpus}"):
-            os.makedirs(f"../results/{corpus}")
+        if not os.path.exists(f"../results_truncated/{corpus}"):
+            os.makedirs(f"../results_truncated/{corpus}")
 
         # # Step 4: Write the resulting dataframe to a CSV file
-        combined_dataframe.to_csv(f"../results/{corpus}/{identifier}_{params}.csv", index=True)
+        combined_dataframe.to_csv(f"../results_truncated/{corpus}/{identifier}_{params}.csv", index=True)
 
 
 if __name__ == "__main__":

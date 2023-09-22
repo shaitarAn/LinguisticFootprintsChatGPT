@@ -1,0 +1,15 @@
+End-stage renal disease (ESRD) is a condition characterized by the irreversible loss of kidney function, requiring patients to undergo hemodialysis for survival. Arteriovenous (AV) access, in the form of arteriovenous grafts (AVGs) or fistulas (AVFs), is crucial for hemodialysis as it provides a reliable site for vascular access.
+
+However, thrombosis of AV access remains a significant challenge in the management of ESRD patients. Thrombosed AV access can lead to complications such as delayed or missed dialysis sessions, increased morbidity and mortality rates, and the need for temporary dialysis catheter placement. Therefore, prompt and effective treatment of thrombosed AV access is essential.
+
+Traditionally, surgical intervention was the primary approach for managing thrombosed AV access. However, with advancements in endovascular techniques and devices, an endovascular approach has become the preferred treatment option due to its minimally invasive nature and favorable outcomes.
+
+The endovascular approach involves two main interventions: thrombolysis and thrombectomy. Thrombolysis refers to the administration of fibrinolytic agents through infusion catheters or pulse injector devices to dissolve the thrombus within the AV circuit. Thrombectomy, on the other hand, involves mechanical removal of the thrombus using various devices such as embolectomy balloon catheters, rotating baskets or wires, rheolytic mechanisms that use high-velocity saline jets to disrupt and remove clot material from vessels.
+
+In addition to addressing acute clot removal from AV access circuits through these techniques mentioned above; adjunctive methods are also employed during endovascular procedures. Cutting balloon angioplasty involves using a specialized balloon with microsurgical blades that score plaque within stenotic segments before dilation occurs; this technique helps reduce restenosis rates compared with conventional angioplasty alone. Drug-coated balloons (DCBs) are another adjunctive method that delivers an antiproliferative drug to the vessel wall during angioplasty, reducing the risk of restenosis. Stent placement is reserved for cases with severe stenosis or vessel collapse that cannot be adequately treated with balloon angioplasty alone.
+
+While endovascular thrombectomy techniques have shown promising results in the management of thrombosed AV access, it is important to acknowledge potential complications associated with these procedures. Vessel rupture, arterial embolism, pulmonary embolism (PE), and paradoxical embolism to the brain are among the possible complications that need to be considered and managed appropriately.
+
+This narrative review article aims to provide an overview of current practices and outcomes in endovascular thrombectomy techniques for treating thrombosed AV access in ESRD patients. The information presented here is based on a comprehensive literature search from electronic databases such as PubMed and Google Scholar.
+
+In conclusion, understanding different endovascular thrombectomy techniques and their potential complications

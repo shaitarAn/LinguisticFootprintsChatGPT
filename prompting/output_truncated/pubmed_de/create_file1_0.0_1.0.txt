@@ -1,0 +1,15 @@
+COVID-19-Forschungsdaten leichter zugänglich machen – Aufbau einer bundesweiten Informationsinfrastruktur
+
+Einleitung:
+
+Die COVID-19-Pandemie hat weltweit erhebliche Auswirkungen auf die öffentliche Gesundheit, die Wirtschaft und das soziale Leben. Um diese Krise besser zu verstehen und angemessene Maßnahmen zur Eindämmung der Ausbreitung des Virus zu ergreifen, sind umfangreiche Forschungsaktivitäten erforderlich. In Deutschland wurden zahlreiche Forschungsprojekte initiiert, um verschiedene Aspekte von SARS-CoV-2 und COVID-19 zu untersuchen. Diese Projekte liefern wertvolle Erkenntnisse über die Epidemiologie, klinische Merkmale, Behandlungsmöglichkeiten und Präventionsstrategien im Zusammenhang mit der Krankheit.
+
+Jedoch stellt sich angesichts der Fülle an Informationen eine Herausforderung dar: Wie können Forscherinnen und Forscher einen Überblick über die vielfältigen Forschungsaktivitäten erhalten? Wie können sie schnell auf relevante Daten zugreifen und diese effektiv nutzen? Um diese Fragen anzugehen, wurde im Rahmen der Initiative "Nationale Forschungsdateninfrastruktur für personenbezogene Gesundheitsdaten" (NFDI4Health) die "Task Force COVID-19" ins Leben gerufen.
+
+Das Hauptziel dieser Task Force besteht darin, eine bundesweite Informationsinfrastruktur aufzubauen, um den Zugang zu SARS-CoV-2- und COVID-19-bezogenen klinischen, epidemiologischen und Public Health-Forschungsdaten zu erleichtern. Dabei werden die FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) berücksichtigt, um eine schnellere Kommunikation von Forschungsergebnissen zu fördern.
+
+Die Task Force hat bereits verschiedene Arbeitsinhalte identifiziert. Dazu gehört die Erstellung eines Studienportals mit Metadaten, Erhebungsinstrumenten, Studiendokumenten und Veröffentlichungen. Darüber hinaus wird eine Suchmaschine für Preprint-Publikationen entwickelt. Ein weiterer Schwerpunkt liegt auf der Verknüpfung von Forschungs- und Routinedaten sowie auf verbesserten Services zum Umgang mit Bilddaten. Standardisierte Analyseroutinen sollen zudem eine harmonisierte Qualitätsbewertung ermöglichen.
+
+Die im Aufbau befindliche Informationsinfrastruktur wird es Forscherinnen und Forschern erleichtern, deutsche COVID-19-Forschungsdaten zu finden und effektiv damit umzugehen. Die Entwicklungen der NFDI4Health Task Force COVID-19 sind jedoch nicht nur für dieses spezifische Thema relevant; sie können auch auf andere Forschungsthemen übertragen werden, da die Herausforderungen bei der Auffindbarkeit und dem Umgang mit Forschungsdaten generisch sind.
+
+In diesem wissenschaftlichen Paper widmen wir uns einer anderen Forschungsfrage im Zusammenhang mit der COVID-19-Pandemie: Wie beeinflussen sozioökonomische Faktoren das Risiko einer Infektion mit SARS-CoV-2? Wir untersuchen den Zusammenhang zwischen verschiedenen sozioökonomischen Variablen

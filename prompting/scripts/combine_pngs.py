@@ -12,11 +12,11 @@ png_directory = Path("../plots")
 if not os.path.exists("../plots/combined_results"):
     os.makedirs("../plots/combined_results")
 
-if not os.path.exists("../results/combined_results"):
-    os.makedirs("../results/combined_results")
+if not os.path.exists("../results_truncated/combined_results"):
+    os.makedirs("../results_truncated/combined_results")
 
 # get the path to the directory where the pdf file will be saved
-output_dir = "../results/combined_results"
+output_dir = "../results_truncated/combined_results"
 
 # iterate through the directories in the png_directory
 for top_directory in os.listdir(png_directory):
@@ -46,13 +46,17 @@ for top_directory in os.listdir(png_directory):
             new_image.paste(list_of_images[3], (w, h))
             new_image.paste(list_of_images[4], (0, h*2))
             new_image.paste(list_of_images[5], (w, h*2))
-            # new_image.paste(list_of_images[5], (0, h))
+            new_image.paste(list_of_images[6], (0, h*3))
+            new_image.paste(list_of_images[7], (w, h*3))
+            new_image.paste(list_of_images[8], (0, h*4))
+            new_image.paste(list_of_images[9], (w, h*4))
 
             # save it
             new_image.save(f'{output_dir}/{top_directory}.png')
         else:
-            print(f"not enough images in {top_directory}")
-            print(len(list_of_images))
+            continue
+            # print(f"not enough images in {top_directory}")
+            # print(len(list_of_images))
 
 
 

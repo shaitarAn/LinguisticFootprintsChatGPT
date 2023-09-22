@@ -1,0 +1,11 @@
+The study of phonetic properties of Swiss Standard German (SSG) in relation to Alemannic (ALM) dialects is important in understanding the linguistic diversity of Switzerland. While previous research has focused mainly on consonants, this study aims to fill the gap by investigating the long-vowel inventories and vowel quality in four ALM dialects and their corresponding SSG varieties.
+
+The primary objective of this study is to conduct a comparative acoustic analysis of ALM and SSG vowels. This will provide a better understanding of the similarities and differences between these dialects and the influence of ALM dialects on the vowel qualities of SSG varieties.
+
+To achieve this, a total of 8 speakers, 4 males and 4 females, representing the dialects of Bern, Chur, Brig, and Zurich, were recorded producing each vowel three times. This resulted in a corpus of 1,632 tokens, which were then analyzed acoustically.
+
+The results of the study indicate that there is a transfer of vowel quality from ALM dialects to SSG varieties in Chur and Brig. In these regions, the vowel qualities in the SSG varieties closely match those of the ALM dialects. However, in the SSG varieties spoken in Bern and Zurich, certain vowel qualities did not align with the ALM dialects. Notably, the vowel <a> was fronted in the SSG varieties of both dialects.
+
+Furthermore, the study found that the SSG variety spoken in Bern exhibited variation in the production of the vowel <ä>, which was realized as both [ɛː] and [æː]. Additionally, the vowel <o> in the Bern SSG variety was produced with a more back articulation.
+
+These findings suggest that there is variation in vowel quality between ALM dialects and their corresponding SSG varieties. The influence of ALM dialects on the vowel qualities of SSG seems to be stronger in some regions than others. Understanding these variations is crucial for accurately representing the linguistic diversity in Switzerland and for developing comprehensive phonetic descriptions of SSG.

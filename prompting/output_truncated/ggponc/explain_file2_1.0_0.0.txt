@@ -1,0 +1,15 @@
+Dieser Text befasst sich mit verschiedenen Urinmarkern, die zur Diagnose von Blasenkarzinomen eingesetzt werden können. Die Leitlinien beschreiben die verschiedenen Marker sowie deren Vor- und Nachteile.
+
+Der Text beginnt mit der Erläuterung des Proteins NMP22, das in malignen Urothelzellen häufiger vorkommt als in normalen Urothelzellen. Bei Blasenkarzinom-Patienten wird NMP22 vermehrt im Urin ausgeschieden. Der Test zur Erkennung von NMP22 im Urin basiert auf dem Nachweis von apoptotischen (absterbenden) Zellbestandteilen und ist daher unspezifisch für ein Urothelkarzinom. Dennoch sind beide NMP22-Tests von der FDA (Food and Drug Administration) für die Nachsorge bei nicht-muskelinvasiven Blasenkarzinomen zugelassen. Der quantitative NMP22-Test korreliert mit der Größe des Tumors.
+
+In einer Studie mit 739 Patienten zeigte der quantitative NMP22-Test abhängig von der Anzahl der Tumoren eine Sensitivität von 79% bei einem Tumor, 90% bei 2-3 Tumoren und 97% bei mehr als 3 Tumoren. In einer anderen Studie mit einem höheren Grenzwert wurde eine Sensitivität von 72-75% für einzelne Tumoren und 74-75% für multiple Tumoren gefunden.
+
+Verschiedene Untersuchungen haben gezeigt, dass der NMP22-Test eine höhere Sensitivität im Vergleich zur Urinzytologie aufweist. Es gibt jedoch auch Studien, bei denen die Urinzytologie besser abschnitt.
+
+Metaanalysen und systematische Reviews zeigen, dass die Sensitivität der NMP22-Tests durchweg höher ist als die der Urinzytologie, die Spezifität jedoch deutlich niedriger. Der NMP22-Test ist jedoch durch eine hohe falsch positive Rate gekennzeichnet, etwa 80%.
+
+Die Spezifität des NMP22-Tests kann durch den Ausschluss bestimmter klinischer Bedingungen wie Steine, Infektionen, Entzündungen oder Hämaturie erhöht werden. Eine andere Studie untersuchte die Vorhersagewahrscheinlichkeit eines positiven NMP22-Tests bei negativer Urinzytologie und fand eine prädiktive Wahrscheinlichkeit von 67,5% für das Alter und 71,3% für den NMP22-Test.
+
+Es werden auch andere Urinmarker beschrieben, wie das Blasentumor assoziierte Antigen (hCFHrp), das durch semiquantitative bzw. qualitative Tests nachgewiesen werden kann und als Zusatzverfahren zur Zystoskopie bei der Primärdiagnostik von der FDA zugelassen ist. Die Sensitivität und Spezifität dieser Tests sind ähnlich wie bei der Urinzytologie.
+
+Weitere Urinmarker, wie Survivin,

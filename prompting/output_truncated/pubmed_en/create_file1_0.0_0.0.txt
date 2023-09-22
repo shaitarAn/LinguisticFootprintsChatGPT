@@ -1,0 +1,15 @@
+1. Introduction
+
+Thrombosed arteriovenous grafts (AVGs) and fistulas (AVFs) are common complications in patients with end-stage renal disease (ESRD) who rely on arteriovenous (AV) access for hemodialysis. Thrombosis of AV access can result in significant morbidity, including delays in hemodialysis initiation and the need for temporary dialysis catheter placement. The management of thrombosed AV access has evolved over the years, with the endovascular approach emerging as the preferred treatment option over surgical intervention.
+
+The endovascular approach to thrombosed AV access involves the removal of thrombus from the AV circuit and the treatment of underlying anatomical abnormalities, such as anastomotic stenosis. This approach offers several advantages, including reduced invasiveness, shorter recovery times, and improved outcomes compared to traditional surgical techniques. Various endovascular interventions have been developed to address thrombosed AV access, including thrombolysis and thrombectomy techniques.
+
+Thrombolysis, the process of dissolving thrombus, is achieved through the administration of fibrinolytic agents using infusion catheters or pulse injector devices. Thrombectomy, on the other hand, involves the mechanical removal of thrombus using embolectomy balloon catheters, rotating baskets or wires, rheolytic and aspiration mechanisms. These techniques aim to restore blood flow through the AV access and salvage the access site, thereby avoiding the need for catheter-based dialysis.
+
+In addition to thrombolysis and thrombectomy, adjunctive methods such as cutting balloon angioplasty, drug-coated balloon (DCB) angioplasty, and stent placement are employed to treat stenoses in the AV circuit. These techniques address the underlying anatomical abnormalities contributing to thrombosis and aim to optimize long-term access patency.
+
+While the endovascular approach has revolutionized the management of thrombosed AV access, it is not without risks. Complications associated with these procedures include vessel rupture, arterial embolism, pulmonary embolism (PE), and paradoxical embolism to the brain. Therefore, a comprehensive understanding of thrombectomy techniques and their potential complications is essential for clinicians involved in the management of patients with thrombosed AV access.
+
+This paper aims to provide a comprehensive review of the current practices and outcomes of endovascular thrombectomy techniques for the treatment of thrombosed AVGs and AVFs. By synthesizing the available literature from electronic databases, including PubMed and Google Scholar, we aim to explore the efficacy, safety, and long-term outcomes of these interventions. Furthermore, we will discuss the potential complications associated with these techniques and provide recommendations for their management.
+
+In conclusion, the management of thrombosed AV access in patients with ESRD is a complex and evolving field. The endovascular approach, including thrombolysis and thrombectomy techniques, has emerged as the preferred treatment option over surgery. However, these interventions are not

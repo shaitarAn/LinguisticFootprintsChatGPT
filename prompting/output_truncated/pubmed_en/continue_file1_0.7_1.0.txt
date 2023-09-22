@@ -1,0 +1,15 @@
+End-stage renal disease (ESRD) is a condition in which the kidneys are no longer able to function properly, requiring patients to undergo hemodialysis for survival. Arteriovenous (AV) access, such as arteriovenous grafts (AVGs) and fistulas (AVFs), are commonly used to facilitate hemodialysis. However, thrombosis of these AV access sites can occur, leading to significant complications.
+
+When AV access becomes thrombosed, it can result in delays in initiating hemodialysis or even abandonment of the access site altogether. In such cases, dialysis catheter placement may be necessary as an alternative means of vascular access. To prevent these complications and maintain long-term patency of AV access sites, endovascular thrombectomy techniques have become increasingly utilized.
+
+The endovascular approach involves the use of minimally invasive procedures to remove thrombus from the AV circuit and address any underlying anatomical abnormalities that may be contributing to the clot formation. Thrombolysis is one technique employed during these procedures and involves using infusion catheters or pulse injector devices to administer fibrinolytic agents that help dissolve the blood clot.
+
+Another method used in endovascular thrombectomy is mechanical removal of the clot through a process called thrombectomy. This can be achieved using various devices such as embolectomy balloon catheters, rotating baskets or wires, rheolytic mechanisms that utilize high-velocity saline jets for clot disruption and removal, or aspiration techniques that suction out the clot from within the vessel.
+
+In addition to addressing clots directly, adjunctive methods are often employed during these procedures to treat stenotic areas within the AV circuit. Cutting balloon angioplasty utilizes balloons with small blades on their surface to cut through plaque buildup and widen narrowed vessels. Drug-coated balloons (DCB) release medication onto vessel walls during angioplasty procedures to help prevent restenosis. Stent placement may also be necessary in cases where the vessel remains narrowed despite other interventions.
+
+While endovascular thrombectomy procedures have proven to be effective in treating thrombosed AV access, they are not without risks. Complications can include vessel rupture, arterial embolism, pulmonary embolism (PE), and paradoxical embolism to the brain. Therefore, it is essential for healthcare providers to have a comprehensive understanding of these techniques and their potential complications when managing patients with thrombosed AV access.
+
+This narrative review article aims to provide an overview of current practices and outcomes in endovascular thrombectomy techniques for the treatment of thrombosed AVGs and AVFs. The information presented here is based on a literature search conducted using electronic databases such as PubMed and Google Scholar.
+
+In conclusion, endovascular thrombectomy techniques have become the preferred approach for treating

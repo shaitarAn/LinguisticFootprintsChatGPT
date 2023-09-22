@@ -1,25 +1,31 @@
-Clinical Case: A 32-year-old mentally ill woman was referred to our hospital after a suicide attempt by self-inflicted gunshot wound to the head. The patient had a history of bipolar disorder, classified as ICD 10 F31.9, and was not compliant with her medication regimen. She had sustained extensive injuries, with full-thickness burns involving approximately 45% of her total body surface area (TBSA). The burns affected her face and neck (6%), both upper extremities (10%), bilateral thighs and legs (8%), and anterior and posterior trunk (13%).
+Title: A 42-year-old Woman with Bipolar Disorder Presenting with Self-inflicted Burns
 
-Upon admission, the patient weighed 55 kg with a height of 165 cm, resulting in a calculated body mass index (BMI) of 20.2 kg/m²—within the normal range. Due to the severity of her injuries, immediate surgical intervention was required to debride the burned tissue. A total of six debridement surgeries were performed over a period of three months.
+Clinical Background:
+Ms. A is a 42-year-old woman who was transferred from a local psychiatric hospital following a self-inflicted burn injury. She has a known history of bipolar disorder and had attempted suicide by fire approximately three days before admission to our facility. The patient sustained burns over various regions of her body, affecting an estimated total body surface area (TBSA) of approximately 40%.
 
-The patient's nutrition status was assessed one week after admission due to the complexity of her injuries and initial stabilization requirements. No gastrointestinal symptoms or signs were observed during this assessment; however, it was reported that she had refused most food offerings during this time and relied on smoking cigarettes for appetite suppression.
+Presenting Injury:
+Ms. A's injuries are categorized as mixed-depth burns, involving both full-thickness and partial-thickness burns. The affected areas include her face and neck (estimated at 7%), both upper extremities (10%), right thigh (6%), left thigh and leg (4%), as well as the majority of her anterior and posterior trunk (13%). 
 
-Objective measurements indicated an albumin level within normal limits at 4 g/L but revealed imbalanced electrolyte levels due to fluid shifts as expected in burn patients.
+Hospitalization Course:
+Upon admission, Ms. A was immediately admitted to the burn unit for comprehensive management of her injuries alongside specialized psychiatric care due to her mental health condition. Over the course of her hospital stay, she underwent five debridement surgeries to remove necrotic tissue and facilitate wound healing.
 
-Based on subjective global assessment (SGA), the patient fell into category B—moderately malnourished—due to recent weight loss caused by poor oral intake since admission.
+Treatment Timeline:
+1. Day 1: Initial assessment, stabilization, pain management initiation.
+2. Day 3: First surgical debridement performed.
+3. Day 5: Wound dressings applied using silver sulfadiazine cream.
+4. Day 10: Second surgical debridement performed along with application of autografts on selected areas.
+5. Day 20: Third surgical procedure carried out for further debridement and grafting.
+6. Day 35: Fourth surgical intervention conducted for skin graft reinforcement in critical areas.
+7 .Day 50: Fifth surgery focused on scar revision procedures.
 
-To address nutritional deficiencies promptly, an enteral nutrition plan was initiated at an energy intake level of 25 kcal/kg per day along with protein supplementation at 1 g/kg per day via oral nutrition supplements (ONS). Additionally, micronutrient supplementation including vitamin A at a dose of 50,000 units for the first week, vitamin C at 100 mg twice daily, and zinc at 20 mg once daily was prescribed.
+Psychiatric Management:
+In collaboration with the psychiatric team, Ms.A's bipolar disorder was managed using mood stabilizers such as lithium and atypical antipsychotic medications. She received daily counseling sessions to address her emotional distress, coping strategies, and suicide prevention.
 
-Despite aggressive nutritional support, the patient's weight continued to decline. By the end of the second week, her body weight had decreased to 52 kg with an albumin level of 3.8 g/L. To combat ongoing weight loss and malnutrition, the energy intake was increased to 30 kcal/kg per day with a protein target of 1.5 g/kg per day using a combination of oral nutrition and ONS in a ratio of 60:40.
+Length of Stay:
+Ms. A required an extensive hospitalization period of 66 days due to the severity and extent of her burn injuries, as well as the need for concurrent psychiatric care.
 
-Throughout her hospitalization period, the patient displayed erratic appetite patterns, often refusing enteral feedings and ONS due to pain and discomfort associated with her injuries. Multiple analgesics were administered; however, they provided limited relief from pain.
+Outcome:
+Despite the challenging circumstances, Ms. A exhibited gradual improvement throughout her hospitalization course. Regular wound care, surgical interventions, pain management strategies, and psychiatric support played vital roles in facilitating her physical and mental recovery. Upon discharge from our facility, she was referred to a comprehensive rehabilitation program consisting of physical therapy for scar management and occupational therapy for functional restoration.
 
-Due to persistent inadequate oral intake and progressive malnutrition despite maximum enteral support efforts, partial parenteral nutrition (PN) enriched with branched-chain amino acids (BCAAs) was introduced on day 21 to fulfill her protein requirements while minimizing muscle wasting.
-
-On day 42, granulation tissue formation was observed on the wound bed as a sign of healing progress. The patient had lost approximately 15% of her initial body weight (BMI:18 kg/m²), weighing only 47 kg at this stage. Her serum albumin level remained stable at around 3 g/L over time.
-
-Considering both her mental health status and nutritional challenges encountered during treatment, it was decided that surgical intervention involving skin grafts would be deferred in favor of continued wound care management until further improvement in overall physical condition could be achieved.
-
-After a hospital stay lasting three months—during which time she received multidisciplinary care encompassing psychiatric intervention and optimized nutritional support—the patient demonstrated significant improvement both mentally and physically. Despite sustaining considerable muscle wasting and subcutaneous fat loss evident upon discharge evaluation (weight: 50 kg, BMI: 18.4 kg/m²), her general well-being and mental state had significantly improved.
-
-In conclusion, this case highlights the complex nature of managing a mentally ill patient with extensive burns and associated nutritional challenges. Close collaboration between psychiatric and burn care teams proved essential in providing holistic care to address both mental health issues and nutritional deficiencies, ultimately leading to favorable outcomes for the patient.
+Conclusion:
+This clinical case highlights the complex care provided to a 42-year-old woman with bipolar disorder who presented with self-inflicted burns involving multiple body regions. The multidisciplinary approach integrating burn management protocols with psychiatric interventions proved crucial in addressing both physical healing and mental well-being throughout her prolonged hospital stay.

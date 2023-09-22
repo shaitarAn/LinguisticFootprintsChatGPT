@@ -1,0 +1,13 @@
+The introduction of this Zora article provides background information on the linguistic situation in German-speaking Switzerland, specifically focusing on the concept of diglossia. Diglossia refers to the use of two varieties of a language in different contexts. In this case, the two varieties are Alemannic dialects (ALM) for oral communication and Swiss Standard German (SSG) for written communication.
+
+The article explains that in German-speaking Switzerland, everyone is a native speaker of a local dialect (ALM), while SSG is learned at school. However, both ALM and SSG can be used to some extent in each other's domains, and Swiss people often code-switch between them quickly.
+
+Given the contact between these two language varieties, it is not surprising that previous research has reported interferences on various linguistic levels such as phonetics, morphology, syntax, and vocabulary.
+
+The article then highlights that there have been limited acoustic studies on ALM dialects and only one study comparing ALM and SSG vowels in specific regions. Therefore, the current study aims to systematically investigate vowel qualities in four ALM dialects (from Bern, Chur, Brig, and Zurich) as well as their respective SSG varieties using an instrumental phonetic approach.
+
+After describing the ALM dialects and SSG varieties spoken in German-speaking Switzerland briefly, the study will focus on analyzing long vowels produced by speakers from High ALM and Highest ALM subgroups. These subgroups are defined by multiple isoglosses that divide German-speaking Switzerland into northern and southern halves based on features like hiatus diphthongisation.
+
+However, it's important to note that these dialect groups are not entirely homogeneous; there also exists an east-west divide based on additional phonetic features like /l/-vocalisation. The article acknowledges that while there may be instances where these divides are not straightforward due to multiple variants existing for words or sounds within the dialect regions, they generally align with the north-south and east-west axes.
+
+In conclusion, German-speaking Switzerland can be divided into four broad dialect regions based on these averaged isogloss divisions.

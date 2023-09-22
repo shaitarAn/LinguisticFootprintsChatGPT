@@ -1,0 +1,13 @@
+1. Introduction
+
+The phenomenon of post-head compression in noun phrase referring expressions (NP REs) has been extensively studied in the field of interactive communication. Previous research has shown that language users tend to converge on linguistic forms and shorten their NP REs over the course of a communicative interaction (REF). This process of shortening has been attributed to the establishment of routines and the need for efficient communication (REF).
+
+While existing studies have focused on the structural changes that occur in NP REs during this shortening process, there remains a research gap in understanding the role of contextual factors in shaping these changes. Specifically, little attention has been given to the influence of visual stimuli on the structural modification of NP REs.
+
+The present paper aims to address this research gap by investigating the effects of visual stimuli on the structural changes in NP REs during interactive communication. Drawing on data from an experimentally elicited corpus of spoken English, consisting of conversational dyads engaged in a referential communication task, this study seeks to examine how interlocutors modify their NP REs in response to visual stimuli.
+
+By analyzing the elicited dialogues, this research will explore whether the presence of visual stimuli leads to different patterns of post-head compression in NP REs. It is hypothesized that the visual stimuli will elicit more elaborate structural modifications in NP REs, as speakers may need to provide additional information to accurately refer to the visual stimuli. Conversely, it is also expected that the presence of visual stimuli may facilitate the compression of NP REs, as speakers may rely on the visual context to convey meaning.
+
+Understanding the role of visual stimuli in shaping the structural changes in NP REs will contribute to our knowledge of how interactive communication influences language production. Moreover, this research will shed light on the cognitive processes involved in referential communication and provide insights into the mechanisms underlying the adaptation of linguistic forms in response to contextual cues.
+
+The remainder of this paper is organized as follows. Section 2 provides a comprehensive review of the literature on post-head compression in NP REs, highlighting the existing research on linguistic convergence and shortening. Section 3 outlines the methodology employed in this study, including the experimental design and data collection procedures. Section 4 presents the results of the analysis, followed by a discussion of the findings in Section 5. Finally, Section 6 concludes the paper by summarizing the main findings and suggesting avenues for future research.

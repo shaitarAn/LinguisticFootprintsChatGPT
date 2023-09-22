@@ -1,0 +1,13 @@
+In diesem Text geht es um die Aufarbeitung und Bewertung von Resektionsrändern bei der chirurgischen Entfernung von Pankreaskarzinomen. Die Gefäßachse und tumorinfiltrierte Lymphknoten in der Arteria mesenterica superior-Ebene spielen dabei eine wichtige Rolle.
+
+Um die Entfernung der Tumorzellen von den Resektionsrändern genau zu bestimmen, hat es sich in der täglichen Praxis bewährt, diese Ränder farbig zu markieren und im histologischen Schnitt zu identifizieren. Im Mikroskop kann dann genau gemessen werden, wie weit die Tumorzellen von welchem Resektionsrand entfernt sind. Diese Maßzahl wird dem Befund hinzugefügt und dem Operateur mitgeteilt.
+
+Um zu berücksichtigen, dass die Karzinomzellen häufig an den zirkumferentiellen Resektionsrand heranreichen, wird ein neues Konzept empfohlen, das "Konzept des zirkumferentiellen Resektionsrands" (CRM). R0-resezierte Pankreaskarzinome werden dann als CRM-positiv klassifiziert, wenn der Abstand der Tumorzellen zum Resektionsrand weniger als 1 mm beträgt, diesen jedoch nicht erreicht. Sind die Karzinomzellen mehr als 1 mm vom Resektionsrand entfernt, wird eine "CRM-negative" R0-Situation klassifiziert.
+
+Die Frage, welcher Abstand zum Resektionsrand prognostische Bedeutung hat, kann noch nicht abschließend beantwortet werden. Eine große Studie hat jedoch gezeigt, dass Patienten, bei denen die Tumorzellen mehr als 1,5 mm vom Resektionsrand entfernt waren, eine bessere Prognose haben.
+
+Durch die Anwendung des CRM-Konzepts mit Angabe des minimalen Abstands der Karzinomzellen zum zirkumferenziellen Resektionsrand können erstmals Daten geschaffen werden, die eine abschließende Bewertung der operativen Behandlung von Pankreaskarzinomen ermöglichen. Dadurch kann das Rezidivrisiko und die Prognose besser abgeschätzt werden.
+
+Das UICC-Tumorstadium ist der wichtigste Prognoseparameter nach der Resektion eines Pankreaskarzinoms. Das Vorhandensein von Lymphknotenmetastasen ist ein entscheidender Prognoseparameter. Es sollten mindestens zehn Lymphknoten entfernt werden, um eine korrekte Kategorisierung vorzunehmen. Die Angabe der Lymphknotenratio, also das Verhältnis der befallenen Lymphknoten zur Anzahl der untersuchten Lymphknoten, hat prognostische Bedeutung.
+
+Das Grading des duktalen Adenokarzinoms des Pankreas basiert auf histologischen und zytologischen Kriterien und ist in der WHO-Klassifikation 2010 festgelegt. Neben der Drüsendifferenzierung fließen auch Muzinproduktion, Mitosenanzahl und Kernatypien in das Grading ein. Der histologische Differenzierungsgrad korreliert

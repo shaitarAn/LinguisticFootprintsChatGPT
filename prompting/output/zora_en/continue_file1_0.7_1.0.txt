@@ -1,0 +1,13 @@
+In communication, referring expressions play a crucial role in conveying meaning and facilitating understanding between language users. Noun phrases (NPs) are commonly used as the core of referring expressions (REs), providing specific information about the referent being discussed. However, previous research has shown that the use of NP REs tends to change over the course of a communicative interaction.
+
+One aspect of this change is the tendency for interlocutors to converge on linguistic forms and establish routines. This convergence includes shortening NP REs as speakers adapt their language use to match that of their conversation partner. This phenomenon is known as post-head compression, where speakers progressively reduce the length and complexity of their NP REs.
+
+To investigate this shortening process, we conducted an experiment using a corpus of spoken English data. The corpus consisted of conversational dyads engaged in a referential communication task, repeatedly referring to visual stimuli. By analyzing these interactions, we were able to observe changes in both the length and structure of NP REs.
+
+Our findings revealed that interlocutors indeed shortened their NP REs over time during these dialogues. Specifically, there was a noticeable decrease in longer clausal post-head elements within the NPs. These clausal elements are typically associated with structural elaboration and provide additional information about the referent.
+
+Conversely, we observed an increase in premodified NP REs and shorter phrasal postmodification as the interaction progressed. Premodification refers to modifiers placed before the noun within an NP, while postmodification occurs after it. The shift towards premodification and shorter phrasal modification suggests a trend towards structural compression in NP REs.
+
+Overall, our study highlights how interlocutors adapt their language use during interactive communication by compressing their NP REs through reducing clausal elements and utilizing more concise modifications. These structural changes reflect not only linguistic convergence but also facilitate efficient information transfer between speakers by streamlining the expression of referential information.
+
+In the following sections, we will provide a detailed analysis of our findings, discuss their implications, and explore potential explanations for the observed patterns of post-head compression in NP REs.

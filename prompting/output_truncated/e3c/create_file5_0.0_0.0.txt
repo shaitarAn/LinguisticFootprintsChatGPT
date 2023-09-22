@@ -1,0 +1,23 @@
+Patient Information:
+
+On the 15th October 2021, a previously healthy, 32-year-old Caucasian female was admitted to the medical ward at St. Mary's Hospital, London. The patient was transferred from a local clinic due to worsening symptoms. She presented with a two-week history of fever, a widespread rash on her trunk and extremities, severe headache accompanied by neck stiffness, a persistent sore throat, and a dry cough. Additionally, she reported experiencing intermittent episodes of diarrhea for the past three days. The patient denied any joint pain, oral or nasal ulcers, or discharge from her urethra.
+
+Medical History:
+
+The patient had no significant medical history and was not taking any medications prior to the onset of her symptoms. She had no known allergies and had not traveled outside of the country recently. Her family history was unremarkable, with no known genetic or hereditary conditions.
+
+Clinical Presentation:
+
+Upon admission, the patient appeared fatigued and mildly dehydrated. Her vital signs were as follows: temperature of 38.5°C (101.3°F), heart rate of 100 beats per minute, blood pressure of 120/80 mmHg, and respiratory rate of 18 breaths per minute. Physical examination revealed a diffuse maculopapular rash on her trunk and extremities, including her eyelids. The rash was non-blanching and not pruritic. The patient exhibited signs of meningeal irritation, with neck stiffness and pain upon flexion. Her throat appeared erythematous, and she had enlarged tonsils with no exudates. Lung auscultation revealed clear breath sounds bilaterally, and her abdomen was soft and non-tender. No joint swelling or tenderness was noted.
+
+Diagnostic Workup:
+
+Laboratory investigations were ordered to further evaluate the patient's condition. Initial blood tests showed a white blood cell count of 12,000 cells/mm³, with a predominance of neutrophils. Liver function tests, renal function tests, and electrolyte levels were within normal limits. A throat swab was obtained for culture and sensitivity testing, and a chest X-ray was performed to rule out any underlying pulmonary pathology.
+
+Working Diagnosis:
+
+Based on the patient's clinical presentation, the differential diagnosis includes several infectious and non-infectious etiologies. Infectious causes such as viral or bacterial meningitis, Epstein-Barr virus (EBV) infection, and atypical pneumonia were considered. Non-infectious causes, including drug reactions and autoimmune disorders, were also taken into account.
+
+Treatment and Management:
+
+The patient was started on empiric antibiotic therapy with intravenous ceftriaxone and acyclovir to cover potential bacterial and viral causes of meningitis. Supportive care measures, including hydration and pain management, were initiated. The patient was placed on droplet precautions, and strict isolation protocols were followed to prevent the spread of

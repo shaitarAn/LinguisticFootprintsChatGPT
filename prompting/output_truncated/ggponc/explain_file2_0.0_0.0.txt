@@ -1,0 +1,13 @@
+Die Leitlinien beschreiben verschiedene Urinmarker, die zur Diagnose und Nachsorge von Blasenkarzinomen eingesetzt werden können. Ein solcher Marker ist das Protein NMP22, das in malignen Urothelzellen häufiger vorkommt als in normalen Zellen. Patienten mit Blasenkarzinom scheiden NMP22 vermehrt im Urin aus. Es gibt verschiedene Tests, die auf dem Nachweis von NMP22 im Urin basieren. Ein quantitativer Test korreliert mit der Tumormasse und hat in einer Studie eine hohe Sensitivität gezeigt.
+
+Die Tests mit NMP22 haben in mehreren Untersuchungen eine höhere Sensitivität im Vergleich zur Urinzytologie gezeigt. Allerdings ist die Spezifität der NMP22-Tests deutlich niedriger. Es gibt eine hohe falsch positive Rate von etwa 80% bei diesen Tests. Durch den Ausschluss bestimmter klinischer Zustände wie Steine, Infektionen oder Entzündungen kann die Spezifität erhöht werden.
+
+Ein weiterer Urinmarker ist das Bladder Tumour Antigen (BTA), das das Protein human complement factor H-related protein (hCFHrp) nachweist. Es gibt zwei verschiedene Tests, einen kostengünstigen und zeitsparenden Test (BTA Stat) und einen aufwendigeren Test (BTA TRAK). Die Sensitivitäten dieser Tests sind ähnlich wie bei der Urinzytologie, die Spezifität ist jedoch etwas niedriger.
+
+Es wurden auch andere Urinmarker wie Survivin, Telomerase, MCM Proteine und Mikro-RNA untersucht. Diese Marker haben teilweise gute Sensitivitäten gezeigt, aber die Datenlage ist insgesamt gering und eine klinische Bewertung ist noch nicht möglich.
+
+Es wurden auch Markerpanels untersucht, bei denen mehrere Urinmarker gleichzeitig angewendet werden. Es konnte jedoch keine wesentliche Verbesserung der prädiktiven Aussage durch die Kombination von Urinmarkern festgestellt werden.
+
+Insgesamt ist die Qualität der publizierten Evidenz zu den verschiedenen Urinmarkern meist gering. Es gibt noch keine ausreichend validierten Marker für eine einfache praktische Anwendung in der klinischen Diagnostik. Die verschiedenen Marker haben unterschiedliche Sensitivitäten und Spezifitäten und können in Kombination mit anderen klinischen Parametern zur Risikostratifizierung von Patienten verwendet werden.
+
+Es ist wichtig zu beachten, dass die Ergebnisse der Urinmarker-Tests von verschiedenen Faktoren wie Hämaturie, intravesikaler Therapie oder anderen urologischen Erkrankungen beeinflusst werden können. Daher ist

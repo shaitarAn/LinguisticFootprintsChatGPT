@@ -1,0 +1,13 @@
+Die atopische Dermatitis (AD) ist eine chronische entzündliche Hauterkrankung, die durch Juckreiz, Rötung, Schuppung und Bläschenbildung gekennzeichnet ist. Obwohl die genauen Ursachen der AD noch nicht vollständig geklärt sind, wird angenommen, dass eine genetische Veranlagung in Kombination mit Umweltfaktoren zu ihrer Entwicklung beiträgt. Eine dieser Umweltkomponenten sind Aeroallergene wie Pollen oder Hausstaubmilben, die Exazerbationen der Erkrankung auslösen können.
+
+Die Allergenimmuntherapie (AIT) ist eine etablierte Behandlungsoption für verschiedene allergische Erkrankungen wie Heuschnupfen oder allergisches Asthma. Sie besteht darin, den Patienten über einen längeren Zeitraum regelmäßig steigenden Dosen des jeweiligen Allergens auszusetzen. Dadurch soll das Immunsystem des Patienten dazu gebracht werden, eine tolerante oder schützende Antwort auf das Allergen zu entwickeln.
+
+Obwohl es immer wieder Hinweise darauf gibt, dass Aeroallergene auch bei AD-Patienten Exazerbationen der Erkrankung hervorrufen können, wird die AIT in der Praxis nur selten bei diesen Patienten angewendet. Ein Grund dafür könnte sein, dass es bislang nur begrenzte evidenzbasierte Leitlinienempfehlungen zur AIT bei AD gibt.
+
+Diese Übersichtsarbeit fasst den aktuellen Stand des Wissens zur AIT bei AD zusammen. Es wurden zahlreiche klinische Studien und Metaanalysen durchgeführt, um den Nutzen und die Effektivität der AIT bei AD-Patienten zu untersuchen. Dabei wurden jedoch Schwierigkeiten bei der Vergleichbarkeit der Studien festgestellt, da sie sich in Bezug auf Studiendesigns, Patientenkohorten, Allergene, Applikationsformen und Endpunkte erheblich unterschieden.
+
+Trotz dieser Heterogenität gibt es Hinweise darauf, dass zumindest eine Untergruppe von AD-Patienten von der AIT profitieren kann. Mehrere Untersuchungen haben gezeigt, dass die AIT den Schweregrad der AD reduzieren kann und möglicherweise auch eine langfristige Remission ermöglicht.
+
+Um die Anwendung der AIT bei AD weiter zu verbessern und zu erweitern, sind weitere Entwicklungen auf dem Gebiet notwendig. Dazu gehören beispielsweise standardisierte Allergene für die Immuntherapie sowie gut definierte Endpunkte in klinischen Studien. Eine bessere Zusammenarbeit zwischen klinischer Praxis und Forschung könnte ebenfalls dazu beitragen, den Einsatz der AIT bei AD-Patienten zu fördern.
+
+Insgesamt zeigt sich also ein Potenzial für die Anwendung der AIT bei Patientinnen und Patienten mit atopischer
