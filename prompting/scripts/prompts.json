@@ -127,7 +127,7 @@
         },
         {
           "role": "user",
-          "content": "Bitte fahren Sie fort, diesen fiktiven klinischen Fall weiter zu schreiben, und passen Sie dabei den Schreibstil des vorherigen Textes an."
+          "content": "Bitte fahren Sie fort, diesen fiktiven klinischen Fall weiter zu schreiben, und passen Sie dabei Ihren Schreibstil an den des vorherigen Textes an."
         }
       ]
     },
@@ -215,7 +215,7 @@
         },
         {
           "role": "user",
-          "content": "Bitte fahren Sie fort, den Einleitungsteil weiter zu schreiben, und passen Sie dabei den Schreibstil des vorherigen Textes an."
+          "content": "Bitte fahren Sie fort, den Einleitungsteil weiter zu schreiben, und passen Sie dabei Ihren Schreibstil an den des vorherigen Textes an."
         }
       ]
     },
@@ -259,7 +259,7 @@
         },
         {
           "role": "user",
-          "content": "Bitte fahren Sie fort, den imaginären Nachrichtenartikel weiter zu schreiben, und passen Sie dabei den Schreibstil des vorherigen Textes an."
+          "content": "Bitte fahren Sie fort, den imaginären Nachrichtenartikel weiter zu schreiben, und passen Sie dabei Ihren Schreibstil an den des vorherigen Textes an."
         }
       ]
     },
@@ -347,7 +347,7 @@
         },
         {
           "role": "user",
-          "content": "Bitte fahren Sie fort, den Einleitungsteil weiter zu schreiben, und passen Sie dabei den Schreibstil des vorherigen Textes an."
+          "content": "Bitte fahren Sie fort, den Einleitungsteil weiter zu schreiben, und passen Sie dabei Ihren Schreibstil an den des vorherigen Textes an."
         }
       ]
     },
@@ -435,7 +435,7 @@
         },
         {
           "role": "user",
-          "content": "Bitte fahren Sie fort, den imaginären Nachrichtenartikel weiter zu schreiben, und passen Sie dabei den Schreibstil des vorherigen Textes an."
+          "content": "Bitte fahren Sie fort, den imaginären Nachrichtenartikel weiter zu schreiben, und passen Sie dabei Ihren Schreibstil an den des vorherigen Textes an."
         }
       ]
     }
