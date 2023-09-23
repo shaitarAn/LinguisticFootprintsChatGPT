@@ -1,25 +1,15 @@
-The study of wordhood in languages has always been a complex and challenging task. In the case of Middle Welsh, a language known for its intricate verbal complex and rich morphological system, this task becomes even more daunting. This article aims to shed light on the distribution of phonological and morphological domains within the Middle Welsh verb, and to question the usefulness of the term "word" in describing this language.
+The study of wordhood in languages has always been a complex and challenging task. In the case of the older Insular Celtic languages, such as Middle Welsh, the presence of a large number of bound elements and the intricate phonological interactions within morphological and phrasal structures have further complicated this issue. This article aims to provide a philological study of the distribution of phonological and morphological domains in the Middle Welsh verb, with the goal of determining the role of individual words in the grammar of this language.
 
-2. Background
+Before delving into the specifics of Middle Welsh, it is important to establish a framework for understanding wordhood. Typological research on wordhood has shown that the concept of a discrete, independent word is not universal across languages. Some languages, such as Chinese, have a high degree of morphological fusion, where words are not easily separable. On the other hand, languages like English have a greater degree of morphological transparency, allowing for clearer word boundaries.
 
-Insular Celtic languages, including Middle Welsh, are known for their extensive use of bound elements. These bound elements, such as prefixes and suffixes, often interact phonologically with the rest of the word, creating intricate morphological and phrasal structures. This has led many researchers to argue that individual words play a lesser role in the grammars of these languages compared to other European languages.
+In the case of Middle Welsh, the presence of bound elements and the phonological interactions within the verbal complex make it difficult to define what constitutes a word. Bound elements are morphemes that cannot stand alone as independent words and must be attached to other morphemes. In Middle Welsh, these bound elements include prefixes, suffixes, and infixes, which can alter the meaning and function of the verb.
 
-3. Typological research on wordhood
+Furthermore, the phonological interactions within the verbal complex add another layer of complexity. Middle Welsh exhibits phenomena such as consonant mutation, vowel alternation, and assimilation, which can occur within and across morphemes. These phonological processes blur the boundaries between morphemes and make it challenging to identify discrete word units.
 
-Before delving into the specifics of Middle Welsh, it is important to consider the current typological research on wordhood. This research has shown that the concept of a "word" is not universal across languages. Different languages have different criteria for what constitutes a word, and these criteria can vary greatly.
+To investigate the distribution of phonological and morphological domains in the Middle Welsh verb, a corpus-based approach is employed. The corpus consists of a wide range of Middle Welsh texts, including prose, poetry, and legal documents. The analysis focuses on the verbal complex, examining the various morphological and phonological structures present.
 
-4. Problems and limitations of studying wordhood in corpus languages
+The findings of this study reveal that there are several structures within the Middle Welsh verbal complex that could be considered as "words" based on traditional definitions. However, the term "word" is not particularly useful for the synchronic description of Middle Welsh. Instead, it is more appropriate to describe the language in terms of morphological and phonological domains.
 
-Studying wordhood in corpus languages, such as Middle Welsh, presents its own set of challenges. Corpus languages are often incomplete and fragmented, making it difficult to determine the boundaries of individual words. Additionally, the lack of native speakers and the historical nature of the language further complicate the analysis.
+The morphological domains in Middle Welsh can be identified based on the presence of bound elements and their interactions with the verb stem. These bound elements can be categorized into prefixes, suffixes, and infixes, each serving a specific grammatical function. The phonological domains, on the other hand, are determined by the phonological processes that occur within and across morphemes.
 
-5. Investigation of Middle Welsh verbal complex
-
-In light of these challenges, this article presents an in-depth investigation of the morphological and phonological word-like domains in the Middle Welsh verbal complex. By analyzing various linguistic features, such as affixation patterns, phonological interactions, and syntactic structures, we aim to identify structures that could be labeled as "words" within the Middle Welsh verb.
-
-6. Findings and conclusion
-
-The findings of this study reveal that there are indeed several structures within the Middle Welsh verbal complex that could be considered as "words" based on traditional criteria. However, the complex nature of the language and the extensive use of bound elements make it difficult to define clear boundaries for these "words."
-
-Therefore, we argue that the term "word" is not very useful for the synchronic description of Middle Welsh. Instead, a more nuanced approach that takes into account the intricate morphological and phonological interactions within the language is necessary.
-
-In conclusion, this study highlights the challenges of studying wordhood in languages with complex morphological
+In conclusion, the study of wordhood in Middle Welsh is a complex task due to the presence of bound elements and the intricate phonological interactions within the verbal complex. The findings of this study suggest that the term "word" is not particularly useful for the synchronic description of Middle Welsh. Instead, it is more appropriate to analyze the language in terms of morphological and phonological domains. This study contributes to our understanding of the grammatical structure of Middle Welsh and highlights the importance

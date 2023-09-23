@@ -1,13 +1,21 @@
-In diesem Zora-Artikel wird die Übersetzung der "Aeneis" von Vergil ins Deutsche durch Thomas Murner diskutiert. Murner war der erste, der diesen bedeutenden Text der westlichen Bildungswelt in die deutsche Sprache übersetzte. Die Übersetzung wurde erstmals im Jahr 1515 veröffentlicht und enthält auch das "Aeneis"-Supplement des italienischen Humanisten Maffeo Vegio. Diese Ergänzung wurde seit ihrer ersten Veröffentlichung im Jahr 1471 zu einem festen Bestandteil von Vergil-Ausgaben.
+In diesem Zora-Artikel wird die Übersetzung der "Aeneis" von Vergil ins Deutsche durch Thomas Murner im 16. Jahrhundert behandelt. Die "Aeneis" gilt als ein wichtiger Text in der Bildungswelt des westlichen Abendlandes und wurde zuvor nur auf Latein verfügbar gemacht. Murner war der erste, der das Werk ins Deutsche übersetzte und somit einem breiteren Publikum zugänglich machte.
 
-Die Einleitung betont, dass Vergil zu dieser Zeit keineswegs vergessen war, sondern ein fester Bestandteil des lateinischen Bildungsbetriebs und des Schullektürekanons war. Allerdings hatten nur wenige Menschen Zugang zur lateinischen Literatur, da dies auf einen kleinen elitären Kreis beschränkt war. Durch Murners Übersetzung wurde Vergil für all diejenigen "lebendig", die nicht Teil dieser lateinischen Bildungskultur waren.
+Die Übersetzung von Murner basiert auf einer lateinischen Vorlage, dem sogenannten "13. Buch", das am Ende der originalen "Aeneis" ansetzt und die Handlung entsprechend den Prophezeiungen des Epos zu einem vermeintlichen Abschluss führt. In seiner Vorrede behauptet Murner, Vergil mit seiner Übersetzung wieder zum Leben erweckt zu haben.
 
-Obwohl Murners Übersetzung als eine der wichtigsten deutschen Übersetzungsleistungen des 16. Jahrhunderts angesehen wird, liegt der Schwerpunkt der Forschung bisher hauptsächlich auf seinen volkssprachigen Schriften und nicht auf seinen Übersetzungen und lateinischen Werken.
+Obwohl Vergil bereits in der Frühen Neuzeit ein fester Bestandteil des Schulunterrichts war, blieb sein Werk aufgrund der begrenzten Zugänglichkeit zur lateinischen Literatur einem kleinen elitären Kreis vorbehalten. Durch Murners Übersetzung wurde Vergil für all diejenigen lebendig, die nicht Teil dieser lateinischen Bildungskultur waren.
 
-Der Artikel erwähnt auch eine geplante zweisprachige Edition von Murners 'Aeneis'-Übersetzung sowie Untersuchungen zur Übersetzungspraxis von Murner. Ziel ist es, das Wissen über die Interferenz zwischen Volkssprache und Latein in der Frühen Neuzeit zu erweitern.
+Die Forschung konzentrierte sich bisher hauptsächlich auf Murners volkssprachige Schriften wie Narrensatiren und antireformatorische Werke, während seine Übersetzungen und lateinischen Schriften weniger erforscht wurden. Eine Ausgabe von Murners "Aeneis"-Übersetzung wird daher als dringendes Desiderat angesehen.
 
-Die Einleitung beschreibt auch die Illustrationen, die Murners Übersetzung begleiten. Diese stammen aus einer früheren Ausgabe von Sebastian Brants Gesamtausgabe der Werke Vergils und ergänzen den deutschen Text durch visuelle Abbreviaturen, die die Handlung des jeweiligen Abschnitts in eine pikturale Formel fassen.
+Die vorliegende Dissertationsschrift an der Albert-Ludwigs-Universität Freiburg befasst sich mit einer zweisprachigen Edition von Murners Übersetzung, bei der sein deutscher Text seiner lateinischen Vorlage gegenübergestellt wird. Zusätzlich werden Untersuchungen zur Übersetzungspraxis durchgeführt.
 
-Murner selbst betont in der Vorrede seiner Übersetzung, dass er seine Übersetzung als Hilfsmittel für das Studium des lateinischen Vergiltextes verstanden wissen möchte. Er möchte den Lesern ermöglichen, den lateinischen Text ohne Lehrer oder Schule zu lesen und dabei die deutsche Version als Hilfe zur Erschließung des Originaltextes zu nutzen.
+Der Artikel gibt erste Ergebnisse dieser Untersuchungen wieder und gewährt Einblicke in Murners Übersetzungspraxis. Er soll dazu beitragen, das Wissen über die Interferenz von Volkssprache und Latinität in der Frühen Neuzeit zu vertiefen.
 
-Die Einleitung hebt auch Murners Bewusstsein um die Größe seiner eigenen Leistung hervor und betont seinen literarischen Anspruch. Er bezeichnet seine Übersetzung als eine bisher nie
+In der Erstdruckausgabe von 1515 sind Murners deutsche Texte mit Holzschnitten versehen, die aus Sebastian Brants Gesamtausgabe der Werke Vergils stammen. Die Bilder ergänzen den Text und fassen die Handlung visuell zusammen.
+
+Murners Übersetzung ist im Erstdruck mit Marginalien versehen, die abschnittsweise Initien ausgewählter lateinischer Verse bzw. Halbverse bieten. Diese Einrichtung ermöglicht es den Lesern, den lateinischen Text ohne Lehrer oder schulischen Kontext zu lesen und zu verstehen.
+
+Murner möchte seine Übersetzung als Hilfsmittel für das Studium des lateinischen Vergiltextes verstanden wissen. Die historisch angestrebte Lesesituation ist das bilinguale Textstudium, bei dem die Rezipienten zur Arbeit mit dem Original angeleitet werden.
+
+Die Formulierung in Murners Vorrede, dass er Vergils Werk "von latynschem todt in tütsches leben erquicket" habe, nimmt die von den Humanisten geprägte toposhafte lateinische Wendung für das Wiederaufleben der antiken Wissenschaft und Literatur auf. Die Übertragung des Begriffs "renasci" auf eine Wiedergeburt in der deutschen Sprache ist im Bereich der Übersetzungsliteratur des deutschen Humanismus um 1500 einzigartig.
+
+Insgesamt zielt Murners Übersetzung darauf ab, den antiken Text für diejenigen verfügbar zu machen, die nicht über ausreichende Lateinkenntnisse verfügen, um den Klassiker im Original zu studieren.

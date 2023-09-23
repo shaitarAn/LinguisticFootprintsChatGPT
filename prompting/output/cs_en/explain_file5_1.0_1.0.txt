@@ -1,0 +1,21 @@
+This news article discusses the impact of Big Data on personal privacy. It explains that compared to traditional methods of gathering data, Internet technologies and Big Data approaches allow for faster, cheaper, and easier collection and analysis of large amounts of data. However, these advancements also come with risks to personal privacy.
+
+The article highlights that the concept of a legal right to privacy is relatively recent in the US, with privacy not explicitly mentioned in the US Constitution. Privacy laws in the country are sector-specific and reflect a self-regulatory approach. For example, laws such as the Privacy Act of 1974 protect certain federal government records relating to individuals.
+
+In contrast, Europe has a more comprehensive approach to privacy protection. The European Convention on Human Rights guarantees respect for individuals' private and family life. The European Union requires member states to ensure citizens' right to privacy and is currently revising its Data Protection Directive.
+
+The article mentions specific examples where companies have faced fines for breaches of privacy in both the US (Path) and Europe (Google).
+
+Furthermore, it explains that technological advancements have led to evolving data technology landscapes. Researchers are developing systems that can measure audience engagement with advertisements or TV shows using custom camera-based systems or integrated TV sets. Additionally, smartphones can collect various types of personal information such as location data or browsing history.
+
+How companies protect user data depends on their industry and business model. Financial firms prioritize data protection due to their value proposition but might limit innovation. Younger industries like social networks encourage users to share more information but may have less incentive for protecting user privacy due to revenue derived from advertising.
+
+Consumer awareness about data collection concerns is growing; even though many uninstall or refuse apps due to privacy concerns, few read app's lengthy policies before installing them.
+
+The author shares insights from their research group's work combining Big Data techniques with crowdsourcing regarding smartphone app usage and user knowledge about collected data. They found that people often didn't know the data their apps collected, and unexpected use of their data made them uncomfortable. Explaining data usage in a quick, understandable manner reduced user concerns.
+
+To protect privacy, individuals can be more selective about what they share with others and periodically delete web browser cookies. The article suggests there are business opportunities in helping consumers manage their privacy online and with smartphones.
+
+However, the challenge of protecting personal data extends beyond online environments to physical world scenarios where sensor-generated data is collected. Examples include wearable health monitoring devices, smart cars tracking movement trajectory, or aerial drones capturing videos. The article predicts that companies will continue to collect and sell this kind of data, emphasizing the need for better privacy laws to ensure adequate protection.
+
+In summary, the article discusses how Big Data's advancements enable easier data collection but pose risks to personal privacy. It compares privacy approaches in the US and Europe while highlighting specific cases of fines for breaches of privacy. Additionally, it mentions evolving technology landscapes and consumer awareness concerning app usage and data collection concerns. Finally, it concludes by suggesting actions individuals can take to protect their own privacy and emphasizes the importance of improved privacy laws in an increasingly connected world.

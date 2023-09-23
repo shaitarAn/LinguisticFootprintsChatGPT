@@ -1,22 +1,40 @@
-Titel: Adjuvante Bestrahlung zur Reduzierung der lokalen Rückfallrate bei einem Weichgewebesarkom im Oberschenkel
+Fallbeschreibung:
 
-Klinischer Fall:
+Patient: Herr Müller, 52 Jahre alt
 
-Ein 45-jähriger Mann stellt sich mit einem auffälligen Knoten in seinem linken Oberschenkel vor. Er gibt an, dass der Knoten bereits seit einigen Monaten langsam gewachsen ist und nun Schmerzen verursacht. Nach einer umfassenden körperlichen Untersuchung sowie bildgebenden Verfahren wird eine Weichgewebssarkomdiagnose gestellt.
+Anamnese:
+Herr Müller stellt sich in unserer Onkologie-Abteilung vor und berichtet über seit Wochen bestehende Schmerzen und eine zunehmende Schwellung im linken Oberschenkel. Er habe auch einen Gewichtsverlust von etwa 5 kg festgestellt.
 
-Nach einer vollständigen chirurgischen Entfernung des Sarkoms (R0-Resektion) steht die Frage im Raum, ob eine adjuvante Strahlentherapie erforderlich ist, um das Risiko eines lokalen Rückfalls zu verringern.
+Krankengeschichte:
+Herr Müller war bisher gesund und hatte keine Vorerkrankungen. In seiner Familie gab es keine bekannten Fälle von Krebserkrankungen.
 
-Unter Berücksichtigung der Leitlinien des deutschen Leitlinienprogramms für die Onkologie: Adulte WeichgewebesarkomePostoperative Strahlentherapie (Extremitäten, Körperstamm, nicht retroperitoneal), wird beschlossen, dem Patienten eine adjuvante perkutane Strahlentherapie zu empfehlen.
+Körperliche Untersuchung:
+Bei der körperlichen Untersuchung finden wir eine gut sichtbare rosafarbene Schwellung an der distalen Seite des linken Oberschenkels. Sie ist schmerzhaft bei Palpation, es kommt jedoch nicht zu einer Hautulzeration oder -perforation. Die Lymphknoten in den Leisten sind nicht vergrößert.
 
-Die Behandlung besteht aus 45 Gy/1,8 Gy Einzeldosis für die perkutane Bestrahlung gefolgt von einem Boost von 18 Gy/1.8 Gy Einzeldosis. Diese Dosisregimene wurden in randomisierten Studien als effektiv bei der Senkung der lokalen Rückfallrate nach R0-Resektion von Weichgewebesarkomen gezeigt [Yang et al., REF].
+Diagnostik:
+Wir führen folgende diagnostische Maßnahmen durch:
 
-Der Patient stimmt der adjuvanten Strahlentherapie zu und beginnt die Bestrahlungsbehandlung in einer spezialisierten onkologischen Klinik. Die Therapie verläuft ohne Komplikationen, und der Patient wird während des gesamten Zeitraums engmaschig überwacht.
+1. Bildgebung: Eine MRT-Untersuchung zeigt einen ca. 8 cm großen Tumor im linken Oberschenkel mit infiltrativer Wachstumsweise, der mehrere umgebende Strukturen wie Muskeln und Blutgefäße involviert.
+2. Biopsie: Eine excisionale Biopsie vom Tumor ergibt die Diagnose eines Weichgewebesarkoms (histopathologischer Befund).
+3. Staging-Untersuchungen: Eine CT-Untersuchung von Thorax, Abdomen und Becken sowie ein Knochen-Scan ergeben kein Anzeichen für Fernmetastasierung.
 
-Nach Abschluss der Behandlung wird eine regelmäßige klinische Untersuchung durchgeführt, um den Status des Sarkoms zu überwachen. Zusätzliche bildgebende Verfahren werden ebenfalls durchgeführt, um mögliche Rückfälle oder Metastasen frühzeitig zu erkennen.
+Diagnose:
+Basierend auf den diagnostischen Ergebnissen wird bei Herrn Müller ein Weichgewebesarkom des linken Oberschenkels mit lokalem Befall, aber ohne Fernmetastasen festgestellt. Eine gezielte Bestimmung des Tumorstadiums erfolgt gemäß den geltenden Leitlinien.
 
-Die Ergebnisse der adjuvanten Strahlentherapie sind vielversprechend - Der Patient zeigt keinerlei Anzeichen eines lokalen Rückfalls oder fernmetastatischer Erkrankungen. Eine systemische Chemotherapie ist in diesem Fall nicht erforderlich.
+Therapieplanung:
+Nach der Diagnosebesprechung mit Herrn Müller und Erklärung seiner Therapieoptionen entscheidet sich der Patient für eine multimodale Behandlung.
 
-Aufgrund dieser positiven Resultate kann angenommen werden, dass die adjuvante perkutane Strahlentherapie das Risiko eines lokalen Rückfalls bei R0-resezierten Weichgewebesarkomen erfolgreich senken kann [Pisters et al., REF]. Der Patient bleibt jedoch weiterhin unter regelmäßiger Nachsorgeuntersuchung zur Überwachung eventueller Spätfolgen und zum Ausschluss von metachronen Tumoren.
+Behandlungsplan:
+Aufgrund der vorliegenden Evidenz aus randomisierten Studien empfehlen wir Herrn Müller eine postoperative Strahlentherapie. Dies wurde in einer dieser Studien gezeigt, dass die lokale Rückfallrate durch die adjuvante Strahlentherapie hochsignifikant gesenkt werden kann.
 
-Schlussfolgerung:
-In Übereinstimmung mit den Leitlinien des deutschen Leitlinienprogramms für die Onkologie wird einem 45-jährigen Mann mit einem R0-resezierten Weichgewebesarkom im Oberschenkel eine adjuvante perkutane Strahlentherapie empfohlen. Die Behandlung erwies sich als erfolgreich bei der Senkung des Risikos eines lokalen Rückfalls und ermöglichte eine zufriedenstellende Tumorkontrolle. Der Patient bleibt in Langzeitnachsorge, um den langfristigen Krankheitsverlauf zu überwachen und mögliche Komplikationen frühzeitig zu erkennen.
+Der Behandlungsplan beinhaltet folgende Schritte:
+
+1. Chirurgische Resektion: Unter Vollnarkose entfernen unsere Chirurgen den sichtbaren Tumor, wobei sie darauf achten, einen R0-Resektionsstatus (radikal) zu erreichen.
+2. Postoperative Strahlentherapie: Für die adjuvante perkutane Strahlentherapie verwenden wir eine Gesamtdosis von 45 Gy in Einzeldosen von 1,8 Gy pro Tag für externe Bestrahlungen und zusätzlich 18 Gy in Einzeldosen von 1,8 Gy pro Tag als Boost-Bestrahlung.
+3. Nachsorge: Wir planen regelmäßige Nachsorgetermine für Herrn Müller ein, um mögliche Rückfälle rechtzeitig zu erkennen und zu behandeln. Diese Termine können auch zur Besprechung etwaiger Langzeit-Nebenwirkungen der Behandlung genutzt werden.
+
+Prognose:
+Aufgrund der erfolgreichen Randomisierten Studien sind die Aussichten für Herrn Müller gut. Die lokale Kontrollrate wird durch die adjuvante Strahlentherapie hochsignifikant verbessert, was seine Überlebenschancen erhöht.
+
+Fazit:
+In Anbetracht der vorliegenden Fallbeschreibung und unter Berücksichtigung aktueller medizinischer Leitlinien wurde Herr Müller aufgrund seines diagnostizierten Weichgewebesarkoms des linken Oberschenkels für eine multimodale Therapie mit chirurgischer Resektion und postoperativer Strahlentherapie in Übereinstimmung mit den Randomisierten Studien empfohlen. Das Ziel dieser Therapiemaßnahmen ist es, den Tumor lokal zu kontrollieren und mögliche Rückfälle zu reduzieren, um die Chancen auf eine vollständige Genesung zu maximieren.

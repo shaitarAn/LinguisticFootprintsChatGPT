@@ -1,7 +1,23 @@
-Die Übersetzung antiker Klassiker war ein zentrales Anliegen des deutschen Humanismus. Thomas Murner, ein bedeutender humanistischer Gelehrter des 16. Jahrhunderts, widmete sich dieser Aufgabe und übersetzte Vergils 'Aeneis' als erste in die deutsche Sprache. Diese Übersetzung, die im Jahr 1515 in Straßburg veröffentlicht wurde, nimmt einen besonderen Rang unter den deutschen Übersetzungen antiker Klassiker ein.
+Die Übersetzung von antiken Klassikern war ein zentrales Anliegen des deutschen Humanismus. Die Wiederentdeckung und Wertschätzung der antiken Literatur führte dazu, dass zahlreiche Werke ins Deutsche übersetzt wurden, um einem breiteren Publikum zugänglich zu sein. Eine dieser Übersetzungen war Thomas Murners Version von Vergils 'Aeneis', die im Jahr 1515 in Straßburg veröffentlicht wurde. Diese Übersetzung nimmt einen besonderen Rang ein, da sie die erste ihrer Art in der deutschen Sprache war.
 
-In diesem Artikel wird zunächst ein Einblick in die Untersuchungsergebnisse zu Murners lateinischer Vorlage gegeben. Es wird deutlich, dass Murner eine genaue Kenntnis des lateinischen Originals hatte und sich bei seiner Übersetzung eng an den Text hielt. Dennoch finden sich auch einige Abweichungen und Anpassungen, die auf Murners didaktische Intention zurückzuführen sind.
+2. Untersuchungsergebnisse zur lateinischen Vorlage
 
-Murner hatte das Ziel, die 'Aeneis' einem breiten deutschen Publikum zugänglich zu machen. Daher legte er großen Wert darauf, einen in der deutschen Sprache verständlichen Gesamttext zu schaffen. Dies führte dazu, dass er manche Passagen des Originals vereinfachte oder umformulierte, um sie verständlicher zu machen. Gleichzeitig versuchte er jedoch, den Charakter und die Atmosphäre des Originals beizubehalten.
+Um die Bedeutung von Murners Übersetzung zu verstehen, ist es wichtig, einen Einblick in die lateinische Vorlage zu bekommen. Vergils 'Aeneis' ist ein episches Gedicht, das die Geschichte des trojanischen Helden Aeneas erzählt, der nach dem Fall Trojas nach Italien flieht und dort die Grundlage für das spätere römische Reich legt. Das Werk besteht aus zwölf Büchern und ist in Hexametern verfasst.
 
-Die Übersetzung von Vergils 'Aeneis' durch Thomas Murner markiert somit eine Renaissance dieses antiken Klassikers in der deutschen Literatur. Murners Übersetzungspraxis zeugt von einer didaktischen Intention und dem Bestreben, einen Gesamttext zu schaffen, der sowohl dem Original gerecht wird als auch in der deutschen Sprache verständlich ist. Diese Übersetzung legte den Grundstein für weitere Übersetzungen antiker Klassiker im deutschen Humanismus und trug zur Verbreitung und Popularisierung dieser Werke bei.
+Die Untersuchungsergebnisse zeigen, dass Murner eine lateinische Ausgabe der 'Aeneis' als Grundlage für seine Übersetzung verwendete. Es wird vermutet, dass es sich dabei um die Ausgabe von Heinrich Glarean handelte, die 1511 in Basel erschien. Murner scheint jedoch nicht nur eine einzige Ausgabe verwendet zu haben, sondern auch andere lateinische Texte, um seine Übersetzung zu verbessern und zu ergänzen.
+
+3. Murners Übersetzungspraxis
+
+Murners Übersetzungspraxis zeichnet sich durch eine didaktische Intention aus. Er wollte die antike Literatur einem breiten Publikum zugänglich machen und gleichzeitig die deutsche Sprache fördern. Daher übersetzte er die 'Aeneis' nicht wortgetreu, sondern passte den Text an die deutsche Sprache und den damaligen Sprachgebrauch an. Er verwendete eine Mischung aus Hochdeutsch und Dialekt, um den Text verständlicher zu machen.
+
+Ein weiteres Merkmal von Murners Übersetzung ist seine Bemühung, einen Gesamttext zu schaffen, der die verschiedenen Aspekte des Originals widerspiegelt. Er behielt nicht nur den Inhalt und die Handlung bei, sondern versuchte auch, die poetische Struktur und den Stil von Vergils Werk in seiner Übersetzung beizubehalten. Dies zeigt sich zum Beispiel in der Verwendung von Reimen und Versmaßen, die dem Original ähneln.
+
+4. Bedeutung und Rezeption der Übersetzung
+
+Murners Übersetzung von Vergils 'Aeneis' hatte einen großen Einfluss auf die deutsche Literatur des 16. Jahrhunderts. Sie trug dazu bei, die antike Literatur in Deutschland zu popularisieren und beeinflusste zahlreiche Schriftsteller und Dichter. Die Übersetzung wurde mehrfach neu aufgelegt und war lange Zeit die maßgebliche Version des Werkes in deutscher Sprache.
+
+Allerdings wurde Murners Übersetzung auch kritisiert. Einige Gelehrte bemängelten, dass er zu sehr von der lateinischen Vorlage abwich und den Text zu stark an die deutsche Sprache anpasste. Sie argumentierten, dass dies den Wert des Originals mindere und die Bedeutung der lateinischen Sprache unterschätze.
+
+5. Fazit
+
+Thomas Murners Übersetzung von Vergils 'Aeneis' nimmt einen besonderen Rang unter den Translationen antiker Klassiker im deutschen Humanismus ein. Seine Übersetzungspraxis zeichnet sich durch eine didaktische Intention und den Versuch, einen in der deutschen Sprache verständlichen Gesamttext zu schaffen, aus. Die Übersetzung hatte einen großen Einfluss auf die deutsche Literatur des 16. Jahrhunderts, wurde aber auch kritisiert. Trotzdem bleibt sie ein wichtiger

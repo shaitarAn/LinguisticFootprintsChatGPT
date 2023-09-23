@@ -1,22 +1,30 @@
-This clinical case involves a young woman who has a history of callosotomy, which is a surgical procedure to control seizures. At the age of 18, she experienced her first seizure since the callosotomy during a laser treatment for her port wine birthmark. She was then prescribed carbamazepine, an antiepileptic medication, and has not had any further seizures since.
+This clinical case involves a young woman who had a history of callosotomy at the age of 6 to control her seizures. Callosotomy is a surgical procedure in which the corpus callosum, the bundle of nerves connecting the two hemispheres of the brain, is partially or completely severed. This procedure is sometimes used as a treatment for severe forms of epilepsy when medication fails to control seizures.
 
-Her parents report that despite having normal development in infancy, she struggled academically and is barely literate. There are no significant findings in her family history except for her elder sister having a port wine stain on her face, but no investigations were done regarding this.
+At the age of 18, she underwent laser treatment to remove her port wine birthmark. Unfortunately, this triggered her first seizure since her callosotomy surgery. Following this seizure, she was prescribed carbamazepine at a daily dose of 400 mg and has not experienced any further seizures since then. Carbamazepine is an antiepileptic medication commonly used to treat various types of seizures.
 
-The patient is also being treated for anxiety disorder and chronic headaches with medications such as ketiapin and venlafaxine. Additionally, she takes NSAID drugs for pain relief. While the headaches showed slight improvement in severity after one week of treatment, the frequency remained unchanged.
+The patient's parents reported that although she had normal development during infancy, she struggled academically and barely graduated from elementary school. She also has difficulty with literacy skills.
 
-On physical examination, several findings were noted:
+Apart from an elder sister who also has a port wine stain on her face but does not have any features suggestive of Sturge-Weber syndrome (SWS), there were no other significant findings in the family history related to these symptoms.
 
-1. Facial nevus: Choroid angioma on the right forehead, right eyelid nasal wing and cheek.
-2. Gingival overgrowth: Bright red enlargement of the gums on the right side with blanching upon pressure.
-3. Mild asymmetry in extremities: The left arm and leg are slightly smaller than their counterparts on the right side.
-4. Hemiparesis: Weakness affecting both upper and lower extremities on the same (left) side.
-5. Glaucoma: Diagnosis of glaucoma in the right eye.
-6. Anxiety disorder signs observed during psychiatric examination.
+The patient herself was prescribed medications for anxiety disorder and chronic headaches. She was taking ketiapin (25 mg) and venlafaxine (75 mg) daily for anxiety disorder and chronic headaches respectively. Additionally, she was using nonsteroidal anti-inflammatory drugs (NSAIDs) for pain relief.
 
-Neurological examination did not reveal any other remarkable findings except for hemiparesis (weakness on one side). Cranial CT scans showed diffuse atrophy (shrinkage) in the right hemisphere along with irregular double-contoured gyriform cortical calcifications in the right occipital area.
+After one week on this treatment regimen, there was slight improvement in headache severity but no change in frequency.
 
-Gadolinium-enhanced brain MRI revealed multiple dilated pial venous vascular structures on the right hemisphere, along with diffuse atrophy on the same side. Further MRI images showed asymmetry in calvarial thickness, with the right hemisphere appearing smaller compared to the left. Extensive venous formations were also observed around the corpus of the right lateral ventricle, as well as at various other locations.
+During physical examination, several findings were noted:
 
-Based on a Proteus intelligence test, she scored 75 points and was considered to be mildly mentally retarded.
+1. Facial nevus: A nevus appeared on various parts on the right side including forehead, eyelid, nasal wing, and cheek due to choroid angioma.
+2. Gingival overgrowth: There was excessive growth of gum tissue on the right side, which appeared bright red and blanched when pressure was applied. This suggested angiomatous enlargement, likely related to the angioma seen on the face.
+3. Mild asymmetry in extremities: Her left arm and leg were slightly smaller compared to the right side, and she exhibited hemiparesis (weakness) in both upper and lower extremities of equal magnitude.
+4. Glaucoma: Ophthalmological evaluation revealed glaucoma in her right eye.
 
-It is important to note that this information is based solely on a written description of a clinical case and should not be used for diagnostic purposes.
+Psychiatric examination confirmed the presence of anxiety disorder, while neurological examination did not reveal any remarkable findings except for her hemiparesis.
+
+Imaging studies including cranial CT scans and gadolinium-enhanced brain MRI showed diffuse atrophy on the right hemisphere along with irregular double-contoured gyriform cortical calcifications in the right occipital area. Additionally, multiple dilated pial venous vascular structures were seen on the right hemisphere.
+
+Axial T1 weighted cranial MRI demonstrated thicker calvarium (skull bone) on the right side compared to the left, indicating asymmetry. The size of her right hemisphere was also smaller than that of her left hemisphere. Furthermore, T2 weighted MRI revealed extensive venous formations around corpus callosum (a bundle of nerves connecting two brain regions), as well as at Gallen vein localization and perivascular space anterior to third ventricle at Willis polygon localization.
+
+Based on these clinical findings, she underwent a proteus intelligence test which indicated a score of 75 points, classifying her as mildly mentally retarded.
+
+In summary:
+
+This young woman has a complex medical history with several interrelated conditions. Her seizures were initially controlled after undergoing callosotomy surgery but recurred after laser treatment for her port wine birthmark.

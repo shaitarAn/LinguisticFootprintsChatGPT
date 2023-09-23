@@ -1,11 +1,15 @@
-Der Text beschreibt verschiedene Urinmarker, die zur Diagnose von Blasenkarzinomen eingesetzt werden können. Es wird erklärt, dass das Protein NMP22 in malignen Urothelzellen häufiger vorkommt als in normalen Zellen und dass Patienten mit Blasenkarzinom vermehrt NMP22 im Urin ausscheiden. Der Test basiert auf dem Nachweis von apoptotischen Zellbestandteilen im Urin und ist daher unspezifisch für ein Urothelkarzinom.
+Die Leitlinien beschreiben verschiedene Urinmarker, die zur Diagnose und Nachsorge von Blasenkarzinomen eingesetzt werden können. Ein häufig untersuchter Marker ist das Protein NMP22, das vermehrt in malignen Urothelzellen vorkommt und von Patienten mit Blasenkarzinom vermehrt im Urin ausgeschieden wird. Es gibt sowohl einen qualitativen als auch einen quantitativen Test für NMP22, wobei der quantitative Test eine Korrelation mit der Tumormasse aufweist.
 
-Es werden verschiedene Studien zitiert, die die Sensitivität der NMP22-Tests bei unterschiedlicher Anzahl von Tumoren untersucht haben. Es wird festgestellt, dass der quantitative NMP22-Test mit der Tumormasse korreliert.
+Studien haben gezeigt, dass der quantitative NMP22-Test eine hohe Sensitivität für die Detektion von Blasentumoren hat. Die Sensitivität variiert jedoch je nach Anzahl der Tumore: Bei einem Tumor beträgt sie 79%, bei 2-3 Tumoren 90% und bei mehr als 3 Tumoren sogar 97%. Eine andere Studie ergab eine Sensitivität von 72% bzw. 75% bei einzelnen versus multiplen Tumoren.
 
-Es wird auch erwähnt, dass andere Tests wie der BTA-Test und der UBC-Rapid-Test ebenfalls zur Diagnose von Blasenkarzinomen verwendet werden können. Diese Tests haben ähnliche Sensitivitäten wie die Urinzytologie.
+Im Vergleich zur Urinzytologie wurde in mehreren Untersuchungen eine höhere Sensitivität des NMP22-Tests festgestellt. Allerdings ist die Spezifität des Tests deutlich niedriger als die der Urinzytologie.
 
-Es wird darauf hingewiesen, dass alle diese Tests eine hohe falsch positive Rate aufweisen können und dass es eine große Variabilität in den Testergebnissen gibt. Die Spezifität kann erhöht werden, indem klinische Konditionen wie Steine, Infektionen oder Entzündungen ausgeschlossen werden.
+Ein Problem beim NMP22-Test ist die hohe falsch positive Rate von etwa 80%. Um diese zu reduzieren, können klinische Konditionen wie Steine, Infektionen oder Entzündungen ausgeschlossen werden.
 
-Weitere Marker wie Survivin, FGFR3 oder Telomerase werden ebenfalls erwähnt, aber ihre klinische Bewertung ist aufgrund unzureichender Datenlage noch nicht möglich.
+Es wurden auch andere Urinmarker untersucht, wie zum Beispiel das Bladder Tumor Antigen (BTA) und Survivin. Die BTA-Tests haben ähnliche Sensitivitäten wie die Urinzytologie, aber eine niedrigere Spezifität. Der Survivin-Test hat eine hohe Sensitivität, aber aufgrund der Verwendung verschiedener PCR Primer in den Studien ist eine klinische Bewertung noch nicht möglich.
 
-Schließlich wird darauf hingewiesen, dass verschiedene Marker gleichzeitig (Markerpanel) angewendet wurden, um geeignete Markerkombinationen und Algorithmen für die Diagnose zu entwickeln. Es wird festgestellt, dass eine Selektion von Risikopatienten anhand klinischer Parameter den Einsatz von urinbasierter Diagnostik verbessern kann.
+Weitere Marker wie Telomerase, MCM Proteine und Mikro-RNA wurden ebenfalls untersucht, jedoch ist die Datenlage für eine Bewertung noch unzureichend.
+
+Es wurden auch Markerpanels untersucht, bei denen mehrere Urinmarker kombiniert werden. Allerdings konnte keine wesentliche Verbesserung der prädiktiven Aussage durch die Kombination von Urinmarkern festgestellt werden.
+
+Insgesamt zeigen die Leitlinien, dass es verschiedene Urinmarker gibt, die zur Diagnose und Nachsorge von Blasenkarzinomen eingesetzt werden können. Jeder Marker hat seine Vor- und Nachteile und es gibt noch keine eindeutige Empfehlung für einen bestimmten Test. Weitere Studien sind erforderlich, um die Wirksamkeit und Genauigkeit dieser Tests zu bestätigen.

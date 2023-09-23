@@ -1,54 +1,46 @@
-Fallbericht
+Klinischer Fall: Urothelkarzinom diagnostiziert mit Hilfe von Urinmarkern
 
-Patient: Hans Müller
-Alter: 64 Jahre
-Geschlecht: männlich
-Anamnese: Herr Müller stellt sich mit folgenden Symptomen vor:
-- Häufiges Wasserlassen
-- Brennen beim Wasserlassen
-- Blut im Urin
+Patient:
+Herr Müller, 62 Jahre alt, leidet seit einigen Wochen unter wiederkehrendem Harnwegsinfekt. Er hat Symptome wie häufigen Harndrang, Schmerzen beim Wasserlassen und Blut im Urin bemerkt. Herr Müller hat in der Vergangenheit geraucht und seine Familie hat eine Vorgeschichte von Harnblasenkarzinom.
 
-Klinische Untersuchung:
-Bei der körperlichen Untersuchung zeigt der Patient keine auffälligen Befunde. Abdominaler Druck verursacht keinen Schmerz oder Unbehagen.
+Anamnese:
+Bei der Anamneseerhebung gab Herr Müller an, dass die Symptome vor etwa sechs Wochen begonnen haben und seither kontinuierlich vorhanden sind. Er hatte auch leichte Gewichtsabnahme während dieser Zeit bemerkt. Darüber hinaus gibt es keine weiteren relevanten Vorerkrankungen oder Medikamenteneinnahmen.
 
-Diagnostik:
+Körperliche Untersuchung:
+Die körperliche Untersuchung zeigt keine auffälligen Befunde außer einer Druckschmerzhaftigkeit beim Abtasten des Bauchraums.
 
-1. Ultraschalluntersuchung des Harntraktes:
-Die Ultraschalluntersuchung des Harntraktes zeigt eine unregelmäßige Verdickung der Blasenwand und Anzeichen einer möglichen Tumorläsion.
+Diagnostische Tests:
+Basierend auf den aktuellen Leitlinien zur Diagnose von Harnblasenkarzinomen wird vorgeschlagen, bei Verdacht auf dieses Tumorspektrum verschiedene diagnostische Tests durchzuführen. In diesem Fall wurden die kommerziellen Testverfahren NMP22® und BTA Stat® ausgewählt, um mögliche Hinweise auf das Vorliegen eines Urothelkarzinoms zu erhalten.
+Herr Müller erhält zunächst einen Schnelltest (point-of-care test) mit dem NMP22®-Test und dann eine Bestätigungsmessung mittels des BTA Stat®.
 
-2. Zystoskopie:
-Eine Zystoskopie wird durchgeführt, um das Innere der Harnblase zu visualisieren. Dabei wird eine exophytische Tumorläsion am Übergang des trigonalen Bereichs zur Prostata identifiziert.
+Ergebnisse:
+Der POC-Test mit dem NMP22® zeigt einen erhöhten Wert von 90 U/mL (Normalbereich: <10 U/mL). Dies deutet auf eine mögliche maligne Gewebesituation im Harnapparat hin. Im Anschluss wird der BTA Stat®-Test durchgeführt, der ebenfalls ein positives Ergebnis zeigt (Schwach positiv).
 
-3. Molekulare Marker im Urin:
-Um den Verdacht auf ein Urothelkarzinom weiter abzuklären, werden molekulare Marker im Urin getestet. Es werden die kommerziellen Testverfahren NMP22®, BTA Stat®/BTA TRAK® und UBC® angewendet.
+Weitere Diagnostik:
+Basierend auf den positiven Urinmarkerergebnissen, wird eine weiterführende Diagnostik empfohlen. Dabei werden folgende Untersuchungen vorgeschlagen:
 
-Die Ergebnisse zeigen eine erhöhte Konzentration von Nukleärem Matrix Protein 22 (NMP22) im Urin von Herrn Müller (semi-quantitativer Enzym-Immunoassay).
+1. Zystoskopie mit transurethraler Biopsie: Durch diese endoskopische Untersuchung kann das Innere der Blase visualisiert und verdächtige Gewebeproben entnommen werden.
+2. Bildgebung des Abdomens (CT oder MRT): Hierbei wird die Ausbreitung des Tumors in umliegendes Gewebe und Organe beurteilt.
+3. Urethroskopie: Diese endoskopische Untersuchung ermöglicht es, den unteren Harntrakt auf etwaige Tumore zu untersuchen.
 
-4. Bildgebung:
+Bestätigende Diagnose:
+Die Zystoskopie zeigt eine Veränderung des Blasenschleimhautgewebes in Form eines intravesikalen Tumors, der als Ta-N-M0 klassifiziert wird – ein nicht-muskelinvasives Urothelkarzinom ohne Hinweise auf Lymphknotenmetastasierung oder Fernmetastasen.
 
-a) Computertomographie (CT): 
-Eine CT des Bauchraums und des Beckens wird durchgeführt, um die Ausbreitung des Tumors im Harntrakt zu beurteilen. Es werden keine Anzeichen für eine regionale oder fernmetastatische Erkrankung gefunden.
+Therapieoptionen:
+Basierend auf dieser Diagnose gibt es verschiedene Behandlungsoptionen für Herrn Müller:
 
-b) Magnetresonanztomographie (MRT):
-Eine MRT des Beckens wird durchgeführt, um die genaue Tumorlokalisation und das Ausmaß der Infiltration der umliegenden Strukturen zu bestimmen.
+1. Transurethrale Resektion des Blasentumors (TUR-B): In diesem Verfahren wird der Tumor endoskopisch entfernt und das umliegende Gewebe auf Vorhandensein von Krebszellen untersucht.
+2. Installationschemotherapie: Durch die Gabe von Chemotherapeutika in die Blase direkt nach der TUR-B kann eine eventuell verbliebene Krebszellpopulation im Harntrakt behandelt werden.
+3. Kontrollzystoskopien: Regelmäßige Nachuntersuchungen mittels Zystoskopie sind wichtig, um mögliche Rezidive oder Progressionen frühzeitig zu erkennen.
 
-Diagnose:
+Verlauf:
+Herrn Müller wurde zunächst eine transurethrale Resektion des Tumors empfohlen, bei der das gesamte sichtbare Gewebe entfernt wurde. Im Anschluss erhielt er Installationschemotherapie mit Mitomycin C, um möglicherweise vorhandene mikroskopische Krebszellen in der Blase zu bekämpfen.
 
-Aufgrund der erhöhten NMP22-Konzentration im Urin und dem Nachweis einer exophytischen Tumorläsion bei der Zystoskopie wird bei Herrn Müller ein Urothelkarzinom diagnostiziert. Die genaue Staging-Untersuchung mittels Bildgebung zeigt ein lokal begrenztes Urothelkarzinom ohne Hinweise auf Metastasen.
+Bei den regelmäßigen Nachuntersuchungen mittels Zystoskopie zeigte sich kein rezidivierendes Wachstum oder weitere auffällige Befunde. Herr Müller befindet sich weiterhin in einem engmaschigen Follow-up-Programm zur Früherkennung eines erneuten Auftretens von Harnblasenkarzinom.
 
-Therapie:
+Diskussion:
+Dieser fiktive Fall demonstriert den diagnostischen Prozess bei einem Patienten mit Verdacht auf ein Urothelkarzinom anhand von Urinmarkern basierend auf den Leitlinien zur Behandlung von Harnblasenkarzinomen. Die Ergebnisse der Urinmarker-Tests waren erhöht, was auf das Vorliegen einer malignen Gewebesituation hinwies.
 
-Aufgrund des lokal begrenzten Urothelkarzinoms wird folgende Therapie empfohlen:
+Die weiterführende Diagnostik, bestehend aus Zystoskopie und Bildgebung des Abdomens, bestätigte die Verdachtsdiagnose eines nicht-muskelinvasiven Urothelkarzinoms. Die Therapieoptionen umfassten TUR-B und Installationschemotherapie, welche erfolgreich durchgeführt wurden.
 
-1. Transurethrale Resektion des Tumors (TUR-B):
-Die exophytische Tumorläsion wird mittels transurethraler Resektion entfernt. Das entnommene Gewebe wird histopathologisch untersucht, um den Grad der Differenzierung und das Stadium des Karzinoms zu bestimmen.
-
-2. Adjuvante intravesikale Chemotherapie:
-Nach der transurethralen Resektion des Tumors erhält Herr Müller eine adjuvante intravesikale Chemotherapie mit Mitomycin C, um eventuell verbliebene Blasentumorzellen abzutöten und das Risiko eines lokalen Rezidivs zu reduzieren.
-
-3. Follow-up:
-Herr Müller wird einem regelmäßigen Follow-up-Programm unterzogen, um das Ansprechen auf die Behandlung und mögliche Rückfälle zu überwachen. Dies beinhaltet regelmäßige zystoskopische Untersuchungen und Kontrollen der molekularen Marker im Urin.
-
-Zusammenfassung:
-
-Bei Herrn Müller wird ein Urothelkarzinom diagnostiziert, basierend auf klinischen Symptomen, bildgebenden Verfahren und dem Nachweis erhöhter NMP22-Konzentrationen im Urin. Er erhält eine transurethrale Resektion des Tumors sowie eine adjuvante intravesikale Chemotherapie. Das Follow-up-Programm ist wichtig, um das Ansprechen auf die Behandlung zu überwachen und mögliche Rückfälle frühzeitig zu erkennen.
+Ein regelmäßiges Follow-up ist für Patienten mit Harnblasenkarzinom von entscheidender Bedeutung, um ein mögliches Rezidiv oder eine Progression frühzeitig zu erkennen und adäquat behandeln zu können.

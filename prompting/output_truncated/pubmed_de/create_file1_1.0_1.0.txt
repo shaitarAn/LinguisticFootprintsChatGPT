@@ -1,22 +1,19 @@
-COVID-19-Related Mental Health Research: Establishing an Integrated Information Infrastructure
+Die Bedeutung von Open Science und offenen Forschungsdaten hat in den letzten Jahren stark zugenommen. Forschende weltweit erkennen immer mehr den Wert der gemeinsamen Nutzung von Daten, um wissenschaftliche Erkenntnisse voranzubringen und gesellschaftlichen Nutzen zu erzeugen. Insbesondere im Kontext der COVID-19-Pandemie ist es von entscheidender Bedeutung, dass Informationen schnell und effizient für diejenigen zugänglich sind, die an der Erforschung des Virus beteiligt sind oder Strategien zur Bekämpfung entwickeln.
 
-Abstract:
-The COVID-19 pandemic has not only had a significant impact on physical health but has also created challenges for mental well-being. As a result, numerous research projects focusing on understanding the psychological effects of the pandemic have been initiated worldwide. However, due to the overwhelming amount of information available, it has become increasingly difficult to obtain an overview of the diverse research activities and their findings. In light of this challenge, an integrated information infrastructure is needed to facilitate access to COVID-19-related mental health research data.
+Ein Bereich, in dem eine verbesserte Zugänglichkeit von Forschungsdaten dringend erforderlich ist, betrifft die Untersuchung von Auswirkungen der pandemischen Maßnahmen auf psychische Gesundheit und Wohlbefinden. Die Schließung großer Teile der Bevölkerung, soziale Distanzierungsmaßnahmen und Quarantänemaßnahmen können erhebliche Auswirkungen auf das psychische Wohlbefinden haben. Es ist jedoch schwierig für Forschende auf diesem Gebiet, einen umfassenden Überblick über die vorhandene Literatur zu erhalten sowie aktuelle Studienergebnisse und Datenbanken zu identifizieren.
 
-In this paper, we propose the establishment of a nationwide information infrastructure dedicated to compiling and disseminating COVID-19-related mental health research data. Drawing inspiration from the "National Research Data Infrastructure for Personal Health Data" initiative (NFDI4Health), our objective is to leverage existing frameworks for creating a task force specifically focused on aggregating and organizing mental health research data related to COVID-19.
+Im Rahmen einer neuen Initiative "Nationale Forschungsdateninfrastruktur für psychische Gesundheitsforschung" (NFDI4MentalHealth) wird daher versucht werden, diese Herausforderungen anzugehen. Die "Task Force Psychosoziale Auswirkungen der COVID-19-Pandemie" innerhalb dieser Initiative zielt darauf ab, eine bundesweite Informationsinfrastruktur aufzubauen und den Zugang zu relevanten Forschungsdaten leichter zugänglich zu machen.
 
-Aligning with the FAIR principles (Findable, Accessible, Interoperable, Reusable), our task force aims to enhance communication and collaboration among researchers by offering streamlined access to metadata, study documents, survey instruments, study results, and publications through a centralized online platform. Furthermore,
+Ein zentrales Ziel dieser Task Force ist die Umsetzung der FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) im Bereich der psychischen Gesundheit. Dies bedeutet, dass Forschungsdaten und deren Metadaten so strukturiert werden müssen, dass sie einfach auffindbar sind und für andere wiederverwendbar sind. Zudem muss die Möglichkeit bestehen, verschiedene Datenbanken miteinander zu verknüpfen und Daten interoperabel auszutauschen.
 
-we propose developing a search engine specifically tailored for preprint publications in order to expedite knowledge sharing within scientific communities.
+Um diese Ziele zu erreichen, plant die Task Force die Entwicklung einer umfassenden Informationsplattform für psychische Gesundheitsforschung im Zusammenhang mit der COVID-19-Pandemie. Diese Plattform wird eine Vielzahl von Ressourcen umfassen, darunter einen umfangreichen Katalog von Studienmetadaten, Dokumente zur Datenerhebung und -analyse sowie Veröffentlichungen aus verschiedenen Fachbereichen.
 
-Beyond establishing seamless integration between research datasets and routine clinical data sources as outlined in NFDI4Health’s framework,
+Ein weiteres wichtiges Element dieses Projekts ist die Implementierung einer Suchmaschine für Preprint-Publikationen im Bereich der psychischen Gesundheit. Durch diese Suchmaschine können aktuelle Studienergebnisse schnell identifiziert und verfolgt werden.
 
-our infrastructure will also provide services for improved handling of audiovisual data pertaining especially towards analyzing non-verbal cues associated with mental well-being during times of crisis such as facial expressions or body language analysis via standardized analytical routines while ensuring harmonized quality assessments.
+Darüber hinaus plant die Task Force auch innovative Analysetools zur Verfügung zu stellen, um den Umgang mit Bilddaten in der psychologischen Forschung zu verbessern. Dies ist ein besonders relevanter Bereich in Bezug auf neurowissenschaftliche Untersuchungen oder Bildgebungsstudien zur Erforschung des Einflusses von Stress oder sozialer Isolation auf das Gehirn.
 
-By implementing these initiatives within our proposed integrated information infrastructure dedicated solely to COVID-19-related mental health studies conducted in Germany,
+Es ist davon auszugehen, dass die Initiierung einer solchen Informationsinfrastruktur einen erheblichen Beitrag zur Forschung im Bereich psychische Gesundheit und COVID-19 leisten wird. Forschende können schneller auf vorhandene Daten zugreifen und haben die Möglichkeit, umfassendere Metaanalysen durchzuführen oder neue Hypothesen zu generieren.
 
-we aim at enhancing discoverability and facilitating utilization by researchers and practitioners, thus accelerating the advancement of knowledge in this crucial field.
+Es ist jedoch anzumerken, dass die Entwicklungen innerhalb dieser Initiative nicht nur für den Bereich der psychischen Gesundheitsforschung relevant sind. Die Herausforderungen bei der Auffindbarkeit und Nutzung von Forschungsdaten sind generisch und betreffen alle Bereiche der Wissenschaft.
 
-Introduction:
-
-The outbreak of the COVID-19 pandemic has
+Insgesamt zeigt diese Initiative das Potenzial

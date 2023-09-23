@@ -1,29 +1,21 @@
-Klinischer Fall: Präoperative biliäre Drainage bei einem Patienten mit hilärem Cholangiokarzinom
+Klinischer Fall: Hepatozelluläres Karzinom
 
-Patienteninformation:
-Name: Herr Schmidt
-Alter: 58 Jahre
-Geschlecht: männlich
+Ein 65-jähriger männlicher Patient wird zur weiteren Abklärung von Oberbauchbeschwerden und einem auffälligen Leberfleck in der Leberkapsel ins Krankenhaus eingewiesen. Bei der körperlichen Untersuchung findet sich ein tastbarer resistenter Tumor im rechten Oberbauch, der bei leichtem Druck schmerzt. Der Patient berichtet außerdem über Gewichtsverlust, Müdigkeit und Schwäche.
 
-Anamnese:
-Herr Schmidt leidet seit einigen Monaten unter unspezifischen Bauchschmerzen, Gewichtsverlust und gelblicher Verfärbung der Haut. Bei einer umfassenden Diagnostik wurde ein tumoröser Gallengangverschluss im Bereich des Hilarbereichs diagnostiziert.
+Nach weiteren diagnostischen Maßnahmen wie einer Ultraschalluntersuchung, Computertomografie und Magnetresonanztomografie wird beim Patienten ein hepatozelluläres Karzinom diagnostiziert. Die Leberfunktionsparameter sind erhöht, was auf eine Stauungsleber schließen lässt.
 
-Diagnose:
-Nach weiterführenden Untersuchungen wurde bei Herrn Schmidt ein hiläres Cholangiokarzinom festgestellt. Der Tumor ist noch auf den Hilarbereich begrenzt und es besteht die Möglichkeit einer kurativ intendierten Resektion.
+Aufgrund des Befundes entscheidet das multidisziplinäre Teams anhand der medizinischen Leitlinien für Hepatozelluläres Karzinom eine kurativ intendierte Resektion anzustreben. Der CT-Befund zeigt keine Hinweise auf Metastasen oder Gefäßinvasion.
 
-Behandlungsoptionen:
-Aufgrund dieser Diagnose wird Herr Schmidt über verschiedene Behandlungsmöglichkeiten aufgeklärt. Eine präoperative biliäre Drainage (PBD) ist in Betracht zu ziehen, da dies die Aussichten auf eine erfolgreiche Resektion verbessern kann. Im Falle eines resektablen Tumors empfehlen die medizinischen Leitlinien eine Operation als bevorzugte Behandlungsmethode.
+Da die Veränderungen intrahepatisch lokalisiert sind und eine perkutane transhepatische Drainage aufgrund der Lage des Tumors schwierig wäre, wird entschieden, den Zugangsweg über einen transpapillären Eingriff zu wählen.
 
-Therapieentscheidung:
-In Anbetracht der Umstände entscheidet sich das behandelnde Ärzteteam dafür, bei Herrn Schmidt eine präoperative biliäre Drainage durchzuführen, um den Gallengang zu entlasten und mögliche Komplikationen während der Operation zu minimieren.
+Die präoperative biliäre Drainage (PBD) soll durchgeführt werden, um die Cholestase zu lindern und die Bedingungen für einen optimalen chirurgischen Eingriff zu schaffen. Dabei soll das Risiko eines postoperativen Leberversagens aufgrund der Tumorbeteiligung der umliegenden Strukturen verringert werden.
 
-Durchführung der präoperativen biliären Drainage (PBD):
-Die PBD wird unter radiologischer Kontrolle perkutan-transhepatisch durchgeführt. Ein Katheter wird in den Gallengang eingeführt, um den Abfluss von Galle zu ermöglichen. Diese Maßnahme soll dabei helfen, die Beschwerden von Herrn Schmidt zu lindern und die Funktionsfähigkeit der Leber vor der Resektion zu verbessern.
+Der Patient erhält eine ausführliche Aufklärung über den Eingriff und etwaige Komplikationen wie Infektionen oder Blutungen im Zusammenhang mit dem Eingriff. Er stimmt der PBD zu.
 
-Postoperative Behandlung:
-Nach erfolgreicher Einleitung der präoperativen biliären Drainage erholt sich Herr Schmidt gut und wird anschließend für die geplante Operation vorbereitet. Die chirurgische Resektion des Tumors kann nun mit erhöhter Sicherheit durchgeführt werden.
+Im weiteren Verlauf wird die transpapilläre biliäre Drainage erfolgreich durchgeführt, wodurch sich die Cholestase des Patienten deutlich bessert und seine Beschwerden abnehmen. Nach Durchführung einer engmaschigen Kontrolle wird festgestellt, dass die Leberfunktionsparameter sich normalisieren und keine Komplikationen auftreten.
 
-Verlauf und Prognose:
-Der Verlauf nach der Operation ist positiv, Herr Schmidt erholt sich gut von dem Eingriff. Eine pathologische Untersuchung des entfernten Gewebes bestätigt eine komplette Resektion des Cholangiokarzinoms im Hilarbereich. Aufgrund der rechtzeitigen Diagnosestellung sowie der Durchführung einer präoperativen biliären Drainage konnte eine Ausbreitung des Tumors verhindert werden. Eine anschließende adjuvante Chemotherapie wird zur weiteren Verbesserung der Langzeitprognose empfohlen.
+Daraufhin erfolgt die geplante kurativ intendierte Resektion des hepatozellulären Karzinoms in einem zweiten Schritt. Das postoperative Ergebnis zeigt, dass alle Tumorstrukturen vollständig entfernt werden konnten ohne Randschärfen. Die daraufhin durchgeführte histopathologische Untersuchung bestätigt einen gut differenzierten hepatocellulären Karzinom ohne Anzeichen einer Lymphknotenschwellung oder Gefäßinvasion.
 
-Dieser fiktive klinische Fall illustriert die Bedeutung einer sorgfältigen Diagnostik und Therapieentscheidung bei Patienten mit hilärem Cholangiokarzinom. Die vorgegebene medizinische Leitlinie zur präoperativen biliären Drainage wurde entsprechend beachtet,
+Nachdem sich der Patient von dem chirurgischen Eingriff erholt hat, wird er in ein onkologisches Nachsorgeprogramm überwiesen, das weitere diagnostische Untersuchungen sowie regelmäßige MRTs beinhaltet, um mögliche Metastasierungen frühzeitig erkennen zu können.
+
+Die langfristige Prognose für den Patienten hängt von verschiedenen Faktoren ab, insbesondere davon, ob es gelingt etwaige Metastasen zu erfassen. Mit der kombinierten Therapie aus chirurgischer Resektion und adjuvanter Chemotherapie hat der Patient jedoch gute Chancen, seine Erkrankung erfolgreich zu bekämpfen und eine lange Überlebenszeit zu erreichen.

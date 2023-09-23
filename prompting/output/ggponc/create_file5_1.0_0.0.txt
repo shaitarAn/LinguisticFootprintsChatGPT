@@ -1,22 +1,43 @@
-Klinischer Fall: Pankreaskarzinom mit positivem zirkumferentiellen Resektionsrand
+Patientenfall: Pankreaskarzinom
 
-Patient: Herr Schmidt, 57 Jahre alt, männlich
+Patient: Herr Schmidt, 59 Jahre alt, männlich
 
-Anamnese:
-Herr Schmidt wurde aufgrund unspezifischer Oberbauchschmerzen und Gewichtsverlust in unsere Klinik überwiesen. Er berichtet von wiederkehrenden Beschwerden über einen Zeitraum von etwa drei Monaten. Eine ausführliche Anamnese ergab keine bekannten Vorerkrankungen, jedoch wurde sein alkoholisches Trinkverhalten als überdurchschnittlich hoch beschrieben. In der Familienanamnese finden sich keine Hinweise auf erbliche Krebserkrankungen.
+Klinischer Verlauf:
 
-Diagnostik:
-Eine umfassende Befunderhebung wurde durchgeführt, einschließlich einer körperlichen Untersuchung, Blutuntersuchungen, Bildgebung und einer Biopsie. Die Bildgebung mittels Computertomographie (CT) ergab eine Raumforderung im Pankreaskopf, was auf ein mögliches Pankreaskarzinom hinweist. Die Laborergebnisse zeigten einen erhöhten Tumormarkerwert für das Pankreaskarzinom, CA 19-9. Eine endoskopische retrograde Cholangiopankreatikographie (ERCP) wurde durchgeführt, um den Kanal des Pankreasgangs zu beurteilen und eine Biopsie zu entnehmen.
+Herr Schmidt stellt sich mit diffusem Bauchschmerz sowie Gewichtsverlust in unserer Klinik vor. Eine gründliche Anamnese ergibt keine Hinweise auf familiäre Vorbelastungen für Pankreaskarzinom oder andere relevante Erkrankungen. Zudem verneint Herr Schmidt jeglichen Alkohol- oder Nikotinkonsum.
+
+Nach einer umfassenden körperlichen Untersuchung wird eine Ultraschalluntersuchung des Abdomens durchgeführt, die eine Raumforderung im Kopf des Pankreas zeigt. Zur weiteren Abklärung wird ein CT-Scan des Abdomens angeordnet, der den Verdacht auf ein Pankreaskarzinom erhärtet.
+
+Diagnose:
+
+Herr Schmidt wird zur weiteren Diagnostik und Therapie in unsere onkologische Abteilung überwiesen. Dort wird er von einem multidisziplinären Team, bestehend aus Onkologen, Radiologen und Chirurgen, betreut.
+
+Eine Whipple-Operation zur Resektion des betroffenen Pankreaskopfes wird durchgeführt. Das resezierte Präparat wird anschließend zur histopathologischen Aufarbeitung ins Labor geschickt.
 
 Histopathologische Aufarbeitung:
-Die im Rahmen der ERCP entnommene Biopsie wurde histopathologisch untersucht und bestätigte die Verdachtsdiagnose eines Pankreaskarzinoms. Aufgrund der Eindeutigkeit der Diagnose wurde dem Patienten nach entsprechender Aufklärung eine Whipple-Operation, also eine partielle Pankreasduodenektomie, empfohlen und von ihm akzeptiert.
 
-Während der Operation wurde eine standardisierte histopathologische Aufarbeitung des Resektats durchgeführt. In enger Zusammenarbeit mit dem operierenden Chirurgen wurden die zirkumferentiellen Resektionsränder markiert, um eine genaue Bewertung des Resektionsstatus zu ermöglichen. Die hintere Fläche des Prozessus uncinatus wurde ebenfalls speziell aufgearbeitet.
+Im Rahmen der histopathologischen Aufarbeitung wird besonderes Augenmerk auf die genaue Klassifikation und Beurteilung des Resektats gelegt. Gemäß den nationalen und internationalen Leitlinien wird der sogenannte zirkumferentielle Resektionsrand überprüft. Dieser setzt sich aus einem vorderen, medialen und posterioren Resektionsrand bzw. der entsprechenden Resektionsfläche zusammen.
 
-Histopathologischer Befund:
-Die histopathologische Untersuchung des Resektats bestätigte die Diagnose eines Pankreaskarzinoms. Es handelte sich um ein duktales Adenokarzinom. Die Größe des Tumors betrug 3,5 cm. Es wurden keine Lymphknotenmetastasen gefunden. Bei der Beurteilung des Resektionsstatus zeigte sich, dass der zirkumferentielle Resektionsrand in allen drei Bereichen (vorderer, medialer und hinterer Resektionsrand) tumorinfiltriert war, was zu einer R1-Situation führte. Die hintere Fläche des Prozessus uncinatus war ebenfalls tumorinfiltriert.
+Zusätzlich wird die hintere Fläche des Prozessus uncinatus besonders aufgearbeitet. Hierbei wird untersucht, ob sich Tumorzellen in den Resektionsrändern befinden (R1-Situation). Es ist wichtig, diese Ränder korrekt einzuschätzen, da das Vorliegen einer R1-Situation Auswirkungen auf das weitere therapeutische Vorgehen haben kann.
 
-Therapie und Prognose:
-Basierend auf dem histopathologischen Befund und der R1-Situation wurde die weitere Therapieplanung mit dem interdisziplinären Tumorboard besprochen. Es wurde beschlossen, dass Herr Schmidt eine adjuvante Chemotherapie mit Gemcitabin beginnen sollte, um das Risiko eines lokalen oder systemischen Rezidivs zu verringern. Die Behandlung wurde engmaschig überwacht, und Herr Schmidt zeigte eine gute Verträglichkeit der Chemotherapie. Er wurde auch zu einer engmaschigen Nachsorge mit regelmäßigen Bildgebungskontrollen und Tumormarkerbestimmungen eingeplant.
+In einem standardisierten Protokoll werden alle relevanten Parameter erfasst, einschließlich Tumorgröße, Tiefenwachstum, Beteiligung von Lymphknoten sowie Vorhandensein von fokaler oder diffuser Perineuralinvasion. Auch das Vorhandensein von Metastasen wird überprüft.
 
-Die Prognose von Patienten mit Pankreaskarzinom im fortgeschrittenen Stadium und positivem zirkumferentiellem Resektionsrand ist in der Regel ungünstig. Dennoch gibt es vereinzelt Fälle, in denen eine frühzeitige und adäquate Therapie zu einer längeren Überlebenszeit führen kann. Die regelmäßige Überwachung und Betreuung dieser Patienten ist entscheidend, um mögliche Rückfälle frühzeitig zu erkennen und geeignete Behandlungsmaßnahmen einzuleiten.
+Therapieentscheidung:
+
+Basierend auf den histopathologischen Befunden wird gemeinsam mit dem multidisziplinären Team eine individuelle Therapieentscheidung getroffen. In Herrn Schmidts Fall zeigt sich eine R1-Situation, bei der Tumorzellen in den zirkumferentiellen Resektionsrändern nachgewiesen werden können.
+
+Da keine Fernmetastasen vorliegen und der Patient einen guten Allgemeinzustand aufweist, wird eine zusätzliche adjuvante Strahlentherapie in Kombination mit einer Chemotherapie empfohlen. Hierdurch soll das Risiko eines lokalen Rezidivs verringert werden.
+
+Ein ausführliches Aufklärungsgespräch findet statt, in dem Herr Schmidt über die Therapieoptionen, Risiken und mögliche Nebenwirkungen informiert wird. Er stimmt der vorgeschlagenen Therapie zu und wird in die onkologische Tagesklinik eingewiesen.
+
+Verlauf und Prognose:
+
+Während der adjuvanten Therapie zeigt Herr Schmidt eine gute Verträglichkeit der Chemotherapie und Strahlentherapie. Er wird regelmäßig kontrolliert, sowohl klinisch als auch durch bildgebende Verfahren wie CT-Scans.
+
+Nach Abschluss der Therapie wird eine engmaschige Nachsorge durchgeführt, um mögliche Rezidive oder Komplikationen frühzeitig zu erkennen. In den regelmäßigen Kontrolluntersuchungen zeigen sich bisher keine Anzeichen von Tumorrezidiven.
+
+Der weitere Verlauf wird intensiv überwacht und regelmäßige Nachsorgeuntersuchungen finden statt, um den Behandlungserfolg zu überprüfen und gegebenenfalls rechtzeitig weitere therapeutische Maßnahmen zu ergreifen.
+
+Fazit:
+
+Dieser Fall eines Pankreaskarzinoms verdeutlicht die Bedeutung der histopathologischen Aufarbeitung und Klassifikation des Resektats, insbesondere in Bezug auf die R1-Situation. Anhand der festgestellten Ränder kann eine fundierte Therapieentscheidung getroffen und die Behandlung individuell angepasst werden, um die bestmöglichen Ergebnisse für den Patienten zu erzielen. Durch die enge Zusammenarbeit verschiedener Fachdisziplinen kann eine optimale Betreuung während der gesamten Therapie- und Nachsorgephase gewährleistet werden.

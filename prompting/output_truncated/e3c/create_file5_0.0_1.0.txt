@@ -1,37 +1,31 @@
 Patient Information:
 
-On the 15th October 2021, a previously healthy, 32-year-old Caucasian female was admitted to the medical ward at St. Mary's Hospital in London, UK. The patient was transferred from a local clinic due to worsening symptoms and concerns about her overall condition. She presented with a two-week history of fever, fatigue, and a generalized rash over her body.
+On the 15th October 2021, a previously healthy, 32-year-old Caucasian female was admitted to the medical ward at St. Mary's Hospital in London, United Kingdom. The patient was transferred from a local clinic due to worsening symptoms and concerns about her overall condition. She presented with a two-week history of fever, generalized rash over her body and eyelids, intermittent headache with associated neck pain, sore throat, and a dry cough. Additionally, she reported experiencing abdominal pain and diarrhea for the past three days. There was no history of joint pain or swelling, oral or nasal ulcers, or any unusual discharge.
 
 Medical History:
 
-The patient had no significant medical history and was not taking any medications prior to this illness. She reported being in good health and leading an active lifestyle.
+The patient had no significant medical history prior to this illness. She had not traveled outside of the country recently and denied any known exposure to infectious diseases.
 
-Presenting Symptoms:
+Clinical Presentation:
 
-The patient complained of persistent low-grade fever that had been fluctuating between 100°F (37.8°C) and 101°F (38.3°C) for the past two weeks. Alongside the fever, she experienced extreme fatigue that limited her daily activities.
+Upon admission to St. Mary's Hospital, the patient appeared fatigued and mildly dehydrated but was conscious and oriented. Her vital signs were as follows: temperature of 38.5°C (101.3°F), heart rate of 100 beats per minute regular rhythm; blood pressure within normal limits at 120/80 mmHg; respiratory rate of 18 breaths per minute; oxygen saturation on room air at 98%. Physical examination revealed diffuse erythematous maculopapular rash involving her trunk and extremities along with bilateral conjunctival injection without exudate.
 
-Additionally, she noticed a widespread rash covering her body which started as small red spots but gradually progressed into larger patches over time. The rash also involved her eyelids causing mild swelling and discomfort.
+Investigations:
 
-The patient described intermittent headaches accompanied by neck pain that worsened with movement or prolonged sitting or standing positions. She also reported having a sore throat and dry cough for the past week.
+Laboratory investigations were ordered upon admission to further evaluate the patient's condition. Initial blood tests showed leukocytosis with neutrophil predominance (white blood cell count: 14 x10^9/L) along with elevated C-reactive protein levels (CRP: 30 mg/L). Liver function tests were within normal limits while renal function tests indicated mild dehydration (blood urea nitrogen: 25 mg/dL). A chest X-ray demonstrated clear lung fields without any infiltrates or consolidation.
 
-Furthermore, she mentioned experiencing diarrhea for one day before the onset of other symptoms but denied any joint pain or swelling, oral ulcers, nasal discharge or sores on genitalia.
+Management and Treatment:
 
-Physical Examination Findings:
+The patient was immediately started on intravenous fluids to correct her dehydration. Empirical antibiotic therapy with broad-spectrum coverage was initiated due to the presence of fever and elevated inflammatory markers. She was also given antipyretics for symptomatic relief of her fever. In addition, supportive measures such as rest, adequate nutrition, and regular monitoring of vital signs were implemented.
 
-Upon physical examination at admission, vital signs were stable except for an elevated temperature of 100.9°F (38.3°C). The patient appeared fatigued but alert with no signs of respiratory distress or cyanosis.
+Further Evaluation:
 
-Skin examination revealed multiple erythematous macules scattered across her trunk and extremities which blanched upon pressure indicating non-palpable purpura lesions consistent with petechiae formation associated with vasculitis.
+Given the patient's persistent symptoms and the absence of a clear diagnosis, additional investigations were performed to identify the underlying cause. A nasopharyngeal swab was collected for respiratory viral panel testing, which came back negative for common respiratory pathogens including influenza A/B, respiratory syncytial virus (RSV), adenovirus, parainfluenza viruses 1-4, and human metapneumovirus.
 
-Her eyelids showed mild edema without conjunctival injection or discharge. The neck examination revealed tenderness on palpation of the cervical spine, particularly at the base of the skull.
+Outcome:
 
-Laboratory Investigations:
+Over the next few days in hospital, the patient's symptoms gradually improved with resolution of her rash and reduction in fever. Her headache subsided along with neck pain while her sore throat became less severe. The diarrhea also resolved spontaneously without requiring specific treatment. Repeat blood tests showed normalization of white blood cell count (9 x10^9/L) and CRP levels (5 mg/L). Given this clinical improvement along with negative viral panel results, it was suspected that she had likely experienced a self-limiting viral illness.
 
-Initial laboratory investigations were conducted to further evaluate the patient's condition. Complete blood count (CBC) showed a mild leukocytosis with a white blood cell count of 12,500/mm³ (normal range: 4,000-11,000/mm³). Differential counts revealed an increased percentage of neutrophils and eosinophils.
+Conclusion:
 
-Liver function tests and renal function tests were within normal limits. Serological tests for infectious diseases including HIV, hepatitis B and C, syphilis, and Epstein-Barr virus were negative.
-
-Management:
-
-The patient was started on supportive care including antipyretics for fever control and adequate hydration to manage her symptoms. A dermatology consult was requested to assess the rash further.
-
-Given her persistent symptoms and abnormal physical findings suggestive of vasculitis, a rheumatology
+This case highlights a previously healthy young female presenting with an acute febrile illness characterized by rash, headache, sore throat, dry cough, abdominal pain,and diarrhea. Despite extensive evaluation including laboratory investigations and viral panel testing,the exact etiology remained elusive; however,a self-limiting viral infection is suspected based on clinical improvement over time without any specific intervention required.The patient was discharged home in stable condition with instructions for follow-up if symptoms recurred or worsened.

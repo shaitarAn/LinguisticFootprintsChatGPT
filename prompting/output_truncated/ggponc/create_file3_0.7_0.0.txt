@@ -1,19 +1,31 @@
-Klinischer Fall: Präoperative biliäre Drainage bei einem Patienten mit hilärem Cholangiokarzinom
+Patientenfall: Hepatozelluläres Karzinom und biliäre Karzinome mit präoperativer biliärer Drainage
 
-Ein 62-jähriger männlicher Patient stellt sich in der Onkologie-Klinik mit lang anhaltenden Oberbauchschmerzen, Gewichtsverlust und fortgeschrittener Gelbsucht vor. Nach einer gründlichen Anamnese und körperlichen Untersuchung wird bei dem Patienten ein hiläres Cholangiokarzinom diagnostiziert.
+Patient: Herr Müller, 65 Jahre alt, männlich
 
-Aufgrund der fortgeschrittenen Erkrankung wird eine kurativ intendierte Resektion als Behandlungsziel angestrebt. Das interdisziplinäre Tumorboard entscheidet, dass eine präoperative biliäre Drainage (PBD) vor der geplanten Operation durchgeführt werden soll, um die Symptome zu lindern und die Chancen auf eine erfolgreiche Resektion zu verbessern.
+Anamnese:
+Herr Müller stellt sich mit Beschwerden wie Gelbsucht, Müdigkeit und Gewichtsverlust vor. Er gibt an, dass er in den letzten Monaten anhaltenden Juckreiz verspürt hat. Er hat keine Vorgeschichte von Lebererkrankungen oder Gallensteinen. In seiner Familie gibt es keine bekannten Fälle von Leber- oder Gallenwegserkrankungen.
 
-Der Zugangsweg für die biliäre Drainage wird perkutan-transhepatisch gewählt, da aufgrund der Lokalisation des Gallenwegverschlusses eine transpapilläre oder transgastrische/transduodenale Drainage nicht möglich ist.
+Klinische Untersuchung:
+Bei der körperlichen Untersuchung fällt eine deutliche Ikterus auf. Der Bauch ist weich und nicht druckempfindlich. Es sind keine tastbaren Leber- oder Gallenwegsvergrößerungen zu spüren. Die übrige körperliche Untersuchung ergibt keine weiteren Auffälligkeiten.
 
-Unter Ultraschall- und Röntgenkontrolle führt der Interventional Radiologe die perkutan-transhepatische Drainage durch. Eine biliäre Stentimplantation wird erfolgreich durchgeführt, um den Gallenfluss zu gewährleisten und die Symptome des Patienten zu lindern.
+Laboruntersuchungen:
+Die Laborergebnisse zeigen eine erhöhte Bilirubinkonzentration von 4,5 mg/dl (Normalwert: 0,2-1,2 mg/dl), erhöhte Leberenzyme (AST 85 U/l, ALT 70 U/l) und erhöhte alkalische Phosphatase (ALP) von 400 U/l (Normalwert: 40-120 U/l). Die übrigen Leberfunktionstests sind im Normbereich. Die Tumormarker AFP (alpha-Fetoprotein) und CA 19-9 sind erhöht.
 
-Der Patient wird engmaschig überwacht und erholt sich gut von dem Eingriff. Die Biliärdrainage bleibt bis zur geplanten Operation in situ, um eine ausreichende Entlastung der Gallenwege sicherzustellen.
+Bildgebung:
+Die Sonographie des Abdomens zeigt eine vergrößerte Leber mit diffusen Veränderungen der Echogenität. Es gibt keinen Hinweis auf Gallensteine oder Veränderungen der Gallenblase. Eine Kontrastmittel-CT des Abdomens bestätigt die sonographischen Befunde und zeigt eine Raumforderung in der linken Leberlappen, die ein typisches hypervaskularisiertes Muster aufweist. Zudem zeigt die CT eine Dilatation der intrahepatischen Gallenwege.
 
-Nach einer Woche wird der Patient für die geplante Operation vorbereitet. Die präoperative biliäre Drainage hat die Symptome des Patienten erfolgreich gelindert und die Leberfunktion verbessert. Die Operation verläuft komplikationslos, und das hiläre Cholangiokarzinom wird vollständig reseziert.
+Diagnose:
+Aufgrund der klinischen Symptome, der erhöhten Leberenzyme und des sonographischen und CT-Befundes wird die Diagnose eines hepatozellulären Karzinoms (HCC) gestellt. Die erhöhten Tumormarker unterstützen die Diagnose. Zusätzlich wird eine Cholangiographie durchgeführt, die eine Obstruktion der extrahepatischen Gallenwege zeigt.
 
-Nach der Operation wird der Patient einer adjuvanten Chemotherapie unterzogen, um das Risiko eines lokalen Rezidivs zu verringern.
+Behandlungsoptionen:
+Angesichts des fortgeschrittenen Stadiums der Erkrankung und der Obstruktion der Gallenwege besteht die Notwendigkeit einer präoperativen biliären Drainage (PBD) vor einer möglichen kurativen Resektion des Tumors. Die PBD kann entweder perkutan-transhepatisch, transpapillär oder transgastrisch/transduodenal erfolgen. Die Wahl des Zugangsweges hängt von der Lokalisation des Gallenwegverschlusses ab.
 
-Der Patient wird regelmäßig nachuntersucht, und die Langzeitprognose hängt von der Tumorhistologie, dem Tumorgrad und dem pathologischen Stadium ab. Dank der frühzeitigen Diagnose und der rechtzeitigen Behandlung hat der Patient gute Chancen auf eine langfristige Remission und eine verbesserte Lebensqualität.
+Entscheidung:
+Aufgrund der intrahepatischen Obstruktion und der Lage des Tumors wird eine perkutane transhepatische biliäre Drainage (PTBD) als Zugangsweg gewählt. Die PTBD wird unter radiologischer Kontrolle durchgeführt, um den Gallenweg zu entlasten und die Symptome des Patienten zu lindern. Gleichzeitig wird eine Gewebeprobe entnommen, um die Diagnose des hepatozellulären Karzinoms zu bestätigen und eine genetische Analyse des Tumors durchzuführen.
 
-Anmerkung: Dieser Fall basiert auf den Leitlinien des deutschen Leitlinienprogramms für die Onkologie: Hepatozelluläres Karzinom und biliäre KarzinomePräoperative biliäre Drainagen. Es ist wichtig zu beachten, dass dieser Fall fiktiv ist und nicht auf einem tatsächlichen Patienten basiert.
+Nach der PTBD wird der Patient engmaschig überwacht und erhält eine adjuvante medikamentöse Therapie, um das Tumorwachstum zu kontrollieren und das Fortschreiten der Erkrankung zu verhindern. Der Patient wird über die möglichen Komplikationen der PTBD aufgeklärt, einschließlich einer möglichen Infektion oder einer Verschlechterung der Leberfunktion.
+
+Weiteres Vorgehen:
+Nach Abschluss der medikamentösen Therapie und Stabilisierung des Patienten wird eine umfassende Evaluierung der Resektabilität des Tumors durchgeführt. Dies umfasst eine erneute Bildgebung, wie eine MRT oder eine PET-CT, um die Größe und Ausdehnung des Tumors sowie mögliche Metastasen zu erfassen.
+
+Basierend auf den Ergebnissen der Evaluierung wird eine Entscheidung über die weitere Behandlungsstrategie getroffen. Bei einer potenziell kurativen Resektion wird die PTBD entfernt und eine Leberresektion durchgeführt. Bei inoperablen oder metastasierten Tumoren kann eine palliative

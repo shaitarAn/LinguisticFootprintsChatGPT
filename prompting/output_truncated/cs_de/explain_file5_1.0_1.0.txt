@@ -1,0 +1,17 @@
+Der Artikel beschreibt den aktuellen Stand und die Zukunft des autonomen Fahrens von Fahrzeugen. Laut Roland Berger Strategy Consultants befinden sich moderne Autos auf einer Entwicklungsstufe, die von keiner Automation bis hin zum vollständig autonomem Fahren reicht.
+
+Der Artikel erwähnt auch, dass Google plant, bis 2015 das weltweit erste vollständig selbstfahrende Fahrzeug auf den Straßen des Silicon Valley einzuführen. Andere Unternehmen wie Apple und Uber beteiligen sich ebenfalls an der Entwicklung von selbstfahrenden Autos. Es gibt auch Zulieferunternehmen wie Nvidia und Mobileye, die an Technologien arbeiten, um Hindernisse zu erkennen und autonome Fahrfunktionen bereitzustellen.
+
+Die Umstellung vom manuellen zum robotergesteuerten Fahren erfolgt laut dem Analyst Uwe Neumann schrittweise. Zum Beispiel ist das automatische Parken bereits in vielen in Serienproduktion befindlichen Autos verfügbar. In etwa drei bis fünf Jahren könnten Fahrzeuge mit teilautonomem Fahren auf den Markt kommen. Bis etwa 2030-2035 soll dann das vollständig autonome Fahren erreicht werden.
+
+Die Einführung selbstfahrender Autos bringt zahlreiche Vorteile mit sich, darunter eine Reduzierung der Unfallraten sowie Einsparungen bei Kosten und Emissionen im Verkehrswesen. Durch gemeinsame Nutzungsmöglichkeiten könnten die Betriebskosten pro zurückgelegter Strecke um das 5- bis 10-Fache sinken.
+
+Es gibt jedoch noch einige Hürden zu überwinden: Die rechtliche Rahmenbedingungen für den Einsatz von Roboterautos sind noch nicht geklärt und Sicherheitsvorschriften müssen eingehalten werden. Die kurzfristigen Kosten für autonome Funktionen sind derzeit höher als bei herkömmlichen Fahrzeugen, sollen aber durch eine verstärkte Nutzung geteilter Fahrzeuge sinken. Es bedarf außerdem einer umfangreichen Koordination und Zusammenarbeit zwischen verschiedenen Akteuren, um die Vorteile von selbstfahrenden Autos voll auszuschöpfen.
+
+Ein weiterer Punkt ist die mögliche Änderung der Auto-Kultur und damit verbunden der Verlust an Individualität durch selbstfahrende Autos. Manche Menschen schätzen die persönliche Freiheit und das emotionale Erlebnis des Autofahrens, das ein Computer nicht bieten kann.
+
+Dennoch sagen Analysten voraus, dass die Automobilindustrie von technologischen Entwicklungen im Bereich des autonomen Fahrens erobert werden könnte, ähnlich wie es bei anderen Industriesektoren wie Musik (Apple), Kleinanzeigen (eBay) oder Buchhandlungen (Amazon) geschehen ist.
+
+Es wird auch erwähnt, dass traditionelle Automobilhersteller immer noch viel Einfluss haben und sich intensiv mit der Entwicklung von selbstfahrenden Autos befassen. Volkswagen beispielsweise beschäftigt über 1.200 Mitarbeiter in diesem Bereich und plant die Einführung eines "Smartphones auf Rädern".
+
+Insgesamt deutet der Artikel auf eine Zukunft mit selbstfahrenden Autos hin, wobei noch einige Herausforderungen zu bewältigen sind. Das autonome Fahren bietet jedoch Potenzial für erhebliche Verbesserungen in den Bereichen Sicherheit, Effizienz und Umweltfreundlichkeit im Straßenverkehr.

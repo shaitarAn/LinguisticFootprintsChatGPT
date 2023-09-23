@@ -35,10 +35,10 @@ for top_directory in os.listdir(png_directory):
         # print(w)
         # print(h)
 
-        if len(list_of_images) == 6:
-            # create big empty image with place for images
-            new_image = Image.new('RGB', (w*2, h*3))
+        # create big empty image with place for images
+        new_image = Image.new('RGB', (w*2, h*5))
 
+        if len(list_of_images) == 10:
 
             new_image.paste(list_of_images[0], (0, 0))
             new_image.paste(list_of_images[1], (w, 0))
@@ -51,12 +51,13 @@ for top_directory in os.listdir(png_directory):
             new_image.paste(list_of_images[8], (0, h*4))
             new_image.paste(list_of_images[9], (w, h*4))
 
-            # save it
-            new_image.save(f'{output_dir}/{top_directory}.png')
         else:
-            continue
-            # print(f"not enough images in {top_directory}")
-            # print(len(list_of_images))
+
+            new_image.paste(list_of_images[0], (0, 0))
+            new_image.paste(list_of_images[-1], (w, 0))
+
+        # save the new image as a png file
+        new_image.save(f"{output_dir}/{top_directory}.png")
 
 
 

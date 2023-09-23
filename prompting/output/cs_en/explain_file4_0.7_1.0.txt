@@ -1,0 +1,21 @@
+This news article discusses various aspects of data centers, their operations, and their energy efficiency. The author begins by highlighting the importance of cooling and security in data centers. Data centers house a large number of servers and require effective cooling systems to prevent overheating. Additionally, they need to be secure both from physical intrusion and cyber attacks.
+
+The article mentions that data centers are typically located in areas where electricity is relatively inexpensive and there is an electricity surplus. This helps reduce operational costs for running such facilities.
+
+To ensure continuous operation, data centers have backup power supplies such as rooms full of batteries and diesel generators. These backups provide temporary power in case of an outage or disruption from the utility company. However, large companies like Google or Microsoft have multiple data centers spread across different locations worldwide to minimize the impact of natural disasters or other disruptions.
+
+The article introduces the concept of Power Usage Effectiveness (PUE), which measures the ratio of total energy consumed by a data center compared to only IT equipment consumption. Leading-edge data centers are now running at PUEs around 1.2 or 1.25, indicating significant improvements in energy efficiency compared to PUEs around 4 or 5 five years ago.
+
+The focus has now shifted towards reducing the footprint (size) and energy consumption of servers themselves as they are the most expensive component in operating a data center.
+
+The author also mentions that while servers in data centers run continuously, they may not always be utilized fully; hence efforts are being made to minimize power consumption when idle.
+
+Regarding renewable energy sources, many companies operating cloud services seek cleaner energy options and explore renewable or alternate sources for powering their operations.
+
+For companies deploying their computing into clouds (using cloud services), cost-saving is often a primary incentive due to flexible payment models based on demand fluctuations throughout the year.
+
+In terms of location selection for new data center deployments, factors like customer base, internet connectivity availability along national highways, and electricity costs play a significant role. The author suggests Africa as a potential market for future data centers due to its fast-growing internet access and relative lack of local data center infrastructure.
+
+The article concludes by discussing potential future advancements in data centers, such as building data centers in space or distributing computing power to individual users' closets (an alternative to centralized data centers). However, the author remains skeptical about the feasibility of these ideas.
+
+Overall, the article covers various aspects related to cooling, security, energy efficiency, location selection, and possible future developments in data center operations.

@@ -1,44 +1,25 @@
-This clinical case describes a patient who presented with various symptoms and signs, leading to a diagnosis of hepatocellular carcinoma (liver cancer) in pregnancy. Here is a breakdown of the key information:
+This clinical case involves a female patient who presented with various symptoms and was diagnosed with hepatocellular carcinoma (HCC) during pregnancy. The patient had no known chronic illnesses, such as diabetes or hypertension, and denied any alcohol consumption or smoking. She also had no history of Hepatitis infection.
 
-Patient background:
-- The patient has no known chronic illnesses such as diabetes or hypertension.
-- She denies alcohol consumption and smoking.
-- There are no apparent symptoms related to the heart, lungs, kidneys, or reproductive system.
+Upon examination, the patient exhibited wasting, mild pallor, and a tinge of jaundice. She appeared well hydrated, had no fever or palpable lymph nodes, but showed signs of palmar erythema. However, there were no clubbing or parotid enlargement observed. The respiratory, cardiovascular, and neurological examinations were unremarkable.
 
-Clinical examination findings:
-- Wasting (unexplained weight loss), mild pallor (pale appearance), and a tinge of jaundice (yellowing of the skin).
-- Well hydrated, not feverish, and no palpable lymph nodes.
-- Palmer erythema (redness of the palms), but no clubbing (enlarged fingertips) or parotid enlargement (swelling of salivary glands).
-- Normal respiratory, cardiovascular, and neurological examinations.
-- Grossly distended abdomen with distorted contour in the upper half. Visibly distended veins on the anterior abdominal wall draining away from the umbilicus.
-- Enlarged liver below costal margin with hard texture, nodules on its surface. Mild tenderness noted with a bruit heard on auscultation.
-- Spleen not palpable but mild ascites (accumulation of fluid in the abdomen) present along with edema in both legs up to mid-shin level.
+The abdominal examination revealed gross distention with a distorted contour in the upper half and visibly distended anterior abdominal wall veins draining away from the umbilicus. The liver was enlarged 12cm below the costal margin with a span of 17cm. It was hard with nodular texture and an irregular edge. Mild tenderness was observed along with a bruit on auscultation. The spleen was not palpable but there was mild ascites (fluid accumulation in the abdomen) present along with bipedal edema up to mid-shin.
 
-Pregnancy-related findings:
-- Symphysio fundal height measured at 26 cm indicating gestational age around 26 weeks. The fetus was in breech presentation.
-- Fetal heart rate was regular at 134 beats per minute.
-- Rectal and vaginal examinations were unremarkable.
+In terms of obstetric findings, the symphysio fundal height measured 26 cm indicating gestational age while longitudinal lie and breech presentation were noted. Fetal heart rate was regular at 134 bpm.
 
-Laboratory assessments:
-Hemoglobin level: 10.3 g/dL
-White blood cell count: 10,200 cells/dL
-Neutrophils: 59.3%
-Lymphocytes: 26.1%
-Monocytes: 10.1%
-Eosinophils: 2.7%
-Platelet count: 350,000/µL
-Liver function tests revealed raised GGT (gamma-glutamyl transferase) and AST (aspartate aminotransferase) levels, while bilirubin was within normal range.
-Total protein and albumin levels were low at 44 g/L and 29 g/L, respectively.
-INR (international normalized ratio) was elevated at 1.3, indicating impaired blood clotting.
-HBsAg (hepatitis B surface antigen) was positive, indicating a hepatitis B infection. HBeAg (hepatitis B e-antigen) was negative with HBV DNA viral load of 126869 IU/mL.
-VDRL test for syphilis was positive but TPHA test not performed.
-Alpha-fetoprotein (AFP), a tumor marker, was significantly elevated at >50,000 KU/L.
+Laboratory assessment showed hemoglobin levels within normal range (10.3 g/dL), white blood cell count slightly elevated at 10200 cells/dL (with neutrophils comprising majority), platelet count normal at 350000/μL but raised GGT (gamma-glutamyl transferase) and AST (aspartate transaminase) levels indicating liver dysfunction.
 
-Imaging:
-Abdominal ultrasound showed a heterogeneous coarse liver with multiple hypoechoic lesions. Liver size measured around 17.2 cm with mild ascites present.
-Pelvic scan confirmed the presence of a fetus aged approximately 27 weeks and three days old with active movements.
+Additional laboratory tests indicated low total protein level (44 g/L) along with low albumin level (29 g/L). INR (international normalized ratio), a measure of blood clotting ability, was slightly elevated at 1.3. HBsAg (Hepatitis B surface antigen) was positive indicating the presence of Hepatitis B infection, while HBeAg (Hepatitis B e antigen) was negative. The viral load of HBV DNA was measured to be 126869 IU/mL. VDRL test for syphilis came back positive but TPHA (Treponema pallidum hemagglutination assay) test was not performed. Alphafetoprotein (AFP) levels were found to be significantly elevated at >50000 KU/L.
 
-Management and outcomes:
-The patient received analgesia to manage pain along with furosemide and spironolactone to address fluid retention in the abdomen and legs due to liver dysfunction.
-Lamivudine, an antiviral medication for hepatitis B, was added to prevent transmission of the infection from mother to child.
-The plan initially
+The abdominal ultrasound revealed a heterogeneous coarse liver with multiple hypoechoic lesions, confirming the presence of hepatocellular carcinoma. The liver size measured 17.2 cm and mild ascites were also observed on the scan.
+
+A revised diagnosis of hepatocellular carcinoma on a cirrhotic liver with decompensation in pregnancy was made based on these findings.
+
+Management for this patient included analgesia to alleviate pain, as well as furosemide and spironolactone to address fluid accumulation caused by liver dysfunction and portal hypertension associated with advanced cirrhosis.
+
+Additionally, lamivudine, an antiretroviral medication used against HIV and hepatitis B infection, was added to prevent mother-to-child transmission of hepatitis B during childbirth.
+
+The initial plan was to allow the pregnancy to continue until at least 32 completed weeks in order to improve neonatal survival chances. However, due to progressive abdominal pain that became unbearable for the patient, the pregnancy had to be terminated at 30 weeks and 3 days through successful induction of labor.
+
+Unfortunately, the outcome resulted in a fresh stillbirth weighing 1.2 kg. Post-delivery pain markedly reduced and after five days in hospital care she was discharged home. The patient was scheduled for a follow-up visit at the gastrointestinal clinic.
+
+The patient attended the clinic at 2 and 4 weeks post-discharge but was

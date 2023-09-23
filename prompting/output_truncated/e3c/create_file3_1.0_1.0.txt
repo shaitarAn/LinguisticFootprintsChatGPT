@@ -1,25 +1,30 @@
-Title: A 42-year-old Woman with Mental Health Issues following Self-inflicted Injury
+Clinical Case: A 55-year-old woman with severe burns following a house fire
 
-Case Presentation:
-A 42-year-old woman with a history of mental illness was admitted to our facility following a self-inflicted injury. The patient had attempted suicide by hanging two days prior to admission. She presented with signs of respiratory distress and was promptly transferred from a local psychiatric hospital.
+Patient Profile:
+Mrs. Emily Turner, a 55-year-old female, was admitted to the burn unit of our hospital after sustaining extensive burn injuries in a house fire. She has a history of depression and anxiety which had been managed with antidepressant medication until six months ago when she stopped taking her medications.
 
-History of Presenting Illness:
-Three days before admission, the patient had experienced a significant episode of depression culminating in her suicide attempt. She tied a ligature around her neck and suspended herself until discovered in an unconscious state. Prompt emergency medical services were able to intervene successfully, resuscitating her at the scene before transferring her to our care.
+Presenting Condition:
+The patient was found unconscious at the scene of the accident and brought to our hospital via emergency medical services. On arrival, she had significant full-thickness burns involving approximately 45% of her total body surface area (TBSA). The affected areas included her face and neck (7%), both upper extremities (12%), right thigh (6%), left thigh and leg (5%), as well as substantial portions of her anterior and posterior trunk (15%).
 
-Physical Examination:
-Upon arrival, the patient appeared lethargic but responsive to verbal stimuli. Bilateral petechial hemorrhages were noted on her conjunctiva and face, consistent with prolonged strangulation. Her vital signs showed tachycardia (heart rate = 115 beats per minute), normal blood pressure (130/80 mmHg), elevated respiratory rate (25 breaths per minute), and oxygen saturation maintained at 96% on room air.
+Initial Management:
+After initial resuscitation with intravenous fluids to stabilize her blood pressure, Mrs. Turner underwent immediate assessment by our multidisciplinary team comprising plastic surgeons, nurses, psychiatrists, and psychologists. She underwent five debridement surgeries during her prolonged hospital stay spanning over 75 days.
 
-Burn Assessment:
-A thorough examination revealed that the patient sustained extensive injuries from partial-thickness burns involving approximately 30% total body surface area (TBSA). The affected areas included both upper extremities accounting for approximately 5% TBSA each, anterior chest wall (7%), abdomen (5%), lower back (3%), bilateral thighs each contributing around 4%, as well as right calf and left foot making up approximately 2-3% TBSA overall.
+Psychiatric Assessment:
+Due to her psychiatric history as well as the nature of the injury itself, Mrs. Turner's mental health condition was closely monitored throughout her hospitalization period. An urgent psychiatric consultation led to the diagnosis of major depressive disorder with psychotic features in context with suicidal ideation.
 
-Management Course:
-The patient's immediate treatment entailed securing an adequate airway followed by continuous supplemental oxygen via nasal cannula at 2 liters/minute to maintain oxygen saturation above 95%. She received tetanus prophylaxis given no prior immunization record available and was started on broad-spectrum intravenous antibiotics to prevent infection in light of the burn wounds.
+Mrs. Turner's mental state deteriorated rapidly during the early phase of recovery from burns due to emotional trauma resulting from witnessing multiple family members succumb in the fire incident.
 
-Psychiatric Evaluation:
-A psychiatry consultation was requested soon after admission, and a comprehensive mental health evaluation confirmed the diagnosis of major depressive disorder with psychotic features. The patient had a known psychiatric history, including multiple previous suicide attempts documented. Consequently, she received both individual psychotherapy sessions and close monitoring by our psychiatric team throughout her hospital stay.
+Management Plan:
+Treatment for Mrs.Turner involved addressing both physical wound care and psychiatric needs simultaneously. Her burns were consistently attended by daily dressing changes along with topical antimicrobial therapy aimed at preventing infection in compromised tissues.
 
-Burn Wound Care:
-The patient underwent daily wound care involving sterile dressing changes under sterile conditions. These measures were performed meticulously to minimize the risk of contamination and to promote wound healing. Regular assessment for signs of infection such as increasing erythema or purulent discharge was undertaken during each dressing change, with swab cultures collected when indicated.
+Psychiatric treatment consisted primarily of psychotherapy sessions conducted weekly by an experienced psychologist who specialized in trauma intervention. Pharmacotherapy, including selective serotonin reuptake inhibitors (SSRIs) and atypical antipsychotics, was initiated to manage her depressive symptoms and psychosis.
 
-Prognosis & Hospital Stay:
-Given physical injuries and accompanying significant depressive symptoms
+While Mrs. Turner's physical recovery progressed steadily with wound healing and rehabilitation exercises, her mental health required intensive interventions to prevent further psychological deterioration.
+
+Outcome:
+After a lengthy hospital stay accompanied by intensive psychiatric interventions, Mrs. Turner made significant progress in regaining both physical and mental well-being. Her depressive symptoms improved considerably over time with pharmacotherapy combined with psychotherapy sessions focused on emotional processing, coping skills development, and relapse prevention.
+
+At the time of discharge, her burns had healed sufficiently for outpatient care management under the guidance of plastic surgeons specializing in reconstructive surgery for burn patients.
+
+Conclusion:
+This case illustrates the complex relationship between physical injuries and mental health in burn patients. The importance of integrated medical care involving a multidisciplinary team cannot be underestimated when managing individuals facing such significant challenges. By addressing not only the visible wounds but also providing comprehensive psychiatric support throughout treatment, healthcare providers can significantly contribute to optimal patient outcomes while enhancing their overall quality of life.

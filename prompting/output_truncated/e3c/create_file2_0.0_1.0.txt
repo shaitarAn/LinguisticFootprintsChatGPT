@@ -1,17 +1,23 @@
-A 42-year-old male accountant, Mr. Johnson, presented to our facility with a chief complaint of persistent abdominal pain for the past 2 months. The pain was located in the epigastric region and had a gradual onset. Mr. Johnson described the pain as dull and constant, which had progressively worsened over time. He also reported occasional radiation of the pain to his chest.
+A 42-year-old male construction worker, gravida 0 para 0, presented to our facility with a chief complaint of epigastric abdominal pain. The pain had been bothering him for the past four months and was described as gradual in onset, dull, and persistent. Over time, the pain had progressively worsened without any identifiable relieving or aggravating factors. He also reported occasional radiation of the pain to his chest.
 
-In addition to the abdominal discomfort, Mr. Johnson mentioned experiencing significant weight loss over the past few months without any associated symptoms such as early satiety, jaundice, fever, itchiness or spontaneous bleeding episodes. He denied any history of blood transfusion and reported being compliant with his routine hematinic supplements prescribed by his primary care physician.
+The patient mentioned that he had experienced significant weight loss over the past few months but denied any associated symptoms such as early satiety, jaundice, fever, itchiness or spontaneous bleeding. He had no history of blood transfusion and was not taking any medications regularly.
 
-Upon further inquiry into his medical history, it was revealed that Mr. Johnson had no known allergies or chronic illnesses but did have a family history of gastric cancer in his paternal grandmother.
+Upon further inquiry into his medical history, it was revealed that he had a family history of gastric cancer in his paternal grandmother who passed away from the disease at an advanced age. This information raised concerns about potential genetic predisposition.
 
-Physical examination findings were unremarkable except for mild tenderness on palpation in the epigastric region without any signs of peritonitis or organomegaly.
+Physical examination findings were unremarkable except for mild tenderness on palpation over the epigastric region. Laboratory investigations showed no abnormalities in liver function tests or complete blood count; however, a fecal occult blood test came back positive.
 
-Given these clinical findings and considering Mr. Johnson's age and risk factors including persistent abdominal pain with radiation to the chest along with significant weight loss but absence of other alarming symptoms like jaundice or early satiety; further investigations were warranted.
+Given these clinical findings and risk factors for gastric cancer (including age above 40 years old and family history), further diagnostic workup was initiated. An upper gastrointestinal endoscopy was performed which revealed an ulcerated mass located in the lesser curvature of the stomach measuring approximately 4 cm in diameter.
 
-Laboratory investigations including complete blood count (CBC), liver function tests (LFTs), renal function tests (RFTs), amylase levels, and tumor markers such as carcinoembryonic antigen (CEA) were ordered to assess for any underlying pathology contributing to his symptoms.
+Biopsy samples were obtained during endoscopy and sent for histopathological examination which confirmed adenocarcinoma of the stomach. Staging investigations including computed tomography (CT) scan of abdomen and pelvis were subsequently performed to assess tumor extent and rule out metastasis.
 
-Imaging studies such as an upper gastrointestinal endoscopy or computed tomography (CT) scan may be considered based on initial laboratory results to evaluate for possible causes like peptic ulcer disease, gastritis or even malignancy given family history.
+The CT scan showed no evidence of distant metastasis; however, it did reveal regional lymph node involvement adjacent to the primary tumor site. Based on these findings, the patient was diagnosed with stage II gastric cancer.
 
-Mr. Johnson was advised about these investigations and the need for follow-up appointments to discuss the results and further management options. He was also counseled about lifestyle modifications including dietary changes, stress reduction techniques, and regular exercise.
+A multidisciplinary team consisting of surgeons, medical oncologists, and radiation oncologists discussed the case and recommended a treatment plan. Given the early stage of the disease, surgical resection was considered as the primary treatment modality. The patient underwent a subtotal gastrectomy with lymph node dissection.
 
-In conclusion, Mr. Johnson, a 42-year-old male accountant with persistent epigastric abdominal pain, weight loss, and radiation of pain to the chest presented to our facility. Given his clinical presentation and risk factors such as family history of gastric cancer, further investigations were initiated to determine the underlying cause of his symptoms.
+Postoperatively, he recovered well without any major complications. Histopathological examination of the resected specimen confirmed complete tumor removal with clear margins and negative lymph nodes. The final pathological staging was pT2N0M0 (stage IB).
+
+Following surgery, adjuvant chemotherapy was initiated to reduce the risk of recurrence. The patient tolerated chemotherapy well without significant side effects and completed six cycles as planned.
+
+Regular follow-up visits were scheduled to monitor for any signs of recurrence or treatment-related complications. The patient also received nutritional counseling to manage potential long-term consequences of gastrectomy on his dietary intake.
+
+In conclusion, this case highlights a 42-year-old male construction worker who presented with chronic epigastric pain and weight loss. Through appropriate diagnostic investigations, he was diagnosed with early-stage gastric cancer and successfully treated with surgical resection followed by adjuvant chemotherapy. Early detection and prompt management played a crucial role in achieving favorable outcomes for this patient.

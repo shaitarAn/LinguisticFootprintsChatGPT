@@ -1,15 +1,17 @@
-Der Text beschreibt verschiedene Urinmarker, die bei der Diagnose und Nachsorge von Blasenkarzinomen eingesetzt werden können. Die Marker NMP22, BTA Stat, BTA TRAK, UBC Rapid®, BLCA-4 Assay, CYFRA 21-1, soluble Fas (sFas), Telomerase, MCM Proteine, Mikro-RNA und MessengerRNA werden genannt.
+Die Leitlinien enthalten eine Zusammenfassung verschiedener diagnostischer Tests, die zur Erkennung von Blasenkarzinomen eingesetzt werden können. Einige dieser Tests basieren auf dem Nachweis spezifischer Proteine oder RNA-Fragmente im Urin, die mit malignen Urothelzellen assoziiert sind.
 
-NMP22 ist ein Protein, das vermehrt in malignen Urothelzellen vorkommt und im Urin von Patienten mit Blasenkarzinom erhöht ausgeschieden wird. Ein Test basiert auf dem Nachweis von apoptotischen Zellbestandteilen im Urin. Dieser Test ist zwar unspezifisch für ein Urothelkarzinom, aber bei der Nachsorge beim nicht-muskelinvasiven Blasenkarzinom (NMIBC) zugelassen. Die Sensitivität des quantitativen NMP22-Tests korreliert mit der Anzahl der Tumore.
+Das Protein NMP22 kommt in malignen Urothelzellen häufiger vor als in normalen Urothelzellen. Daher scheiden Patienten mit Blasenkarzinom vermehrt NMP22 im Urin aus. Es gibt zwei Arten von NMP22-Tests: den quantitativen und den unspezifischen Test für apoptotische Zellbestandteile im Urin. Beide Tests sind von der FDA für die Nachsorge bei nicht-muskelinvasiven Blasentumoren zugelassen.
 
-Die BTA Tests basieren auf dem Nachweis des Proteins human complement factor H-related protein (hCFHrp). Sie sind Zusatzverfahren zur Zystoskopie bei der Primärdiagnostik zugelassen. Der BTA Stat Test ist kostengünstig und zeitsparend. Der BTA TRAK Test hingegen ist arbeitsintensiver. Beide Tests haben ähnliche Sensitivitäten wie die Urinzytologie.
+In verschiedenen Studien wurde festgestellt, dass der quantitative NMP22-Test korreliert mit der Größe und Anzahl der Tumore ist. Die Sensitivität des quantitativen Tests war höher bei mehreren Tumoren im Vergleich zu einzelnen Tumoren.
 
-Der Urinary Bladder Cancer Antigen (Rapid) Test weist Fragmente bestimmter Zytokeratine nach und kann zur Diagnose von Blasentumoren eingesetzt werden.
+Es wurden auch andere Tests wie der BTA Stat und BTA TRAK beschrieben, die das Protein human complement factor H-related protein (hCFHrp) nachweisen können. Diese Tests wurden als Zusatzverfahren zur Zystoskopie bei der Primärdiagnose zugelassen. Die Sensitivitäten dieser Tests waren ähnlich denen der Urinzytologie.
 
-Survivin ist ein Protein, das vermehrt von Blasentumoren produziert wird. Ein Nachweis kann mittels eines kommerziellen Bio-dot Assays oder durch den Nachweis von mRNA erfolgen. Der Survivin-Test hat eine höhere Sensitivität als der NMP22-Test und die Urinzytologie.
+Weitere Marker wie Survivin, CYFRA 21-1, soluble Fas (sFas), Telomerase und MCM-Proteine wurden ebenfalls untersucht. Für einige dieser Marker wurden hohe Sensitivitäten berichtet, jedoch sind weitere Studien erforderlich, um ihre klinische Anwendung zu bewerten.
 
-Weitere Marker wie FGFR3, CK19 Fragmente, sFas, Telomerase und MCM Proteine können ebenfalls bei der Diagnose von Blasenkarzinomen eingesetzt werden. Jedoch ist die Datenlage für eine Bewertung noch unzureichend.
+Es wurden auch Untersuchungen von Markerpanels beschrieben, bei denen mehrere Urinmarker kombiniert wurden, um die diagnostische Genauigkeit zu verbessern. Allerdings ergab sich keine wesentliche Verbesserung der prädiktiven Aussage durch die Kombination von Urinmarkern.
 
-Markerpanels aus verschiedenen Urinmarkern wurden untersucht, um geeignete Kombinationen für die Diagnose zu finden. Eine Kombination aus NMP22/EGFR oder BTA/CEA zeigte in einer Studie hohe Sensitivität und Spezifität bei Hochrisikopatienten.
+Die Leitlinien weisen darauf hin, dass viele der beschriebenen Tests eine hohe falsch-positive Rate aufweisen können und dass es eine große Variabilität in den Testergebnissen gibt. Die Spezifität einiger Tests kann erhöht werden, wenn klinische Zustände wie Steine, Infektionen oder Entzündungen ausgeschlossen werden.
 
-Es wird auch erwähnt, dass verschiedene klinische Parameter wie Alter und Geschlecht zur Verbesserung der urinbasierten Diagnostik beitragen können.
+Die Qualität der publizierten Evidenz für viele der beschriebenen Tests ist gering und weitere Studien sind erforderlich, um ihre Wirksamkeit und Zuverlässigkeit zu bestätigen.
+
+Insgesamt bieten die Leitlinien einen Überblick über verschiedene diagnostische Tests für Blasenkarzinome. Es wird deutlich gemacht, dass kein einzelner Test eine ausreichende Genauigkeit bietet und dass in vielen Fällen eine Kombination mehrerer Tests oder ein Markerpanel erforderlich sein kann.

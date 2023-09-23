@@ -1,17 +1,25 @@
-This clinical case describes a patient diagnosed with schizophrenia type ICD 10 F20.3 who was treated with Haloperidol and Diazepam for their psychiatric symptoms. The patient exhibited rebellious and self-destructive behavior, requiring occasional restraint. However, the focus of this case is on the nutrition management of the patient.
+This clinical case involves a patient diagnosed with schizophrenia type ICD 10 F20.3, who was treated with Haloperidol and Diazepam. The patient exhibited rebellious and self-destructive behavior, leading to occasional restraint. However, the focus of this explanation will be on the patient's nutrition management.
 
-The initial nutrition assessment revealed that the patient was underweight, with a BMI of 17.57 kg/m2. The patient's weight loss was attributed to refusal of food, as reported by their mother. The patient only consumed cigarettes and coffee.
+The initial assessment revealed that the patient had a BMI of 17.57 kg/m2, which falls under the category of underweight. It was noted that the patient had lost weight recently according to his mother's claim, as he refused any food offered to him and relied solely on smoking and drinking coffee for sustenance.
 
-Based on the subjective global assessment (SGA) tool, the patient was classified as severely malnourished (group C). To address this, energy and protein supplementation were initiated gradually, starting from 30 kcal/kg and increasing to 50 kcal/kg. Oral nutrition and oral nutrition supplements (ONS) were given in a 50:50 ratio.
+Further examination showed that there were no gastrointestinal symptoms or signs present in the patient. However, imbalanced electrolyte levels were detected along with an albumin level of 3.6 gr/L indicating potential malnutrition.
 
-Micronutrient supplementation included vitamin A (100,000 units for the first week), vitamin C (100 mg three times a day), and zinc (20 mg once a day).
+To assess the severity of malnutrition objectively, a subjective global assessment (SGA) tool was used which categorized the patient as severely malnourished (group C). Based on this assessment, a nutrition management plan was initiated.
 
-Despite these interventions, the patient continued to lose weight during early hospitalization weeks. On day 28, body weight dropped to 36 kilograms with serum albumin level at 2.7 gr/L; on day 42 it further declined to 32 kilograms with serum albumin level at 2 gr/L.
+Energy and protein supplementation were started at 30 kcal/kg gradually increasing to 50 kcal/kg while protein intake began at 2 g/kg divided between oral nutrition and oral nutrition supplements (ONS) in a ratio of 50:50. Micronutrient supplementation consisting of vitamin A (100,000 units), vitamin C (100 mg three times daily), and zinc (20 mg once daily) were also provided.
 
-Due to ongoing weight loss and complications such as poor appetite, pain writhing episodes, aggression, difficulty with enteral access for feeding tube placement or administration of medications like analgesics or sedatives; partially parenteral nutrition (PN) enriched with branched-chain amino acids (BCAA) was administered to support protein needs.
+Despite these interventions, during early weeks in hospitalization weight loss continued with body weight dropping from an initial measurement of 40 kilograms to just 36 kilograms by week two. Additionally, serum albumin levels decreased from an already suboptimal level to only 2.7 gr/L by day twenty-eight.
 
-By day 66 of hospitalization granulation tissues appeared on wound bed indicating some healing progress but considering mental health status along with persistent nutritional challenges including severe muscle wasting and subcutaneous fat loss, the decision was made not to proceed with skin graft surgery.
+By day forty-two, partial parenteral nutrition enriched with branched-chain amino acids (BCAA) was administered due to the patient's continued weight loss and declining BMI. However, despite these efforts, the patient's condition did not improve significantly.
 
-At discharge, the patient had lost 24% of body weight (BMI 11.96 kg/m2) and had a serum albumin level of 2.5 gr/L. Despite these physical challenges, there was some improvement in the general and mental condition of the patient.
+On day sixty-six, granulation tissues appeared on the wound bed raising concerns about the possibility of infection and further complications. Taking into consideration both mental and nutritional status, it was decided not to continue with a skin graft surgery. At this point, the patient had lost 24% of body weight resulting in a BMI of 11.96 kg/m2.
 
-It's important to note that this case highlights the complex interplay between mental health disorders such as schizophrenia and nutritional status, as well as challenges in managing patients with severe malnutrition who are uncooperative or non-responsive to conventional interventions.
+Despite significant weight loss and severe muscle wasting along with subcutaneous fat loss, there was an improvement in general mental condition observed in the patient. Hence, after thorough evaluation, it was deemed appropriate for the patient to be discharged from the hospital at this stage.
+
+In conclusion, this clinical case highlights several challenges faced during nutrition management in a severely malnourished psychiatric patient with schizophrenia type ICD 10 F20.3. Despite attempts to provide adequate energy and protein supplementation through oral intake and ONS administration while also addressing micronutrient deficiencies using various supplements such as vitamins A and C along with zinc; insufficient response was observed leading to continued weight loss and declining albumin levels.
+
+The difficulties experienced by healthcare providers were compounded by factors such as an unstable appetite exhibited by the patient as well as their non-cooperation during enteral access procedures which resulted in pain and increased aggression.
+
+Efforts were made to support protein needs through partial parenteral nutrition enriched with BCAA but unfortunately failed to achieve desired outcomes prompting decisions like discontinuing skin graft surgery due to poor overall health status.
+
+This case underscores how complex managing malnutrition can be when dealing

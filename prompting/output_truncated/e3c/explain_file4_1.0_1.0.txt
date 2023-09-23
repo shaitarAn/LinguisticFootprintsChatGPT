@@ -1,25 +1,21 @@
-Clinical Case 1:
-In this case, a baby was born with a large defect on the scalp, known as aplasia cutis congenita. The defect measured 10 x 8 cm in the midline and 6 x 6 cm in the occipital region. The baby also had low set ears, irritability, tense anterior fontanelle (soft spot on the head), and respiratory distress. A diagnosis of aplasia cutis congenita with possible meningitis was made.
+In both clinical cases, the babies presented with a condition called aplasia cutis congenita, which is characterized by the absence of skin in certain areas at birth. The first case involved a baby whose parents had no history of congenital anomalies and had a normal extended family. Upon physical examination, it was found that the baby had a large defect on the vertex of the scalp bilaterally extending to the occipital region. The defect was covered by a yellow membrane and the baby also exhibited low set ears, respiratory distress, and an irritable demeanor. A diagnosis of aplasia cutis congenita with possible meningitis was made.
 
-The baby received routine care including oxygen, intravenous fluids, antibiotics for meningitis, and wound dressings. The multidisciplinary team consisting of neurosurgeons and plastic surgeons were involved in the management.
+Treatment for this baby included routine care according to protocol: oxygen therapy, intravenous fluids, antibiotics at meningitis doses, and dressing with sofra-tulle and normal saline soaked gauze. The respiratory distress improved over time and oral feeds were started and tolerated well. A multidisciplinary team including neurosurgeons and plastic surgeons managed the case.
 
-A brain magnetic resonance imaging (MRI) showed that there was absence of parietal bone towards the vertex bilaterally extending from 2 cm behind the anterior fontanelle down to the posterior fontanelle. The brain in this region was covered by dural meninges. However, other parts of the skull were spared and brain structures appeared normal.
+A brain magnetic resonance imaging (MRI) revealed that there was absent parietal bone in both sides extending from behind the anterior fontanelle down to posterior fontanelle. However, dural meninges overlayed this area instead of subcutaneous scalp tissues. The rest of the cranial vault bones were spared and there were no abnormalities seen in brain structures or mass collections.
 
-Plans were made for future intervention which involved raising a flap cover for autologous skin grafting.
+The conclusion confirmed features consistent with aplasia cutis congenita, leading to plans for future intervention such as raising a flap cover for autologous skin grafting.
 
-The baby was discharged after 18 days with oral antibiotics and daily wound dressing for follow-up at specialty clinics.
+In contrast, in Case 2, another baby presented with absence of part of the skull bone noticed immediately after birth but without overt trauma during delivery or other significant medical history. This baby belonged to parents who did not have gainful employment but did not have any known family history of congenital anomalies either.
 
-Clinical Case 2:
-In this case, a newborn baby was found to have a part of their skull bone missing at birth. There were no overt traumatic events during delivery or any history of exposure to harmful factors during pregnancy.
+Clinical findings included an ill patient who showed signs such as fever cyanosis (bluish discoloration of the skin), hypertonic (increased muscle tone), desquamating skin (skin peeling off), hypoplastic finger and toe nails, dilated abdominal wall veins, and a systolic cardiac murmur. A working diagnosis of multiple congenital anomalies including aplasia cutis congenita, ventricular septal defect (a type of congenital heart disease), and meningitis was made.
 
-The baby presented with various clinical findings including fever, cyanosis (bluish discoloration), hypertonicity (increased muscle tone), subcutaneous tissue defect on scalp extending from frontal to occipital area with leakage of cerebrospinal fluid (CSF). Additionally, there were skin desquamation (peeling skin), hypoplastic finger and toe nails, dilated abdominal wall veins as well as a heart murmur.
+Unfortunately, further diagnostic tests like brain MRI, echocardiography, and chromosomal studies could not be performed due to financial constraints. However, a sepsis screen yielded positive results for Providencia species and E. coli in the blood and cerebrospinal fluid.
 
-A working diagnosis of multiple congenital anomalies was made, including congenital cutis aplasia (missing skull bone) and ventricular septal defect (a hole in the heart wall). Meningitis was also suspected.
+Treatment for this baby involved parenteral antibiotics administration along with daily wound cleaning and dressing with betadine. Complications such as cerebrospinal fluid leakage and meningitis were managed over time.
 
-Bacterial cultures from blood and CSF revealed Providencia species and E. coli respectively, indicating an infection. Due to financial constraints, additional tests such as brain MRI, echocardiography, and chromosomal studies could not be done.
+Future plans for intervention in the form of mesh cover using prolene or titanium mesh along with latissimus dorsi musculocutaneous flap were made by the burns and plastic unit. The baby was discharged at parents' request after 35 days but unfortunately died 7 days post-discharge.
 
-The baby received treatment with antibiotics and wound care for the scalp defect. Complications such as CSF leakage and meningitis occurred but resolved over time.
+Aplasia cutis congenita can have various causes including genetic factors or conditions during pregnancy such as trauma or medication exposure. In these two cases, the cause is not clear as no specific risk factors were identified in either set of parents.
 
-Plans were made for surgical intervention including prolene mesh/titanium mesh placement and latissimus dorsi musculocutaneous flap cover.
-
-The baby was discharged upon parents' request after 35 days of admission but unfortunately died 7 days later.
+It's important to note that aplasia cutis congenita can lead to significant challenges depending on its severity, particularly when there are associated complications like infection or organ involvement. In both cases described here, multidisciplinary healthcare teams worked together to manage

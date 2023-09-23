@@ -3,22 +3,28 @@ Klinischer Fall: Präoperative biliäre Drainage bei einem Patienten mit hiläre
 Patient: Herr Müller, 62 Jahre alt, männlich
 
 Anamnese:
-Herr Müller wurde vor zwei Monaten mit Symptomen wie Ikterus, Gewichtsverlust und Müdigkeit in unsere Klinik eingewiesen. Eine umfassende Diagnostik ergab eine Verengung der Gallenwege im Bereich des Hilus, die auf ein hiläres Cholangiokarzinom hinwies. Eine CT-Untersuchung bestätigte den Verdacht und zeigte eine Tumorinfiltration der Gallenwege ohne Hinweise auf Fernmetastasen. Der allgemeine Gesundheitszustand des Patienten ist gut, er hat keine relevanten Vorerkrankungen.
+Herr Müller wurde mit zunehmender Gelbsucht, Gewichtsverlust und allgemeiner Schwäche in unsere Klinik überwiesen. In der Anamnese berichtet er von einer langjährigen Hepatitis-C-Infektion, die vor einigen Jahren erfolgreich behandelt wurde. Er ist Nichtraucher und trinkt nur gelegentlich Alkohol. Es gibt keine familiäre Vorgeschichte von Lebererkrankungen oder Krebs.
 
-Diagnose:
-Hiläres Cholangiokarzinom ohne Fernmetastasen
+Klinische Untersuchung:
+Bei der körperlichen Untersuchung zeigt Herr Müller eine deutliche Ikterus-Färbung der Haut und Skleren. Der Bauch ist weich und nicht druckempfindlich. Es werden keine tastbaren Leber- oder Milzvergrößerungen festgestellt. Die übrige körperliche Untersuchung ist unauffällig.
 
-Therapieoptionen:
-Aufgrund der Tumorlokalisation und des Fehlens von Fernmetastasen ist eine kurativ intendierte Resektion die bevorzugte Behandlungsoption. Etwa 25% bis 35% der Patienten mit hilärem Cholangiokarzinom sind Kandidaten für eine präoperative biliäre Drainage (PBD). Die Entscheidung für eine PBD hängt von verschiedenen Faktoren ab, darunter die Möglichkeit einer kurativen Resektion und die Lokalisation des Gallenwegverschlusses.
+Diagnostik:
+Die Laboruntersuchungen zeigen erhöhte Leberenzyme (ALT, AST, GGT) sowie eine erhöhte Bilirubinkonzentration. Der Tumormarker CA 19-9 ist ebenfalls erhöht. Ein Ultraschall des Abdomens zeigt eine Dilatation der intrahepatischen Gallengänge und des extrahepatischen Gallengangsystems. Eine anschließende MRCP (Magnetresonanz-Cholangiopankreatikographie) bestätigt die Diagnose eines hilären Cholangiokarzinoms.
 
 Behandlungsentscheidung:
-Nach einer ausführlichen Diskussion der Therapieoptionen mit Herrn Müller und unter Berücksichtigung der aktuellen Leitlinienempfehlungen haben wir uns für eine präoperative biliäre Drainage entschieden. Die PBD soll dazu dienen, den Gallenwegverschluss zu entlasten und die Symptome des Patienten zu lindern, um eine kurative Resektion zu ermöglichen.
+Aufgrund der Diagnose eines hilären Cholangiokarzinoms wird eine kurativ intendierte Resektion angestrebt. Da der Tumor jedoch den Gallengang komplett verschließt und eine ausreichende Drainage vor der Operation notwendig ist, wird eine präoperative biliäre Drainage (PBD) in Erwägung gezogen.
 
-Durchführung der präoperativen biliären Drainage:
-Die präoperative biliäre Drainage wird transhepatisch durchgeführt. Unter radiologischer Kontrolle wird eine perkutane Punktion der Gallenwege vorgenommen und ein Drainageschlauch eingelegt. Dieser ermöglicht den Abfluss der Gallenflüssigkeit und entlastet somit den Gallenwegverschluss. Die Drainage wird für eine Woche belassen, um eine ausreichende Entlastung zu gewährleisten.
+Behandlungsstrategie:
+Aufgrund der Lokalisation des Gallenwegverschlusses im hilären Bereich wird eine perkutan-transhepatische biliäre Drainage (PTBD) als Zugangsweg gewählt. Unter radiologischer Kontrolle wird eine Drainage in den Gallengang eingebracht, um den Gallenfluss wiederherzustellen und die Symptome des Gallenstaus zu lindern. Die Drainage wird mit einem externen Beutel verbunden, um den abfließenden Gallenfluss zu kontrollieren und zu überwachen.
 
 Verlauf:
-Herr Müller tolerierte die präoperative biliäre Drainage gut und konnte nach einer Woche entlassen werden. Während dieser Zeit verbesserten sich seine Symptome deutlich, der Ikterus verschwand und er konnte wieder normal essen und trinken. Eine erneute CT-Untersuchung zeigte eine deutliche Reduktion der Tumorgröße und eine bessere Darstellung der Gallenwege.
+Nach der PTBD zeigt Herr Müller eine deutliche Verbesserung seiner Symptome. Die Gelbsucht lässt nach, sein Allgemeinzustand verbessert sich und er nimmt wieder an Gewicht zu. Die Leberenzyme normalisieren sich allmählich. Nach einer Woche wird eine erneute MRCP durchgeführt, um den Erfolg der Drainage zu überprüfen. Es wird festgestellt, dass der Gallenfluss wiederhergestellt ist und der Tumor nicht weiter gewachsen ist.
 
-Geplante Operation:
-Aufgrund des guten Ansprechens auf die präoperative biliäre Drainage und der Verbesserung des Allgemeinzustands des Patienten ist eine kurative Resektion geplant. Die Operation wird in zwei Wochen durchgeführt und umfasst die Entfernung des Tumors
+Operation:
+Nach Abschluss der präoperativen biliären Drainage wird Herr Müller zur Operation zugelassen. Eine partielle hepatische Resektion mit Lymphadenektomie wird durchgeführt, um den Tumor zu entfernen. Die Operation verläuft komplikationslos, und der Tumor wird vollständig entfernt.
+
+Nachsorge:
+Herr Müller wird nach der Operation engmaschig nachuntersucht. Die histopathologische Untersuchung des entfernten Gewebes bestätigt die Diagnose eines hilären Cholangiokarzinoms. Aufgrund der frühen Diagnose und der kurativen Resektion besteht eine gute Prognose für Herrn Müller. Er wird in ein onkologisches Nachsorgeprogramm aufgenommen, das regelmäßige Kontrolluntersuchungen und eine engmaschige Überwachung beinhaltet.
+
+Fazit:
+Die präoperative biliäre Drainage ist eine wichtige Maßnahme bei Patienten mit hilärem Cholangiokarzinom, um den Gallenfluss vor der Operation wiederherzustellen und die Symptome des Gallenstaus zu lindern. Durch die erfolgreiche Drainage konnte Herr Müller einer kurativen Resektion unterzogen werden, was seine Prognose deutlich verbessert. Die enge Zusammenarbeit zwischen Radiologen, Chirurgen und Onkologen ist entscheidend, um die bestmögliche Behandlung für Patienten mit biliären Karzinomen zu gewährleisten.

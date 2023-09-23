@@ -1,11 +1,31 @@
 1. Introduction
 
-Venous thromboembolism (VTE) is a significant cause of morbidity and mortality among patients with end-stage renal disease (ESRD) requiring hemodialysis. Thrombosis of arteriovenous grafts (AVGs) and fistulas (AVFs), which are essential for providing vascular access during hemodialysis, can lead to devastating complications such as delayed or missed dialysis sessions, increased healthcare costs, and even access abandonment requiring the placement of dialysis catheters. 
+Thrombosis of arteriovenous grafts (AVGs) and fistulas (AVFs) is a common complication in patients with end-stage renal disease (ESRD) who rely on hemodialysis for their survival. This critical issue has significant implications for patient outcomes, as thrombosed AV access can lead to delayed or missed hemodialysis sessions, necessitating the placement of temporary dialysis catheters. The establishment and maintenance of functional AV access is vital in ensuring adequate delivery of hemodialysis therapy, reducing morbidity and mortality rates associated with ESRD.
 
-While surgical interventions were traditionally employed for treating thrombosed AV access, the endovascular approach has emerged as the preferred treatment option in recent years due to its minimally invasive nature and promising outcomes. Endovascular techniques encompass both thrombolysis, which involves using infusion catheters or pulse injector devices for administering fibrinolytic agents to dissolve the clot, as well as thrombectomy, which entails mechanical removal of the thrombus using embolectomy balloon catheters, rotating baskets or wires, rheolytic and aspiration mechanisms.
+Currently, the endovascular approach has emerged as the preferred treatment modality over surgical intervention for thrombosed AV access in ESRD patients. Endovascular techniques involve the removal of thrombus from the AV circuit while addressing any underlying anatomical abnormalities that may contribute to thrombosis, such as anastomotic stenosis. This comprehensive narrative review aims to explore current practices and outcomes associated with endovascular thrombectomy techniques in managing thrombosed AVGs and AVFs.
 
-Although previous studies have highlighted the efficacy and safety of endovascular approaches in managing thrombosed AV access among patients with ESRD, there remains a need to explore specific aspects related to these techniques that may further enhance their utility while mitigating associated complications. One area that requires further investigation is identifying an optimal approach for maintaining long-term access patency following successful intervention.
+2. Research Question
 
-Therefore, this paper aims to review current practices and outcomes in endovascular thrombectomy techniques specifically related to achieving long-term access maintenance in patients with ESRD who have experienced clotting events within their AVGs or AVFs. By systematically examining relevant literature from electronic databases such as PubMed and Google Scholar, this narrative review article seeks to provide an updated understanding of available methods while highlighting potential complications associated with these procedures.
+This paper seeks to address a specific research question concerning endovascular approaches for maintaining access patency in patients with end-stage renal disease:
 
-The findings from this study will contribute valuable insights into optimizing management strategies for thrombosed AV access in the ESRD population, ultimately improving patient outcomes and reducing the burden on healthcare systems. Additionally, this research will lay the foundation for future investigations by identifying gaps in knowledge and potential avenues for further exploration.
+What are the efficacy and safety outcomes associated with various endovascular thrombectomy techniques used to treat thrombosed arteriovenous grafts (AVGs) and fistulas (AVFs) among individuals with end-stage renal disease?
+
+3. Importance of Research
+
+The successful management of vascular access complications is crucial for improving quality-of-life measures among individuals requiring regular hemodialysis therapy due to ESRD. Thrombotic events within AVGs or AVFs can significantly impact patient care by causing delays or interruptions in dialysis sessions, leading to suboptimal dialytic clearance rates.
+
+Endovascular interventions have gained popularity due to their minimally invasive nature, improved technical success rates, and reduced associated morbidity compared to surgical alternatives. By systematically reviewing the existing literature on endovascular thrombectomy techniques, this study aims to provide important insights into the efficacy and safety outcomes associated with these procedures.
+
+4. Methodology
+
+This narrative review article was conducted using a comprehensive literature search from electronic databases such as PubMed and Google Scholar. The search strategy included relevant keywords such as "thrombectomy," "endovascular access maintenance," "arteriovenous grafts," "fistulas," and "end-stage renal disease." Only articles published in English between 2000 and 2021 were considered for inclusion.
+
+5. Structure of the Paper
+
+The paper is structured as follows: after this introduction section, we will proceed with a review of current practices in managing thrombosed AVGs and AVFs using endovascular techniques. The subsequent section will focus on detailing the various thrombectomy approaches employed, including thrombolysis (infusion catheters or pulse injector devices), mechanical removal methods (embolectomy balloon catheters, rotating baskets or wires, rheolytic mechanisms), and adjunctive interventions (cutting balloon angioplasty, drug-coated balloon angioplasty, stent placement). We will then discuss the potential complications associated with these procedures.
+
+Lastly, we will synthesize available evidence from published studies to evaluate efficacy outcomes such as primary patency rates post-thrombectomy intervention and secondary endpoints like access survival rates at defined time intervals. Safety outcomes including procedural complications (vessel rupture, arterial embolism) and systemic events (pulmonary embolism [PE], paradoxical embolism to the brain) will also be examined.
+
+6. Conclusion
+
+In conclusion, understanding different endovascular thrombectomy techniques used in maintaining access patency among patients with ESRD is vital for optimizing patient care outcomes while minimizing associated risks. This comprehensive narrative review aims to consolidate current knowledge on the efficacy and safety outcomes of various endovascular approaches used in managing thrombosed AVGs and AVFs. By synthesizing existing evidence, this study will contribute to the existing literature and inform clinicians regarding the most effective strategies for maintaining access patency in this population.

@@ -1,27 +1,37 @@
-Klinischer Fall: Postoperative Strahlentherapie bei einem Weichgewebesarkom
+Patientenfall: Postoperative Strahlentherapie bei einem Weichgewebesarkom
 
 Patient:
-Herr Müller, 55 Jahre alt, ohne relevante Vorerkrankungen
+Herr Müller, 55 Jahre alt, präsentiert sich in der onkologischen Ambulanz mit Beschwerden im linken Oberschenkel. Er berichtet über seit einigen Monaten bestehende Schmerzen und eine zunehmende Schwellung im Bereich des Oberschenkels. Die Schmerzen haben in den letzten Wochen zugenommen und beeinträchtigen seine Mobilität.
 
 Anamnese:
-Herr Müller stellt sich mit Schmerzen und einer tastbaren Raumforderung im linken Oberschenkel vor. Die Beschwerden bestehen seit etwa drei Monaten und haben sich in den letzten Wochen verschlimmert. Er berichtet von einer allgemeinen Abgeschlagenheit und Gewichtsverlust in den letzten Monaten.
+Herr Müller ist Nichtraucher und hat keine relevanten Vorerkrankungen. Er arbeitet als Büroangestellter und führt eine eher sedentäre Lebensweise. Es gibt keine familiäre Vorbelastung für Krebserkrankungen.
 
-Untersuchungsbefund:
-Bei der körperlichen Untersuchung wird eine schmerzhafte, gut abgrenzbare Raumforderung im linken Oberschenkel festgestellt. Die Haut über der Läsion ist nicht verändert. Es sind keine Lymphknotenvergrößerungen palpabel.
+Klinische Untersuchung:
+Bei der körperlichen Untersuchung fällt eine deutliche Schwellung im linken Oberschenkel auf. Der Tumor ist gut abgrenzbar, fest und schmerzhaft bei Palpation. Die Haut über dem Tumor zeigt keine Veränderungen oder Ulzerationen.
 
-Diagnosestellung:
-Eine MRT-Untersuchung des linken Oberschenkels zeigt eine große, heterogene Raumforderung im Bereich des Musculus quadriceps femoris mit Infiltration des umgebenden Weichgewebes. Eine Biopsie wird durchgeführt und das histologische Ergebnis ergibt ein hochgradiges Weichgewebesarkom (G3).
+Diagnostik:
+Eine MRT-Untersuchung des linken Oberschenkels wird durchgeführt, um die Ausdehnung des Tumors zu beurteilen. Das MRT zeigt einen etwa 8 cm großen Weichgewebstumor im Bereich des Quadrizepsmuskels ohne Hinweise auf Knocheninfiltration oder Lymphknotenmetastasierung.
+
+Histopathologie:
+Eine Biopsie wird durchgeführt und das Gewebe histopathologisch untersucht. Das Ergebnis lautet: hochdifferenzierter Liposarkom (G2).
+
+Stadieneinteilung:
+Eine CT-Untersuchung des Thorax, Abdomens und Beckens wird durchgeführt, um das Ausmaß der Erkrankung zu bestimmen. Es werden keine Hinweise auf Fernmetastasen gefunden. Die Erkrankung wird als Stadium II klassifiziert.
 
 Therapieentscheidung:
-Aufgrund der Diagnose eines hochgradigen Weichgewebesarkoms entscheidet das interdisziplinäre Tumorboard die Durchführung einer radikalen Resektion der Tumormasse unter Berücksichtigung eines ausreichenden Sicherheitsabstands (R0-Resektion). Aufgrund der hohen Rückfallrate bei dieser Art von Sarkomen wird zusätzlich eine postoperative Strahlentherapie empfohlen.
+Aufgrund der Größe des Tumors und des histopathologischen Befunds wird eine radikale Resektion empfohlen. Der Patient stimmt der Operation zu und es erfolgt eine vollständige Entfernung des Tumors mit einem Sicherheitsabstand von 2 cm (R0-Resektion).
 
-Behandlung:
-Herr Müller wird einer radikalen Resektion der Tumormasse unterzogen. Die Operation verläuft komplikationslos und es kann eine R0-Resektion erreicht werden. Aufgrund der vorliegenden Studiendaten wird Herr Müller im Anschluss an die Operation einer postoperativen Strahlentherapie unterzogen.
+Postoperative Strahlentherapie:
+Gemäß den aktuellen Leitlinien für Weichgewebesarkome wird dem Patienten eine adjuvante Strahlentherapie empfohlen, um das Risiko eines lokalen Rückfalls zu reduzieren. Aufgrund der randomisierten Studien von Yang et al. [REF] und Pisters et al. [REF] wird eine perkutane Strahlentherapie mit einer Gesamtdosis von 45 Gy in Einzeldosen von 1,8 Gy sowie ein Boost mit einer Gesamtdosis von 18 Gy in Einzeldosen von 1,8 Gy empfohlen.
 
-Die Strahlentherapie erfolgt perkutan mit einer Gesamtdosis von 45 Gy in Einzeldosen von 1,8 Gy. Zusätzlich wird ein Boost von 18 Gy in Einzeldosen von 1,8 Gy auf das Operationsgebiet appliziert. Die Behandlung erfolgt über einen Zeitraum von sechs Wochen.
+Der Patient erhält ausführliche Informationen über die möglichen Nebenwirkungen und Vorteile der Strahlentherapie sowie über alternative Behandlungsoptionen wie die adjuvante Brachytherapie.
 
-Verlaufskontrollen:
-Herr Müller wird regelmäßig nachbeobachtet, um mögliche Nebenwirkungen der Strahlentherapie zu erfassen und den Verlauf des Sarkoms zu kontrollieren. Nach Abschluss der Therapie zeigt sich eine gute Wundheilung ohne Hinweise auf lokale Rezidive oder Fernmetastasen.
+Nach sorgfältiger Beratung entscheidet sich Herr Müller für die perkutane Strahlentherapie aufgrund ihrer Wirksamkeit bei vergleichbaren Fällen in den randomisierten Studien. Er versteht, dass die Strahlentherapie das Risiko eines lokalen Rückfalls signifikant senken kann und ist bereit, mögliche Nebenwirkungen in Kauf zu nehmen.
+
+Verlauf:
+Herr Müller beginnt zwei Wochen nach der Operation mit der perkutanen Strahlentherapie. Die Behandlung erfolgt an fünf aufeinanderfolgenden Tagen pro Woche über einen Zeitraum von sechs Wochen. Während der Behandlung entwickelt er vorübergehende Hautrötungen und Müdigkeit, die jedoch gut toleriert werden.
+
+Nach Abschluss der Strahlentherapie wird Herr Müller regelmäßig zur Nachsorgeuntersuchung einbestellt. In den ersten beiden Jahren zeigt er keine Anzeichen eines lokalen Rückfalls oder einer Fernmetastasierung.
 
 Fazit:
-Die postoperative Strahlentherapie bei Weichgewebesarkomen hat sich in randomisierten Studien als effektive Methode zur Senkung der lokalen Rückfallrate erwiesen. Bei Herrn Müller konnte durch die Kombination aus radikaler Resektion und adjuvanter Strahlentherapie ein günstiger Verlauf erzielt werden, ohne dass es zu einem lokalen Rezidiv kam. Eine regelmäßige Nachsorge ist jedoch weiterhin erforderlich,
+Die adjuvante perkutane Strahlentherapie hat sich als wirksame Methode erwiesen, um das Risiko eines lokalen Rückfalls bei Patienten mit Weichgewebesarkomen nach radikaler Resektion zu reduzieren. Eine sorgfältige Beratung des Patienten über die Vor- und Nachteile sowie über alternative Behandlungsoptionen ist entscheidend für eine

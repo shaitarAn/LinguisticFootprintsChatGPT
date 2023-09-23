@@ -1,27 +1,36 @@
-Klinischer Fall: Pankreaskarzinom mit R1-Situation
+Klinischer Fall: Pankreaskarzinom
 
-Patient: Herr Müller, 65 Jahre alt, männlich
+Patient: Herr Müller, 62 Jahre alt, männlich
 
 Anamnese:
-Herr Müller stellt sich mit seit einigen Wochen bestehenden unspezifischen Oberbauchbeschwerden in unserer Klinik vor. Er berichtet über Gewichtsverlust, Appetitlosigkeit und gelegentliche Übelkeit. In der Familienanamnese ist kein erhöhtes Risiko für Pankreaskarzinome bekannt.
+Herr Müller stellt sich mit seit einigen Wochen bestehenden unspezifischen Oberbauchbeschwerden in unserer Klinik vor. Er berichtet über eine Gewichtsabnahme von etwa 5 kg in den letzten Monaten und gelegentliche Übelkeit. Es gibt keine Vorerkrankungen oder familiäre Belastungen für Pankreaserkrankungen.
 
-Untersuchungsbefunde:
-Bei der körperlichen Untersuchung zeigt sich eine leichte Druckempfindlichkeit im Oberbauch. Laboruntersuchungen ergeben keine auffälligen Befunde.
+Körperliche Untersuchung:
+Bei der körperlichen Untersuchung fällt eine leichte Druckempfindlichkeit im rechten Oberbauch auf. Der Allgemeinzustand des Patienten ist ansonsten unauffällig.
 
 Diagnostik:
-Eine abdominale Sonographie zeigt eine Raumforderung im Bereich des Pankreas. Zur weiteren Abklärung wird eine CT-Untersuchung des Abdomens durchgeführt, die einen Tumor im Kopf des Pankreas bestätigt. Eine endoskopische retrograde Cholangiopankreatikographie (ERCP) wird zur Darstellung der Gallenwege und zum Einsetzen eines Stents zur Entlastung durchgeführt.
+Eine Sonographie des Abdomens zeigt eine Raumforderung im Kopf des Pankreas mit Dilatation des Gallengangs. Eine anschließende CT-Untersuchung bestätigt den Verdacht auf ein Pankreaskarzinom ohne Hinweise auf Fernmetastasen.
 
-Therapie:
-Aufgrund der Lokalisation des Tumors wird eine Whipple-Operation geplant und erfolgreich durchgeführt. Das Resektat wird zur histopathologischen Aufarbeitung an das Pathologielabor übergeben.
+Therapieentscheidung:
+Aufgrund der Lokalisation und Ausdehnung der Tumorerkrankung wird eine Whipple-Operation zur Resektion des Tumors empfohlen. Der Patient stimmt dem Eingriff zu und wird umgehend stationär aufgenommen.
+
+Operation:
+Die Operation verläuft komplikationslos. Das Resektat wird zur histopathologischen Aufarbeitung an die Pathologie weitergeleitet.
 
 Histopathologische Aufarbeitung:
-Im Rahmen einer standardisierten histopathologischen Aufarbeitung werden die Resektionsgrenzen besonders beachtet und markiert, um mögliche R1-Situationen zu identifizieren. Der zirkumferentielle Resektionsrand setzt sich aus einem vorderen, medialen und posterioren Resektionsrand bzw. der entsprechenden Resektionsfläche zusammen. Zusätzlich wird die hintere Fläche des Prozessus uncinatus besonders aufgearbeitet.
+Im Rahmen einer standardisierten histopathologischen Aufarbeitung werden die Resektionsgrenzen besonders beachtet. In Kooperation mit dem operierenden Chirurgen werden die zirkumferentiellen Resektionsränder im makroskopischen Zuschnitt markiert. Es zeigt sich, dass der vordere und mediale Resektionsrand tumorfrei sind, während am posterioren Resektionsrand eine R1-Situation vorliegt. Die hintere Fläche des Prozessus uncinatus wird ebenfalls aufgearbeitet.
 
 Histopathologischer Befund:
-Die histopathologische Untersuchung des Resektats ergibt ein Pankreaskarzinom im Kopf des Pankreas mit einer Größe von 3 cm. Es handelt sich um einen duktalen Adenokarzinom-Typ gemäß der Klassifikation der Weltgesundheitsorganisation (WHO). Die Tumorinfiltration reicht bis an den zirkumferentiellen Resektionsrand heran, wobei eine R1-Situation vorliegt.
+Die histopathologische Untersuchung des Resektats bestätigt das Vorliegen eines Pankreaskarzinoms im Kopf des Pankreas. Der Tumor ist ein duktaler Adenokarzinom vom tubulären Typ mit mäßig differenzierten Zellen. Es werden keine Lymphknotenmetastasen nachgewiesen.
 
-Nachsorge:
-Aufgrund der R1-Situation wird Herr Müller in enger Zusammenarbeit mit dem Onkologen zur weiteren Therapieplanung besprochen. Eine adjuvante Chemotherapie wird empfohlen, um mögliche Mikrometastasen zu behandeln und das Risiko eines Rezidivs zu reduzieren.
+Staging:
+Aufgrund der R1-Situation am posterioren Resektionsrand wird eine erweiterte Staging-Diagnostik durchgeführt, um das Ausmaß der Tumorerkrankung zu erfassen. Eine PET-CT zeigt keine Hinweise auf Fernmetastasen oder weitere Lokalisationen des Tumors.
 
-Zusammenfassung:
-Herr Müller präsentiert sich mit unspezifischen Oberbauchbeschwerden und Gewichtsverlust. Nach Diagnostik mittels Sonographie, CT-Untersuchung und ERCP wird ein Pankreaskarzinom im Kopf des Pankreas diagnostiziert. Eine Whipple-Operation wird durchgeführt, bei der eine R1-Situation festgestellt wird. Der histopathologische Befund bestätigt ein duktaler Adenokarzinom-Typ gemäß WHO-Klassifikation. Aufgrund der R1-Situation wird eine adjuvante Chemotherapie empfohlen.
+Therapieempfehlung:
+Aufgrund der R1-Situation wird dem Patienten eine adjuvante Chemotherapie empfohlen, um mögliche Mikrometastasierung zu behandeln und das Risiko eines lokalen Rezidivs zu reduzieren. Die Therapie erfolgt gemäß den aktuellen Leitlinien für die Behandlung von Pankreaskarzinomen.
+
+Verlauf:
+Herr Müller entscheidet sich für die adjuvante Chemotherapie und erhält sechs Zyklen einer Kombinationstherapie mit Gemcitabin und nab-Paclitaxel. Die Therapie verläuft ohne größere Nebenwirkungen. Regelmäßige Kontrolluntersuchungen zeigen keine Hinweise auf ein Rezidiv oder Fernmetastasen.
+
+Fazit:
+Die histopathologische Aufarbeitung von Whipple'schen Resektaten mit Pankreaskarzinom ist von großer Bedeutung, um das Ausmaß der Tumorerkrankung zu erfassen und eine adäquate Therapieempfehlung abgeben zu können. Die R-Klassifikation sowie die Markierung der zirkumferentiellen Resektionsränder sind dabei wichtige Aspekte. Eine enge Zusammenarbeit zwischen Chirurgen und Pathologen ist entscheidend, um eine optimale Versorgung der Patienten sicherzustellen.

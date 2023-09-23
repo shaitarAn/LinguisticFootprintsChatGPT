@@ -1,13 +1,21 @@
-On examination, the patient's vital signs were stable with a temperature of 38.5°C (101.3°F), blood pressure of 120/70 mmHg, heart rate of 90 beats per minute, and respiratory rate of 18 breaths per minute. The patient appeared fatigued but was alert and oriented. There were no signs of respiratory distress or meningismus.
+On admission, the patient was febrile with a temperature of 38.5°C (101.3°F) and had a heart rate of 110 beats per minute. His blood pressure was within the normal range, and he appeared alert and oriented. Physical examination revealed generalized lymphadenopathy, particularly in the posterior cervical region.
 
-The physical examination revealed a diffuse maculopapular rash over the trunk, extremities, and face, including the eyelids. The rash was non-blanching and not pruritic. The throat examination showed mild erythema without exudates or tonsillar enlargement. Neck stiffness was noted upon flexion but there were no focal neurological deficits.
+Laboratory tests were conducted to further investigate the patient's condition. A complete blood count showed a mild leukopenia with lymphocytosis and thrombocytopenia. The liver function tests indicated mild elevation of liver enzymes, while renal function tests were within normal limits. The C-reactive protein level was elevated, suggesting an inflammatory process.
 
-Laboratory investigations showed leukopenia with a white blood cell count of 3.2 x 10^9/L (normal range: 4-11 x 10^9/L) with lymphopenia (0.8 x10^9/L; normal range:1-4 x10^9/L). Platelet count was within normal limits at 200 x10^9/L (normal range:150-450 x10^9/L). Liver function tests demonstrated mild elevation in liver enzymes with alanine transaminase (ALT) of 68 U/L (normal range: <40 U/L) and aspartate transaminase (AST) of 56 U/L (normal range:<40 U/L).
+Given the patient's symptoms and laboratory findings, several differential diagnoses were considered by the medical team at CHBAH. These included viral infections such as Epstein-Barr virus (EBV), cytomegalovirus (CMV), or human immunodeficiency virus (HIV). Other possibilities included systemic lupus erythematosus (SLE) or other autoimmune diseases.
 
-Given the clinical presentation and laboratory findings, further investigations were initiated to determine the cause of these symptoms.
+To further evaluate these possibilities, additional laboratory investigations were carried out. Serological testing for EBV and CMV revealed negative results for acute infection markers but positive results for past exposure markers in both cases. HIV testing was also negative.
 
-A nasopharyngeal swab for SARS-CoV-2 reverse transcription-polymerase chain reaction test was performed to rule out COVID-19 infection due to the ongoing pandemic. Additionally, serological tests for viral infections including Epstein-Barr virus (EBV), cytomegalovirus (CMV), and human immunodeficiency virus (HIV) were requested.
+In light of these findings, attention turned towards ruling out autoimmune diseases as a cause for the patient's symptoms. Anti-nuclear antibody (ANA) testing was performed and came back positive at a titer of 1:640 with a speckled pattern on indirect immunofluorescence assay.
 
-The patient was started on supportive care, including intravenous fluids and antipyretics to manage his symptoms. Isolation precautions were implemented in accordance with hospital protocols until infectious etiologies could be ruled out.
+Based on these clinical findings and test results, a diagnosis of systemic lupus erythematosus (SLE) was made by the medical team at CHBAH. SLE is an autoimmune disease characterized by chronic inflammation that can affect multiple organs in the body.
 
-Further clinical evaluation and investigations are required to establish the definitive diagnosis and guide appropriate management for this patient.
+The treatment plan for this young male consisted of high-dose corticosteroids to control the inflammation and immune response. In addition, hydroxychloroquine, an antimalarial drug with immunomodulatory properties, was prescribed to help manage the symptoms and prevent disease flares.
+
+During his hospital stay, the patient's condition gradually improved. His fever subsided, and the rash began to fade. He reported a decrease in headache intensity and neck pain. Laboratory tests also showed improvement in leukopenia and thrombocytopenia.
+
+The patient was discharged from the hospital after two weeks of treatment with instructions for outpatient follow-up visits with a rheumatologist. He was educated about SLE, its chronic nature, and the importance of adhering to medication regimen.
+
+Systemic lupus erythematosus is a complex disease that can present with various symptoms affecting multiple organ systems. Early diagnosis is crucial for timely initiation of treatment to prevent long-term complications. Patient education plays a vital role in managing this chronic condition as it requires ongoing medical care and lifestyle adjustments.
+
+In conclusion, this case highlights the importance of thorough clinical evaluations and comprehensive laboratory investigations when faced with patients presenting with nonspecific symptoms such as fever, rash, headache, and lymphadenopathy. Systemic lupus erythematosus should be considered among the differential diagnoses in such cases to ensure prompt management and improve patient outcomes.

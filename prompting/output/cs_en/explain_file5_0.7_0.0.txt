@@ -1,0 +1,19 @@
+This news article discusses the benefits and risks associated with the use of Big Data in gathering and analyzing large quantities of data. It highlights the speed, cost-effectiveness, and ease of using Big Data approaches compared to traditional methods of data collection. However, it also acknowledges the potential risks to personal privacy that arise from the increased availability and use of data.
+
+The article points out that Big Data poses various risks to privacy, ranging from people knowing more about individuals than necessary to making incorrect inferences about individuals based on their data. It suggests that privacy concerns could hinder the adoption of Big Data solutions in the long term.
+
+The article goes on to discuss the concept of privacy in the United States and Europe. It explains that while privacy is not explicitly mentioned in the US Constitution, there are sector-specific laws governing privacy in the country. In contrast, Europe takes a more comprehensive approach to privacy protection, with the European Union requiring member states to ensure citizens' right to privacy.
+
+The article mentions that Europe is revising its Data Protection Directive to include provisions such as individuals' consent before processing their data and the "right to be forgotten." It also discusses the concern among companies and lobbying by the US regarding the administrative burden of implementing these regulations.
+
+The article further explores the evolving landscape of data technology. It mentions researchers working on camera-based systems for advertisements and TV sets that can gather data on viewers. It also highlights the capabilities of smartphones to sense various aspects and access personal data.
+
+The article notes that industries and companies have different approaches to protecting user data, influenced by factors such as their value proposition and revenue sources. It mentions that consumer awareness regarding data collection and use is increasing, leading to some users uninstalling or refusing to install apps due to privacy concerns.
+
+The article then discusses a research group that combines Big Data techniques with crowdsourcing to examine privacy issues with smartphone apps. They found that people often did not know what data their apps were collecting and were least comfortable when the use of their data was unexpected. The article suggests that explaining the purpose of data in a concise and understandable manner can help alleviate user concerns.
+
+In terms of protecting privacy, the article suggests being more selective in what individuals share with others and periodically deleting web browser cookies. It also mentions potential business opportunities in helping consumers manage their privacy online and with smartphones.
+
+Lastly, the article highlights the challenge posed by data being collected in the physical world by sensors, such as wearable devices, smart cars, and aerial drones. It suggests that better privacy laws are necessary to adequately protect personal data in this scenario.
+
+Overall, the article emphasizes the benefits and risks of Big Data and discusses the importance of privacy protection in the face of advancing data technologies.

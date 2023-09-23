@@ -4,18 +4,18 @@ The article begins by highlighting the need to cool data centers and ensure thei
 
 To prevent power outages, data centers require diverse connections to utility companies. Backup power supplies, such as rooms full of batteries and diesel generators, are also built into data centers to provide temporary power in case of emergencies. The article emphasizes the importance of saving data during power outages.
 
-In the event of natural disasters or other problems, major companies like Google, Microsoft, and Amazon have multiple data centers spread across the world. These companies have software architectures that redirect work to other data centers if one experiences issues.
+In the event of natural disasters or other problems, major companies like Google, Microsoft, and Amazon have multiple data centers spread around the world. These companies have software architectures that redirect work to other data centers if one experiences issues.
 
-The article introduces the concept of Power Usage Effectiveness (PUE), which measures the ratio of total energy consumed by a data center (including cooling and electricity distribution) to the energy consumed by IT equipment alone. Leading-edge data centers have significantly reduced their PUE over the years, resulting in lower electrical overhead.
+The article introduces the concept of Power Usage Effectiveness (PUE), which measures the ratio of total energy consumed by a data center (including cooling and electricity distribution) to the energy consumed by the IT equipment alone. Leading-edge data centers have significantly reduced their PUE over the years, resulting in lower electrical overhead.
 
 The focus now is on reducing the footprint of servers themselves to further improve energy efficiency. The article mentions the LoCal energy project, which aims to reduce the energy consumption of support functions in data centers.
 
 The article acknowledges that data centers operate at high levels of power consumption even when they are not fully utilized. It compares the energy consumption of data centers to the world's airline travel, highlighting the need for energy efficiency despite the significant benefits they provide.
 
-Companies operating clouds, such as Amazon's EC2, are primarily focused on making money, while those deploying their computing into clouds aim to save money. Deploying websites into the cloud allows for cost savings during peak demand periods.
+Companies operating clouds, such as Amazon's EC2, are primarily focused on making money. On the other hand, companies deploying their computing into clouds have an incentive to save money. By deploying websites into the cloud, companies can pay for the resources they need during peak demand periods, resulting in cost savings.
 
-The article discusses potential locations for data centers, considering factors such as customer base, internet connectivity, and electricity cost. It mentions that areas with good connectivity tend to be along national highway systems. Some famous internet companies have built data centers in Washington State due to its cheap hydroelectric power. The fastest growth for internet access is currently in Africa, making it a potential location for future data centers.
+The article discusses potential locations for data centers, considering factors such as customer base, internet connectivity, and electricity cost. It mentions that areas with good connectivity, like along national highway systems, are ideal. Some famous internet companies have built data centers in Washington State due to its cheap hydroelectric power. The fastest growth for internet access is currently in Africa, making it a potential location for future data centers.
 
-The article concludes by mentioning the possibility of placing data centers in space or people's closets. However, it notes that connectivity and weight would be significant challenges in these scenarios. The article suggests that as data centers continue to evolve, the entire world will be relatively close to one, and the focus will be on upgrading existing data centers with newer technology.
+The article concludes by mentioning the possibility of having data centers in space or in people's closets. It raises the idea of Google providing computers to individuals that can also execute cloud services, although the author expresses skepticism about this alternative future.
 
-In summary, the article provides insights into the cooling, security, power supply, energy efficiency, and potential locations for data centers. It emphasizes the importance of energy efficiency and highlights the advancements made in reducing energy consumption in data centers.
+Overall, the article provides insights into the cooling, security, power supply, energy efficiency, and potential locations for data centers. It highlights the importance of these facilities in supporting various online services and the ongoing efforts to make them more efficient.

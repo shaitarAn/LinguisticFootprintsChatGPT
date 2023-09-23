@@ -1,15 +1,27 @@
-On examination, the patient had a temperature of 38.5°C (101.3°F) and appeared lethargic. His rash consisted of discrete, maculopapular lesions that were diffusely spread across his body and eyelids. The lymph nodes in his cervical region were slightly swollen but non-tender.
+Upon admission, the patient's vital signs were stable with a temperature of 38.5°C, heart rate of 94 beats per minute, blood pressure of 120/80 mmHg and oxygen saturation of 98% on room air. Physical examination revealed a generalized maculopapular rash over the body and eyelids. There were no palpable lymph nodes or hepatosplenomegaly. The respiratory examination was unremarkable with clear breath sounds bilaterally.
 
-Further investigation revealed that the patient had an elevated white blood cell count with a predominance of lymphocytes, indicating a viral infection. A throat swab was taken for testing, as well as blood samples for various laboratory investigations.
+The patient reported that his symptoms started abruptly one week ago with high-grade fever and a rash that initially appeared on his trunk before spreading to other parts of the body including the eyelids. He described the rash as mildly itchy but not painful.
 
-The patient's medical history was unremarkable, with no known allergies or chronic illnesses reported by the patient or his family. He denied any recent travel or exposure to sick individuals.
+In addition to fever and rash, he experienced intermittent headaches accompanied by neck pain which worsened upon flexion or movement. He also complained of a sore throat and dry cough without any sputum production or hemoptysis. Furthermore, he mentioned having watery diarrhoea for one day prior to his admission but it had resolved spontaneously.
 
-Given the presentation of fever, rash, headache, and other symptoms consistent with a viral illness, there was concern for infectious causes such as dengue fever or measles. The differential diagnosis also included other viral infections like mononucleosis or adenovirus.
+A thorough review of systems did not reveal any significant past medical history or chronic illnesses in this previously healthy individual. The patient denied any recent travel within or outside South Africa, exposure to sick contacts or animals, sexual activity or high-risk behaviors such as drug use.
 
-Due to the severity of symptoms and uncertain diagnosis at this point, the patient was isolated in a negative pressure room to prevent potential transmission if he indeed had an infectious disease.
+Laboratory investigations were initiated upon admission which included complete blood count (CBC), renal function tests (RFTs), liver function tests (LFTs) and serological testing for infectious diseases including human immunodeficiency virus (HIV) infection.
 
-Treatment strategies were focused on relieving symptoms and supportive care while awaiting test results to identify the specific pathogen causing these symptoms. Intravenous fluids were initiated to maintain hydration while analgesics were administered for pain relief.
+CBC revealed leukopenia with lymphopenia (white blood cell count: 3 x10^9/L; lymphocyte count: 0.6 x10^9/L), thrombocytopenia (platelet count: 120 x10^9/L) and normal hemoglobin level (13 g/dL). The patient's RFTs and LFTs were within normal limits. Serology for HIV was negative.
 
-The case was discussed with senior physicians who decided to consult an infectious disease specialist for further advice regarding diagnostic tests and management options tailored to this particular clinical presentation.
+Considering the clinical presentation, laboratory findings, and the recent outbreak of novel coronavirus (SARS-CoV-2) worldwide, a nasopharyngeal swab for SARS-CoV-2 reverse transcriptase-polymerase chain reaction (RT-PCR) was obtained. The patient was placed on droplet precautions in a single isolation room until the results were available.
 
-The medical team continued monitoring the patient closely throughout their hospital stay while awaiting test results that would provide more information about their condition.
+In the meantime, symptomatic treatment was initiated to address fever and pain. The patient received acetaminophen for temperature control and nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen for headache and neck pain relief. He was also advised to maintain good oral hydration by consuming fluids regularly.
+
+Within 24 hours, the RT-PCR test result confirmed that the patient tested positive for SARS-CoV-2, indicating that he had contracted coronavirus disease 2019 (COVID-19). 
+
+The medical team at CHBAH continued to monitor his vital signs closely, paying particular attention to any respiratory distress or worsening symptoms. Fortunately, over the course of his hospital stay which lasted approximately two weeks due to mild disease progression requiring observation and supportive care only; no complications occurred. The rash gradually resolved without intervention.
+
+The patient remained in isolation until two subsequent RT-PCR tests performed 24 hours apart came back negative for SARS-CoV-2 RNA confirming viral clearance according to local guidelines before discharge from hospital.
+
+Educational materials regarding COVID-19 prevention strategies including hand hygiene, mask usage in public spaces, social distancing measures, and self-isolation criteria were provided extensively by healthcare providers to ensure adequate knowledge upon discharge.
+
+Follow-up arrangements were made with primary care providers who would continue monitoring their patients' health post-discharge while adhering strictly with local regulations surrounding COVID-19 such as quarantine restrictions if needed.
+
+This case highlights the importance of considering COVID-19 as a potential diagnosis in patients presenting with fever, rash, respiratory symptoms, and gastrointestinal symptoms. Vigilance regarding infection prevention and control measures such as early isolation is crucial to prevent further transmission of the virus within healthcare settings and the community.

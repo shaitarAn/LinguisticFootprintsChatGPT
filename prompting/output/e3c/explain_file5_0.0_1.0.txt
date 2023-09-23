@@ -1,37 +1,17 @@
-This clinical case describes a patient who presented with various symptoms and underwent diagnostic assessments to determine the cause of their illness. Here is a breakdown of the key points:
+This clinical case describes a patient who presented with a fever, rash, and other symptoms. The patient had no prior medical admissions, surgeries, or significant medication or recreational drug use. They were a grade ten scholar and had recently traveled to Kwa-Zulu Natal two weeks before the onset of symptoms.
 
-Patient Profile:
-- No prior medical admission, surgery, or significant medication/recreational drug use.
-- Grade ten scholar.
-- Recent travel to Kwa-Zulu Natal two weeks prior.
+On examination, the patient appeared ill and had a low blood pressure, high heart rate, and elevated temperature. They also had a generalized maculopapular rash on their torso, upper back, limbs, and hands. Additionally, they had erythematous desquamating lesions over their eyelids and bilateral conjunctivitis.
 
-Clinical Findings:
-- Ill-looking patient with a blood pressure of 103/44 mmHg, heart rate of 123 beats per minute, and temperature of 39.5°C.
-- Restless with no evidence of cognitive dysfunction.
-- Generalized maculopapular rash observed over the torso, upper back, limbs, and palmar surface of the hands.
-- Non-tender erythematous desquamating lesions over the eyelids and bilateral conjunctivitis.
-- Normal abdominal and respiratory examinations with no jaundice or lymphadenopathy.
-- Normal cardiovascular examination except for sinus tachycardia.
+Blood investigations showed elevated levels of C-reactive protein (CRP), procalcitonin (PCT), white cell count (WCC), ferritin, lactate dehydrogenase (LDH), and D-dimers. However, blood and urine cultures were negative. The lumbar puncture was normal along with chest radiograph and abdominal sonar results.
 
-Diagnostic Assessment:
-- Prior treatment with ceftriaxone and IV paracetamol without improvement.
-- Blood investigations showed rising levels of C-reactive protein (CRP), procalcitonin (PCT), white cell count (WCC), ferritin, lactate dehydrogenase (LDH), and D-dimers. Blood and urine cultures were negative.
-- Lumbar puncture was normal along with chest radiograph and abdominal sonar findings.
--The first echocardiogram revealed a structurally normal heart but subsequent echocardiogram showed reduced ejection fraction (EF) at 10% with global hypokinesia.
+The initial differential diagnosis included viral infections such as HIV seroconversion or acute infections caused by Epstein-Barr virus (EBV), herpes simplex virus (HSV), or cytomegalovirus (CMV). Bacterial infections caused by Group A streptococci or Neisseria meningitidis were also considered. Non-infectious differentials included Kawasaki-like disease (KD) or adult-onset Still's disease (AOSD).
 
-Diagnosis:
-The initial wide differential diagnosis included viral infections such as HIV seroconversion, acute infection with Epstein-Barr virus (EBV), herpes simplex virus (HSV) or cytomegalovirus (CMV); bacterial infections caused by Group A streptococci, Neisseria meningitidis, other gram-negative bacteria, rickettsia, leptospirosis or malaria. Non-infectious differential diagnoses considered were Kawasaki-like disease (KD), adult-onset Still's disease (AOSD), and systemic lupus erythematosus (SLE). Ultimately, the diagnosis of MIS-C (Multisystem Inflammatory Syndrome in Children) was made based on the elevated temperature, rising inflammatory markers, and cardiac involvement.
+Based on the elevated temperature along with rising inflammatory markers like CRP, PCT, LDH, D-dimers,and ferritin levels with deranged liver function tests(LFTs), the diagnosis of Multisystem Inflammatory Syndrome in Children(MIS-C) was suspected.
 
-Therapeutic Intervention:
-- Intravenous fluid boluses were administered initially but discontinued due to no significant response.
-- Empiric antibiotic treatment with doxycycline and ceftriaxone.
-- Hydrocortisone was started but later discontinued due to concern for infection.
-- Intravenous immunoglobulin (IVIG) was initiated along with a dobutamine infusion and diuresis to counter fluid overload.
-- IV methylprednisolone pulse therapy was given for three days.
-- Colchicine added for possible associated myopericarditis.
-- Aspirin and enoxaparin were added for thrombotic risk.
+The patient received intravenous fluid boluses initially but did not show significant improvement in hemodynamic parameters. Empiric antibiotic treatment was started for rickettsial disease while continuing ceftriaxone. Hydrocortisone was initiated but later discontinued due to concerns for infection. A repeat echocardiogram revealed significant cardiac abnormalities, and the patient was started on intravenous immunoglobulin (IVIG) along with dobutamine infusion and diuresis.
 
-Follow-up and Outcomes:
-The patient showed clinical improvement with resolution of symptoms. Repeat echocardiogram showed improved EF. Prednisone was tapered down over time. The patient recovered fully without residual symptoms.
+Serological testing confirmed the presence of antibodies against SARS-CoV-2, indicating a previous infection. The patient's condition improved with the addition of aspirin and enoxaparin to prevent thrombotic complications. They were discharged on prednisone, aspirin, and colchicine.
 
-It is important to note that informed consent was obtained from the patient to use their information in this case report while maintaining anonymity.
+During follow-up, the patient fully recovered with no residual symptoms. Repeat echocardiogram showed improvement in cardiac function, and prednisone was gradually tapered off.
+
+In summary, this clinical case highlights a patient who presented with fever, rash, and other symptoms consistent with MIS-C following a recent travel history to Kwa-Zulu Natal. Prompt diagnosis and appropriate management led to a successful outcome for the patient.

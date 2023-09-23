@@ -10,4 +10,6 @@ The metabolic pathways of eADO production, degradation, and signaling are then e
 
 The introduction also mentions other enzymes, such as prostatic acid phosphatase and tissue-non-specific alkaline phosphatase, that can hydrolyze eAMP to eADO. It explains that the half-life of eADO in the extracellular space is short, and it can be further metabolized into inosine and hypoxanthine. eADO can also be transported into cells via nucleoside transporters.
 
-Inside cells, adenosine undergoes various metabolic pathways, including phosphorylation to AMP and conversion to ATP, conversion to inosine by adenosine deaminase, and conversion to
+Inside cells, adenosine undergoes various metabolic pathways, including phosphorylation to AMP and conversion to ATP, conversion to inosine by adenosine deaminase, and conversion to S-adenosyl-homocysteine by S-adenosyl-homocysteine hydrolase.
+
+The introduction concludes by highlighting that the concentration of eADO can remain high in the tumor microenvironment due to ATP release from cancer cell death and Treg cell deaths, as well as the expression of CD73 by cancer-associated fibroblasts. It mentions that while ADO plays a role in balancing immune system activation and overreaction under normal conditions, in the tumor microenvironment, all cell types are regulated by adenosine signaling, ultimately supporting tumor cell growth.

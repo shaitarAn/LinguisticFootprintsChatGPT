@@ -1,15 +1,33 @@
-Renaissance eines antiken Klassikers. Die Bedeutung von Thomas Murners Übersetzung von Vergils 'Aeneis' (Straßburg 1515) für die deutsche Humanistik.
-
-Abstract: Thomas Murners Übersetzung von Vergils 'Aeneis' nimmt als die erste in der deutschen Sprache einen besonderen Rang unter den Translationen antiker Klassiker im deutschen Humanismus ein. Ausgehend von einem Einblick in die Untersuchungsergebnisse zu Murners lateinischer Vorlage, wird seine Übersetzungspraxis skizziert, hinter der sowohl eine didaktische Intention als auch der Versuch, einen in der deutschen Sprache verständlichen Gesamttext zu schaffen, hervortritt.
+Die Renaissance eines antiken Klassikers: Eine neue Perspektive auf Thomas Murners Übersetzung von Vergils 'Aeneis'
 
 1. Einleitung
 
-Die Auseinandersetzung mit antiken Klassikern im Rahmen des deutschen Humanismus hat seit jeher eine wichtige Rolle in der akademischen Forschung eingenommen. Insbesondere Übersetzungen dieser Werke haben dazu beigetragen, das Wissen um und das Verständnis für diese antiken Texte einer breiteren Leserschaft zugänglich zu machen. Eine solche bedeutende Übersetzung ist Thomas Murners Übertragung von Vergils 'Aeneis', welche im Jahre 1515 in Straßburg veröffentlicht wurde.
+Die literarische Welt des deutschen Humanismus wurde maßgeblich von der Auseinandersetzung mit den klassischen Werken der Antike geprägt. In diesem Zusammenhang spielten Übersetzungen eine entscheidende Rolle, um das Wissen und die Ideen dieser alten Texte einem breiteren Publikum zugänglich zu machen. Besonders herausragend war dabei die Leistung des deutschen Humanisten Thomas Murner, der als erster eine translation der 'Aeneis' von Vergil in die deutsche Sprache veröffentlichte.
 
-Obwohl dies nicht die erste bekannte Übersetzung dieses epischen Meisterwerks war, nimmt Murners Fassung aufgrund ihrer Eigenheiten und ihres kulturellen Kontexts einen besonderen Rang ein. Die vorliegende Arbeit widmet sich daher dem Forschungsinteresse an der Bedeutung dieser spezifischen Übersetzung und untersucht deren Einfluss auf den deutschen Humanismus.
+Diese bislang kaum erforschte Übersetzung stellt einen bedeutenden Meilenstein in der deutschen Literaturgeschichte dar, da sie nicht nur den Weg für nachfolgende Übersetzungen antiker Klassiker ebnete, sondern auch ein einzigartiges Beispiel für Murners umfassendes Verständnis und seine Interpretation von Vergils Epos bietet. In diesem Aufsatz widmen wir uns einer neuen Perspektive auf Murners Arbeit und untersuchen sowohl seine motivationsgründe hinter dieser Translation als auch seine übersetzungspraxis.
 
-Um die Forschungsfrage zu beantworten, werfen wir zunächst einen Blick auf die Untersuchungsergebnisse bezüglich Murners lateinischer Vorlage. Durch eine detaillierte Analyse können wir Rückschlüsse darauf ziehen, welche spezifischen Textversionen Murner als Grundlage für seine Übersetzung verwendet hat und ob mögliche Modifikationen vorgenommen wurden.
+2. Theoretischer Hintergrund und Forschungsstand
 
-Des Weiteren ist es wichtig, Murners Übersetzungspraxis genauer zu betrachten. Welche Ziele verfolgte er mit der Übertragung der 'Aeneis' in die deutsche Sprache? Lagen rein didaktische Intentionen zugrunde oder war sein Ansatz eher darauf ausgerichtet, einen allgemeinverständlichen Gesamttext zu schaffen? Indem wir uns intensiv mit Murners methodischem Vorgehen auseinandersetzen, können wir ein besseres Verständnis für die Besonderheiten dieser Übersetzung erhalten.
+Bisherige Forschungen zur Renaissance-Übersetzung deutscher humanistischer Schriftsteller haben sich hauptsächlich darauf konzentriert, Kontexte zu untersuchen oder allgemeine Fragen zur Rolle von Translationen im Rahmen des Wissenstransfers im 15. und 16. Jahrhundert zu beantworten (Muller and Hartmann 2009; Schneider 2014). Es gibt jedoch noch viele Fragen hinsichtlich der spezifischen Übersetzungspraxis und -strategien bei der Bewältigung solcher Herausforderungen.
 
-Abschließend werden wir den Einfluss von Murners Werk im Rahmen des deutschen Humanismus
+3. Forschungsfrage und Zielsetzung
+
+Vor diesem Hintergrund zielt diese Studie darauf ab, die Übersetzungspraxis von Thomas Murner genauer zu untersuchen, seine Motivationen hinter seiner Entscheidung, die 'Aeneis' zu übersetzen, zu ergründen und einen Einblick in seine Herangehensweise an das komplexe Werk Vergils zu gewinnen. Darüber hinaus möchten wir herausfinden, ob Murner bei seiner Übersetzung eher eine didaktische oder literarische Intention verfolgte.
+
+4. Methodik
+
+Um diese Ziele zu erreichen, greifen wir auf Textanalysen verschiedener Teile von Murners Übersetzung zurück sowie auf vergleichende Analysen mit anderen zeitgenössischen deutschen Versionen der 'Aeneis'. Insbesondere werden wir uns auf die Gegenüberstellung von exemplarischen Passagen konzentrieren, um Unterschiede und Gemeinsamkeiten in den verschiedenen Herangehensweisen herauszuarbeiten.
+
+5. Erwartete Ergebnisse
+
+Wir erwarten einerseits Hinweise darauf zu finden, dass Murners Translation stark vom didaktischen Gedanken geleitet wurde. Sein Ziel war es wahrscheinlich nicht nur eine getreue Übertragung des lateinischen Originals anzufertigen, sondern vielmehr durch sprachliche Vereinfachungen und Hinzufügungen dafür zu sorgen, dass auch weniger gebildete Leser Zugang zur 'Aeneis' erhalten konnten.
+
+Auf der anderen Seite ist davon auszugehen, dass Murner auch künstlerische Ambitionen hatte und versuchte, einen literarisch ansprechenden Text zu schaffen. Dies würde sich wahrscheinlich in bestimmten sprachlichen Entscheidungen und Stilistiken manifestieren.
+
+6. Bedeutung der Studie
+
+Die vorliegende Studie trägt zur Erforschung der Rezeption antiker Klassiker im deutschen Humanismus bei und erweitert das Wissen über Übersetzungspraktiken während dieser Zeit. Darüber hinaus ermöglicht sie neue Einblicke in die Persönlichkeit von Thomas Murner als Schriftsteller und Intellektueller seiner Zeit.
+
+7. Struktur des Aufsatzes
+
+Im folgenden Abschnitt werden wir zunächst einen kurzen Überblick über den theoretischen Hintergrund geben und den aktuellen Forschungsstand zusammenfassen. Anschließend widmen wir uns der detaillierten Analyse von Murners Übersetzung, gefolgt von einer Diskussion der Ergebnisse. Schließlich ziehen wir

@@ -1,34 +1,58 @@
-Klinischer Fall: Frau S., 57-jährige Patientin mit fortgeschrittener metastasierter Lungenkrebsdiagnose
+Klinischer Fall: Die Bedürfnisse eines Patienten mit fortgeschrittener Krebserkrankung
+
+Patientenakte:
+
+Name: Herr Müller
+Alter: 58 Jahre
+Geschlecht: männlich
+Diagnose: fortgeschrittene Lungenkrebs
 
 Anamnese:
-Frau S. ist eine 57-jährige Patientin, die vor kurzem die Diagnose eines fortgeschrittenen Lungenkarzinoms im Stadium IV erhalten hat. Die Tumorexpansion erstreckt sich auf beide Lungenflügel sowie auf die Leber und das Skelettsystem. Sie leidet unter starken Atembeschwerden, Schmerzen sowie Appetitlosigkeit und hat bereits an Gewicht verloren.
+Herr Müller wurde vor sechs Monaten mit der Diagnose fortgeschrittener Lungenkrebs konfrontiert. Seitdem hat er mehrere Chemotherapiezyklen hinter sich und ist in einem palliativen Stadium der Erkrankung. Er leidet unter starken Atembeschwerden, Hustenanfällen und einer reduzierten körperlichen Leistungsfähigkeit. Zusätzlich zu den physischen Symptomen hat er mit einer schweren Depression zu kämpfen, die durch die Diagnose und den Verlust seiner Arbeit ausgelöst wurde. Unterstützt wird er von seiner Ehefrau, Frau Müller, die ihn in allen Belangen unterstützt.
 
-Diagnostik:
-Eine Thorax-CT-Bildgebung bestätigte multiple konglomerate Tumorherde in beiden Lungenflügeln mit Ausbreitung in die angrenzenden Strukturen sowie Metastasen im oberen rechten Quadranten des Bauchraums und im sakralen Bereich der Wirbelsäule.
+Präsentation des Falls:
+Herr Müller wurde heute zur weiteren Behandlung in Ihre Hospizabteilung überwiesen. Das Hauptziel besteht darin, seine Schmerzen zu lindern und seine Lebensqualität bestmöglich zu verbessern.
 
-Therapieplanung:
-Aufgrund des fortgeschrittenen und metastasierten Stadiums der Erkrankung ist eine kurative Therapie nicht mehr möglich. Die Behandlung soll daher palliativ ausgerichtet sein, um Symptome zu lindern, die Lebensqualität zu verbessern und das Fortschreiten der Krankheit zu verlangsamen.
-
-Besonderheiten / Bedürfnisse der Patientin:
+Bei der Anamneseerhebung zeigt sich schnell, dass Herr Müller diverse Bedürfnisse hat:
 
 1. Physische Bedürfnisse:
-- Atembeschwerden aufgrund der Lungentumore erfordern eine adäquate Schmerzbehandlung sowie gegebenenfalls den Einsatz von Sauerstofftherapie.
-- Kontrolle von anderen belastenden Symptomen wie Fatigue, Übelkeit oder Verstopfung.
+- Starke Atemnot aufgrund eines Pleuraergusses (Empfehlungsgrad B)
+- Hustenanfälle bei geringster Anstrengung (Empfehlungsgrad B)
+- Reduzierte körperliche Leistungsfähigkeit (Empfehlungsgrad B)
 
 2. Psychische Bedürfnisse:
-- Aufklärung über die Krankheitsprogression, die Prognose und mögliche Behandlungsoptionen.
-- Unterstützung bei der Bewältigung von Ängsten, Sorgen und depressiven Verstimmungen.
+- Schwere Depression aufgrund der Krebsdiagnose (Empfehlungsgrad B)
+- Angstzustände und Sorgen über die Zukunft (Empfehlungsgrad B)
 
 3. Soziale Bedürfnisse:
-- Unterstützung bei der Koordination von häuslicher Pflege oder ambulanten Versorgungsangeboten.
-- Identifizierung finanzieller Hilfsmöglichkeiten für die Patientin und ihre Familie.
+- Unterstützung durch seine Ehefrau bei täglichen Aktivitäten und Entscheidungen (Empfehlungsgrad C)
+- Beratung über soziale Unterstützungssysteme für ihn und seine Frau (Empfehlungsgrad C)
 
 4. Spirituelle Bedürfnisse:
-- Bereitstellung einer spirituellen Begleitung / Seelsorge oder Vermittlung an entsprechende Ansprechpartner zur Unterstützung bei existentiellen Fragen und Spiritualität.
+- Suche nach Sinn in seinem Leben trotz der fortschreitenden Krankheit (Empfehlungsgrad C)
+- Wunsch nach spiritueller Begleitung durch Seelsorger oder Hospizmitarbeiter (Empfehlungsgrad C)
 
-Therapieansatz:
+Behandlungsplan:
 
-Der Einsatz eines spezialisierten Palliativteams (SPV) sollte in Betracht gezogen werden, um das umfangreiche physische, psychische, soziale und spirituelle Wohlbefinden von Frau S. zu gewährleisten. Das SPV kann eine regelmäßige Symptomkontrolle sowie psychosoziale Betreuung bereitstellen und ihre engagierte multidisziplinäre Expertise nutzen, um den richtigen Therapieansatz im Kontext ihrer komplexen Erkrankung zu finden.
+1. Physische Bedürfnisse:
+Die Behandlung der Atemnot erfolgt mittels thorakoskopischer Entlastung des Pleuraergusses, gefolgt von einer palliativen Strahlentherapie, um den Tumor zu verkleinern und die Atembeschwerden zu lindern.
 
-Zusammenfassung:
-Frau S. ist eine 57-jährige Patientin mit fortgeschrittenem Lungenkarzinom im metastasierten Stadium IV. Sie hat vielfältige physische, psychische, soziale und spirituelle Bedürfnisse aufgrund ihrer nicht-heilbaren Krebserkrankung. Die Einbeziehung eines spezialisierten Palliativteams (SPVs), wie in den Leitlinien empfohlen, kann dazu beitragen, ihre Komplexität zu erfassen und ein umfassendes
+2. Psychische Bedürfnisse:
+Um Herrn Müller bei seiner Depression zu unterstützen, wird eine kombinierte Therapieansatz aus Medikamenten und Psychotherapie gewählt.
+
+3. Soziale Bedürfnisse:
+Ein spezialisiertes palliatives Careteam wird einbezogen, um ein Netzwerk von sozialen Diensten aufzubauen, das Herrn Müller und seiner Frau bei der Bewältigung ihres Alltags entlastet.
+
+4. Spirituelle Bedürfnisse:
+Herr Müller wird von einem Hospizseelsorger betreut, der ihm dabei hilft, einen persönlichen Weg zur spirituellen Erfüllung und Sinnfindung zu finden.
+
+Nächste Schritte:
+
+1. Der Behandlungsplan wird mit Herrn Müller und seiner Frau besprochen, um ihre Zustimmung zu erhalten und eventuelle Bedenken oder Fragen zu klären.
+
+2. Ein multidisziplinäres Team, bestehend aus Onkologen, Palliativmedizinern, Psychologen, Sozialarbeitern und Seelsorgern, trifft sich regelmäßig, um den Fortschritt von Herrn Müllers Behandlung zu überwachen und den Plan gegebenenfalls anzupassen.
+
+3. Unter Berücksichtigung der Empfehlungen des deutschen Leitlinienprogramms für die Onkologie: Palliativmedizin wird ein individueller Therapiepfad entwickelt, der die spezifischen Bedürfnisse von Herrn Müller abdeckt.
+
+Schlussfolgerung:
+Die Erfassung der Patientenbedürfnisse sowie die Ermittlung ihrer Komplexität bilden eine wesentliche Grundlage für eine individuell angepasste palliative Versorgungsstrategie. Die Integration verschiedener medizinischer Fachrichtungen ist notwendig, um sowohl physische als auch psychische sowie soziale und spirituelle Aspekte in der Betreuung eines Patienten wie Herrn Müller adäquat abdecken zu können. Sowohl das Wissen über die vorhandenen Empfehlungen als auch die bereitgestellte praktische Expertise sind unverzichtbar für eine erfolgreiche Palliativbehandlung.

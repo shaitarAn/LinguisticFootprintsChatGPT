@@ -1,1 +1,19 @@
-Die präoperative biliäre Drainage (PBD) kann bei kurativ intendierter Resektion oder palliativer Behandlung in Frage kommen. Die Entscheidung für eine PBD hängt von der Lokalisation des Gallenwegverschlusses (intrahepatisch, hilär, extrahepatisch) ab. Der Zugangsweg kann perkutan-transhepatisch, transpapillär oder transgastrisch/transduodenal erfolgen. Bei Patienten mit hilärem oder extrahepatischem Cholangiokarzinom ist die kurativ intendierte Resektion die bevorzugte Behandlungsoption. Etwa 25% bis 35% dieser Patienten können für eine PBD in Frage kommen.
+Die präoperative biliäre Drainage (PBD) wird in der Regel bei Patienten mit hilärem oder extrahepatischem Cholangiokarzinom durchgeführt, wenn eine kurativ intendierte Resektion möglich ist. Etwa 25% bis 35% dieser Patienten sind potenzielle Kandidaten für eine PBD.
+
+Die Entscheidung zur Durchführung einer PBD hängt von verschiedenen Faktoren ab, darunter das Behandlungsziel und die Lokalisation des Gallenwegverschlusses. Bei einer kurativ intendierten Resektion soll die PBD dazu dienen, den Gallenweg vor der Operation zu entlasten und so mögliche Komplikationen während des Eingriffs zu reduzieren. Bei palliativen Fällen kann die PBD dazu beitragen, Symptome wie Gelbsucht und Schmerzen zu lindern.
+
+Der Zugangsweg für die BD kann perkutan-transhepatisch, transpapillär oder transgastrisch/transduodenal erfolgen. Die Wahl des Zugangswegs hängt von verschiedenen Faktoren ab, einschließlich der Tumorlokalisation und der anatomischen Gegebenheiten des Patienten. In einigen Fällen kann auch eine kombinierte Drainage über mehrere Zugangswege erforderlich sein.
+
+Bei der perkutan-transhepatischen BD wird unter radiologischer Kontrolle eine Nadel in den Gallengang eingeführt und ein Katheter platziert. Diese Methode eignet sich besonders für intrahepatische Tumore oder Verschlüsse im Bereich der Leberhilus. Die transpapilläre BD erfolgt endoskopisch über den Magendarmtrakt. Hierbei wird ein Endoskop durch den Mund oder den Anus eingeführt und über den Zwölffingerdarm in den Gallengang vorgeschoben. Diese Methode eignet sich vor allem für extrahepatische Tumore oder Verschlüsse im Bereich des distalen Gallengangs.
+
+Die transgastrische/transduodenale BD wird ebenfalls endoskopisch durchgeführt, jedoch erfolgt der Zugang über die Magenwand oder den Zwölffingerdarm. Diese Methode kann bei bestimmten anatomischen Gegebenheiten eine Alternative zur transpapillären BD darstellen.
+
+Die Wahl des Zugangswegs sollte individuell für jeden Patienten entschieden werden, unter Berücksichtigung der Tumorlokalisation, der anatomischen Gegebenheiten und möglicher Komplikationen.
+
+Es gibt verschiedene Techniken zur Durchführung einer PBD, einschließlich der Platzierung von Stents oder Kathetern. Die Auswahl der Technik hängt von verschiedenen Faktoren ab, darunter die Art des Karzinoms, die Lokalisation des Verschlusses und die Präferenz des behandelnden Arztes.
+
+Stents können entweder selbstexpandierend sein oder mit einem Ballon expandiert werden. Sie dienen dazu, den Gallengang offen zu halten und einen kontinuierlichen Abfluss von Galle zu ermöglichen. Katheter hingegen werden verwendet, um die Galle abzuleiten und können entweder intern (intrahepatisch) oder extern (extrahepatisch) platziert werden.
+
+Die präoperative biliäre Drainage kann mit verschiedenen Komplikationen verbunden sein, darunter Infektionen, Blutungen und Verstopfungen der Stents oder Katheter. Eine sorgfältige Überwachung und regelmäßige Kontrolluntersuchungen sind daher wichtig, um mögliche Komplikationen frühzeitig zu erkennen und zu behandeln.
+
+Insgesamt kann die präoperative biliäre Drainage eine wichtige Rolle bei der Behandlung von Patienten mit hepatozellulärem Karzinom und biliären Karzinomen spielen. Die Wahl des Zugangswegs und der Technik sollte individuell für jeden Patienten entschieden werden, unter Berücksichtigung der Tumorlokalisation, der anatomischen Gegebenheiten und möglicher Komplikationen. Eine sorgfältige Überwachung nach dem Eingriff ist wichtig, um mögliche Komplikationen frühzeitig zu erkennen und zu behandeln.

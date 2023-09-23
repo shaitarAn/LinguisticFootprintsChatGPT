@@ -1,13 +1,39 @@
 1. Introduction
 
-End-stage renal disease (ESRD) affects millions of individuals worldwide, necessitating the use of hemodialysis for renal replacement therapy. The successful provision of hemodialysis relies heavily on the establishment and maintenance of reliable arteriovenous (AV) access, such as arteriovenous grafts (AVGs) and fistulas (AVFs). Unfortunately, thrombosis, or the formation of blood clots, is a common complication that can significantly hinder AV access functionality.
+Thrombosis of arteriovenous (AV) access is a common complication in patients with end-stage renal disease (ESRD) who require hemodialysis. It often leads to delays in treatment or abandonment of the access site, necessitating the use of dialysis catheters. The endovascular approach has emerged as the preferred method for the treatment of thrombosed AV grafts (AVGs) and fistulas (AVFs), replacing traditional surgical interventions. This narrative review aims to explore the current practices and outcomes of endovascular thrombectomy techniques for the management of thrombosed AV access in the end-stage renal disease population.
 
-Thrombosis of AV access poses a significant clinical challenge, often resulting in delays in hemodialysis or even abandonment of the access site, necessitating the placement of dialysis catheters. Traditional surgical interventions have been the historical standard of care for addressing thrombosed AV access. However, over the years, endovascular approaches have gained prominence as the preferred treatment option, offering less invasive techniques and improved outcomes.
+1.1 Background
 
-While the literature provides a reasonable understanding of current practices and outcomes in endovascular thrombectomy techniques for thrombosed AVGs and AVFs, there remains a dearth of research on a specific aspect of this topic - the impact of the patient's age on thrombectomy outcomes in the end-stage renal disease population.
+Patients with ESRD rely on AV access for hemodialysis, which enables the removal of waste products and excess fluid from their blood. However, thrombosis of the AV access can result in significant complications, including the need for temporary dialysis catheter placement, delays in hemodialysis initiation, and even the abandonment of the access site. Consequently, it is crucial to promptly manage thrombosed AV access to ensure optimal patient care and minimize the associated risks.
 
-This paper aims to address this research gap by investigating the relationship between age and thrombectomy outcomes in the ESRD population. By focusing on age as a potential predictor of treatment success, our study aims to provide valuable insights into the optimal management strategies for thrombosed AV access in different age groups. Additionally, understanding the potential complications associated with thrombectomy techniques in the context of different age cohorts will aid in tailoring treatment approaches to maximize patient safety and minimize adverse events.
+1.2 Rationale for the Endovascular Approach
 
-To achieve this goal, we will conduct a comprehensive literature review utilizing electronic databases, including PubMed and Google Scholar, to identify relevant studies published in peer-reviewed journals. By consolidating and analyzing the available evidence, we hope to contribute to the existing body of knowledge on thrombectomy techniques for AV access maintenance in the ESRD population, specifically focusing on the impact of age on treatment outcomes and associated complications.
+In recent years, the endovascular approach has gained popularity as the primary treatment modality for thrombosed AV access. Unlike invasive surgical techniques, endovascular interventions offer several advantages, including reduced procedure time, shorter hospital stays, lower morbidity, and improved patient outcomes. Furthermore, the endovascular approach allows for the removal of thrombus from the AV circuit and the treatment of underlying anatomical abnormalities, such as anastomotic stenosis.
 
-In summary, this study aims to enhance our understanding of thrombectomy approaches for access maintenance in the ESRD population, with a particular focus on the influence of age on treatment outcomes. By shedding light on this underexplored area, we hope to guide clinicians in making informed decisions regarding thrombectomy strategies for different age groups, ultimately optimizing patient care and improving long-term outcomes for individuals with ESRD.
+1.3 Thrombolysis Techniques
+
+Thrombolysis, the dissolution of thrombus, is a crucial component of endovascular thrombectomy techniques. The administration of fibrinolytic agents through infusion catheters or pulse injector devices aids in the restoration of blood flow in thrombosed AV access. Thrombolysis can effectively dissolve the thrombus, allowing for the subsequent removal of residual debris through other mechanical means.
+
+1.4 Mechanical Thrombectomy Techniques
+
+In addition to thrombolysis, mechanical thrombectomy techniques play a vital role in the endovascular management of thrombosed AV access. These techniques involve the mechanical removal of thrombus using various devices, such as embolectomy balloon catheters, rotating baskets or wires, rheolytic systems, and aspiration mechanisms. These devices are designed to physically extract the thrombus from the AV circuit, restoring blood flow and preserving the patency of the access site.
+
+1.5 Adjunctive Methods
+
+In some cases, adjunctive methods may be necessary to address stenotic lesions within the AV circuit. Cutting balloon angioplasty, drug-coated balloon angioplasty, and stent placement are among the strategies employed to treat stenoses. These techniques aim to alleviate the underlying anatomical abnormalities contributing to thrombosis and improve the long-term patency of the AV access.
+
+1.6 Potential Complications
+
+Despite the advantages of endovascular techniques, they are not without risks. Complications associated with these procedures include vessel rupture, arterial embolism, pulmonary embolism (PE), and paradoxical embolism to the brain. Understanding and mitigating these potential complications are essential for the safe and effective management of patients with thrombosed AV access.
+
+1.7 Research Gap and Objectives
+
+While previous studies have examined the efficacy and safety of endovascular thrombectomy techniques for thrombosed AV access, there remains a need to explore the specific considerations and outcomes in the end-stage renal disease population. This review aims to fill this research gap by providing a comprehensive overview of current practices and outcomes in the endovascular management of thrombosed AV access in patients with ESRD.
+
+2. Materials and Methods
+
+The methodology employed in this review involved conducting a comprehensive literature search using electronic databases, including PubMed and Google Scholar. Relevant articles were selected based on their relevance to the research question and their contribution to the understanding of endovascular thrombectomy techniques and outcomes in the end-stage renal disease population. The selected articles were critically appraised, and the findings were synthesized to provide a narrative review of the current evidence in this field.
+
+3. Conclusion
+
+Thrombosed AV access poses significant challenges in the management of patients with end-stage renal disease. The endovascular approach, with its various thrombectomy techniques, has emerged as the preferred method for the treatment of thrombosed AV access, replacing traditional surgical interventions. This review aims to provide a comprehensive overview of current practices and outcomes in the endovascular management of thrombosed AV access in the end-stage renal disease population, thereby contributing to the understanding and improvement of patient care in this field.

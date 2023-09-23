@@ -1,13 +1,42 @@
-Introduction
+Title: Impact of Thrombectomy Techniques on Access Maintenance in the End Stage Renal Disease Population: An Overview
 
-Thrombosed arteriovenous grafts (AVGs) and fistulas (AVFs) are common complications in the end-stage renal disease (ESRD) population receiving hemodialysis. These thrombotic events can result in delays in crucial hemodialysis sessions or even necessitate the abandonment of the access site, requiring dialysis catheter placement. As a consequence, there is a pressing need to explore effective and safe approaches for maintaining access in this vulnerable patient cohort.
+1. Introduction
 
-The currently preferred treatment option for thrombosed AV access is an endovascular approach, which involves removing the thrombus from the AV circuit and addressing any underlying anatomical abnormalities that contribute to stenosis or occlusion. Thrombolysis, accomplished through infusion catheters or pulse injector devices delivering fibrinolytic agents, has emerged as one method for dissolving clots within these grafts and fistulas.
+End-stage renal disease (ESRD) poses a significant burden on healthcare systems worldwide, affecting millions of patients who require intensive hemodialysis to maintain their quality of life. Arteriovenous (AV) access, in the form of arteriovenous grafts (AVGs) and fistulas (AVFs), is crucial for facilitating the repeated vascular access necessary for hemodialysis procedures. However, thrombosis within AV access remains a major clinical challenge, often resulting in delays or outright abandonment of these critical conduits.
 
-In addition to thrombolysis, mechanical removal of thrombus through techniques collectively referred to as "thrombectomy" has gained prominence in recent years. Embolectomy balloon catheters, rotating baskets or wires, rheolytic systems employing high-velocity saline jets, and aspirating mechanisms have demonstrated efficacy in directly removing intravascular clot burden. Furthermore, adjunctive methods such as cutting balloon angioplasty, drug-coated balloon angioplasty (DCB), and stent placement have been employed successfully to treat stenotic lesions encompassing arteriovenous circuits.
+The management and maintenance of functional AV access are essential to provide uninterrupted dialysis treatment and reduce associated complications. Traditional surgical approaches have been largely replaced by endovascular techniques due to advances in minimally invasive procedures that offer lower morbidity and more favorable outcomes. This article aims to comprehensively review current practices and outcomes related to endovascular thrombectomy techniques for managing thrombosed AVGs and AVFs amongst ESRD patients.
 
-The application of such techniques is not without risks; several potential complications may arise during intervention including vessel rupture leading to hemorrhage or arterial embolism with resultant damage downstream. Pulmonary embolism (PE), characterized by embolic material lodging within pulmonary vasculature causing reduced blood flow distribution within lungs and impeding gas exchange may transpire following intervention procedures. Another risk includes paradoxical embolism where clot formation compromises cerebral blood flow leading to neurological sequelae.
+2. Rationale
 
-This paper aims to provide a comprehensive narrative review of current practices and outcomes of endovascular thrombectomy techniques utilized in the management of thrombosed AVGs and AVFs. By surveying available literature from electronic databases such as PubMed and Google Scholar, this article seeks to investigate the various approaches employed in thrombus removal and highlight potential complications associated with these interventions. A deeper understanding of these techniques would enable clinicians and healthcare providers to make informed decisions regarding the optimal management strategies for patients with thrombosed AV access sites.
+Optimal management strategies for salvaging dysfunctional AV access are critical in enabling timely hemodialysis initiation while minimizing patient discomfort and healthcare costs associated with repeated interventions or catheter placement. Endovascular approaches have emerged as preferred alternatives due to their efficacy, cost-effectiveness, reduced hospitalization duration, faster recovery times, and lower risk profiles compared to surgical interventions.
 
-Overall, this research endeavor endeavors to contribute valuable insights into the safe and effective maintenance of vascular access in patients with end-stage renal disease, ultimately improving patient outcomes within the ESRD population requiring hemodialysis.
+3. Objectives
+
+The primary objective of this paper is two-fold:
+
+3.a To evaluate the efficacy of current endovascular thrombectomy techniques used in treating thrombotic events occurring within AV grafts/fistulas among patients with ESRD,
+3.b To analyze potential complications associated with these procedures.
+
+4. Methodology
+
+This narrative review article presents an overview based on extensive literature searches using electronic databases such as PubMed and Google Scholar. Search terms included "thrombectomy techniques," "endovascular interventions," "AV access maintenance," "AV graft thrombosis/fistula thrombosis," and relevant synonyms. Articles published between January 2000 and December 2021 were included, with preference given to systematic reviews, meta-analyses, randomized controlled trials, prospective cohort studies, and retrospective studies with large sample sizes.
+
+5. Structure of the Review
+
+This paper is divided into several sections to provide a comprehensive overview of the topic:
+
+5.a Basic Science
+   This section explores the pathophysiological mechanisms contributing to AV access thrombosis, emphasizing the physiological aspects underlying graft/fistula occlusion.
+
+5.b Endovascular Thrombectomy Techniques
+   A critical review of various endovascular approaches used in thrombus removal from AV grafts/fistulas will be presented. This will include descriptions of procedures commonly employed for thrombolysis (using infusion catheters or pulse injector devices) as well as mechanical removal techniques such as embolectomy balloon catheters, rotating baskets or wires, rheolytic mechanisms, and aspiration devices.
+
+5.c Adjunctive Methods for Access Maintenance
+   The utilization of cutting balloon angioplasty, drug-coated balloon (DCB) angioplasty, stent placement procedures specifically targeting anatomical abnormalities contributing to restenosis within AV circuits will be discussed along with their outcomes.
+
+6. Clinical Outcomes and Complications
+   A comprehensive analysis of clinical trial results, observational studies, case reports examining the efficacy rates associated with different endovascular techniques will be provided. Additionally clinicopathological data on complications arising from these interventions including vessel rupture risks,
+   
+7. Conclusion
+
+The understanding of various endovascular thrombectomy techniques available for managing thrombotic events

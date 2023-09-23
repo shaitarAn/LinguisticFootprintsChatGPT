@@ -1,1 +1,17 @@
-Die präoperative biliäre Drainage (PBD) bei kurativ intendierter Resektion oder palliativer Drainage kann eine Option sein. Die Behandlungsstrategie hängt von der Lokalisation des Gallenwegverschlusses (intrahepatisch, hilär, extrahepatisch) ab. Der Zugangsweg kann perkutan-transhepatisch, transpapillär oder transgastrisch/transduodenal sein. Bei hilärem oder extrahepatischem Cholangiokarzinom ist die kurativ intendierte Resektion die bevorzugte Behandlung, für die etwa 25% bis 35% der Patienten Kandidaten für eine PBD sind.
+Die präoperative biliäre Drainage (PBD) wird in der Regel bei Patienten mit kurativ intendierter Resektion oder bei palliativer Behandlung in Erwägung gezogen. Das Ziel der PBD ist es, den Gallenfluss zu verbessern und die Symptome zu lindern.
+
+Die Entscheidung für eine PBD hängt von der Lokalisation des Gallenwegverschlusses ab. Je nachdem, ob der Verschluss intrahepatisch, hilär oder extrahepatisch lokalisiert ist, wird der Zugangsweg für die PBD festgelegt. Es gibt drei grundlegende Zugangsmöglichkeiten: perkutan-transhepatisch, transpapillär oder transgastrisch/transduodenal.
+
+Die perkutan-transhepatische PBD wird häufig bei intrahepatischen Gallenwegsverschlüssen eingesetzt. Dabei wird eine Nadel durch die Leber in den Gallengang eingeführt und ein Katheter platziert. Diese Methode kann jedoch schwierig sein, da sie unter Ultraschall- oder CT-Kontrolle durchgeführt werden muss.
+
+Die transpapilläre PBD erfolgt über den Mund und den Dünndarm. Ein Endoskop wird verwendet, um den Gallengang zu erreichen und einen Stent einzuführen. Diese Methode eignet sich gut für extrahepatische Verschlüsse und ist weniger invasiv als die perkutan-transhepatische PBD.
+
+Die transgastrische/transduodenale PBD wird ebenfalls über den Mund und den Dünndarm durchgeführt. Hierbei wird ein endoskopisches Ultraschallgerät verwendet, um den Gallengang zu erreichen und einen Stent einzuführen. Diese Methode eignet sich besonders für Patienten mit fortgeschrittenem Bauchspeicheldrüsen- oder Magenkrebs, bei denen eine transpapilläre PBD nicht möglich ist.
+
+Bei Patienten mit hilärem oder extrahepatischem Cholangiokarzinom und einer kurativ intendierten Resektion ist die PBD die bevorzugte Behandlung. Etwa 25% bis 35% dieser Patienten sind geeignete Kandidaten für eine PBD. Die PBD kann den Gallenfluss verbessern und die Entzündung reduzieren, was wiederum das Risiko postoperativer Komplikationen verringern kann.
+
+Für Patienten mit fortgeschrittenem Gallengangskarzinom oder nicht resektabler Erkrankung wird eine palliative PBD durchgeführt. Das Hauptziel der palliativen PBD ist es, die Symptome zu lindern und die Lebensqualität zu verbessern. Dies kann durch den Einsatz von Stents erreicht werden, die den Gallenfluss aufrechterhalten.
+
+Obwohl die präoperative biliäre Drainage eine etablierte Behandlungsmethode ist, gibt es immer noch kontroverse Diskussionen über ihre Wirksamkeit und Sicherheit. Einige Studien haben gezeigt, dass die präoperative Drainage das Infektionsrisiko erhöhen und den Zeitpunkt der Operation verzögern kann. Daher sollte die Entscheidung für eine PBD sorgfältig abgewogen werden und individuell auf den Patienten abgestimmt sein.
+
+Insgesamt kann die präoperative biliäre Drainage eine wichtige Rolle bei der Behandlung von Patienten mit hepatozellulärem Karzinom und biliären Karzinomen spielen. Sie kann zur Vorbereitung auf eine kurativ intendierte Resektion oder zur Linderung von Symptomen bei nicht resektabler Erkrankung eingesetzt werden. Es ist jedoch wichtig, die Vor- und Nachteile der PBD zu berücksichtigen und die Entscheidung in enger Abstimmung mit dem behandelnden Arzt zu treffen.

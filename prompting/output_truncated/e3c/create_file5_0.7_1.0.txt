@@ -1,27 +1,41 @@
-Patient information
-On the 3rd October 2021, a previously healthy, 24-year-old Asian female was admitted to the medical ward at St. Mary's Hospital, New York City. The patient was transferred from a local clinic due to ongoing symptoms and a deteriorating condition. She presented with a three-day history of high-grade fever, generalized rash all over her body and face, persistent headache accompanied by neck stiffness, sore throat, and an unproductive cough. Additionally, she reported experiencing watery diarrhea for the past two days. There were no complaints of joint pain or any oral or nasal ulcers.
+Patient Information:
 
-Medical History
-The patient had no significant medical history prior to this admission. She had never been hospitalized before and had not experienced any similar episodes in the past.
+On the 15th November 2021, a previously healthy, 28-year-old Caucasian female was admitted to the medical ward at St. Mary's Hospital in London, United Kingdom. The patient was transferred from a local clinic after presenting with a two-week history of fever, widespread rash on her trunk and extremities, severe headache accompanied by neck stiffness, and persistent dry cough. Additionally, she reported experiencing intermittent episodes of abdominal pain and watery diarrhea over the past three days. There were no reports of joint pain or swelling, oral or nasal ulcers, or abnormal vaginal discharge.
 
-Social History
-The patient lived with her family in an urban area of New York City and worked as a teacher at a local school. She denied any recent travel outside the city or close contact with individuals who were ill.
+Medical History:
 
-Physical Examination
-Upon arrival at St. Mary's Hospital, the patient appeared fatigued and mildly dehydrated. Her temperature was measured at 39°C (102°F). A thorough examination revealed a diffuse maculopapular rash covering her trunk, limbs, and face including eyelids. The rash did not blanch on pressure nor did it have any specific distribution pattern.
+The patient had no significant medical history prior to this current illness. She had not traveled outside of the country recently and denied any exposure to sick contacts with similar symptoms. Her immunization records were up-to-date.
 
-The patient complained of moderate neck pain when attempting flexion or extension movements; however, there was no limitation in range of motion observed during examination.
+Presenting Symptoms:
 
-Laboratory Findings
-Initial laboratory investigations showed leukocytosis (white blood cell count: 15 × 10^9/L) with neutrophil predominance (80%), while lymphocyte count remained within normal limits (20%). Liver function tests were unremarkable except for slightly elevated lactate dehydrogenase levels (350 U/L).
+The patient complained of persistent high-grade fever for the past two weeks which failed to subside despite taking over-the-counter antipyretics regularly. She developed a generalized rash that initially appeared on her trunk and gradually spread to involve her arms and legs bilaterally as well as her palms and soles over the course of several days.
 
-Diagnostic Assessment
-Given the clinical presentation, the patient was suspected to have a viral illness with systemic involvement. Differential diagnoses included viral exanthems, such as measles or rubella, as well as infectious mononucleosis or an enteroviral infection.
+Concurrently with these symptoms, she experienced severe headaches localized at the back of her head along with neck stiffness that worsened when attempting to flex it forward. The patient also reported having a dry cough without any sputum production or associated wheezing.
 
-Further investigations were ordered, including serological testing for common viruses associated with exanthematous illnesses and a throat swab for polymerase chain reaction (PCR) analysis. In the meantime, the patient was placed in contact isolation to prevent potential transmission to healthcare workers and other patients.
+In addition to these constitutional symptoms, she described intermittent episodes of abdominal pain mainly located in her lower abdomen accompanied by loose stools that ranged from watery consistency to mild diarrhea without any blood or mucus content.
 
-Management
-Supportive care measures were initiated immediately upon admission. The patient received intravenous fluids to correct dehydration and paracetamol for fever control. Bed rest and close monitoring of vital signs were implemented.
+Physical Examination Findings:
 
-Outcome
-The results of serological testing came back positive for Epstein-Barr virus (EBV), confirming infectious mononucleosis as the underlying cause of the patient's symptoms. The PCR analysis
+Upon admission at St. Mary's Hospital, physical examination revealed an unremarkable general appearance except for mild dehydration signs such as dry oral mucosa and decreased skin turgor suggesting fluid depletion due to prolonged fever episodes.
+
+Dermatological examination showed a diffuse maculopapular rash involving the patient's trunk, arms, legs, and palms. The rash was non-blanchable and mildly pruritic.
+
+Neurological examination revealed nuchal rigidity with limited range of neck motion due to pain upon flexion. No focal neurological deficits were identified.
+
+Respiratory examination was unremarkable except for a dry cough heard during auscultation of the chest. There were no abnormal breath sounds or wheezing noted.
+
+Abdominal examination showed mild tenderness on palpation over the lower abdomen without any rebound tenderness or guarding. Bowel sounds were normal.
+
+Diagnostic Workup:
+
+Laboratory investigations were initiated to determine the underlying etiology of the patient's symptoms. Initial blood tests revealed leukocytosis (white blood cell count: 14,500 cells/mm³) with neutrophil predominance, elevated C-reactive protein (CRP) level (36 mg/L), and mild transaminitis (aspartate transaminase: 68 U/L; alanine transaminase: 52 U/L).
+
+A lumbar puncture was performed to assess for central nervous system involvement due to her severe headache and neck stiffness. Cerebrospinal fluid analysis showed clear appearance with an increased opening pressure but no evidence of pleocytosis or abnormal protein levels.
+
+Treatment Plan:
+
+The patient was initially started on empirical antibiotics to cover potential bacterial infections while awaiting further investigation results. Intravenous fluids were administered to correct her dehydration status, and antipyretics were continued for fever control.
+
+Infectious disease specialists were consulted for further evaluation and management considering the possibility of an infectious etiology such as viral exanthem or atypical presentation of a tropical infection given her recent travel history denial but persistent fever accompanied by rash.
+
+Further imaging studies including

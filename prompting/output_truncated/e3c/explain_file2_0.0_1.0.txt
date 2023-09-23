@@ -1,19 +1,23 @@
-This clinical case describes a patient who presented with various symptoms and signs that led to a diagnosis of hepatocellular carcinoma (liver cancer) during pregnancy. The patient had no known chronic illnesses, such as diabetes or hypertension, and denied any alcohol consumption or smoking. She also did not have any respiratory, cardiovascular, or urogenital symptoms.
+This clinical case describes a patient who presented with various symptoms and signs that led to the diagnosis of hepatocellular carcinoma (HCC) in pregnancy. The patient had no known chronic illnesses, such as diabetes or hypertension, and denied any alcohol consumption or smoking. She was also not aware of her hepatitis status.
 
-On examination, the patient showed wasting (unintentional weight loss), mild pallor (pale appearance), a tinge of jaundice (yellowing of the skin), but was well hydrated and had no fever. There were no palpable lymph nodes. Palmer erythema (redness on the palms) was observed, but there were no clubbing (enlargement of fingertips) or parotid enlargement.
+Upon examination, the patient exhibited wasting, mild pallor, and a tinge of jaundice. However, she was well hydrated and had no fever or palpable lymph nodes. Palmer erythema (redness on the palms) was observed but there were no signs of clubbing (enlargement of fingertips) or parotid enlargement (swelling of salivary glands). Respiratory, cardiovascular, and neurological examinations were unremarkable.
 
-The abdomen was grossly distended with distorted contour in the upper half and visibly distended anterior abdominal wall veins draining away from the umbilicus. The liver was enlarged 12cm below the costal margin with a span of 17cm. It felt hard, nodular with an irregular edge, mildly tender, and had a bruit on auscultation. Mild ascites (fluid accumulation in the abdomen) and bipedal edema up to mid-shin were present.
+The abdomen examination revealed gross distension with a distorted contour in the upper half and visibly distended anterior abdominal wall veins draining away from the umbilicus. The liver was enlarged 12cm below the costal margin with a span of 17cm. It felt hard and nodular with an irregular edge and mild tenderness on palpation. A bruit (abnormal sound) was heard upon auscultation. The spleen was not palpable but there was mild ascites (accumulation of fluid in the abdomen) and bipedal edema up to mid-shin.
 
-The patient was also pregnant with a breech presentation at 27 weeks and 3 days gestation. Fetal heart rate was normal at 134 beats per minute.
+Further assessment showed that she had a symphysio fundal height measuring 26 cm, indicating longitudinal lie (positioning of fetus along mother's spine) with breech presentation (baby's buttocks positioned to be delivered first). Fetal heart rate was regular at 134 beats per minute.
 
-Laboratory assessment revealed low hemoglobin levels (10.3g/dl), slightly elevated white blood cell count (10200 cells/dl) with increased neutrophils and decreased lymphocytes percentage-wise. Platelet count was within normal range at 350000/ul.
+Laboratory tests revealed low hemoglobin levels at 10.3g/dl but normal bilirubin levels. White blood cell count showed neutrophils at 59.3%, lymphocytes at 26.1%, monocytes at 10.1%, and eosinophils at 2.7%. Platelet count was within the normal range at 350,000/ul. Total protein and albumin levels were low at 44g/L and 29g/L, respectively. The international normalized ratio (INR), a measure of blood clotting, was elevated at 1.3.
 
-Liver function tests showed raised gamma-glutamyl transferase (GGT) and aspartate transaminase (AST). Total protein and albumin levels were low while international normalized ratio(INR)-1.3 indicated impaired liver function. The patient tested positive for hepatitis B surface antigen (HBsAg) and negative for hepatitis B e antigen (HBeAg). Hepatitis B viral load was measured at 126869 IU/ml. Syphilis screening test (VDRL) was positive, but confirmatory testing with TPHA was not done. The patient tested negative for HIV and hepatitis C virus (HCV).
+Further investigations revealed that the patient tested positive for hepatitis B surface antigen (HBsAg) but negative for hepatitis B e antigen (HBeAg). Her HBV DNA level was measured to be 126,869 IU/ml, indicating a high viral load. She tested negative for HIV and hepatitis C virus (HCV). Additionally, she had a positive VDRL test result (indicating exposure to syphilis) but TPHA testing was not performed.
 
-Abdominal ultrasound revealed a heterogeneous coarse liver with multiple hypoechoic lesions, indicating the presence of tumors. The liver size was increased to 17.2cm, and there was mild ascites present.
+Abdominal ultrasound showed a heterogeneous coarse liver with multiple hypoechoic lesions. The liver size measured 17.2cm with mild ascites present. Pelvic scan confirmed the presence of a fetus at approximately 27 weeks and three days gestation with active fetal movements.
 
-A revised diagnosis of hepatocellular carcinoma on a cirrhotic liver with decompensation during pregnancy was made.
+Based on these findings, the revised diagnosis was hepatocellular carcinoma on a cirrhotic liver with decompensation in pregnancy.
 
-The patient received management including pain relief medication, diuretics like furosemide and spironolactone to manage fluid accumulation, and lamivudine to prevent mother-to-child transmission of hepatitis B infection.
+The patient's management included analgesia for pain relief as well as furosemide and spironolactone to manage ascites and edema associated with liver dysfunction. Lamivudine was also added to prevent mother-to-child transmission of hepatitis B infection.
 
-The initial plan was to continue the pregnancy until at least 32 completed weeks to improve neonatal survival chances. However, due to progressive unbearable abdominal pain, the pregnancy was terminated
+The initial plan was to allow the pregnancy to continue until at least 32 completed weeks in order to improve neonatal survival chances; however, due to progressive unbearable abdominal pain, the pregnancy was terminated successfully via induction of labor at 30 weeks and three days gestation. Unfortunately, this resulted in a stillbirth weighing approximately 1.2kg.
+
+Post-delivery, the patient experienced marked reduction in pain and was discharged home after five days. She was scheduled for a follow-up visit at the gastrointestinal clinic but was lost to follow-up after two and four weeks post-discharge.
+
+In summary,

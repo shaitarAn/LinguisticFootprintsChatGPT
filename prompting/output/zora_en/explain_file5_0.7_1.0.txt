@@ -1,13 +1,19 @@
-The introduction of this Zora article provides background information on the linguistic situation in German-speaking Switzerland, specifically focusing on the concept of diglossia. Diglossia refers to the use of two varieties of a language in different contexts. In this case, the two varieties are Alemannic dialects (ALM) for oral communication and Swiss Standard German (SSG) for written communication.
+This introduction provides an overview of the linguistic situation in German-speaking Switzerland, specifically focusing on the phenomenon of diglossia. Diglossia refers to a situation where two distinct varieties of a language are used for different purposes.
 
-The article explains that in German-speaking Switzerland, everyone is a native speaker of a local dialect (ALM), while SSG is learned at school. However, both ALM and SSG can be used to some extent in each other's domains, and Swiss people often code-switch between them quickly.
+In German-speaking Switzerland, two varieties are used: Alemannic dialects (ALM) for oral communication and Swiss Standard German (SSG) for written communication. ALM dialects, also known as Swiss German or Mundart, are used by everyone as their native language, while SSG is learned in school. It is important to note that both ALM and SSG can be used to some extent in each other's domains, and Swiss people often code-switch between the two varieties.
 
-Given the contact between these two language varieties, it is not surprising that previous research has reported interferences on various linguistic levels such as phonetics, morphology, syntax, and vocabulary.
+The contact between these two varieties inevitably leads to interferences on various linguistic levels such as phonetics, morphology, syntax, and vocabulary. However, there has been limited research on the acoustic aspects of ALM dialects' vowels compared to SSG vowels.
 
-The article then highlights that there have been limited acoustic studies on ALM dialects and only one study comparing ALM and SSG vowels in specific regions. Therefore, the current study aims to systematically investigate vowel qualities in four ALM dialects (from Bern, Chur, Brig, and Zurich) as well as their respective SSG varieties using an instrumental phonetic approach.
+This study aims to systematically investigate the vowel qualities of four ALM dialects (from Bern, Chur, Brig, and Zurich) and their respective SSG varieties using an instrumental phonetic approach. It will provide a comparative acoustic analysis of long vowels produced by speakers from these regions.
 
-After describing the ALM dialects and SSG varieties spoken in German-speaking Switzerland briefly, the study will focus on analyzing long vowels produced by speakers from High ALM and Highest ALM subgroups. These subgroups are defined by multiple isoglosses that divide German-speaking Switzerland into northern and southern halves based on features like hiatus diphthongisation.
+The article then briefly describes the three subgroups of Swiss ALM dialects: Low ALM found only in Basel city, High ALM representing the northern half of German-speaking Switzerland's dialects, and Highest ALM spoken in the alpine southern half. The focus will be on High and Highest ALM due to their prevalence.
 
-However, it's important to note that these dialect groups are not entirely homogeneous; there also exists an east-west divide based on additional phonetic features like /l/-vocalisation. The article acknowledges that while there may be instances where these divides are not straightforward due to multiple variants existing for words or sounds within the dialect regions, they generally align with the north-south and east-west axes.
+The division into High and Highest Alemannic is based on multiple isoglosses that separate the northern half from the southern half. One notable difference is hiatus diphthongisation; High Alemannic developed a diphthong where Old High German had hiatus positions while Highest Alemannic maintained a monophthong.
 
-In conclusion, German-speaking Switzerland can be divided into four broad dialect regions based on these averaged isogloss divisions.
+However, the dialect groups are not entirely homogenous. There is also an east-west divide based on phonetic, lexical, and morphosyntactic isoglosses. For example, vocalisation of /l/ separates the western parts from the eastern parts.
+
+Although there are instances where these divisions are not straightforward and multiple variants exist for words or sounds, they tend to align with the north-south and east-west axes.
+
+In conclusion, German-speaking Switzerland can be divided into four broad dialect regions (excluding Basel and Samnaun), as depicted in Figure 1. This study aims to explore how SSG vowel qualities are influenced by speakers' dialects within this complex linguistic landscape.
+
+Overall, this introduction provides background information on diglossia in German-speaking Switzerland and sets up the research questions and hypotheses that will be addressed in the study. It highlights the need for a systematic investigation of vowel qualities in ALM dialects compared to SSG varieties using an instrumental phonetic approach.
