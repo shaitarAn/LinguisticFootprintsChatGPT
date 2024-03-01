@@ -1,0 +1,186 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 420
+Length of all lemmas: 335
+Length of singleton lemmas: 289
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 289
+der
+dict_values([30, 14, 19, 8, 6, 9])
+sum of wordFormDict.values() 86
+alt
+dict_values([15, 6, 1])
+sum of wordFormDict.values() 22
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 4, 3, 1])
+sum of wordFormDict.values() 10
+ein
+dict_values([16, 4, 2, 3, 1])
+sum of wordFormDict.values() 26
+ander
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([10, 2, 2])
+sum of wordFormDict.values() 14
+wichtig
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+individualisiert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+optimal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+berücksichtigen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+therapeutisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([14, 2, 1])
+sum of wordFormDict.values() 17
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sorgfältig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+meist
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+begrenzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([30, 14, 19, 8, 6, 9])
+sum of wordFormDict.values() 86
+alt
+dict_values([15, 6, 1])
+sum of wordFormDict.values() 22
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 4, 3, 1])
+sum of wordFormDict.values() 10
+ein
+dict_values([16, 4, 2, 3, 1])
+sum of wordFormDict.values() 26
+ander
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([10, 2, 2])
+sum of wordFormDict.values() 14
+wichtig
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+individualisiert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+optimal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+berücksichtigen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+therapeutisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([14, 2, 1])
+sum of wordFormDict.values() 17
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sorgfältig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+meist
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+begrenzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

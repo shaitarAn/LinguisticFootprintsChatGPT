@@ -1,0 +1,216 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 409
+Length of all lemmas: 304
+Length of singleton lemmas: 254
+Length of matched lemmas: 35
+Length of singleton maching lemmas: 254
+der
+dict_values([28, 16, 32, 17, 6, 6, 1])
+sum of wordFormDict.values() 106
+apologetisch
+dict_values([5, 7])
+sum of wordFormDict.values() 12
+moralisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 7, 3, 10, 2, 2, 1])
+sum of wordFormDict.values() 29
+haben
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+pornographisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+obszön
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+entschärfen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([5, 4, 10, 2])
+sum of wordFormDict.values() 21
+ein
+dict_values([2, 6, 4, 2, 1])
+sum of wordFormDict.values() 15
+ander
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+untersuchen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+umstritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mythologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+literarisch
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+bisherig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 3, 5])
+sum of wordFormDict.values() 10
+antik
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+möglich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 5, 1])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verwenden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sexuell
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+anstößig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+explizit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([6, 4])
+sum of wordFormDict.values() 10
+manipulativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([28, 16, 32, 17, 6, 6, 1])
+sum of wordFormDict.values() 106
+apologetisch
+dict_values([5, 7])
+sum of wordFormDict.values() 12
+moralisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 7, 3, 10, 2, 2, 1])
+sum of wordFormDict.values() 29
+haben
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+pornographisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+obszön
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+entschärfen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([5, 4, 10, 2])
+sum of wordFormDict.values() 21
+ein
+dict_values([2, 6, 4, 2, 1])
+sum of wordFormDict.values() 15
+ander
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+untersuchen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+umstritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mythologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+literarisch
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+bisherig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 3, 5])
+sum of wordFormDict.values() 10
+antik
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+möglich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 5, 1])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verwenden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sexuell
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+anstößig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+explizit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([6, 4])
+sum of wordFormDict.values() 10
+manipulativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2

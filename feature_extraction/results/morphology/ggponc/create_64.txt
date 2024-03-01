@@ -1,0 +1,174 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 399
+Length of all lemmas: 312
+Length of singleton lemmas: 278
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 278
+werden
+dict_values([3, 6, 6])
+sum of wordFormDict.values() 15
+der
+dict_values([27, 6, 16, 6, 2, 13, 1])
+sum of wordFormDict.values() 71
+ein
+dict_values([4, 10, 7, 6])
+sum of wordFormDict.values() 27
+sein
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 8, 5, 3, 1])
+sum of wordFormDict.values() 19
+empfohlen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+Ihr|ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antihormonell
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sollen
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+prophylaktisch
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emetogen
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+zielgerichtet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+angemessen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+antiemetisch
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+gewährleisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+berücksichtigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+adäquat
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unerwünscht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+multidisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 6, 6])
+sum of wordFormDict.values() 15
+der
+dict_values([27, 6, 16, 6, 2, 13, 1])
+sum of wordFormDict.values() 71
+ein
+dict_values([4, 10, 7, 6])
+sum of wordFormDict.values() 27
+sein
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 8, 5, 3, 1])
+sum of wordFormDict.values() 19
+empfohlen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+Ihr|ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antihormonell
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sollen
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+prophylaktisch
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emetogen
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+zielgerichtet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+angemessen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+antiemetisch
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+gewährleisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+berücksichtigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+adäquat
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unerwünscht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+multidisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2

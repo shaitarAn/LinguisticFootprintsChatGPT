@@ -1,0 +1,78 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 321
+Length of all lemmas: 265
+Length of singleton lemmas: 248
+Length of matched lemmas: 12
+Length of singleton maching lemmas: 248
+der
+dict_values([16, 2, 6, 7, 16, 6])
+sum of wordFormDict.values() 53
+systematisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([8, 2, 3, 4, 5, 2])
+sum of wordFormDict.values() 24
+gewährleisten
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+intensivmedizinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 5, 1])
+sum of wordFormDict.values() 9
+werden
+dict_values([4, 5, 5, 1])
+sum of wordFormDict.values() 15
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1, 2, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 2, 6, 7, 16, 6])
+sum of wordFormDict.values() 53
+systematisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([8, 2, 3, 4, 5, 2])
+sum of wordFormDict.values() 24
+gewährleisten
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+intensivmedizinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 5, 1])
+sum of wordFormDict.values() 9
+werden
+dict_values([4, 5, 5, 1])
+sum of wordFormDict.values() 15
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1, 2, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,162 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 436
+Length of all lemmas: 367
+Length of singleton lemmas: 333
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 333
+der
+dict_values([25, 9, 21, 16, 7, 6])
+sum of wordFormDict.values() 84
+sein
+dict_values([7, 3, 1, 3, 1])
+sum of wordFormDict.values() 15
+ein
+dict_values([4, 12, 2, 2, 2])
+sum of wordFormDict.values() 22
+massiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+betreffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 2, 3, 1])
+sum of wordFormDict.values() 8
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alternativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dringend
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+langfristig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+investieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verstärkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([25, 9, 21, 16, 7, 6])
+sum of wordFormDict.values() 84
+sein
+dict_values([7, 3, 1, 3, 1])
+sum of wordFormDict.values() 15
+ein
+dict_values([4, 12, 2, 2, 2])
+sum of wordFormDict.values() 22
+massiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+betreffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 2, 3, 1])
+sum of wordFormDict.values() 8
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alternativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dringend
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+langfristig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+investieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verstärkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,102 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 310
+Length of all lemmas: 248
+Length of singleton lemmas: 224
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 224
+spielen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([12, 7, 6])
+sum of wordFormDict.values() 25
+der
+dict_values([19, 18, 6, 6, 1])
+sum of wordFormDict.values() 50
+institutionell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+aufbauen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+vertrauensvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 4, 2])
+sum of wordFormDict.values() 10
+erfolgreich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([8, 5, 3])
+sum of wordFormDict.values() 16
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+offen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+transparenen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([12, 7, 6])
+sum of wordFormDict.values() 25
+der
+dict_values([19, 18, 6, 6, 1])
+sum of wordFormDict.values() 50
+institutionell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+aufbauen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+vertrauensvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 4, 2])
+sum of wordFormDict.values() 10
+erfolgreich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([8, 5, 3])
+sum of wordFormDict.values() 16
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+offen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+transparenen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

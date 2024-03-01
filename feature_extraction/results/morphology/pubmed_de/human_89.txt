@@ -1,0 +1,84 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 297
+Length of all lemmas: 255
+Length of singleton lemmas: 238
+Length of matched lemmas: 13
+Length of singleton maching lemmas: 238
+der
+dict_values([18, 7, 21, 2, 2, 1])
+sum of wordFormDict.values() 51
+digital
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+betrieblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pflegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 4])
+sum of wordFormDict.values() 7
+organisational
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 2, 2, 4, 1])
+sum of wordFormDict.values() 11
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([18, 7, 21, 2, 2, 1])
+sum of wordFormDict.values() 51
+digital
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+betrieblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pflegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 4])
+sum of wordFormDict.values() 7
+organisational
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 2, 2, 4, 1])
+sum of wordFormDict.values() 11
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3

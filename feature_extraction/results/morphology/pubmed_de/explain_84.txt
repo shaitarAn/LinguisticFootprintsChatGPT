@@ -1,0 +1,180 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 410
+Length of all lemmas: 334
+Length of singleton lemmas: 301
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 301
+der
+dict_values([24, 24, 9, 13, 8, 9, 1])
+sum of wordFormDict.values() 88
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 1, 7, 5])
+sum of wordFormDict.values() 16
+ein
+dict_values([6, 2, 3])
+sum of wordFormDict.values() 11
+stellen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 4, 1, 1])
+sum of wordFormDict.values() 8
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+geeignet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aufbauen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sammeln
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wissenschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+standortübergreifend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erheben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 2, 2, 1])
+sum of wordFormDict.values() 9
+beinhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+radiologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+einheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ermöglichen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+partnerschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+auftretend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([24, 24, 9, 13, 8, 9, 1])
+sum of wordFormDict.values() 88
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 1, 7, 5])
+sum of wordFormDict.values() 16
+ein
+dict_values([6, 2, 3])
+sum of wordFormDict.values() 11
+stellen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 4, 1, 1])
+sum of wordFormDict.values() 8
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+geeignet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aufbauen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sammeln
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wissenschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+standortübergreifend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erheben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 2, 2, 1])
+sum of wordFormDict.values() 9
+beinhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+radiologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+einheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ermöglichen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+partnerschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+auftretend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

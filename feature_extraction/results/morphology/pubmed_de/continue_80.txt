@@ -1,0 +1,138 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 312
+Length of all lemmas: 260
+Length of singleton lemmas: 235
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 235
+der
+dict_values([8, 19, 16, 11, 6, 5])
+sum of wordFormDict.values() 65
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([15, 2, 1, 2, 1])
+sum of wordFormDict.values() 21
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+onkologisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+lokal
+dict_values([8, 3])
+sum of wordFormDict.values() 11
+fortgeschritten
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 9])
+sum of wordFormDict.values() 13
+dies
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+können
+dict_values([1, 6, 1])
+sum of wordFormDict.values() 8
+bestmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verbessern
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erfolgen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+adjuvant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neoadjuvant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([8, 19, 16, 11, 6, 5])
+sum of wordFormDict.values() 65
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([15, 2, 1, 2, 1])
+sum of wordFormDict.values() 21
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+onkologisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+lokal
+dict_values([8, 3])
+sum of wordFormDict.values() 11
+fortgeschritten
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 9])
+sum of wordFormDict.values() 13
+dies
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+können
+dict_values([1, 6, 1])
+sum of wordFormDict.values() 8
+bestmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verbessern
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erfolgen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+adjuvant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neoadjuvant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

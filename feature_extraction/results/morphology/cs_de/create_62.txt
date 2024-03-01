@@ -1,0 +1,210 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 436
+Length of all lemmas: 320
+Length of singleton lemmas: 274
+Length of matched lemmas: 34
+Length of singleton maching lemmas: 274
+neu
+dict_values([7, 5, 2])
+sum of wordFormDict.values() 14
+der
+dict_values([28, 37, 12, 9, 9, 1])
+sum of wordFormDict.values() 96
+sein
+dict_values([10, 2, 4])
+sum of wordFormDict.values() 16
+ein
+dict_values([13, 1, 7, 10, 3, 3])
+sum of wordFormDict.values() 37
+können
+dict_values([2, 1, 7, 3])
+sum of wordFormDict.values() 13
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([11, 16, 5, 4, 2])
+sum of wordFormDict.values() 38
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+beobachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+speziell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([7, 2, 4, 6])
+sum of wordFormDict.values() 19
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+groß
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+ethisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+handeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+legen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dauern
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+betonen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirksam
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vielversprechend
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gezielt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoffen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([7, 5, 2])
+sum of wordFormDict.values() 14
+der
+dict_values([28, 37, 12, 9, 9, 1])
+sum of wordFormDict.values() 96
+sein
+dict_values([10, 2, 4])
+sum of wordFormDict.values() 16
+ein
+dict_values([13, 1, 7, 10, 3, 3])
+sum of wordFormDict.values() 37
+können
+dict_values([2, 1, 7, 3])
+sum of wordFormDict.values() 13
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([11, 16, 5, 4, 2])
+sum of wordFormDict.values() 38
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+beobachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+speziell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([7, 2, 4, 6])
+sum of wordFormDict.values() 19
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+groß
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+ethisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+handeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+legen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dauern
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+betonen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirksam
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vielversprechend
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gezielt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoffen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

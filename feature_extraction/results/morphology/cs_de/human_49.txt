@@ -1,0 +1,228 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 504
+Length of all lemmas: 392
+Length of singleton lemmas: 342
+Length of matched lemmas: 37
+Length of singleton maching lemmas: 342
+der
+dict_values([9, 8, 30, 6, 30, 15, 1, 3, 1])
+sum of wordFormDict.values() 103
+werden
+dict_values([5, 1, 4, 1, 1, 1, 1])
+sum of wordFormDict.values() 14
+sollen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([12, 5, 1, 1, 2, 2, 2, 1, 3, 1, 1])
+sum of wordFormDict.values() 31
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+welch
+dict_values([4, 6])
+sum of wordFormDict.values() 10
+dies
+dict_values([2, 2, 1, 1, 1])
+sum of wordFormDict.values() 7
+kennen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([11, 2])
+sum of wordFormDict.values() 13
+ein
+dict_values([9, 10, 6, 4, 1, 2])
+sum of wordFormDict.values() 32
+dürfen
+dict_values([1, 4, 1, 1])
+sum of wordFormDict.values() 7
+sammeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+erhalten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+erfolgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+nötig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entsprechend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+tief
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+moderat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entsprechen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+erfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+durchführen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([9, 8, 30, 6, 30, 15, 1, 3, 1])
+sum of wordFormDict.values() 103
+werden
+dict_values([5, 1, 4, 1, 1, 1, 1])
+sum of wordFormDict.values() 14
+sollen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([12, 5, 1, 1, 2, 2, 2, 1, 3, 1, 1])
+sum of wordFormDict.values() 31
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+welch
+dict_values([4, 6])
+sum of wordFormDict.values() 10
+dies
+dict_values([2, 2, 1, 1, 1])
+sum of wordFormDict.values() 7
+kennen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([11, 2])
+sum of wordFormDict.values() 13
+ein
+dict_values([9, 10, 6, 4, 1, 2])
+sum of wordFormDict.values() 32
+dürfen
+dict_values([1, 4, 1, 1])
+sum of wordFormDict.values() 7
+sammeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+erhalten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+erfolgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+nötig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entsprechend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+tief
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+moderat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entsprechen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+erfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+durchführen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3

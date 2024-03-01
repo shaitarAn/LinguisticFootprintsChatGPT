@@ -1,0 +1,144 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 373
+Length of all lemmas: 302
+Length of singleton lemmas: 273
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 273
+dies
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+der
+dict_values([3, 3, 26, 13, 21, 4])
+sum of wordFormDict.values() 70
+werden
+dict_values([17, 9, 2])
+sum of wordFormDict.values() 28
+sein
+dict_values([6, 1, 5, 1])
+sum of wordFormDict.values() 13
+messen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+ein
+dict_values([13, 1, 5, 5, 1])
+sum of wordFormDict.values() 25
+groß
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+pulsoxymetrisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betragen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+kritisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+arteriell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöht
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+permissiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+akut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+der
+dict_values([3, 3, 26, 13, 21, 4])
+sum of wordFormDict.values() 70
+werden
+dict_values([17, 9, 2])
+sum of wordFormDict.values() 28
+sein
+dict_values([6, 1, 5, 1])
+sum of wordFormDict.values() 13
+messen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+ein
+dict_values([13, 1, 5, 5, 1])
+sum of wordFormDict.values() 25
+groß
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+pulsoxymetrisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betragen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+kritisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+arteriell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöht
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+permissiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+akut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2

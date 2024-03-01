@@ -1,0 +1,186 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 442
+Length of all lemmas: 348
+Length of singleton lemmas: 310
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 310
+der
+dict_values([38, 24, 11, 11, 6, 12])
+sum of wordFormDict.values() 102
+ihr
+dict_values([2, 7, 1])
+sum of wordFormDict.values() 10
+europäisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+ein
+dict_values([7, 9, 13, 2, 1])
+sum of wordFormDict.values() 32
+dies
+dict_values([2, 5, 4, 1, 1])
+sum of wordFormDict.values() 13
+wirtschaftlich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+schwach
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+niedrig
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([8, 2, 1, 1])
+sum of wordFormDict.values() 12
+weit
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([10, 1, 4, 1])
+sum of wordFormDict.values() 16
+stark
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([1, 3, 1, 4])
+sum of wordFormDict.values() 9
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+negativ
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+führen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vorsichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+übermäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abrupt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([38, 24, 11, 11, 6, 12])
+sum of wordFormDict.values() 102
+ihr
+dict_values([2, 7, 1])
+sum of wordFormDict.values() 10
+europäisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+ein
+dict_values([7, 9, 13, 2, 1])
+sum of wordFormDict.values() 32
+dies
+dict_values([2, 5, 4, 1, 1])
+sum of wordFormDict.values() 13
+wirtschaftlich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+schwach
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+niedrig
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([8, 2, 1, 1])
+sum of wordFormDict.values() 12
+weit
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([10, 1, 4, 1])
+sum of wordFormDict.values() 16
+stark
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([1, 3, 1, 4])
+sum of wordFormDict.values() 9
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+negativ
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+führen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vorsichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+übermäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abrupt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2

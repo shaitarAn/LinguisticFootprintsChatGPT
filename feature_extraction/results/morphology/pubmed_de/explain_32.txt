@@ -1,0 +1,126 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 348
+Length of all lemmas: 286
+Length of singleton lemmas: 260
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 260
+dies
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([11, 7, 1])
+sum of wordFormDict.values() 19
+der
+dict_values([18, 27, 8, 7, 6, 9, 1])
+sum of wordFormDict.values() 76
+aktuell
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([3, 7, 2, 2, 3, 2])
+sum of wordFormDict.values() 19
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([2, 1, 2, 3])
+sum of wordFormDict.values() 8
+können
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+sollen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+genau
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+antibiotisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+eindeutig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+untersuchen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+pathogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+liefern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([11, 7, 1])
+sum of wordFormDict.values() 19
+der
+dict_values([18, 27, 8, 7, 6, 9, 1])
+sum of wordFormDict.values() 76
+aktuell
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([3, 7, 2, 2, 3, 2])
+sum of wordFormDict.values() 19
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([2, 1, 2, 3])
+sum of wordFormDict.values() 8
+können
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+sollen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+genau
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+antibiotisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+eindeutig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+untersuchen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+pathogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+liefern
+dict_values([1, 1])
+sum of wordFormDict.values() 2

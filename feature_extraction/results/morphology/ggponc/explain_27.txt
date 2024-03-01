@@ -1,0 +1,114 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 322
+Length of all lemmas: 254
+Length of singleton lemmas: 226
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 226
+der
+dict_values([3, 24, 26, 3, 3, 2])
+sum of wordFormDict.values() 61
+gehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+biliary
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([7, 7])
+sum of wordFormDict.values() 14
+dies
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+ein
+dict_values([13, 1, 6, 2, 1, 1])
+sum of wordFormDict.values() 24
+transpapillär
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 1, 1, 2])
+sum of wordFormDict.values() 7
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([7, 1, 1])
+sum of wordFormDict.values() 9
+weit
+dict_values([1, 4, 1, 1])
+sum of wordFormDict.values() 7
+ausschließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+biliär
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+visuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([3, 24, 26, 3, 3, 2])
+sum of wordFormDict.values() 61
+gehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+biliary
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([7, 7])
+sum of wordFormDict.values() 14
+dies
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+ein
+dict_values([13, 1, 6, 2, 1, 1])
+sum of wordFormDict.values() 24
+transpapillär
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 1, 1, 2])
+sum of wordFormDict.values() 7
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([7, 1, 1])
+sum of wordFormDict.values() 9
+weit
+dict_values([1, 4, 1, 1])
+sum of wordFormDict.values() 7
+ausschließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+biliär
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+visuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2

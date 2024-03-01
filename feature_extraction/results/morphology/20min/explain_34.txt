@@ -1,0 +1,120 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 349
+Length of all lemmas: 278
+Length of singleton lemmas: 254
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 254
+der
+dict_values([30, 30, 9, 6, 9, 4, 1])
+sum of wordFormDict.values() 89
+portugiesisch
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([4, 3, 4])
+sum of wordFormDict.values() 11
+können
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+sein
+dict_values([1, 1, 6, 3, 1])
+sum of wordFormDict.values() 12
+bestehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 9, 1, 2])
+sum of wordFormDict.values() 13
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mangelnd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 4, 3, 1, 1])
+sum of wordFormDict.values() 14
+zeitlich
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+neu
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+haben
+dict_values([1, 5, 2, 2])
+sum of wordFormDict.values() 10
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([30, 30, 9, 6, 9, 4, 1])
+sum of wordFormDict.values() 89
+portugiesisch
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([4, 3, 4])
+sum of wordFormDict.values() 11
+können
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+sein
+dict_values([1, 1, 6, 3, 1])
+sum of wordFormDict.values() 12
+bestehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 9, 1, 2])
+sum of wordFormDict.values() 13
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mangelnd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 4, 3, 1, 1])
+sum of wordFormDict.values() 14
+zeitlich
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+neu
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+haben
+dict_values([1, 5, 2, 2])
+sum of wordFormDict.values() 10
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2

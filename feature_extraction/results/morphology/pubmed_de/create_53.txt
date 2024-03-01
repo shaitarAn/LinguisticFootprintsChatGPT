@@ -1,0 +1,174 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 389
+Length of all lemmas: 307
+Length of singleton lemmas: 272
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 272
+der
+dict_values([20, 28, 31, 13, 9, 7, 1, 1])
+sum of wordFormDict.values() 110
+ihr
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+haben
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+ein
+dict_values([6, 2, 1])
+sum of wordFormDict.values() 9
+wichtig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+digital
+dict_values([11, 10, 1])
+sum of wordFormDict.values() 22
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([14, 1, 4])
+sum of wordFormDict.values() 19
+dies
+dict_values([6, 8, 1])
+sum of wordFormDict.values() 15
+untersuchen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+welch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+beitragen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([8, 3])
+sum of wordFormDict.values() 11
+erfassen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+argumentieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interaktiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erwarten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+durchführen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+analysieren
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+wir
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+liefern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([20, 28, 31, 13, 9, 7, 1, 1])
+sum of wordFormDict.values() 110
+ihr
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+haben
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+ein
+dict_values([6, 2, 1])
+sum of wordFormDict.values() 9
+wichtig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+digital
+dict_values([11, 10, 1])
+sum of wordFormDict.values() 22
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([14, 1, 4])
+sum of wordFormDict.values() 19
+dies
+dict_values([6, 8, 1])
+sum of wordFormDict.values() 15
+untersuchen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+welch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+beitragen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([8, 3])
+sum of wordFormDict.values() 11
+erfassen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+argumentieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interaktiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erwarten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+durchführen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+analysieren
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+wir
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+liefern
+dict_values([1, 1])
+sum of wordFormDict.values() 2

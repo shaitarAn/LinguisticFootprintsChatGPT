@@ -1,0 +1,12 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 346
+Length of all lemmas: 361
+Length of singleton lemmas: 360
+Length of matched lemmas: 1
+Length of singleton maching lemmas: 360
+adolescent
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+adolescent
+dict_values([5, 1])
+sum of wordFormDict.values() 6

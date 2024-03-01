@@ -1,0 +1,132 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 360
+Length of all lemmas: 286
+Length of singleton lemmas: 259
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 259
+der
+dict_values([24, 22, 1, 4, 8, 5, 9])
+sum of wordFormDict.values() 73
+europäisch
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+haben
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([6, 4, 5, 3, 1, 1])
+sum of wordFormDict.values() 20
+möglich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([8, 3, 1, 2, 1, 1])
+sum of wordFormDict.values() 16
+stabilisieren
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+bestehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+planen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verringern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([24, 22, 1, 4, 8, 5, 9])
+sum of wordFormDict.values() 73
+europäisch
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+haben
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([6, 4, 5, 3, 1, 1])
+sum of wordFormDict.values() 20
+möglich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([8, 3, 1, 2, 1, 1])
+sum of wordFormDict.values() 16
+stabilisieren
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+bestehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+planen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verringern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,168 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 420
+Length of all lemmas: 344
+Length of singleton lemmas: 308
+Length of matched lemmas: 27
+Length of singleton maching lemmas: 308
+der
+dict_values([1, 32, 32, 8, 4, 9, 3, 6])
+sum of wordFormDict.values() 95
+stellen
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([17, 2, 6, 2, 1])
+sum of wordFormDict.values() 28
+dies
+dict_values([6, 6, 3, 1, 1])
+sum of wordFormDict.values() 17
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([5, 1, 4])
+sum of wordFormDict.values() 10
+bildgebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+diagnostisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+können
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+werden
+dict_values([9, 2, 5])
+sum of wordFormDict.values() 16
+sein
+dict_values([1, 6, 3])
+sum of wordFormDict.values() 10
+ermöglichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+genau
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neurodegenerativ
+dict_values([5, 9])
+sum of wordFormDict.values() 14
+häufig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+differenzialdiagnostisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gewinnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beitragen
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+spezifisch
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([1, 32, 32, 8, 4, 9, 3, 6])
+sum of wordFormDict.values() 95
+stellen
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([17, 2, 6, 2, 1])
+sum of wordFormDict.values() 28
+dies
+dict_values([6, 6, 3, 1, 1])
+sum of wordFormDict.values() 17
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([5, 1, 4])
+sum of wordFormDict.values() 10
+bildgebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+diagnostisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+können
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+werden
+dict_values([9, 2, 5])
+sum of wordFormDict.values() 16
+sein
+dict_values([1, 6, 3])
+sum of wordFormDict.values() 10
+ermöglichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+genau
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neurodegenerativ
+dict_values([5, 9])
+sum of wordFormDict.values() 14
+häufig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+differenzialdiagnostisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gewinnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beitragen
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+spezifisch
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3

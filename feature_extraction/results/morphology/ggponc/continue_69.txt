@@ -1,0 +1,174 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 399
+Length of all lemmas: 329
+Length of singleton lemmas: 288
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 288
+der
+dict_values([31, 12, 42, 11, 10, 11])
+sum of wordFormDict.values() 117
+histologisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([7, 8, 1, 2])
+sum of wordFormDict.values() 18
+ermöglichen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([17, 7, 1])
+sum of wordFormDict.values() 25
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 12])
+sum of wordFormDict.values() 14
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prognostisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+präsentieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+besonder
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+beinhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+speziell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+diagnostisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gewährleisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neoadjuvant
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+systemisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+histopathologisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([31, 12, 42, 11, 10, 11])
+sum of wordFormDict.values() 117
+histologisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([7, 8, 1, 2])
+sum of wordFormDict.values() 18
+ermöglichen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([17, 7, 1])
+sum of wordFormDict.values() 25
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 12])
+sum of wordFormDict.values() 14
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prognostisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+präsentieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+besonder
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+beinhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+speziell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+diagnostisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gewährleisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neoadjuvant
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+systemisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+histopathologisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

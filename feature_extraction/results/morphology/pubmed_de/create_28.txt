@@ -1,0 +1,174 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 397
+Length of all lemmas: 318
+Length of singleton lemmas: 284
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 284
+der
+dict_values([28, 8, 36, 8, 1, 8, 5])
+sum of wordFormDict.values() 94
+sein
+dict_values([6, 4])
+sum of wordFormDict.values() 10
+ein
+dict_values([13, 9, 3, 2, 1])
+sum of wordFormDict.values() 28
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 7])
+sum of wordFormDict.values() 11
+schwer
+dict_values([1, 9])
+sum of wordFormDict.values() 10
+viel
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([11, 1, 1, 2])
+sum of wordFormDict.values() 15
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erforderlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 2, 5, 2, 1])
+sum of wordFormDict.values() 14
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+notwendig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+parodontal
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([12, 1])
+sum of wordFormDict.values() 13
+befassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verstärkt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+analysieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([28, 8, 36, 8, 1, 8, 5])
+sum of wordFormDict.values() 94
+sein
+dict_values([6, 4])
+sum of wordFormDict.values() 10
+ein
+dict_values([13, 9, 3, 2, 1])
+sum of wordFormDict.values() 28
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 7])
+sum of wordFormDict.values() 11
+schwer
+dict_values([1, 9])
+sum of wordFormDict.values() 10
+viel
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([11, 1, 1, 2])
+sum of wordFormDict.values() 15
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erforderlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 2, 5, 2, 1])
+sum of wordFormDict.values() 14
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+notwendig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+parodontal
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([12, 1])
+sum of wordFormDict.values() 13
+befassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verstärkt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+analysieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2

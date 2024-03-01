@@ -1,0 +1,168 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 435
+Length of all lemmas: 329
+Length of singleton lemmas: 292
+Length of matched lemmas: 27
+Length of singleton maching lemmas: 292
+dies
+dict_values([1, 3, 4, 1])
+sum of wordFormDict.values() 9
+ein
+dict_values([5, 7, 7, 3, 7, 3])
+sum of wordFormDict.values() 32
+der
+dict_values([25, 28, 11, 18, 14, 3, 1])
+sum of wordFormDict.values() 100
+werden
+dict_values([6, 7, 9, 1, 3, 1])
+sum of wordFormDict.values() 27
+kommen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 2, 10, 1, 3, 1])
+sum of wordFormDict.values() 22
+ander
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+teilnehmen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+frühzeitig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+entdecken
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+können
+dict_values([2, 2, 2, 2])
+sum of wordFormDict.values() 8
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+führen
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+positiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+reduziert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+unauffällig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 3, 4, 1])
+sum of wordFormDict.values() 9
+ein
+dict_values([5, 7, 7, 3, 7, 3])
+sum of wordFormDict.values() 32
+der
+dict_values([25, 28, 11, 18, 14, 3, 1])
+sum of wordFormDict.values() 100
+werden
+dict_values([6, 7, 9, 1, 3, 1])
+sum of wordFormDict.values() 27
+kommen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 2, 10, 1, 3, 1])
+sum of wordFormDict.values() 22
+ander
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+teilnehmen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+frühzeitig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+entdecken
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+können
+dict_values([2, 2, 2, 2])
+sum of wordFormDict.values() 8
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+führen
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+positiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+reduziert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+unauffällig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

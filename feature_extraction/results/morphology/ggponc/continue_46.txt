@@ -1,0 +1,126 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 346
+Length of all lemmas: 275
+Length of singleton lemmas: 247
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 247
+der
+dict_values([28, 18, 6, 9, 5, 7, 1])
+sum of wordFormDict.values() 74
+haben
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ein
+dict_values([8, 2, 2, 2])
+sum of wordFormDict.values() 14
+indisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 4, 1, 6])
+sum of wordFormDict.values() 13
+zeigen
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+positiv
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+können
+dict_values([7, 13])
+sum of wordFormDict.values() 20
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beitragen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 10, 5, 1])
+sum of wordFormDict.values() 18
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+lassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entzündlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([28, 18, 6, 9, 5, 7, 1])
+sum of wordFormDict.values() 74
+haben
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ein
+dict_values([8, 2, 2, 2])
+sum of wordFormDict.values() 14
+indisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 4, 1, 6])
+sum of wordFormDict.values() 13
+zeigen
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+positiv
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+können
+dict_values([7, 13])
+sum of wordFormDict.values() 20
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beitragen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 10, 5, 1])
+sum of wordFormDict.values() 18
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+lassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entzündlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

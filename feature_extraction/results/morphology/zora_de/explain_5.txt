@@ -1,0 +1,162 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 398
+Length of all lemmas: 291
+Length of singleton lemmas: 251
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 251
+der
+dict_values([25, 8, 10, 24, 19, 4])
+sum of wordFormDict.values() 90
+dies
+dict_values([3, 6, 1, 1, 3])
+sum of wordFormDict.values() 14
+werden
+dict_values([5, 1, 6, 8, 3])
+sum of wordFormDict.values() 23
+er
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([3, 6, 1, 2, 2, 1])
+sum of wordFormDict.values() 15
+schreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 4, 4, 1, 2, 3, 3, 1])
+sum of wordFormDict.values() 23
+entstehen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erwähnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zuschreiben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1, 2, 1])
+sum of wordFormDict.values() 6
+früh
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+spät
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+literarisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+untersuchen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([25, 8, 10, 24, 19, 4])
+sum of wordFormDict.values() 90
+dies
+dict_values([3, 6, 1, 1, 3])
+sum of wordFormDict.values() 14
+werden
+dict_values([5, 1, 6, 8, 3])
+sum of wordFormDict.values() 23
+er
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([3, 6, 1, 2, 2, 1])
+sum of wordFormDict.values() 15
+schreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 4, 4, 1, 2, 3, 3, 1])
+sum of wordFormDict.values() 23
+entstehen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erwähnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zuschreiben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1, 2, 1])
+sum of wordFormDict.values() 6
+früh
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+spät
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+literarisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+untersuchen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

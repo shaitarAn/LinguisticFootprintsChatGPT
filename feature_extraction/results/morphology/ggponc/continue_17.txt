@@ -1,0 +1,186 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 421
+Length of all lemmas: 326
+Length of singleton lemmas: 290
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 290
+sein
+dict_values([13, 4, 1, 1, 1])
+sum of wordFormDict.values() 20
+wichtig
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+der
+dict_values([25, 15, 27, 1, 8, 6, 6, 1])
+sum of wordFormDict.values() 89
+verschieden
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+aromatisch
+dict_values([11, 2, 1, 1])
+sum of wordFormDict.values() 15
+ein
+dict_values([1, 10, 6, 1, 12, 1])
+sum of wordFormDict.values() 31
+gut
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([10, 7, 1])
+sum of wordFormDict.values() 18
+dies
+dict_values([2, 3, 4, 1, 1, 1])
+sum of wordFormDict.values() 12
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+sogenannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+primär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+enthalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 5, 4, 4])
+sum of wordFormDict.values() 16
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sekundär
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+karzinogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beruflich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+identifizieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genetisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+natürlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([13, 4, 1, 1, 1])
+sum of wordFormDict.values() 20
+wichtig
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+der
+dict_values([25, 15, 27, 1, 8, 6, 6, 1])
+sum of wordFormDict.values() 89
+verschieden
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+aromatisch
+dict_values([11, 2, 1, 1])
+sum of wordFormDict.values() 15
+ein
+dict_values([1, 10, 6, 1, 12, 1])
+sum of wordFormDict.values() 31
+gut
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([10, 7, 1])
+sum of wordFormDict.values() 18
+dies
+dict_values([2, 3, 4, 1, 1, 1])
+sum of wordFormDict.values() 12
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+sogenannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+primär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+enthalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 5, 4, 4])
+sum of wordFormDict.values() 16
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sekundär
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+karzinogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beruflich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+identifizieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genetisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+natürlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

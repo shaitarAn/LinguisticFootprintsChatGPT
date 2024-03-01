@@ -1,0 +1,150 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 315
+Length of all lemmas: 250
+Length of singleton lemmas: 224
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 224
+der
+dict_values([13, 8, 2, 7, 10, 2])
+sum of wordFormDict.values() 42
+nehmen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ich
+dict_values([16, 2, 4])
+sum of wordFormDict.values() 22
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 6, 1, 2, 2])
+sum of wordFormDict.values() 14
+ein
+dict_values([3, 1, 6, 4, 1])
+sum of wordFormDict.values() 15
+finden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+essen
+dict_values([1, 1, 3, 1])
+sum of wordFormDict.values() 6
+Ihr|ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([7, 3, 1])
+sum of wordFormDict.values() 11
+abnehmen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einschränken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+Abnehmen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+mein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+brauchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([13, 8, 2, 7, 10, 2])
+sum of wordFormDict.values() 42
+nehmen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ich
+dict_values([16, 2, 4])
+sum of wordFormDict.values() 22
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 6, 1, 2, 2])
+sum of wordFormDict.values() 14
+ein
+dict_values([3, 1, 6, 4, 1])
+sum of wordFormDict.values() 15
+finden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+essen
+dict_values([1, 1, 3, 1])
+sum of wordFormDict.values() 6
+Ihr|ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([7, 3, 1])
+sum of wordFormDict.values() 11
+abnehmen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einschränken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+Abnehmen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+mein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+brauchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

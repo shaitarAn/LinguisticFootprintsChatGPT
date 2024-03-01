@@ -1,0 +1,270 @@
+Patient: patient|5	patienten|6
+:: :|11
+Name: name|1
+Herr: herr|6	herrn|4
+Müller: müller|9
+alt: alter|1
+64: 64|1
+Jahr: jahre|1
+Geschlecht: geschlecht|1
+männlich: männlich|1
+Anamnese: anamnese|1
+kommen: kommt|3
+in: in|13
+der: die|14	dem|12	der|25	des|5	den|6	das|2
+dermatologisch: dermatologische|2	dermatologischen|1
+Klinik: klinik|3
+mit: mit|7
+Beschwerde: beschwerden|1
+Gesicht: gesicht|5
+und: und|19
+auf: auf|13
+Kopfhaut: kopfhaut|5
+.: .|34
+er: er|6	ihm|2	ihn|1
+berichten: berichtet|1
+,: ,|20
+dass: dass|8
+er|es|sie: sich|5
+vor: vor|1
+einige: einigen|1
+Monat: monaten|1
+rot: rote|1
+schuppig: schuppige|1
+Veränderung: veränderungen|2
+sein: seiner|5	sind|3	seine|4	ist|3
+Haut: haut|4
+entwickeln: entwickelt|1
+haben: haben|3	hat|4	hatte|1
+dies: diese|2	dieser|3	dies|1
+nun: nun|1
+groß: größer|1
+werden: geworden|1	werden|3	wird|6	wurde|2
+verursachen: verursachen|1
+gelegentlich: gelegentlich|1
+Juckreiz: juckreiz|1
+leicht: leichte|2	leicht|1
+Schmerz: schmerzen|2
+geben: gibt|3
+an: an|3
+Vergangenheit: vergangenheit|1
+viel: viel|1
+Zeit: zeit|2
+Freie: freien|2
+verbringen: verbracht|1
+oft: oft|1
+Sonnenbrand: sonnenbrände|1
+auch: auch|4
+Arbeit: arbeit|1
+regelmäßig: regelmäßig|2	regelmäßige|1
+Sonne: sonne|1
+aussetzen: ausgesetzt|3
+außerdem: außerdem|1
+rauchen: raucht|1
+Alkohol: alkohol|1
+konsumieren: konsumiert|1
+Untersuchungsbefund: untersuchungsbefund|1
+bei: bei|4
+körperlichen: körperlichen|1
+Untersuchung: untersuchung|2
+finden: findet|1
+ein: eine|8	eines|1	einem|2	einen|2	einer|2
+großflächig: großflächige|1	großflächig|1
+Rötung: rötung|3
+Schuppung: schuppung|3
+sowie: sowie|3
+behaart: behaarten|1
+es: es|2
+verschieden: verschiedene|1
+klar: klar|1
+abgrenzbar: abgrenzbare|1
+erhaben: erhabene|1
+Läsion: läsionen|2
+feststellen: festgestellt|1
+Diagnose: diagnose|1
+aufgrund: aufgrund|2
+klinisch: klinischen|2	klinische|1
+Bild: bildes|1	bild|1
+aktinisch: aktinische|1	aktinischer|2	aktinischen|2
+Keratose: keratose|2	keratosen|3
+(: (|3
+AK: ak|1
+): )|3
+diagnostizieren: diagnostiziert|1
+möglicherweise: möglicherweise|1
+Anzeichen: anzeichen|1
+beginnend: beginnenden|1
+Plattenepithelkarzinom: plattenepithelkarzinoms|1	plattenepithelkarzinom|1
+darstellen: darstellt|1
+Therapieempfehlung: therapieempfehlung|1
+basierend: basierend|1
+medizinisch: medizinischen|1
+Leitlinie: leitlinien|1
+für: für|5
+Behandlung: behandlung|4
+von: von|4
+empfiehlen: empfiehlt|2
+Dermatologe: dermatologe|6
+MAL-PDT: mal-pdt|3
+Methylaminolevulinate: methylaminolevulinate|1
+-: -|4
+Photodynamisch: photodynamische|1
+Therapie: therapie|2
+Tageslichtdurchführung: tageslichtdurchführung|1
+ausführlich: ausführlichen|2
+Gespräch: gespräch|1
+erklären: erklärt|2
+Therapieansatz: therapieansatz|1
+dabei: dabei|1
+betonen: betont|1
+um: um|2
+innovativ: innovative|1
+Methode: methode|1
+handeln: handelt|1
+seit: seit|1
+2015: 2015|1
+zulassen: zugelassen|1
+vielversprechend: vielversprechende|1
+Ergebnis: ergebnisse|1
+Studie|Studium: studien|1
+zeigen: gezeigt|1	zeigt|1
+Tageslicht-PDT: tageslicht-pdt|1
+bestehen: besteht|1
+aus: aus|1
+Vorbehandlung: vorbehandlung|1
+chemisch: chemischen|1
+Lichtschutzfilter: lichtschutzfilter|2
+betroffen: betroffenen|1
+Hautstelle: hautstellen|1
+anschließend: anschließender|1
+Applikation: applikation|1
+Mal: mal|1
+Creme: creme|3	cremes|1
+dann: dann|2
+2: 2|2
+Stunde|Stunden: stunden|2
+Tageslicht: tageslicht|2
+weisen: weist|1
+darauf: darauf|1
+hin: hin|1
+Therapieoption: therapieoption|1
+nur: nur|2
+geeignet: geeigneten|1
+Wetterbedingung: wetterbedingungen|1
+durchführen: durchgeführt|1
+können: kann|3
+April: april|1
+September: september|1
+Außentemperatur: außentemperatur|1
+>: >|1
+10°C: 10°c|1
+wolkenlos: wolkenlos|1
+bis: bis|1
+bedeckter: bedeckter|1
+Himmel: himmel|1
+kein: kein|1	keine|1
+Regen: regen|1
+klären: klärt|1
+darüber: darüber|1
+Anwendung: anwendung|1
+gewiß: gewisse|1
+Nebenwirkung: nebenwirkungen|1
+wie: wie|2
+vorübergehend: vorübergehende|1
+oder: oder|2
+Brennen: brennen|1
+während: während|2
+Belichtung: belichtung|1
+nach: nach|3
+Beratung: beratung|1
+stimmen: stimmt|1
+Tageslichttherapie: tageslichttherapie|2
+zu: zu|8
+vereinbaren: vereinbart|1
+Termin: termin|1
+Durchführung: durchführung|1
+Behandlungsverlauf: behandlungsverlauf|1
+vereinbart: vereinbarten|1
+Tag: tag|1	tagen|1
+zurück: zurück|1
+zuvor: zuvor|1
+gut: gut|2	guten|1
+reinigen: gereinigt|1
+möglich: möglichen|1	möglicher|1
+kosmetisch: kosmetischen|1
+Produkt: produkten|1
+befreien: befreit|1
+tragen: trägt|1
+dünn: dünnen|1	dünne|1
+Schicht: schichten|1	schicht|1
+gleichmäßig: gleichmäßig|1
+gesamt: gesamte|1
+nachdem: nachdem|1
+trocken: trocken|1
+mal: mal|1
+applizieren: appliziert|1
+Bedingung: bedingungen|1
+erfüllen: erfüllen|1
+alle: alle|1
+Anforderung: anforderungen|1
+fühlen: fühlt|1
+wohl: wohl|1
+Ablauf: ablauf|1
+Belichtungszeit: belichtungszeit|1
+gründlich: gründlich|1
+abgewaschen: abgewaschen|1
+posttherapeutisch: posttherapeutisch|1
+was: was|1
+jedoch: jedoch|2
+als: als|1
+normal: normale|1
+Reaktion: reaktion|1
+einordnen: eingeordnet|1
+nah: nächsten|1
+abklingen: abklingen|1
+sollen: sollte|1
+Hinweis: hinweise|1
+Pflege: pflege|1
+Beispiel: beispiel|1
+feuchtigkeitsspendend: feuchtigkeitsspendende|1
+Sonnenschutzmittel: sonnenschutzmittel|1
+weit: weiteren|1	weitere|1
+Heilverlauf: heilverlauf|1
+Follow-up: follow-up|1
+zwei: zwei|1
+Woche: wochen|1
+spät: später|1
+Kontrolluntersuchung: kontrolluntersuchung|1	kontrolluntersuchungen|2
+stellen: stellt|1
+heraus: heraus|1
+deutlich: deutlich|1
+zurückgehen: zurückgegangen|1
+komplett: komplett|1
+abgeheilen: abgeheilt|1
+noch: noch|1
+weniger: wenige|1
+verblieben: verbliebene|1
+sichtbar: sichtbar|1
+Therapieerfolg: therapieerfolgs|1
+notwendig: notwendig|1
+frühzeitig: frühzeitigen|1	frühzeitig|1
+Erkennung: erkennung|1
+rezidivierend: rezidivierender|1
+Plattenepithelkarzinome: plattenepithelkarzinome|1
+Fazit: fazit|1
+Müllers: müllers|1
+Hautveränderung: hautveränderungen|1
+erfolgreich: erfolgreich|1
+behandeln: behandelt|1	behandeln|1
+angesprochen: angesprochen|1
+ausreichend: ausreichende|1
+Remission: remission|1
+erreichen: erreicht|1
+durch: durch|1
+regelmäßige: regelmäßige|1
+dauerhaft: dauerhafte|1
+Überwachung: überwachung|1
+gewährleisten: gewährleistet|1
+eventuell: eventuelle|1
+Rezidive: rezidive|1
+erkennen: erkennen|1

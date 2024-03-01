@@ -1,0 +1,126 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 372
+Length of all lemmas: 289
+Length of singleton lemmas: 263
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 263
+ein
+dict_values([6, 1, 2, 2, 3, 4])
+sum of wordFormDict.values() 18
+der
+dict_values([3, 6, 1, 10, 8, 6, 8, 1])
+sum of wordFormDict.values() 43
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([6, 2, 1, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([7, 2, 3, 2, 5, 1, 1])
+sum of wordFormDict.values() 21
+haben
+dict_values([2, 7, 2])
+sum of wordFormDict.values() 11
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+voll
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+mein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wirtschaftlich
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 1, 2, 2, 3, 4])
+sum of wordFormDict.values() 18
+der
+dict_values([3, 6, 1, 10, 8, 6, 8, 1])
+sum of wordFormDict.values() 43
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([6, 2, 1, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([7, 2, 3, 2, 5, 1, 1])
+sum of wordFormDict.values() 21
+haben
+dict_values([2, 7, 2])
+sum of wordFormDict.values() 11
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+voll
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+mein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wirtschaftlich
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

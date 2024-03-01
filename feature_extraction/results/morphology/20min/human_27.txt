@@ -1,0 +1,144 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 453
+Length of all lemmas: 383
+Length of singleton lemmas: 358
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 358
+sein
+dict_values([11, 2, 3, 2, 1, 1, 1])
+sum of wordFormDict.values() 21
+der
+dict_values([21, 7, 27, 14, 6, 19])
+sum of wordFormDict.values() 94
+acht
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([3, 3, 3])
+sum of wordFormDict.values() 9
+ein
+dict_values([7, 7, 4, 1, 1])
+sum of wordFormDict.values() 20
+klassisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 1, 2, 1])
+sum of wordFormDict.values() 9
+beweisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehören
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+elektrisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([11, 2, 3, 2, 1, 1, 1])
+sum of wordFormDict.values() 21
+der
+dict_values([21, 7, 27, 14, 6, 19])
+sum of wordFormDict.values() 94
+acht
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([3, 3, 3])
+sum of wordFormDict.values() 9
+ein
+dict_values([7, 7, 4, 1, 1])
+sum of wordFormDict.values() 20
+klassisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 1, 2, 1])
+sum of wordFormDict.values() 9
+beweisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehören
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+elektrisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,210 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 414
+Length of all lemmas: 313
+Length of singleton lemmas: 267
+Length of matched lemmas: 34
+Length of singleton maching lemmas: 267
+aktuell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+interdisziplinär
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([28, 13, 8, 28, 9, 2, 1])
+sum of wordFormDict.values() 89
+haben
+dict_values([3, 5, 1])
+sum of wordFormDict.values() 9
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([6, 8, 3, 2])
+sum of wordFormDict.values() 19
+gesellschaftlich
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([7, 4, 3, 6])
+sum of wordFormDict.values() 20
+–wissenschaftler
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 5])
+sum of wordFormDict.values() 7
+eröffnen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 1, 4, 1])
+sum of wordFormDict.values() 7
+sozial
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+vergangen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([10, 1])
+sum of wordFormDict.values() 11
+sollen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([7, 1, 5])
+sum of wordFormDict.values() 13
+erfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ganzheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+analysieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beeinflussen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+diskutieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beitragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+tragen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+umfassend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+interdisziplinär
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([28, 13, 8, 28, 9, 2, 1])
+sum of wordFormDict.values() 89
+haben
+dict_values([3, 5, 1])
+sum of wordFormDict.values() 9
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([6, 8, 3, 2])
+sum of wordFormDict.values() 19
+gesellschaftlich
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([7, 4, 3, 6])
+sum of wordFormDict.values() 20
+–wissenschaftler
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 5])
+sum of wordFormDict.values() 7
+eröffnen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 1, 4, 1])
+sum of wordFormDict.values() 7
+sozial
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+vergangen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([10, 1])
+sum of wordFormDict.values() 11
+sollen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([7, 1, 5])
+sum of wordFormDict.values() 13
+erfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ganzheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+analysieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beeinflussen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+diskutieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beitragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+tragen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+umfassend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

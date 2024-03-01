@@ -1,0 +1,162 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 402
+Length of all lemmas: 317
+Length of singleton lemmas: 286
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 286
+der
+dict_values([27, 29, 18, 8, 16, 13])
+sum of wordFormDict.values() 111
+beschreiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+acht
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([10, 2, 1, 2, 1, 1, 1, 2, 1])
+sum of wordFormDict.values() 21
+ein
+dict_values([6, 12, 3, 2, 1])
+sum of wordFormDict.values() 24
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+neu
+dict_values([1, 9, 2])
+sum of wordFormDict.values() 12
+werden
+dict_values([7, 1, 3, 2])
+sum of wordFormDict.values() 13
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erklären
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+können
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+elektrisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vielfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nahend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fahren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([27, 29, 18, 8, 16, 13])
+sum of wordFormDict.values() 111
+beschreiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+acht
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([10, 2, 1, 2, 1, 1, 1, 2, 1])
+sum of wordFormDict.values() 21
+ein
+dict_values([6, 12, 3, 2, 1])
+sum of wordFormDict.values() 24
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+neu
+dict_values([1, 9, 2])
+sum of wordFormDict.values() 12
+werden
+dict_values([7, 1, 3, 2])
+sum of wordFormDict.values() 13
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erklären
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+können
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+elektrisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vielfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nahend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fahren
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,198 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 423
+Length of all lemmas: 328
+Length of singleton lemmas: 286
+Length of matched lemmas: 32
+Length of singleton maching lemmas: 286
+ein
+dict_values([17, 5, 1, 4, 1, 3])
+sum of wordFormDict.values() 31
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([24, 5, 21, 6, 4, 1])
+sum of wordFormDict.values() 61
+unterschiedlich
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+sein
+dict_values([2, 4, 7, 1])
+sum of wordFormDict.values() 14
+medizinisch
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+1
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([8, 1])
+sum of wordFormDict.values() 9
+werden
+dict_values([11, 2, 6, 1])
+sum of wordFormDict.values() 20
+dies
+dict_values([12, 8, 3, 1, 1, 1])
+sum of wordFormDict.values() 26
+geben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+distinkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sollen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betrachten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+diagnostisch
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+entwickeln
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+betroffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verbessert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+differenzierter
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([17, 5, 1, 4, 1, 3])
+sum of wordFormDict.values() 31
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([24, 5, 21, 6, 4, 1])
+sum of wordFormDict.values() 61
+unterschiedlich
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+sein
+dict_values([2, 4, 7, 1])
+sum of wordFormDict.values() 14
+medizinisch
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+1
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([8, 1])
+sum of wordFormDict.values() 9
+werden
+dict_values([11, 2, 6, 1])
+sum of wordFormDict.values() 20
+dies
+dict_values([12, 8, 3, 1, 1, 1])
+sum of wordFormDict.values() 26
+geben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+distinkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sollen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betrachten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+diagnostisch
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+entwickeln
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+betroffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verbessert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+differenzierter
+dict_values([1, 1])
+sum of wordFormDict.values() 2

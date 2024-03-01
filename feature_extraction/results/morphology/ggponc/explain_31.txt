@@ -1,0 +1,138 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 335
+Length of all lemmas: 263
+Length of singleton lemmas: 237
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 237
+der
+dict_values([18, 12, 6, 4, 6, 3])
+sum of wordFormDict.values() 49
+ein
+dict_values([11, 18, 1, 2, 2])
+sum of wordFormDict.values() 34
+werden
+dict_values([4, 5, 6, 3])
+sum of wordFormDict.values() 18
+sein
+dict_values([3, 6, 1, 1])
+sum of wordFormDict.values() 11
+zeigen
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+gut
+dict_values([1, 3, 1, 1])
+sum of wordFormDict.values() 6
+führen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+vollständig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+erhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+kein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+prospektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+geeignet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+stadiengerecht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+opportunistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([18, 12, 6, 4, 6, 3])
+sum of wordFormDict.values() 49
+ein
+dict_values([11, 18, 1, 2, 2])
+sum of wordFormDict.values() 34
+werden
+dict_values([4, 5, 6, 3])
+sum of wordFormDict.values() 18
+sein
+dict_values([3, 6, 1, 1])
+sum of wordFormDict.values() 11
+zeigen
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+gut
+dict_values([1, 3, 1, 1])
+sum of wordFormDict.values() 6
+führen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+vollständig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+erhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+kein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+prospektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+geeignet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+stadiengerecht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+opportunistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3

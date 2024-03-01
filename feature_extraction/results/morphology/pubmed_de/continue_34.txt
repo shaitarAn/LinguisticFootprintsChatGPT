@@ -1,0 +1,210 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 401
+Length of all lemmas: 297
+Length of singleton lemmas: 253
+Length of matched lemmas: 34
+Length of singleton maching lemmas: 253
+der
+dict_values([38, 14, 18, 13, 16, 8, 1])
+sum of wordFormDict.values() 108
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+öffentlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+stellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+effizient
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+entwickeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+personell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+digital
+dict_values([2, 7, 2, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([11, 10, 5, 6, 1, 1])
+sum of wordFormDict.values() 34
+entscheidend
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([1, 8, 16, 6])
+sum of wordFormDict.values() 31
+innovativ
+dict_values([6, 3, 2])
+sum of wordFormDict.values() 11
+flächendeckend
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([4, 10, 3])
+sum of wordFormDict.values() 17
+testen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erweisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+erkennen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 4, 2, 1])
+sum of wordFormDict.values() 9
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ergreifen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+frühzeitig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+reagieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dienen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rasch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+durchführen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([38, 14, 18, 13, 16, 8, 1])
+sum of wordFormDict.values() 108
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+öffentlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+stellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+effizient
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+entwickeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+personell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+digital
+dict_values([2, 7, 2, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([11, 10, 5, 6, 1, 1])
+sum of wordFormDict.values() 34
+entscheidend
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([1, 8, 16, 6])
+sum of wordFormDict.values() 31
+innovativ
+dict_values([6, 3, 2])
+sum of wordFormDict.values() 11
+flächendeckend
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([4, 10, 3])
+sum of wordFormDict.values() 17
+testen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erweisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+erkennen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 4, 2, 1])
+sum of wordFormDict.values() 9
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ergreifen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+frühzeitig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+reagieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dienen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rasch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+durchführen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

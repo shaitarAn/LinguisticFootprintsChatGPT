@@ -1,0 +1,186 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 466
+Length of all lemmas: 360
+Length of singleton lemmas: 318
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 318
+entdecken
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+neu
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+der
+dict_values([14, 11, 28, 10, 25, 9, 1])
+sum of wordFormDict.values() 98
+haben
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([9, 7, 2, 1, 7, 2, 1])
+sum of wordFormDict.values() 29
+unbekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lokal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stoßen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 5, 4])
+sum of wordFormDict.values() 11
+sein
+dict_values([7, 1, 2, 2, 1])
+sum of wordFormDict.values() 13
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 2, 3, 1])
+sum of wordFormDict.values() 7
+groß
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhalten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+voll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+faszinierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geheimnisvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vergangen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erkunden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entdecken
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+neu
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+der
+dict_values([14, 11, 28, 10, 25, 9, 1])
+sum of wordFormDict.values() 98
+haben
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([9, 7, 2, 1, 7, 2, 1])
+sum of wordFormDict.values() 29
+unbekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lokal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stoßen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 5, 4])
+sum of wordFormDict.values() 11
+sein
+dict_values([7, 1, 2, 2, 1])
+sum of wordFormDict.values() 13
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 2, 3, 1])
+sum of wordFormDict.values() 7
+groß
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhalten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+voll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+faszinierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geheimnisvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vergangen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erkunden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

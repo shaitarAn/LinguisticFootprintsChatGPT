@@ -1,0 +1,522 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 1266
+Length of all lemmas: 964
+Length of singleton lemmas: 848
+Length of matched lemmas: 86
+Length of singleton maching lemmas: 848
+der
+dict_values([19, 34, 60, 112, 137, 30, 1, 1])
+sum of wordFormDict.values() 394
+liegen
+dict_values([2, 5, 4])
+sum of wordFormDict.values() 11
+randomisiert
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+adjuvant
+dict_values([2, 23, 8])
+sum of wordFormDict.values() 33
+alleinig
+dict_values([5, 3, 2])
+sum of wordFormDict.values() 10
+sein
+dict_values([3, 21, 16, 7, 1, 1])
+sum of wordFormDict.values() 49
+relativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+treten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([15, 4])
+sum of wordFormDict.values() 19
+aktuell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 9, 1])
+sum of wordFormDict.values() 12
+werden
+dict_values([26, 9, 17, 6])
+sum of wordFormDict.values() 58
+klinisch
+dict_values([1, 2, 3])
+sum of wordFormDict.values() 6
+weiter
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimal
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([6, 45, 52, 7, 13, 9])
+sum of wordFormDict.values() 132
+ergeben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+generell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einschließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([5, 4, 1, 5])
+sum of wordFormDict.values() 15
+korrelieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+können
+dict_values([11, 1, 3])
+sum of wordFormDict.values() 15
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 3, 2])
+sum of wordFormDict.values() 9
+vergleichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beide
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+signifikant
+dict_values([5, 2, 4])
+sum of wordFormDict.values() 11
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+häufig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+vorliegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontrolliert
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+früh
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+postoperativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([5, 16, 4, 1, 1])
+sum of wordFormDict.values() 27
+gut
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+krankheitsfrei
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lang
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+additiv
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+verbessert
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+führend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sicher
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+median
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+erhalten
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+derartig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lokal
+dict_values([1, 1, 5, 8, 1])
+sum of wordFormDict.values() 16
+betragen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+neu
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+randomisieren
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+simultan
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+elektiv
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+prospektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+empfehlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+isoliert
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+distant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+progredient
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+neoadjuvant
+dict_values([3, 2, 2, 1])
+sum of wordFormDict.values() 8
+resektabel
+dict_values([4, 7, 1])
+sum of wordFormDict.values() 12
+potentiell
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+palliativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+französisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+makroskopisch
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+initial
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+retrospektiv
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+empfohlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konventionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hochkonformal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hypofraktioniert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+partiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stereotaktisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 34, 60, 112, 137, 30, 1, 1])
+sum of wordFormDict.values() 394
+liegen
+dict_values([2, 5, 4])
+sum of wordFormDict.values() 11
+randomisiert
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+adjuvant
+dict_values([2, 23, 8])
+sum of wordFormDict.values() 33
+alleinig
+dict_values([5, 3, 2])
+sum of wordFormDict.values() 10
+sein
+dict_values([3, 21, 16, 7, 1, 1])
+sum of wordFormDict.values() 49
+relativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+treten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([15, 4])
+sum of wordFormDict.values() 19
+aktuell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 9, 1])
+sum of wordFormDict.values() 12
+werden
+dict_values([26, 9, 17, 6])
+sum of wordFormDict.values() 58
+klinisch
+dict_values([1, 2, 3])
+sum of wordFormDict.values() 6
+weiter
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimal
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([6, 45, 52, 7, 13, 9])
+sum of wordFormDict.values() 132
+ergeben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+generell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einschließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([5, 4, 1, 5])
+sum of wordFormDict.values() 15
+korrelieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+können
+dict_values([11, 1, 3])
+sum of wordFormDict.values() 15
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 3, 2])
+sum of wordFormDict.values() 9
+vergleichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beide
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+signifikant
+dict_values([5, 2, 4])
+sum of wordFormDict.values() 11
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+häufig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+vorliegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontrolliert
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+früh
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+postoperativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([5, 16, 4, 1, 1])
+sum of wordFormDict.values() 27
+gut
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+krankheitsfrei
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lang
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+additiv
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+verbessert
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+führend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sicher
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+median
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+erhalten
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+derartig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lokal
+dict_values([1, 1, 5, 8, 1])
+sum of wordFormDict.values() 16
+betragen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+neu
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+randomisieren
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+simultan
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+elektiv
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+prospektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+empfehlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+isoliert
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+distant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+progredient
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+neoadjuvant
+dict_values([3, 2, 2, 1])
+sum of wordFormDict.values() 8
+resektabel
+dict_values([4, 7, 1])
+sum of wordFormDict.values() 12
+potentiell
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+palliativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+französisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+makroskopisch
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+initial
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+retrospektiv
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+empfohlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konventionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hochkonformal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hypofraktioniert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+partiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stereotaktisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

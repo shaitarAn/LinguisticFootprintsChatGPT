@@ -1,0 +1,174 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 409
+Length of all lemmas: 312
+Length of singleton lemmas: 272
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 272
+dies
+dict_values([1, 1, 3, 1])
+sum of wordFormDict.values() 6
+der
+dict_values([22, 8, 27, 4, 12, 7, 3])
+sum of wordFormDict.values() 83
+schwanger
+dict_values([12, 1, 1])
+sum of wordFormDict.values() 14
+werden
+dict_values([17, 9, 1, 1])
+sum of wordFormDict.values() 28
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 8, 1])
+sum of wordFormDict.values() 12
+bildgebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vermeiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+können
+dict_values([2, 9])
+sum of wordFormDict.values() 11
+ein
+dict_values([18, 5, 4, 8, 5, 2])
+sum of wordFormDict.values() 42
+durchführen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+individuell
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestmöglich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erstmalig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+konventionell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1, 3, 1])
+sum of wordFormDict.values() 6
+der
+dict_values([22, 8, 27, 4, 12, 7, 3])
+sum of wordFormDict.values() 83
+schwanger
+dict_values([12, 1, 1])
+sum of wordFormDict.values() 14
+werden
+dict_values([17, 9, 1, 1])
+sum of wordFormDict.values() 28
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 8, 1])
+sum of wordFormDict.values() 12
+bildgebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vermeiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+können
+dict_values([2, 9])
+sum of wordFormDict.values() 11
+ein
+dict_values([18, 5, 4, 8, 5, 2])
+sum of wordFormDict.values() 42
+durchführen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+individuell
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestmöglich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erstmalig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+konventionell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

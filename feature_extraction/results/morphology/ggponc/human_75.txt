@@ -1,0 +1,240 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 585
+Length of all lemmas: 468
+Length of singleton lemmas: 411
+Length of matched lemmas: 39
+Length of singleton maching lemmas: 411
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([29, 34, 23, 9, 22, 2, 2])
+sum of wordFormDict.values() 121
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([8, 2, 3, 2])
+sum of wordFormDict.values() 15
+können
+dict_values([3, 1, 1, 1, 2])
+sum of wordFormDict.values() 8
+scheinen
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+ein
+dict_values([16, 9, 9, 4, 8, 2])
+sum of wordFormDict.values() 48
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+partiell
+dict_values([2, 2, 4])
+sum of wordFormDict.values() 8
+sein
+dict_values([3, 3, 1, 1])
+sum of wordFormDict.values() 8
+erweisen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 3, 3])
+sum of wordFormDict.values() 7
+selten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+endgültig
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+unterscheiden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+klein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+klassisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+leiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liegen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+tumorspezifisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1, 2, 2, 1])
+sum of wordFormDict.values() 7
+nephrektomiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+imperativ
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+häufig
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+groß
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+alle
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+univariat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unabhängig
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+schlecht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+finden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+zentral
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+liegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bilateral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([29, 34, 23, 9, 22, 2, 2])
+sum of wordFormDict.values() 121
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([8, 2, 3, 2])
+sum of wordFormDict.values() 15
+können
+dict_values([3, 1, 1, 1, 2])
+sum of wordFormDict.values() 8
+scheinen
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+ein
+dict_values([16, 9, 9, 4, 8, 2])
+sum of wordFormDict.values() 48
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+partiell
+dict_values([2, 2, 4])
+sum of wordFormDict.values() 8
+sein
+dict_values([3, 3, 1, 1])
+sum of wordFormDict.values() 8
+erweisen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 3, 3])
+sum of wordFormDict.values() 7
+selten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+endgültig
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+unterscheiden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+klein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+klassisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+leiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liegen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+tumorspezifisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1, 2, 2, 1])
+sum of wordFormDict.values() 7
+nephrektomiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+imperativ
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+häufig
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+groß
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+alle
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+univariat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unabhängig
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+schlecht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+finden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+zentral
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+liegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bilateral
+dict_values([1, 1])
+sum of wordFormDict.values() 2

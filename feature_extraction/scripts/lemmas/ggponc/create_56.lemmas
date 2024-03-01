@@ -1,0 +1,342 @@
+klinisch: klinischer|1
+Fall: fall|1
+:: :|1
+Diagnose: diagnose|6
+und: und|26
+Staging: staging|2
+ein: eines|6	ein|8	eine|14	einer|6	einem|1	einen|1
+Magenkarzinom: magenkarzinoms|6	magenkarzinom|1
+mittels: mittels|4
+CT: ct|8
+55: 55|1
+-: -|8
+jähriger: jähriger|1
+Mann: mann|1
+,: ,|21
+Herr: herr|4	herrn|5
+Müller: müller|9
+stellen: stellt|1	gestellt|1
+er|es|sie: sich|7
+mit: mit|10
+Beschwerde: beschwerden|1
+wie: wie|3
+zunehmend: zunehmendem|1	zunehmend|1
+Gewichtsverlust: gewichtsverlust|1
+Appetitlosigkeit: appetitlosigkeit|2
+dyspeptisch: dyspeptischen|2
+Symptomen: symptomen|2
+in: in|14
+mein: meiner|1
+Klinik: klinik|3
+vor: vor|1
+.: .|46
+angesichts: angesichts|1
+sein: seiner|2	seines|1	ist|3	seine|3	sind|2
+Symptomatik: symptomatik|1
+Alter: alters|1
+bestehen: besteht|1
+der: der|26	die|26	des|19	den|6	das|7	dem|4
+Verdacht: verdacht|2
+auf: auf|6
+Röntgendiagnostik: röntgendiagnostik|1
+Magen: magens|6	magen|2
+spielen: spielt|1
+Diagnosestellung: diagnosestellung|1
+Stadieneinteilung: stadieneinteilung|3
+wichtig: wichtige|1
+Rolle: rolle|1
+gemäß: gemäß|1
+aktuell: aktuellen|1
+Leitlinie: leitlinien|1
+werden: wird|7	werden|8
+empfohlen: empfohlen|1
+Computertomographie: computertomographie|1
+(: (|9
+): )|9
+durchführen: durchzuführen|1	durchgeführt|2
+dabei: dabei|1
+sollen: sollte|3
+es: es|4
+um: um|9
+Multidetektorcomputer: multidetektorcomputer|1
+Tomografie: tomografie|1
+MDCT: mdct|1
+handeln: handeln|1	handelt|1
+kontrastmittelverstärkt: kontrastmittelverstärkten|1
+Untersuchung: untersuchung|5
+insbesondere: insbesondere|1
+portalvenöse: portalvenöse|2
+Kontrastmittelphase: kontrastmittelphase|2
+für: für|7
+Leber: leber|1
+berücksichtigen: berücksichtigt|1
+biphasisch: biphasisches|1
+Protokoll: protokoll|1
+hierbei: hierbei|1
+ausreichend: ausreichend|1
+Nativphase: nativphase|1
+Phase: phase|1
+Schichtdick: schichtdicke|1
+≤: ≤|1
+3mm: 3mm|1
+betragen: betragen|1
+Lokalbefund: lokalbefund|1
+gut: besser|2	gute|1	beste|1
+abgrenzen: abgrenzen|1
+zu: zu|17
+können: können|3	kann|3	konnte|3
+Infiltration: infiltrationen|1
+Nachbarorgane/: nachbarorgane/|1
+-struktuer: -strukturen|1
+feststellen: feststellen|1
+bzw: bzw|1
+anatomisch: anatomische|1
+Struktur: strukturen|1
+jenseits: jenseits|1
+Magenwand: magenwand|2
+erkennen: erkennen|1
+durchgehend: durchgehend|1
+empfehlen: empfohlen|1
+Distension: distension|1
+negativ: negativen|1
+Kontrastmittel: kontrastmittel|1
+vorzunehmen: vorzunehmen|1
+Wasser: wasser|1
+hier: hier|1
+als: als|1
+saugen: sog|1
+": "|2
+Hydro-CT: hydro-ct|1
+einsetzen: eingesetzt|1
+nachdem: nachdem|1
+ich: ich|3
+über: über|1
+Vorgehen: vorgehen|2
+bei: bei|4
+Aufnahme: aufnahme|1
+aufgeklären: aufgeklärt|1
+haben: habe|1	hat|1
+er: er|4	ihm|1	ihn|1
+Einwilligung: einwilligung|1
+erteilen: erteilt|1
+zeigen: zeigt|3	zeigen|1
+unregelmäßig: unregelmäßig|1
+vergrößert: vergrößerten|1
+inhomogen: inhomogenen|1
+Wandverdickung: wandverdickung|1
+zudem: zudem|1
+regional: regionale|1	regionaler|1
+Lymphknotenvergrößerung: lymphknotenvergrößerungen|1
+sichtbar: sichtbar|1
+portalvenös: portalvenösen|1
+fallen: fallen|1
+Verdickung: verdickungen|1
+malign: malignes|1
+Geschehen: geschehen|1
+hinweisen: hinweisen|1
+bestätigen: bestätigen|2	bestätigt|1
+Stadium: stadium|4
+Tumor: tumors|4	tumor|4	tumoren|1
+festzulegen: festzulegen|1
+fahren|führen: führe|1
+Biopsie: biopsie|2
+durch: durch|3
+unter: unter|2
+endoskopisch: endoskopischer|2
+Sicht: sicht|1
+entnehmen: entnehme|1
+Gewebeprobe: gewebeproben|1
+aus: aus|1
+mehrere: mehreren|1
+Bezirk: bezirken|1
+erkrankt: erkrankten|1
+sicherstellen: sicherzustellen|1
+dass: dass|2
+repräsentativ: repräsentatives|1
+Gewebe: gewebe|1	gewebes|1
+gewinnen: gewonnen|1
+Ergebnis: ergebnisse|2	ergebnissen|1	ergebnis|1
+histologisch: histologischen|1
+Adenokarzinom: adenokarzinom|2	adenokarzinoms|1
+basierend: basierend|1
+Scans: scans|1
+bestimmen: bestimmt|2
+lokal: lokal|1
+fortgeschritten: fortgeschrittenes|1	fortgeschrittenen|1
+T3: t3|2
+Lymphknotenmetastasierung: lymphknotenmetastasierung|1
+N1: n1|1
+noch: noch|1
+nicht: nicht|1
+metastasieren: metastasiert|2
+M0: m0|2
+anhand: anhand|1
+dies: dieser|3	dies|1
+wir: wir|3	uns|1
+geeignet: geeignete|1
+Therapieplanung: therapieplanung|4
+vornehm: vornehmen|1
+enger: enger|1
+Zusammenarbeit: zusammenarbeit|1
+Onkologe: onkologen|1
+Chirurg: chirurgen|1
+entscheiden: entscheiden|1
+neoadjuvant: neoadjuvante|1	neoadjuvanten|2
+Chemotherapie: chemotherapie|8
+folgen: gefolgt|1
+von: von|9
+Gastrektomie: gastrektomie|2
+lymphadenektomie: lymphadenektomie|2
+maximal: maximal|1
+möglich: möglichen|2
+chirurgisch: chirurgischen|1
+Entfernung: entfernung|2
+befallen: befallenen|1
+Lymphknotengebiet: lymphknotengebieten|2
+hoch: hohe|1
+Relevanz: relevanz|1
+weit: weitere|2	weiterer|1
+sowie: sowie|2
+Prognose: prognose|2
+Patient: patienten|3
+frühzeitige: frühzeitige|1
+adäquat: adäquates|1
+bestmöglich: bestmögliche|1
+Behandlungsoption: behandlungsoption|1
+finden: gefunden|1	findet|1
+Überlebensrate: überlebensrate|1
+Lebensqualität: lebensqualität|1
+verbessern: verbessern|1	verbessert|2
+nach: nach|2
+Abschluß: abschluss|2
+unser: unsere|1	unserem|1	unserer|1
+aufnehmen: aufgenommen|1
+Operation: operation|1
+verlaufen: verläuft|1
+erfolgreich: erfolgreich|1
+gesamt: gesamte|1
+entfernt: entfernt|1	entfernten|1
+zusammen: zusammen|1
+betroffen: betroffenen|1
+nah: näheren|1
+Umgebung: umgebung|1
+anschließend: anschließende|1
+histopathologisch: histopathologische|1
+ursprünglich: ursprüngliche|1
+Glücklicherweise: glücklicherweise|1
+kein: keine|2
+Anzeichen: anzeichen|2
+Ausbreitung: ausbreitung|1
+ander: andere|1
+Organ: organe|1
+oder: oder|5
+Metastasen: metastasen|2
+insgesamt: insgesamt|1
+7: 7|1
+20: 20|1
+untersucht: untersuchten|1
+Lymphknot: lymphknoten|1
+N2: n2|1
+aufgrund: aufgrund|1
+erfolgen: erfolgt|1
+Nachbehandlung: nachbehandlung|1
+adjuvant: adjuvanter|1	adjuvanten|2
+eventuell: eventuell|1
+verblieben: verbliebene|1
+Krebszelle: krebszellen|1
+vernichten: vernichten|1
+Risiko: risiko|1
+Lokalrezidiv: lokalrezidivs|1
+Metastasierung: metastasierung|1
+verringern: verringern|1
+individuell: individuelle|1
+Berücksichtigung: berücksichtigung|1
+Faktor: faktoren|1
+allgemein: allgemeinen|1
+Gesundheitszustand: gesundheitszustand|2
+Begleiterkrankung: begleiterkrankungen|1
+präoperativ: präoperativer|1
+Befunde: befunde|1
+statt: statt|1
+während: während|2
+erhalten: erhält|2
+regelmäßig: regelmäßige|1
+Kontrolluntersuchung: kontrolluntersuchungen|2	kontrolluntersuchung|1
+Blutbildkontrollen: blutbildkontrollen|1
+Ultraschalluntersuchung: ultraschalluntersuchungen|1
+Überwachung: überwachung|1
+eventuelle: eventueller|1
+Lebermetastasierung: lebermetastasierung|1
+Nachsorgegespräche: nachsorgegespräche|1
+Onkologenteam: onkologenteam|1
+Verträglichkeit: verträglichkeit|1
+gegenüber: gegenüber|1
+Behandlung: behandlung|1
+treten: treten|1
+signifikant: signifikanten|1
+Nebenwirkung: nebenwirkungen|1
+Verlauf: verlauf|2
+bessern: bessert|1
+nehmen: nimmt|1
+wieder: wieder|1
+an: an|1
+Gewicht: gewicht|1
+berichten: berichtet|1
+weniger: weniger|1
+stabil: stabile|1
+Situation: situation|1
+ohne: ohne|1
+Rezidiv: rezidiv|1
+Metastasenbildung: metastasenbildung|1
+Rahmen: rahmen|1
+längerfristig: längerfristigen|1
+Nachsorge: nachsorge|2
+regelmäßige: regelmäßige|1
+vornehmen: vorgenommen|1
+weiter: weiter|1
+verfolgen: verfolgen|1
+gegebenenfalls: gegebenenfalls|1
+frühzeitig: frühzeitig|2	frühzeitige|1
+wiederkehrend: wiederkehrende|1
+neu: neue|1
+identifizieren: identifizieren|1
+beinhalten: beinhaltet|1
+auch: auch|2
+Durchführung: durchführung|1
+jährlich: jährlichen|1
+Gastrointestinaltraktsreenings: gastrointestinaltraktsreenings|1
+engmaschig: engmaschig|1
+betreuen: betreut|1
+umfassend: umfassende|1
+Nachsorgestrategie: nachsorgestrategie|1
+optimalen: optimalen|1
+Unterstützung: unterstützung|1
+Genesung: genesung|1
+Früherkennung: früherkennung|1
+möglicher: möglicher|1
+Komplikation: komplikationen|1
+Zeit: zeit|1
+stehen: stehen|1
+psychoonkologisch: psychoonkologischen|1
+Betreuung: betreuung|1
+alle: allen|1
+Frage: fragen|1
+rund: rund|1
+Erkrankung: erkrankung|1
+Verfügung: verfügung|1
+zusammenfassend: zusammenfassend|1
+lassen: lässt|1
+sagen: sagen|1
+dank: dank|1
+Einsatz: einsatzes|1
+Bildgebung: bildgebung|1
+infolgedessen: infolgedessen|1
+angemessen: angemessene|1
+ermöglichen: ermöglicht|1
+operativ: operative|1
+Kombination: kombination|1
+kontinuierlich: kontinuierliche|1
+gewährleisten: gewährleistet|1
+Erkennung: erkennung|1
+Lokalrezidive: lokalrezidiven|1
+somit: somit|1

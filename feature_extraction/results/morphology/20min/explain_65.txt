@@ -1,0 +1,96 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 285
+Length of all lemmas: 218
+Length of singleton lemmas: 199
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 199
+der
+dict_values([17, 11, 6, 6, 9, 20])
+sum of wordFormDict.values() 69
+ein
+dict_values([4, 1, 2, 1, 2])
+sum of wordFormDict.values() 10
+sein
+dict_values([8, 2, 2, 1, 2])
+sum of wordFormDict.values() 15
+schmecken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+günstig
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([8, 1])
+sum of wordFormDict.values() 9
+ihr
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+schlecht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+langfristig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fair
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 11, 6, 6, 9, 20])
+sum of wordFormDict.values() 69
+ein
+dict_values([4, 1, 2, 1, 2])
+sum of wordFormDict.values() 10
+sein
+dict_values([8, 2, 2, 1, 2])
+sum of wordFormDict.values() 15
+schmecken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+günstig
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([8, 1])
+sum of wordFormDict.values() 9
+ihr
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+schlecht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+langfristig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fair
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2

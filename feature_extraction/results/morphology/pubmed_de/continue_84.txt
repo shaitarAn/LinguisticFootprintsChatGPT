@@ -1,0 +1,126 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 332
+Length of all lemmas: 262
+Length of singleton lemmas: 238
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 238
+der
+dict_values([18, 13, 9, 9, 6, 5])
+sum of wordFormDict.values() 60
+ein
+dict_values([6, 3, 4, 1, 1])
+sum of wordFormDict.values() 15
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 5, 1])
+sum of wordFormDict.values() 11
+groß
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+gemeinsam
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+werden
+dict_values([9, 4, 3, 1])
+sum of wordFormDict.values() 17
+dies
+dict_values([3, 2, 2, 1])
+sum of wordFormDict.values() 8
+weit
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+bildgebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interoperabel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verknüpfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+effizient
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+organisatorisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+technologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([18, 13, 9, 9, 6, 5])
+sum of wordFormDict.values() 60
+ein
+dict_values([6, 3, 4, 1, 1])
+sum of wordFormDict.values() 15
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 5, 1])
+sum of wordFormDict.values() 11
+groß
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+gemeinsam
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+werden
+dict_values([9, 4, 3, 1])
+sum of wordFormDict.values() 17
+dies
+dict_values([3, 2, 2, 1])
+sum of wordFormDict.values() 8
+weit
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+bildgebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interoperabel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verknüpfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+effizient
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+organisatorisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+technologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

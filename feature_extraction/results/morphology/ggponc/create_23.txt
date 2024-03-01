@@ -1,0 +1,162 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 485
+Length of all lemmas: 377
+Length of singleton lemmas: 339
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 339
+Jugendliche
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+ein
+dict_values([7, 5, 11, 8, 5, 1])
+sum of wordFormDict.values() 37
+werden
+dict_values([4, 8, 1])
+sum of wordFormDict.values() 13
+ihr
+dict_values([8, 2, 4, 2, 3])
+sum of wordFormDict.values() 19
+der
+dict_values([25, 31, 13, 6, 12, 7, 1])
+sum of wordFormDict.values() 95
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 5, 1])
+sum of wordFormDict.values() 12
+sollen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+tragen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([6, 3, 1])
+sum of wordFormDict.values() 10
+ausgewogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rechtzeitig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+retten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Jugendliche
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+ein
+dict_values([7, 5, 11, 8, 5, 1])
+sum of wordFormDict.values() 37
+werden
+dict_values([4, 8, 1])
+sum of wordFormDict.values() 13
+ihr
+dict_values([8, 2, 4, 2, 3])
+sum of wordFormDict.values() 19
+der
+dict_values([25, 31, 13, 6, 12, 7, 1])
+sum of wordFormDict.values() 95
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 5, 1])
+sum of wordFormDict.values() 12
+sollen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+tragen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([6, 3, 1])
+sum of wordFormDict.values() 10
+ausgewogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rechtzeitig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+retten
+dict_values([1, 1])
+sum of wordFormDict.values() 2

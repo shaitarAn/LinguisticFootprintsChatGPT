@@ -1,0 +1,168 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 530
+Length of all lemmas: 460
+Length of singleton lemmas: 424
+Length of matched lemmas: 27
+Length of singleton maching lemmas: 424
+der
+dict_values([49, 31, 7, 15, 5, 8])
+sum of wordFormDict.values() 115
+atopisch
+dict_values([1, 2, 5])
+sum of wordFormDict.values() 8
+ein
+dict_values([14, 15, 1, 5, 1])
+sum of wordFormDict.values() 36
+werden
+dict_values([7, 7, 4, 4])
+sum of wordFormDict.values() 22
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allergisch
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+moderat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+extrinsisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+inhalativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Allergene
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+folgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erst
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+placebokontrolliert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+2
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([2, 1, 5])
+sum of wordFormDict.values() 8
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+subkutan
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sublingual
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([49, 31, 7, 15, 5, 8])
+sum of wordFormDict.values() 115
+atopisch
+dict_values([1, 2, 5])
+sum of wordFormDict.values() 8
+ein
+dict_values([14, 15, 1, 5, 1])
+sum of wordFormDict.values() 36
+werden
+dict_values([7, 7, 4, 4])
+sum of wordFormDict.values() 22
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allergisch
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+moderat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+extrinsisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+inhalativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Allergene
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+folgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erst
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+placebokontrolliert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+2
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([2, 1, 5])
+sum of wordFormDict.values() 8
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+subkutan
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sublingual
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2

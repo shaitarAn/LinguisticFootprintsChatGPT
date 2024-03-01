@@ -1,0 +1,234 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 527
+Length of all lemmas: 389
+Length of singleton lemmas: 338
+Length of matched lemmas: 38
+Length of singleton maching lemmas: 338
+der
+dict_values([32, 3, 22, 7, 8, 9, 1])
+sum of wordFormDict.values() 82
+perfekt
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+neu
+dict_values([7, 1, 8, 1])
+sum of wordFormDict.values() 17
+finden
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+ein
+dict_values([19, 10, 5, 7, 2, 3])
+sum of wordFormDict.values() 46
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([2, 9])
+sum of wordFormDict.values() 11
+bieten
+dict_values([2, 6])
+sum of wordFormDict.values() 8
+sein
+dict_values([7, 3, 4, 3, 3, 1, 1])
+sum of wordFormDict.values() 22
+gut
+dict_values([1, 1, 1, 1, 3, 2])
+sum of wordFormDict.values() 9
+sie
+dict_values([5, 5])
+sum of wordFormDict.values() 10
+ihr
+dict_values([5, 2, 3, 1])
+sum of wordFormDict.values() 11
+dies
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+wichtig
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+haben
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+sollen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+potenziell
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+praktisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dürfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([8, 1, 1, 1, 1, 2])
+sum of wordFormDict.values() 14
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mögen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+virtuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+helfen
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+emotional
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+aufregend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+Ihr|ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fundiert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([32, 3, 22, 7, 8, 9, 1])
+sum of wordFormDict.values() 82
+perfekt
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+neu
+dict_values([7, 1, 8, 1])
+sum of wordFormDict.values() 17
+finden
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+ein
+dict_values([19, 10, 5, 7, 2, 3])
+sum of wordFormDict.values() 46
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([2, 9])
+sum of wordFormDict.values() 11
+bieten
+dict_values([2, 6])
+sum of wordFormDict.values() 8
+sein
+dict_values([7, 3, 4, 3, 3, 1, 1])
+sum of wordFormDict.values() 22
+gut
+dict_values([1, 1, 1, 1, 3, 2])
+sum of wordFormDict.values() 9
+sie
+dict_values([5, 5])
+sum of wordFormDict.values() 10
+ihr
+dict_values([5, 2, 3, 1])
+sum of wordFormDict.values() 11
+dies
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+wichtig
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+haben
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+sollen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+potenziell
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+praktisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dürfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([8, 1, 1, 1, 1, 2])
+sum of wordFormDict.values() 14
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mögen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+virtuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+helfen
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+emotional
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+aufregend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+Ihr|ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fundiert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,84 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 280
+Length of all lemmas: 248
+Length of singleton lemmas: 230
+Length of matched lemmas: 13
+Length of singleton maching lemmas: 230
+der
+dict_values([27, 11, 17, 4, 7, 6, 2])
+sum of wordFormDict.values() 74
+sein
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+werden
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([1, 1, 1, 2, 1])
+sum of wordFormDict.values() 6
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+erforderlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antibiotikaresistent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+enthalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aufbereitet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([27, 11, 17, 4, 7, 6, 2])
+sum of wordFormDict.values() 74
+sein
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+werden
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([1, 1, 1, 2, 1])
+sum of wordFormDict.values() 6
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+erforderlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antibiotikaresistent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+enthalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aufbereitet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

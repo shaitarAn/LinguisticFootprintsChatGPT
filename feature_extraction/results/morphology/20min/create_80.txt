@@ -1,0 +1,210 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 477
+Length of all lemmas: 360
+Length of singleton lemmas: 312
+Length of matched lemmas: 34
+Length of singleton maching lemmas: 312
+ziehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 26, 22, 14, 9, 8])
+sum of wordFormDict.values() 93
+ein
+dict_values([10, 7, 4, 1, 2, 1])
+sum of wordFormDict.values() 25
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+esoterisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+dies
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+präsentieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+zahlreich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spirituell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([11, 4, 4, 4, 2, 3, 2, 1, 1])
+sum of wordFormDict.values() 32
+bekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+bieten
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+eindrucksvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schaffen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+verzaubern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+begeistert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+freuen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wir
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+astrologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unvergeßlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 2, 1, 1, 1])
+sum of wordFormDict.values() 8
+emotional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+begrüßen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+musikalisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ziehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 26, 22, 14, 9, 8])
+sum of wordFormDict.values() 93
+ein
+dict_values([10, 7, 4, 1, 2, 1])
+sum of wordFormDict.values() 25
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+esoterisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+dies
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+präsentieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+zahlreich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spirituell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([11, 4, 4, 4, 2, 3, 2, 1, 1])
+sum of wordFormDict.values() 32
+bekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+bieten
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+eindrucksvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schaffen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+verzaubern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+begeistert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+freuen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wir
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+astrologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unvergeßlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 2, 1, 1, 1])
+sum of wordFormDict.values() 8
+emotional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+begrüßen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+musikalisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

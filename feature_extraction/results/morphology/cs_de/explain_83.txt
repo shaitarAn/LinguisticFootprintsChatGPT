@@ -1,0 +1,132 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 376
+Length of all lemmas: 293
+Length of singleton lemmas: 260
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 260
+dies
+dict_values([5, 3, 2])
+sum of wordFormDict.values() 10
+der
+dict_values([3, 30, 27, 6, 10, 4, 1])
+sum of wordFormDict.values() 81
+werden
+dict_values([12, 1, 6])
+sum of wordFormDict.values() 19
+gering
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([8, 1, 2, 2])
+sum of wordFormDict.values() 13
+ihr
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([2, 4, 2, 7, 1, 1])
+sum of wordFormDict.values() 17
+haben
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+strenger
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einführen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verabschieden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+streng
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+grün
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 3, 1, 1])
+sum of wordFormDict.values() 8
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+geplant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unzureichend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([5, 3, 2])
+sum of wordFormDict.values() 10
+der
+dict_values([3, 30, 27, 6, 10, 4, 1])
+sum of wordFormDict.values() 81
+werden
+dict_values([12, 1, 6])
+sum of wordFormDict.values() 19
+gering
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([8, 1, 2, 2])
+sum of wordFormDict.values() 13
+ihr
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([2, 4, 2, 7, 1, 1])
+sum of wordFormDict.values() 17
+haben
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+strenger
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einführen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verabschieden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+streng
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+grün
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 3, 1, 1])
+sum of wordFormDict.values() 8
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+geplant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unzureichend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4

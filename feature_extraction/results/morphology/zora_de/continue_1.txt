@@ -1,0 +1,186 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 408
+Length of all lemmas: 313
+Length of singleton lemmas: 274
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 274
+der
+dict_values([7, 5, 15, 29, 28, 9, 1])
+sum of wordFormDict.values() 94
+werden
+dict_values([11, 3])
+sum of wordFormDict.values() 14
+verschieden
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+laufend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+interdisziplinär
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+-wissenschaftler
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+präsentieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+diskutieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1, 3, 3, 3, 1])
+sum of wordFormDict.values() 15
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+konstruktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+ein
+dict_values([4, 6, 1, 2, 2])
+sum of wordFormDict.values() 15
+kurz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+möglich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+methodisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 5, 15, 29, 28, 9, 1])
+sum of wordFormDict.values() 94
+werden
+dict_values([11, 3])
+sum of wordFormDict.values() 14
+verschieden
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+laufend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+interdisziplinär
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+-wissenschaftler
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+präsentieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+diskutieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1, 3, 3, 3, 1])
+sum of wordFormDict.values() 15
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+konstruktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+ein
+dict_values([4, 6, 1, 2, 2])
+sum of wordFormDict.values() 15
+kurz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+möglich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+methodisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,198 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 424
+Length of all lemmas: 325
+Length of singleton lemmas: 279
+Length of matched lemmas: 32
+Length of singleton maching lemmas: 279
+der
+dict_values([13, 35, 10, 26, 8, 10, 3])
+sum of wordFormDict.values() 105
+chinesisch
+dict_values([10, 6, 1])
+sum of wordFormDict.values() 17
+profitieren
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+ein
+dict_values([3, 4, 6, 5, 1, 2])
+sum of wordFormDict.values() 21
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([7, 8])
+sum of wordFormDict.values() 15
+dies
+dict_values([2, 2, 4, 4, 3])
+sum of wordFormDict.values() 15
+schweizerisch
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([8, 5, 1])
+sum of wordFormDict.values() 14
+stark
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+wirtschaftlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+beachtlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([5, 1, 1, 1])
+sum of wordFormDict.values() 8
+exportieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wachsend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erleben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mögen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beide
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bilateral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regulatorisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([13, 35, 10, 26, 8, 10, 3])
+sum of wordFormDict.values() 105
+chinesisch
+dict_values([10, 6, 1])
+sum of wordFormDict.values() 17
+profitieren
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+ein
+dict_values([3, 4, 6, 5, 1, 2])
+sum of wordFormDict.values() 21
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([7, 8])
+sum of wordFormDict.values() 15
+dies
+dict_values([2, 2, 4, 4, 3])
+sum of wordFormDict.values() 15
+schweizerisch
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([8, 5, 1])
+sum of wordFormDict.values() 14
+stark
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+wirtschaftlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+beachtlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([5, 1, 1, 1])
+sum of wordFormDict.values() 8
+exportieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wachsend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erleben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mögen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beide
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bilateral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regulatorisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

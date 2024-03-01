@@ -1,0 +1,144 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 417
+Length of all lemmas: 318
+Length of singleton lemmas: 280
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 280
+sein
+dict_values([7, 2, 1, 1])
+sum of wordFormDict.values() 11
+ein
+dict_values([9, 2, 12, 18, 1, 2])
+sum of wordFormDict.values() 44
+der
+dict_values([33, 8, 25, 11, 1, 10, 2])
+sum of wordFormDict.values() 90
+werden
+dict_values([4, 9, 1, 5])
+sum of wordFormDict.values() 19
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 6, 1])
+sum of wordFormDict.values() 8
+reduziert
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+erfolgen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+er
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+behandelnd
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 1, 4, 1])
+sum of wordFormDict.values() 9
+weit
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+leicht
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+jed
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+erneut
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+regelmäßig
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([7, 2, 1, 1])
+sum of wordFormDict.values() 11
+ein
+dict_values([9, 2, 12, 18, 1, 2])
+sum of wordFormDict.values() 44
+der
+dict_values([33, 8, 25, 11, 1, 10, 2])
+sum of wordFormDict.values() 90
+werden
+dict_values([4, 9, 1, 5])
+sum of wordFormDict.values() 19
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 6, 1])
+sum of wordFormDict.values() 8
+reduziert
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+erfolgen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+er
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+behandelnd
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 1, 4, 1])
+sum of wordFormDict.values() 9
+weit
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+leicht
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+jed
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+erneut
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+regelmäßig
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

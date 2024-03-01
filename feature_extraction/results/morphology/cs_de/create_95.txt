@@ -1,0 +1,108 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 345
+Length of all lemmas: 282
+Length of singleton lemmas: 257
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 257
+ein
+dict_values([8, 1, 5, 4, 1, 1])
+sum of wordFormDict.values() 20
+nachhaltig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+der
+dict_values([16, 15, 9, 8, 6, 1])
+sum of wordFormDict.values() 55
+bieten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([5, 1, 2, 1])
+sum of wordFormDict.values() 9
+haben
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+können
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 5, 2])
+sum of wordFormDict.values() 8
+leisten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([4, 1, 4])
+sum of wordFormDict.values() 9
+solch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([8, 1, 5, 4, 1, 1])
+sum of wordFormDict.values() 20
+nachhaltig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+der
+dict_values([16, 15, 9, 8, 6, 1])
+sum of wordFormDict.values() 55
+bieten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([5, 1, 2, 1])
+sum of wordFormDict.values() 9
+haben
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+können
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 5, 2])
+sum of wordFormDict.values() 8
+leisten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([4, 1, 4])
+sum of wordFormDict.values() 9
+solch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3

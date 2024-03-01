@@ -1,0 +1,144 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 398
+Length of all lemmas: 332
+Length of singleton lemmas: 303
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 303
+dies
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+werden
+dict_values([9, 1, 6])
+sum of wordFormDict.values() 16
+der
+dict_values([27, 37, 7, 6, 15, 4, 2])
+sum of wordFormDict.values() 98
+ein
+dict_values([5, 12, 1, 4, 2, 1])
+sum of wordFormDict.values() 25
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+professionell
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+individuell
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+aktuell
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+pflegebedürftig
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+achtsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Pflegende
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ethisch
+dict_values([2, 4, 2])
+sum of wordFormDict.values() 8
+umfassend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+prekär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+verstärkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+werden
+dict_values([9, 1, 6])
+sum of wordFormDict.values() 16
+der
+dict_values([27, 37, 7, 6, 15, 4, 2])
+sum of wordFormDict.values() 98
+ein
+dict_values([5, 12, 1, 4, 2, 1])
+sum of wordFormDict.values() 25
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+professionell
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+individuell
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+aktuell
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+pflegebedürftig
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+achtsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Pflegende
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ethisch
+dict_values([2, 4, 2])
+sum of wordFormDict.values() 8
+umfassend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+prekär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+verstärkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2

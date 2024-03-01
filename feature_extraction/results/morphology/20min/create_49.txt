@@ -1,0 +1,156 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 470
+Length of all lemmas: 370
+Length of singleton lemmas: 335
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 335
+friedlich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+der
+dict_values([12, 33, 12, 40, 4, 4])
+sum of wordFormDict.values() 105
+ein
+dict_values([8, 3, 4, 6, 1])
+sum of wordFormDict.values() 22
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 7, 1, 2, 1])
+sum of wordFormDict.values() 17
+ihr
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+alle
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+wir
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+positiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sicherstellen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+bleiben
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+vermeiden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zivilisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([10, 2, 1, 2])
+sum of wordFormDict.values() 15
+kein
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([1, 2, 1, 2])
+sum of wordFormDict.values() 6
+zahlreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dauern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+friedlich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+der
+dict_values([12, 33, 12, 40, 4, 4])
+sum of wordFormDict.values() 105
+ein
+dict_values([8, 3, 4, 6, 1])
+sum of wordFormDict.values() 22
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 7, 1, 2, 1])
+sum of wordFormDict.values() 17
+ihr
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+alle
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+wir
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+positiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sicherstellen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+bleiben
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+vermeiden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zivilisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([10, 2, 1, 2])
+sum of wordFormDict.values() 15
+kein
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([1, 2, 1, 2])
+sum of wordFormDict.values() 6
+zahlreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dauern
+dict_values([1, 1])
+sum of wordFormDict.values() 2

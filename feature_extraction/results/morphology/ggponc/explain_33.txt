@@ -1,0 +1,144 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 401
+Length of all lemmas: 314
+Length of singleton lemmas: 286
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 286
+der
+dict_values([22, 21, 3, 12, 9, 8, 2])
+sum of wordFormDict.values() 77
+ein
+dict_values([15, 3, 4, 1, 2, 5])
+sum of wordFormDict.values() 30
+bestimmt
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([15, 9])
+sum of wordFormDict.values() 24
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([7, 1, 2])
+sum of wordFormDict.values() 10
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+legen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+histologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+exakt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+empfohlen
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+grundsätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spät
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fertilitätserhaltend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+diagnostisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([22, 21, 3, 12, 9, 8, 2])
+sum of wordFormDict.values() 77
+ein
+dict_values([15, 3, 4, 1, 2, 5])
+sum of wordFormDict.values() 30
+bestimmt
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([15, 9])
+sum of wordFormDict.values() 24
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([7, 1, 2])
+sum of wordFormDict.values() 10
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+legen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+histologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+exakt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+empfohlen
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+grundsätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spät
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fertilitätserhaltend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+diagnostisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3

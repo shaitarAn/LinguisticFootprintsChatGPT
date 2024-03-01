@@ -1,0 +1,90 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 328
+Length of all lemmas: 268
+Length of singleton lemmas: 246
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 246
+der
+dict_values([23, 14, 32, 7, 4, 11])
+sum of wordFormDict.values() 91
+dies
+dict_values([1, 1, 5, 1, 2])
+sum of wordFormDict.values() 10
+betrieblich
+dict_values([7, 4, 5])
+sum of wordFormDict.values() 16
+werden
+dict_values([11, 7, 2])
+sum of wordFormDict.values() 20
+sein
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+solch
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+strukturell
+dict_values([1, 2, 3])
+sum of wordFormDict.values() 6
+ein
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+evidenzbasiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+geeignet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+übergreifend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([23, 14, 32, 7, 4, 11])
+sum of wordFormDict.values() 91
+dies
+dict_values([1, 1, 5, 1, 2])
+sum of wordFormDict.values() 10
+betrieblich
+dict_values([7, 4, 5])
+sum of wordFormDict.values() 16
+werden
+dict_values([11, 7, 2])
+sum of wordFormDict.values() 20
+sein
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+solch
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+strukturell
+dict_values([1, 2, 3])
+sum of wordFormDict.values() 6
+ein
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+evidenzbasiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+geeignet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+übergreifend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

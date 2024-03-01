@@ -1,0 +1,216 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 449
+Length of all lemmas: 355
+Length of singleton lemmas: 313
+Length of matched lemmas: 35
+Length of singleton maching lemmas: 313
+geografisch
+dict_values([12, 4, 6])
+sum of wordFormDict.values() 22
+der
+dict_values([46, 6, 28, 12, 1, 4, 1])
+sum of wordFormDict.values() 98
+enorm
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1, 5, 4])
+sum of wordFormDict.values() 14
+können
+dict_values([15, 2, 1])
+sum of wordFormDict.values() 18
+anschaulich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+visualisieren
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([20, 1])
+sum of wordFormDict.values() 21
+verbessert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+räumlich
+dict_values([4, 1, 4])
+sum of wordFormDict.values() 9
+darstellen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([6, 3, 10, 2, 1])
+sum of wordFormDict.values() 22
+sein
+dict_values([8, 2, 4])
+sum of wordFormDict.values() 14
+regional
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+verschieden
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+gesundheitlich
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+differenziert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kleinräumig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verfügbar
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erschweren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+öffentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+präzis
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+analysieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geografisch
+dict_values([12, 4, 6])
+sum of wordFormDict.values() 22
+der
+dict_values([46, 6, 28, 12, 1, 4, 1])
+sum of wordFormDict.values() 98
+enorm
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1, 5, 4])
+sum of wordFormDict.values() 14
+können
+dict_values([15, 2, 1])
+sum of wordFormDict.values() 18
+anschaulich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+visualisieren
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([20, 1])
+sum of wordFormDict.values() 21
+verbessert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+räumlich
+dict_values([4, 1, 4])
+sum of wordFormDict.values() 9
+darstellen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([6, 3, 10, 2, 1])
+sum of wordFormDict.values() 22
+sein
+dict_values([8, 2, 4])
+sum of wordFormDict.values() 14
+regional
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+verschieden
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+gesundheitlich
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+differenziert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kleinräumig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verfügbar
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erschweren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+öffentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+präzis
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+analysieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

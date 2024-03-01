@@ -1,5 +1,6 @@
 import os
 import requests
+import openai
 import json
 import re
 from helper import Tokenizer, parse_filename
@@ -8,6 +9,7 @@ from tqdm import tqdm
 from datetime import datetime
 import time
 import copy
+print (os.environ.keys())
 
 
 
@@ -62,7 +64,8 @@ class OpenAiModels:
                     print("\n\nOpenAI error: ", result["error"])
 
             elif response.status_code < 500:
-                print("\n\nHTTP ERROR:", response.status_code)
+                print("\n\nHTTP ERROR HERE:", response.status_code)
+                print(self.api_key)
 
                 if response.status_code == 400:
                     print(f"\nPrompt:\n{messages}\n############################\n")
@@ -110,6 +113,8 @@ def generate(model, prompt_template, prompt_text, temp, freq_pen, min_len=500):
     prompt_filled[1]["content"] = prompt_filled[1]["content"].format(intext=intext)  # fill in the text where needed
     messages = prompt_filled[:2]
 
+    # print(messages)
+
     # generate a first time, save tokens per second
     tokens_per_second, new_text = model.generate(messages, temp, freq_pen)
     gen_text = new_text.replace(prompt_text, "")  # remove prompt text, if it was repeated
@@ -117,6 +122,7 @@ def generate(model, prompt_template, prompt_text, temp, freq_pen, min_len=500):
 
     # add text until long enough
     while num_toks < min_len:
+        print("not long enough, generating more")
         # add the assistant response to the messages, always redo, so we have a max of 3 conversation inputs
         # [{role: "system", content: "Your are this and that"},
         # {role:"user", content: "initial prompt"},
@@ -200,7 +206,7 @@ def write_text(text, filename, outfolder, prompt_type):
     # return prompt_source
 
 
-def generate_from_filename(filename):
+def generate_from_filename(filename, file_counter):
     """function to generate from a single file
     to use in a for-loop or on a single file below"""
     global temp
@@ -229,17 +235,23 @@ def generate_from_filename(filename):
     folder = os.path.join(outfolder, corpus, "machine")
     if not os.path.exists(folder):
         os.makedirs(folder)
-    filepath = os.path.join(folder, new_filename)
+    filepath = os.path.join(folder, file_counter)
     with open(filepath, "w", encoding="utf-8") as outfile:
         outfile.write(machine_text)
 
+    folder_human = os.path.join(outfolder, corpus, "human")
+    if not os.path.exists(folder_human):
+        os.makedirs(folder_human)
+    with open(os.path.join(folder_human, file_counter), "w") as f:
+              f.write(source_dict[filename]['text'])
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate with the OpenAI API. The API key needs to be specified as an environment variable called 'OPENAI_KEY'"
-                                                 "If needed the organization's ID needs to be specified as 'ORG_ID'")
+                                                 "If needed the organization's ID needs to be specified as 'OPENAI_ORG'")
     parser.add_argument("model", type=str, choices=["gpt-3.5-turbo", "gpt-3.5-turbo-16k"], help="OpenAI model to use")
     parser.add_argument("source_file", type=str, help="Filepath of the JSON file with the human texts in following format:"
                                                         "{filename:{'title': '...', 'prompt': '...', 'text': '...'}}")
-    parser.add_argument("corpus", type=str, choices=["20min", "cnn", "cs_en", "cs_de", "e3c", "GGPONC", "pubmed_de", "pubmed_en", "zora_de", "zora_en"])
+    parser.add_argument("corpus", type=str, choices=["20min", "cnn", "cs_en", "cs_de", "e3c", "ggponc", "pubmed_de", "pubmed_en", "zora_de", "zora_en"])
 
     parser.add_argument("--prompt_file", type=str, default="", help="Json file containing the prompts. If it is not given a default 'continue-prompt' will be used.")
     parser.add_argument("--prompt_type", type=str, choices=["continue", "explain", "create"], default="continue")
@@ -271,8 +283,10 @@ if __name__ == "__main__":
     min_len = args.min_len
 
     # infer lang from corpus
-    corpora_de = ["20min", "cs_de", "GGPONC", "pubmed_de", "zora_de"]
+    corpora_de = ["20min", "cs_de", "ggponc", "pubmed_de", "zora_de"]
     lang = "de" if corpus in corpora_de else "en"
+
+    count_files = 0
 
     # open the specified source file
     with open(source_file, "r", encoding="utf-8") as infile:
@@ -306,9 +320,11 @@ if __name__ == "__main__":
     prompt_template = prompt_dict[corpus][prompt_type]
 
     # Initialize the specified model
-    api_key = os.getenv("OPENAI_KEY")
-    org_id = os.getenv("ORG_ID")
-    model = OpenAiModels(model_name, api_key, org_id)
+    openai.api_key = os.getenv("OPENAI_KEY")
+    openai.organization = os.getenv("OPENAI_ORG")
+
+    print("openai.api_key", openai.api_key)
+    model = OpenAiModels(model_name, openai.api_key, openai.organization)
 
     # Initialize a tokenizer with the specified language
     tokenizer = Tokenizer(lang)
@@ -333,10 +349,11 @@ if __name__ == "__main__":
 
     if args.one_file:
 
-        generate_from_filename(one_file)
+        generate_from_filename(one_file, count_files)
     else:
         # Go over all the documents
         for filename in tqdm(list(source_dict.keys())[start_from:]):
-            generate_from_filename(filename)
+            count_files += 1
+            generate_from_filename(filename, str(count_files))
 
 

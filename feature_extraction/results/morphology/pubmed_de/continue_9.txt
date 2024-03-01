@@ -1,0 +1,120 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 335
+Length of all lemmas: 271
+Length of singleton lemmas: 243
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 243
+der
+dict_values([17, 1, 22, 8, 4, 5, 4])
+sum of wordFormDict.values() 61
+sein
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([8, 4, 2, 1])
+sum of wordFormDict.values() 15
+allergisch
+dict_values([5, 2, 2])
+sum of wordFormDict.values() 9
+können
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+dies
+dict_values([1, 4, 1, 1])
+sum of wordFormDict.values() 7
+werden
+dict_values([8, 3])
+sum of wordFormDict.values() 11
+aktuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+immunologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zugelassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+befinden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+subkutan
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sublingual
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kausal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+übermäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([17, 1, 22, 8, 4, 5, 4])
+sum of wordFormDict.values() 61
+sein
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([8, 4, 2, 1])
+sum of wordFormDict.values() 15
+allergisch
+dict_values([5, 2, 2])
+sum of wordFormDict.values() 9
+können
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+dies
+dict_values([1, 4, 1, 1])
+sum of wordFormDict.values() 7
+werden
+dict_values([8, 3])
+sum of wordFormDict.values() 11
+aktuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+immunologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zugelassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+befinden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+subkutan
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sublingual
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kausal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+übermäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

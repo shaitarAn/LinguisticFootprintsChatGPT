@@ -1,0 +1,382 @@
+Patientenakt: patientenakte|1
+Name: name|1
+:: :|17
+Herr: herr|10	herrn|4
+Müller: müller|14
+alt: alter|1
+65: 65|2
+Jahr: jahre|1	jahren|1
+Geschlecht: geschlecht|1
+männlich: männlich|1
+Anamnese: anamnese|1
+der: der|31	dem|16	den|9	die|17	das|9	des|11
+-: -|4
+jährige: jährige|1
+werden: wurde|7	wird|12	werden|8
+von: von|7
+Hausarzt: hausarzt|1
+überweisen: überwiesen|3
+,: ,|33
+da: da|3
+bei: bei|11
+ein: einer|5	eine|18	ein|11	einen|3	eines|1	einem|1
+Routineuntersuchung: routineuntersuchung|1
+ungewöhnlich: ungewöhnliche|1
+Veränderung: veränderung|1	veränderungen|2
+an: an|6
+sein: seiner|3	seine|4	ist|8	sein|2	sind|1	seinen|1
+Mundschleimhaut: mundschleimhaut|4
+feststellen: festgestellt|2	festzustellen|1
+.: .|58
+Patient: patient|1	patienten|2	patients|1
+berichten: berichtet|1
+über: über|1
+leicht: leichte|2	leicht|1
+Beschwerde: beschwerden|1
+Kauen: kauen|1
+und: und|26
+Schlucken: schlucken|1
+jedoch: jedoch|4
+kein: keine|2
+Schmerz: schmerzen|1
+zudem: zudem|1
+geben: gibt|1
+er: er|5	ihm|2	ihn|1
+dass: dass|4
+Mundhygiene: mundhygiene|1
+in: in|16
+letzt: letzten|1
+nachlassen: nachgelassen|1
+haben: hat|2
+Klinisch: klinische|1
+Untersuchung: untersuchung|2	untersuchungen|1
+klinisch: klinischen|3
+stellen: stellt|2	gestellt|1
+Arzt: arzt|1	ärzte|1
+veränderte: veränderte|1
+fest: fest|2
+es: es|5
+zeigen: zeigt|2	zeigen|1
+er|es|sie: sich|6
+Gewebeüberschuß: gewebeüberschuss|1
+Farbveränderung: farbveränderung|1
+sowie: sowie|6
+Verhärtung: verhärtungen|1
+verschieden: verschiedenen|1	verschiedener|1
+Stelle|Stellen: stellen|1
+Mundbereich: mundbereich|2
+zentral: zentrale|1
+Läsion: läsion|2
+mit: mit|3
+weißlich: weißlichen|1
+Auflagerung: auflagerungen|1
+deutlich: deutlich|2
+erkennbar: erkennbar|1
+lassen: lässt|1
+Verdacht: verdacht|2
+auf: auf|6
+Plattenepithelkarzinom: plattenepithelkarzinom|4	plattenepithelkarzinoms|1
+aufkommen: aufkommen|1
+Diagnosefeststellung: diagnosefeststellung|1
+basierend: basierend|2
+befunde: befunden|1
+Mundhöhlenkarzinom: mundhöhlenkarzinom|1
+genau: genauer|1	genau|1	genauen|1
+sagen: gesagt|1
+zusätzlich: zusätzliche|1
+wie: wie|3
+Biopsie: biopsie|3
+bildgebend: bildgebende|2	bildgebender|1	bildgebenden|1
+Verfahren: verfahren|4
+zu: zu|22
+Bestätigung: bestätigung|1
+vorschlagen: vorgeschlagen|1
+weiterführend: weiterführende|1
+Diagnostik: diagnostik|3
+um: um|12
+Diagnose: diagnose|3
+bestätigen: bestätigen|1	bestätigt|1
+Ausmaß: ausmaß|3
+Tumor: tumors|5	tumor|3	tumoren|1
+bestimmen: bestimmen|1
+zunächst: zunächst|1
+Gewebeprobe: gewebeprobe|1
+(: (|1
+): )|1
+aus: aus|3
+verdächtig: verdächtigen|1
+entnehmen: entnommen|1
+darüber: darüber|2
+hinaus: hinaus|2
+weiter: weitere|1
+MRT: mrt|1
+oder: oder|8
+CT: ct|1
+durchführen: durchgeführt|3	durchzuführen|1
+Mundhöhle: mundhöhle|1
+möglich: mögliche|1	möglich|1
+Ausbreitung: ausbreitung|2
+umliegend: umliegenden|1	umliegende|1
+Gewebe: gewebe|6	gewebes|1
+beurteilen: beurteilen|1
+Sonografie: sonografie|1
+Lymphknot: lymphknoten|1
+Halsbereich: halsbereich|1
+ob: ob|1
+bereits: bereits|2
+Lymphknotenschwellung: lymphknotenschwellung|1
+vorliegen: vorliegt|1
+Therapieplanung: therapieplanung|1
+Ergebnis: ergebnissen|1	ergebnisse|1
+individuell: individueller|1	individuellen|2	individuell|1
+Therapieplan: therapieplan|3
+für: für|8
+erstellen: erstellt|3
+Befund: befund|2
+handeln: handelt|2
+multimodale: multimodale|1
+Therapie: therapie|5
+geplant: geplant|1
+1: 1|1
+Chirurgisch: chirurgische|1
+Entfernung: entfernung|2
+sollen: soll|1	sollte|1	sollten|3
+mitsamt: mitsamt|2
+betroffen: betroffenen|4
+chirurgisch: chirurgisch|1	chirurgischer|1
+entfernt: entfernt|2	entfernten|1
+dabei: dabei|2
+Ziel: ziel|1
+Sicherheitsabstand: sicherheitsabstand|2
+mindestens: mindestens|1
+5: 5|2
+mm: mm|2
+tumorfreien: tumorfreien|2
+erreichen: erreichen|1
+2: 2|1
+Strahlentherapie: strahlentherapie|4
+nach: nach|6
+Operation: operation|4
+adjuvant: adjuvanten|1	adjuvante|1
+unterziehen: unterzogen|1
+eventuell: eventuell|1
+noch: noch|1
+verblieben: verbliebene|1
+Krebszelle: krebszellen|1
+abzutöten: abzutöten|1
+lokal: lokale|1
+Rezidivrisiko: rezidivrisiko|2
+reduzieren: reduzieren|2
+3: 3|1
+Rekonstruktive: rekonstruktive|1
+Chirurgie: chirurgie|2
+je: je|2
+können: kann|1	könnte|1
+notwendig: notwendig|1
+rekonstruktiv: rekonstruktive|1	rekonstruktiver|1
+Maßnahme: maßnahmen|1
+dies: dies|1	dieser|4
+beispielsweise: beispielsweise|1
+Verwendung: verwendung|1
+Transplantat: transplantaten|1
+Nutzung: nutzung|1
+künstlich: künstlichen|1
+Material: materialien|1
+Wiederherstellung: wiederherstellung|1
+Mundfunktion: mundfunktion|1
+Ästhetik: ästhetik|1
+beinhalten: beinhalten|1
+4: 4|1
+Nachsorge: nachsorge|1
+Rehabilitation: rehabilitation|2
+engmaschig: engmaschig|1
+nachuntersuchen: nachuntersucht|2
+etwaig: etwaige|1
+Rückfall: rückfälle|2
+frühzeitig: frühzeitig|2	frühzeitigen|1
+erkennen: erkennen|1	erkannt|1
+Bedürfnisse: bedürfnissen|1
+Form: form|1
+Logopädie: logopädie|1
+Physiotherapie: physiotherapie|1
+und/oder: und/oder|1
+psychologisch: psychologischer|1	psychologische|1
+Unterstützung: unterstützung|3
+anbieten: angeboten|1
+Prognose: prognose|3
+Mundhöhlenkarzinomen: mundhöhlenkarzinomen|2
+hängen: hängt|1
+Stadium: stadium|1
+Zeitpunkt: zeitpunkt|1
+Diagnosestellung: diagnosestellung|2
+ab: ab|1
+früh: früher|1
+Erkennung: erkennung|1
+adäquat: adäquater|1
+Heilungschance: heilungschancen|1
+relativ: relativ|1
+gut: gut|2
+trotzdem: trotzdem|1
+bleiben: bleibt|1
+gewiss: gewisses|2
+Risiko: risiko|2
+Rezidive: rezidive|2
+Metastasen: metastasen|1
+bestehen: bestehen|1	besteht|1
+Zusammenfassung: zusammenfassung|1
+aufgrund: aufgrund|2
+auffällig: auffälliger|1
+weit: weiteren|1
+Abklärung: abklärung|1
+Durchführung: durchführung|1
+diagnostizieren: diagnostiziert|1
+multimodal: multimodaler|1
+bestehend: bestehend|1	bestehenden|1
+ggf: ggf|1
+Krebs: krebs|2
+vollständig: vollständig|1	vollständige|1
+entfernen: entfernen|1	entfernt|1
+Disclaimer: disclaimer|1
+Fallbericht: fallbericht|2
+rein: rein|2
+fiktiv: fiktiv|1	fiktiven|1
+nicht: nicht|2
+als: als|1
+medizinisch: medizinische|1	medizinischen|2
+Beratung: beratung|1
+Entscheidungsgrundlage: entscheidungsgrundlage|1
+verwenden: verwendet|1
+Zweifelsfall: zweifelsfall|1
+immer: immer|3
+qualifiziert: qualifizierte|1
+Fachleute: fachleute|1
+konsultieren: konsultiert|1
+Behandlungsverlauf: behandlungsverlauf|1
+umgehend: umgehend|1
+onkologisch: onkologische|1
+Abteilung: abteilung|1
+aufnehmen: aufgenommen|1
+wo: wo|1
+interdisziplinär: interdisziplinäre|1
+Team: team|3
+Onkologen: onkologen|1
+Chirurgen: chirurgen|1
+Strahlentherapeu: strahlentherapeuten|1
+Rehabilitationsärzte: rehabilitationsärzten|1
+zusammenkommen: zusammenkommt|1
+besprechen: besprechen|1
+Tumorkonferenz: tumorkonferenz|1
+ursprünglich: ursprüngliche|1
+Mundhöhlenbereich: mundhöhlenbereich|2
+begrenzt: begrenzte|1
+Fernmetastasen: fernmetastasen|1
+Befunde: befunde|1
+entscheidet: entscheidet|1
+kurativ: kurative|1
+Behandlung: behandlung|3
+durch: durch|2
+kombiniert: kombinierte|1
+anstreben: angestrebt|1
+Chirurg: chirurg|1
+führen: führt|1
+während: während|1
+Eingriff: eingriffs|1
+Mundboden: mundboden|1	mundbodens|1
+ausbreiten: ausgebreitet|1
+sicherstellen: sicherzustellen|1
+alle: alle|1	aller|1
+entscheiden: entscheidet|1
+Teilresektion: teilresektion|1
+erholen: erholt|1
+Bestrahlung: bestrahlung|2
+Strahlentherapeut: strahlentherapeut|1
+Bestrahlungsplan: bestrahlungsplan|1
+unter: unter|2
+Berücksichtigung: berücksichtigung|2
+Lage: lage|1
+potenziell: potenziell|1	potenzielle|1
+Bereich: bereiche|1	bereichs|1
+täglich: täglich|1
+mehrere: mehrere|1
+Woche: wochen|1
+parallel: parallel|1
+erhalten: erhält|1
+regelmäßig: regelmäßige|1
+Rehabilitationssitzung: rehabilitationssitzungen|1
+Logopäde: logopäde|1
+unterstützen: unterstützt|1
+Sprech: sprech|1
+Schluckfunktion: schluckfunktionen|1
+wiederherzustellen: wiederherzustellen|1
+auch: auch|1
+physiotherapeutisch: physiotherapeutische|1
+Begleitung: begleitung|1
+Förderung: förderung|1
+Kiefermuskulatur: kiefermuskulatur|1
+gesamt: gesamten|1
+orofacial: orofacialen|1
+Teil: teil|1
+Rehabilitationsplan: rehabilitationsplans|1
+Abschluß: abschluss|1
+regelmäßigen: regelmäßigen|1
+Abstand: abständen|1
+Langzeitüberleben: langzeitüberleben|1
+Spätfolge: spätfolgen|2
+überwachen: überwachen|1
+nehmen: nimmt|1
+Selbsthilfegruppe: selbsthilfegruppe|1
+Kopf: kopf|1
+Hals: hals|1
+teil: teil|1
+Austausch: austausch|1
+ander: anderen|1
+bieten: bietet|1
+vielversprechend: vielversprechend|1
+schnell: schnell|1
+einleiten: eingeleitet|1
+Heilung: heilung|1
+Schleimhautveränderung: schleimhautveränderungen|1
+Funktionsstörung: funktionsstörungen|1
+kämpfen: kämpft|1
+tapfer: tapfer|1
+gegen: gegen|1
+Krankheit: krankheit|1
+finden: findet|1
+Familie: familie|1
+Engagement: engagement|1
+Genesung: genesung|1
+bewundernswert: bewundernswert|1
+denn: denn|1
+lernen: lernt|1
+neu: neue|1
+Methode: methoden|1
+Mundpflege: mundpflege|1
+verbessern: verbessert|1
+dadurch: dadurch|1
+Lebensqualität: lebensqualität|1
+erheblich: erheblich|1
+Fall: fall|2
+Bedeutung: bedeutung|1
+wenn: wenn|1
+Patientinnen: patientinnen|1
+ihr: ihrem|1
+beobachten: beobachten|1
+sie: sie|1
+sofort: sofort|1
+ärztlich: ärztlichen|1
+Rat: rat|1
+einholen: einholen|1
+rasch: rasche|1
+ermöglichen: ermöglichen|1
+Hinweis: hinweis|1
+basieren: basiert|1
+Leitlinie: leitlinien|1
+dienen: dient|1
+Zweck: zwecken|1
+real: realen|1
+echt: echten|1
+Leben: leben|1
+Entscheidung: entscheidungen|1
+spezifisch: spezifischen|1
+Umstand: umstände|1
+treffen|triefen: getroffen|1

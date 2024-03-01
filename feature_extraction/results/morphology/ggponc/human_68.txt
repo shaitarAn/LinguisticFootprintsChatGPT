@@ -1,0 +1,108 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 334
+Length of all lemmas: 286
+Length of singleton lemmas: 266
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 266
+der
+dict_values([27, 41, 9, 13, 5, 3])
+sum of wordFormDict.values() 98
+bestehend
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([6, 3, 1])
+sum of wordFormDict.values() 10
+um
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+von
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 2, 3, 1, 1])
+sum of wordFormDict.values() 12
+weiblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+männlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gesichert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+klein
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+der
+dict_values([27, 41, 9, 13, 5, 3])
+sum of wordFormDict.values() 98
+bestehend
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([6, 3, 1])
+sum of wordFormDict.values() 10
+um
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+von
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 2, 3, 1, 1])
+sum of wordFormDict.values() 12
+weiblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+männlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gesichert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+klein
+dict_values([2, 2])
+sum of wordFormDict.values() 4

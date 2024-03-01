@@ -1,0 +1,60 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 216
+Length of all lemmas: 187
+Length of singleton lemmas: 175
+Length of matched lemmas: 9
+Length of singleton maching lemmas: 175
+der
+dict_values([16, 3, 2, 16, 5])
+sum of wordFormDict.values() 42
+ein
+dict_values([2, 1, 2, 1, 1])
+sum of wordFormDict.values() 7
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+geistig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 3, 1])
+sum of wordFormDict.values() 8
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 3, 2, 16, 5])
+sum of wordFormDict.values() 42
+ein
+dict_values([2, 1, 2, 1, 1])
+sum of wordFormDict.values() 7
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+geistig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 3, 1])
+sum of wordFormDict.values() 8
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2

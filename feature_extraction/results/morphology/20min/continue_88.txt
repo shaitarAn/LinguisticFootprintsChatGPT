@@ -1,0 +1,234 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 539
+Length of all lemmas: 399
+Length of singleton lemmas: 355
+Length of matched lemmas: 38
+Length of singleton maching lemmas: 355
+der
+dict_values([8, 15, 11, 5, 10, 3])
+sum of wordFormDict.values() 52
+sein
+dict_values([14, 1, 1, 2, 7, 6, 4, 6, 2, 1, 1])
+sum of wordFormDict.values() 45
+dies
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+mein
+dict_values([6, 13, 5, 7, 5])
+sum of wordFormDict.values() 36
+haben
+dict_values([7, 2, 3, 6, 1])
+sum of wordFormDict.values() 19
+ich
+dict_values([36, 16, 8])
+sum of wordFormDict.values() 60
+ein
+dict_values([7, 5, 6, 2, 2, 1])
+sum of wordFormDict.values() 23
+wir
+dict_values([5, 6])
+sum of wordFormDict.values() 11
+warm
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erzählen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+eigen
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+sprechen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([4, 1, 1, 2])
+sum of wordFormDict.values() 8
+wissen
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+lang
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dauern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 2, 1, 1])
+sum of wordFormDict.values() 6
+unser
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+du
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sagen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+brechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+fühlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wahr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+voll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([8, 15, 11, 5, 10, 3])
+sum of wordFormDict.values() 52
+sein
+dict_values([14, 1, 1, 2, 7, 6, 4, 6, 2, 1, 1])
+sum of wordFormDict.values() 45
+dies
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+mein
+dict_values([6, 13, 5, 7, 5])
+sum of wordFormDict.values() 36
+haben
+dict_values([7, 2, 3, 6, 1])
+sum of wordFormDict.values() 19
+ich
+dict_values([36, 16, 8])
+sum of wordFormDict.values() 60
+ein
+dict_values([7, 5, 6, 2, 2, 1])
+sum of wordFormDict.values() 23
+wir
+dict_values([5, 6])
+sum of wordFormDict.values() 11
+warm
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erzählen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+eigen
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+sprechen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([4, 1, 1, 2])
+sum of wordFormDict.values() 8
+wissen
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+lang
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dauern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 2, 1, 1])
+sum of wordFormDict.values() 6
+unser
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+du
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sagen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+brechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+fühlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wahr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+voll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

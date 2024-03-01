@@ -1,0 +1,198 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 504
+Length of all lemmas: 376
+Length of singleton lemmas: 333
+Length of matched lemmas: 32
+Length of singleton maching lemmas: 333
+der
+dict_values([21, 7, 30, 14, 5, 12, 2])
+sum of wordFormDict.values() 91
+wichtig
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+entscheiden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([4, 4, 1, 2, 2, 2])
+sum of wordFormDict.values() 15
+geben
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 4, 2, 3])
+sum of wordFormDict.values() 11
+haben
+dict_values([4, 3, 2, 2, 1, 1])
+sum of wordFormDict.values() 13
+sein
+dict_values([5, 1, 4, 4, 4, 4, 4, 1])
+sum of wordFormDict.values() 27
+können
+dict_values([2, 5, 2, 4])
+sum of wordFormDict.values() 13
+werden
+dict_values([3, 8, 1, 1])
+sum of wordFormDict.values() 13
+schwer
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+psychisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gefährlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([6, 6, 2, 6, 1])
+sum of wordFormDict.values() 21
+argumentieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+solch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tragisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+früh
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwerwiegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entsprechend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ergreifen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aggressiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([21, 7, 30, 14, 5, 12, 2])
+sum of wordFormDict.values() 91
+wichtig
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+entscheiden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([4, 4, 1, 2, 2, 2])
+sum of wordFormDict.values() 15
+geben
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 4, 2, 3])
+sum of wordFormDict.values() 11
+haben
+dict_values([4, 3, 2, 2, 1, 1])
+sum of wordFormDict.values() 13
+sein
+dict_values([5, 1, 4, 4, 4, 4, 4, 1])
+sum of wordFormDict.values() 27
+können
+dict_values([2, 5, 2, 4])
+sum of wordFormDict.values() 13
+werden
+dict_values([3, 8, 1, 1])
+sum of wordFormDict.values() 13
+schwer
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+psychisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gefährlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([6, 6, 2, 6, 1])
+sum of wordFormDict.values() 21
+argumentieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+solch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tragisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+früh
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwerwiegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entsprechend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ergreifen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aggressiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

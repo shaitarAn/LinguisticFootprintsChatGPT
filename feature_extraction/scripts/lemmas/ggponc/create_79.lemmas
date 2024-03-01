@@ -1,0 +1,269 @@
+klinisch: klinischer|1
+Fall: fall|2
+:: :|1
+Differentialdiagnos: differentialdiagnose|1
+Depression: depression|7	depressionen|3
+bei: bei|5
+ein: einem|3	einer|6	eine|11	ein|1	einen|1
+Patient: patienten|2
+mit: mit|8
+fortgeschritten: fortgeschrittener|1	fortgeschrittenen|2	fortgeschrittene|1
+Krebserkrankung: krebserkrankung|3
+Herr: herr|6	herrn|8
+Schmidt: schmidt|11	schmidts|3
+,: ,|30
+55: 55|1
+Jahr: jahre|1
+alt: alt|1	alter|1
+werden: wurde|2	wird|3	werden|1
+vor: vor|2
+sechs: sechs|1
+Monat: monaten|1
+Lungenkrebsdiagnose: lungenkrebsdiagnose|1
+konfrontieren: konfrontiert|1
+.: .|29
+seit: seit|1
+sein: seiner|4	sein|2	seine|5	sind|1	seinem|2	seinen|1
+Diagnose: diagnose|4
+haben: hat|4	haben|1
+er: er|9	ihm|3	ihn|1
+Reihe: reihe|1
+von: von|9
+Behandlung: behandlungen|2	behandlung|2
+wie: wie|5
+Chemotherapie: chemotherapie|1
+und: und|14
+Bestrahlung: bestrahlung|1
+durchlaufen: durchlaufen|1
+obwohl: obwohl|1
+physisch: physischer|1
+Zustand: zustand|1
+aufgrund: aufgrund|2
+der: der|12	den|3	dem|8	die|12	das|5	des|1
+aggressiven: aggressiven|1
+schwanken: schwankt|1
+weiterhin: weiterhin|1
+zahlreich: zahlreiche|1
+Unterstützung: unterstützung|1
+Familie: familie|2
+Freund: freunden|1
+in: in|9
+letzt: letzten|1
+Woche: wochen|1
+Arzt: ärzte|4
+bemerken: bemerkt|1
+dass: dass|6
+zunehmend: zunehmend|1
+an: an|8
+Antriebslosigkeit: antriebslosigkeit|1
+leiden: leidet|3
+zeigen: zeigt|3
+wenig: wenig|1
+Interesse: interesse|2
+Essen: essen|1
+finden: findet|1	finden|1
+kein: keine|2
+Freude: freude|1
+mehr: mehr|2
+Aktivität: aktivitäten|2
+einst: einst|1
+Spaß: spaß|1
+bereiten: bereiteten|1
+häufig: häufig|1
+Schlafstörung: schlafstörungen|1
+fühlen: fühlt|1
+er|es|sie: sich|5
+dauerhaft: dauerhaft|1
+erschöpfen: erschöpft|1
+oft: oft|1
+scheinen: scheint|1
+es: es|3
+auch: auch|2
+schwer: schwer|1
+zu: zu|8
+fallen: fallen|1
+konzentrieren: konzentrieren|1
+oder: oder|4
+Entscheidung: entscheidungen|1
+treffen: treffen|1
+anhand: anhand|1
+dies: dieser|1
+Symptom: symptome|4
+können: könnte|1	kann|1
+man: man|1
+zunächst: zunächst|1
+vermuten: vermuten|1
+unter: unter|1
+deutsch: deutsche|1
+Leitlinienprogramm: leitlinienprogramm|1
+für: für|5
+Onkologie: onkologie|2
+betonen: betont|1
+Bedeutung: bedeutung|1
+Differentialdiagnostik: differentialdiagnostik|1
+sowie: sowie|3
+bekannt: bekannten|1
+Risikofaktor: risikofaktoren|3
+(: (|3
+): )|3
+hierbei: hierbei|1
+spielen: spielen|1
+Vorliegen: vorliegen|1
+eigen: eigen|1
+-: -|3
+Familienanamnese: familienanamnese|2
+[: [|7
+REF: ref|7
+]: ]|7
+gleichzeitig: gleichzeitige|1
+Belastungsfaktor: belastungsfaktoren|2
+z.B.: z.b.|1
+frische: frische|1
+Verlusterlebnis: verlusterlebnisse|1
+fehlend: fehlende|1
+sozial: soziale|1
+unterstützung: unterstützung|1
+jünger: jüngeres|1
+Erkrankung: erkrankung|1	erkrankungen|1
+Diagnosestellung: diagnosestellung|2
+schlecht: schlechte|1	schlechter|1
+Symptomkontrolle: symptomkontrolle|1
+körperlich: körperlicher|1	körperliche|1
+Funktionsstatus: funktionsstatus|1
+Beeinträchtigung: beeinträchtigungen|1
+Rolle: rolle|1
+um: um|8
+bestätigen: bestätigen|1
+interdisziplinär: interdisziplinäre|1	interdisziplinären|1
+Team: team|4	teams|1
+herum: herum|1
+weit: weitere|2
+Untersuchung: untersuchungen|1	untersuchung|1
+durchfahren|durchführen: durchführen|1
+bestehen: besteht|1
+aus: aus|1
+Onkologe: onkologen|1
+Psychologe: psychologen|3	psychologe|2
+Palliativmedizinerin: palliativmedizinerin|1
+beginnen: beginnen|1	beginnt|1
+ausführlich: ausführlichen|1	ausführlich|1	ausführliche|1
+Anamnese: anamnese|1
+Sie|sie: sie|1
+erkunden: erkunden|1
+insbesondere: insbesondere|1
+Bezug: bezug|1
+auf: auf|2
+ander: andere|1
+psychisch: psychische|1	psychischen|1
+berichten: berichtet|1
+einige: einigen|1
+Fall|Fällen: fällen|1
+aber: aber|1
+niemandem: niemandem|1
+jemals: jemals|1
+offiziell: offizielle|1
+stellen: gestellt|1	stellen|1	stellt|1
+außerdem: außerdem|2
+sprechen: sprechen|1
+sie: sie|1
+über: über|1
+aktuell: aktuellen|2
+Leben: leben|1
+Verlust: verlust|1
+Arbeit: arbeit|1
+Beginn: beginn|1
+Krebsbehandlung: krebsbehandlung|1
+Tatsache: tatsache|1
+Krankheit: krankheit|1
+nicht: nicht|3
+so: so|1
+bewegen: bewegen|1
+zuvor: zuvor|1
+belasten: belastet|1
+sehr: sehr|1
+emotional: emotional|1
+Blutuntersuchung: blutuntersuchung|1
+klar: klaren|1
+Hinweis: hinweise|1
+möglich: mögliche|1	möglichen|1
+organisch: organische|1
+Ursache: ursachen|1
+entscheiden: entscheiden|1
+daher: daher|1
+gemeinschaftlich: gemeinschaftlich|1
+diagnostisch: diagnostische|2
+Test: tests|1
+beispielsweise: beispielsweise|1
+bildgebend: bildgebende|1
+Verfahren: verfahren|2
+Zeitpunkt: zeitpunkt|1
+notwendig: notwendig|1
+feststellen: festzustellen|1
+ob: ob|1
+Symptomen: symptomen|1
+tatsächlich: tatsächlich|1
+handeln: handelt|1
+Befindlichkeitsstörung: befindlichkeitsstörungen|1
+Zusammenhang: zusammenhang|1
+überweisen: überwiesen|1
+führen: führt|1
+Gespräch: gespräche|1
+wenden: wendet|1
+standardisiert: standardisierte|1
+definitiv: definitive|1
+nach: nach|1
+sorgfältig: sorgfältiger|1
+Berücksichtigung: berücksichtigung|1
+schließlich: schließlich|1
+fest: fest|2
+beraten: beraten|1
+entsprechend: entsprechend|1
+Leitlinie: leitlinien|1
+Krebspatienten: krebspatienten|1
+legen: legen|1
+individuell: individuelle|1
+Behandlungsstrategie: behandlungsstrategie|1
+nun: nun|1
+spezialisiert: spezialisierten|1
+Psychotherapie: psychotherapie|1
+unterziehen: unterzogen|1
+sowohl: sowohl|1
+Einzel: einzel|1
+als: als|1
+Gruppensitzung: gruppensitzungen|1
+beinhalten: beinhaltet|1
+darüber: darüber|1
+hinaus: hinaus|1
+erhalten: erhält|1
+unterstützend: unterstützende|1
+medikamentös: medikamentöse|1
+Therapie: therapie|1
+lindern: lindern|1
+arbeiten: arbeitet|1
+eng: eng|1	enge|1
+onkologisch: onkologischen|1
+Behandlungsteam: behandlungsteam|1
+zusammen: zusammen|1
+sicherstellen: sicherzustellen|1
+Bedürfnis: bedürfnisse|1
+optimal: optimal|1
+Gesamtversorgungsplan: gesamtversorgungsplan|1
+integrieren: integriert|1
+Verlauf: verlauf|1
+allmählich: allmählich|1
+Verbesserung: verbesserung|1
+Stimmung: stimmung|1
+Allgemeinzustand: allgemeinzustand|1
+wieder: wieder|2
+Energielevel: energielevel|1
+steigen: steigt|1
+langsam: langsam|1
+Zusammenarbeit: zusammenarbeit|1
+zwischen: zwischen|1
+Palliativmediziner-: palliativmediziner-|1
+innen: innen|1
+ermöglichen: ermöglicht|1
+angemessen: angemessene|1
+anschließend: anschließende|1
+Versorgung: versorgung|1
+bereitzustell: bereitzustellen|1

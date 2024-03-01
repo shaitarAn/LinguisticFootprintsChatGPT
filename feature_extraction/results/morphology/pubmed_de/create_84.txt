@@ -1,0 +1,96 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 321
+Length of all lemmas: 268
+Length of singleton lemmas: 241
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 241
+der
+dict_values([19, 27, 7, 7, 6, 4, 1])
+sum of wordFormDict.values() 71
+medizinisch
+dict_values([5, 4, 1])
+sum of wordFormDict.values() 10
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ermöglichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+ein
+dict_values([8, 1, 1, 4])
+sum of wordFormDict.values() 14
+dies
+dict_values([6, 4, 1])
+sum of wordFormDict.values() 11
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 10])
+sum of wordFormDict.values() 12
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 27, 7, 7, 6, 4, 1])
+sum of wordFormDict.values() 71
+medizinisch
+dict_values([5, 4, 1])
+sum of wordFormDict.values() 10
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ermöglichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+ein
+dict_values([8, 1, 1, 4])
+sum of wordFormDict.values() 14
+dies
+dict_values([6, 4, 1])
+sum of wordFormDict.values() 11
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 10])
+sum of wordFormDict.values() 12
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

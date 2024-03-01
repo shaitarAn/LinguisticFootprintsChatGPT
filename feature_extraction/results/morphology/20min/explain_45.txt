@@ -1,0 +1,114 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 329
+Length of all lemmas: 253
+Length of singleton lemmas: 225
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 225
+der
+dict_values([20, 10, 10, 11, 1, 8, 5])
+sum of wordFormDict.values() 65
+berichten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([9, 8, 3, 1])
+sum of wordFormDict.values() 21
+ein
+dict_values([3, 5, 3, 1, 4, 1])
+sum of wordFormDict.values() 17
+sein
+dict_values([8, 4, 1, 2, 1, 1, 1])
+sum of wordFormDict.values() 18
+er
+dict_values([6, 11, 1])
+sum of wordFormDict.values() 18
+bringen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+medizinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([7, 1, 2, 1])
+sum of wordFormDict.values() 11
+organisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+landesweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+prominent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([20, 10, 10, 11, 1, 8, 5])
+sum of wordFormDict.values() 65
+berichten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([9, 8, 3, 1])
+sum of wordFormDict.values() 21
+ein
+dict_values([3, 5, 3, 1, 4, 1])
+sum of wordFormDict.values() 17
+sein
+dict_values([8, 4, 1, 2, 1, 1, 1])
+sum of wordFormDict.values() 18
+er
+dict_values([6, 11, 1])
+sum of wordFormDict.values() 18
+bringen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+medizinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([7, 1, 2, 1])
+sum of wordFormDict.values() 11
+organisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+landesweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+prominent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([3, 1])
+sum of wordFormDict.values() 4

@@ -1,0 +1,150 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 421
+Length of all lemmas: 329
+Length of singleton lemmas: 295
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 295
+werden
+dict_values([13, 1, 1, 4])
+sum of wordFormDict.values() 19
+der
+dict_values([17, 27, 7, 6, 6, 9])
+sum of wordFormDict.values() 72
+onkologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([7, 7, 2])
+sum of wordFormDict.values() 16
+ein
+dict_values([2, 15, 3, 5, 2, 1])
+sum of wordFormDict.values() 28
+metastasiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 3, 7, 5, 7, 1])
+sum of wordFormDict.values() 25
+stark
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+besprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+empfehlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehören
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestmöglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unterstützen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+palliativ
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erfahren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([13, 1, 1, 4])
+sum of wordFormDict.values() 19
+der
+dict_values([17, 27, 7, 6, 6, 9])
+sum of wordFormDict.values() 72
+onkologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([7, 7, 2])
+sum of wordFormDict.values() 16
+ein
+dict_values([2, 15, 3, 5, 2, 1])
+sum of wordFormDict.values() 28
+metastasiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 3, 7, 5, 7, 1])
+sum of wordFormDict.values() 25
+stark
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+besprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+empfehlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehören
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestmöglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unterstützen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+palliativ
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erfahren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4

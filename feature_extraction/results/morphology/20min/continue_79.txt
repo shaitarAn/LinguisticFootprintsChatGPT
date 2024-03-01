@@ -1,0 +1,162 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 428
+Length of all lemmas: 341
+Length of singleton lemmas: 304
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 304
+der
+dict_values([22, 9, 9, 10, 6, 10])
+sum of wordFormDict.values() 66
+sein
+dict_values([3, 1, 2, 3, 1, 2])
+sum of wordFormDict.values() 12
+ihr
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 5])
+sum of wordFormDict.values() 11
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([4, 3, 6, 2])
+sum of wordFormDict.values() 15
+ein
+dict_values([11, 5, 1, 2])
+sum of wordFormDict.values() 19
+aromatisiert
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+zuckerhaltig
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+künstlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zurückgreifen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 5, 3, 1])
+sum of wordFormDict.values() 12
+natürlich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unnötig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesund
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interessant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+neu
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+einfach
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+darstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([22, 9, 9, 10, 6, 10])
+sum of wordFormDict.values() 66
+sein
+dict_values([3, 1, 2, 3, 1, 2])
+sum of wordFormDict.values() 12
+ihr
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 5])
+sum of wordFormDict.values() 11
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([4, 3, 6, 2])
+sum of wordFormDict.values() 15
+ein
+dict_values([11, 5, 1, 2])
+sum of wordFormDict.values() 19
+aromatisiert
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+zuckerhaltig
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+künstlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zurückgreifen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 5, 3, 1])
+sum of wordFormDict.values() 12
+natürlich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unnötig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesund
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interessant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+neu
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+einfach
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+darstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,156 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 400
+Length of all lemmas: 326
+Length of singleton lemmas: 294
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 294
+der
+dict_values([19, 9, 14, 10, 7, 3])
+sum of wordFormDict.values() 62
+richtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 6, 1])
+sum of wordFormDict.values() 12
+werden
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+viel
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 5, 2])
+sum of wordFormDict.values() 8
+ein
+dict_values([9, 8, 2, 2])
+sum of wordFormDict.values() 21
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+schlecht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+ausgewogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesund
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+enthalten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bewußt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+anspruchsvoll
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+atemberaubend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+malerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spannend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 9, 14, 10, 7, 3])
+sum of wordFormDict.values() 62
+richtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 6, 1])
+sum of wordFormDict.values() 12
+werden
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+viel
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 5, 2])
+sum of wordFormDict.values() 8
+ein
+dict_values([9, 8, 2, 2])
+sum of wordFormDict.values() 21
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+schlecht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+ausgewogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesund
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+enthalten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bewußt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+anspruchsvoll
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+atemberaubend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+malerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spannend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

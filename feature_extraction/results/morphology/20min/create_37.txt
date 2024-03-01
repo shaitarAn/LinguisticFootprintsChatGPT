@@ -1,0 +1,174 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 419
+Length of all lemmas: 327
+Length of singleton lemmas: 288
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 288
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 8, 5])
+sum of wordFormDict.values() 14
+ein
+dict_values([2, 7, 2, 2, 2])
+sum of wordFormDict.values() 15
+verheerend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([32, 12, 38, 12, 13, 3])
+sum of wordFormDict.values() 110
+hinterlassen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+örtlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 3, 1, 3, 1])
+sum of wordFormDict.values() 13
+können
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+haben
+dict_values([4, 6, 1])
+sum of wordFormDict.values() 11
+zerstören
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 9, 1, 6, 1, 1])
+sum of wordFormDict.values() 21
+melden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+planen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 4, 3, 1])
+sum of wordFormDict.values() 10
+alle
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+leisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+anbieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verstärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+verhindern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wiederherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zurückkehren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 8, 5])
+sum of wordFormDict.values() 14
+ein
+dict_values([2, 7, 2, 2, 2])
+sum of wordFormDict.values() 15
+verheerend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([32, 12, 38, 12, 13, 3])
+sum of wordFormDict.values() 110
+hinterlassen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+örtlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 3, 1, 3, 1])
+sum of wordFormDict.values() 13
+können
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+haben
+dict_values([4, 6, 1])
+sum of wordFormDict.values() 11
+zerstören
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 9, 1, 6, 1, 1])
+sum of wordFormDict.values() 21
+melden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+planen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 4, 3, 1])
+sum of wordFormDict.values() 10
+alle
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+leisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+anbieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verstärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+verhindern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wiederherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zurückkehren
+dict_values([1, 1])
+sum of wordFormDict.values() 2

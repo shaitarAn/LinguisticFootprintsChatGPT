@@ -1,0 +1,350 @@
+Patient: patient|1
+:: :|23
+Max: max|12
+M.: m.|1
+alt: alter|1	alt|1
+28: 28|2
+Jahr: jahre|3
+Geschlecht: geschlecht|1
+männlich: männlich|1
+Anamnese: anamnese|1
+sein: ist|5	seines|2	sind|6	sein|2	seiner|1	seine|1	seinen|1
+und: und|26
+leben: lebt|1
+ein: ein|5	eine|13	einen|6	eines|5	einer|8	einem|1
+gesunde: gesundes|1
+,: ,|32
+aktiv: aktives|1
+Leben: leben|2	lebens|1
+.: .|47
+er: er|7	ihn|1	ihm|2
+haben: hat|6
+kein: keine|3
+Vorgeschichte: vorgeschichte|1
+von: von|5
+ernsthaft: ernsthaften|1
+Erkrankung: erkrankungen|1	erkrankung|1
+oder: oder|10
+genetisch: genetischen|1
+Vorbelastung: vorbelastungen|1
+in: in|17
+letzt: letzter|1
+Zeit: zeit|1
+bemerken: bemerkte|1
+jedoch: jedoch|2
+Vergrößerung: vergrößerung|2
+recht: rechten|5	rechter|1
+Hoden: hodens|5	hoden|6
+leicht: leichte|1
+Schmerz: schmerzen|1
+bei: bei|5
+der: dem|10	des|15	der|30	die|22	das|5	den|7
+Berühren: berühren|1
+betroffen: betroffenen|2
+Bereich: bereichs|1	bereichen|1
+besorgt: besorgt|1
+über: über|4
+dies: diese|2	dieser|2
+Symptom: symptome|3
+entschliessen: entschließt|1
+er|es|sie: sich|11
+Arzt: arzt|4	arztes|1	ärzte|1
+aufzusuchen: aufzusuchen|1
+Untersuchungsbefund: untersuchungsbefund|1
+körperlichen: körperlichen|2
+Untersuchung: untersuchung|3	untersuchungen|2
+stellen: stellt|1	stellen|1
+deutlich: deutliche|1
+fest: fest|1	festen|1
+fühlen: fühlt|1
+schwollen: geschwollen|1
+an: an|2
+es: es|8
+Knoten: knoten|1
+Struktur: struktur|1
+zu: zu|17
+spüren: spüren|1
+bestehen: besteht|2
+auch: auch|5
+gewiß: gewisser|1	gewisse|1
+Druckschmerz: druckschmerz|1
+Diagnose: diagnose|5
+aufgrund: aufgrund|2
+klinisch: klinischen|2
+Befunds: befunds|1
+Verdacht: verdacht|1
+auf: auf|10
+bösartig: bösartigen|2
+Tumor: tumor|4	tumors|1
+konkren: konkret|1
+Keimzellentumor: keimzellentumor|1	keimzellentumors|1	keimzellentumoren|1
+(: (|6
+KZT: kzt|4
+): )|6
+um: um|11
+bestätigen: bestätigen|1	bestätigt|2
+weit: weitere|2
+Information: informationen|3
+erhalten: erhalten|1	erhält|1
+ordnen: ordnet|1
+zusätzlich: zusätzliche|1
+diagnostisch: diagnostische|1
+Verfahren: verfahren|3
+1: 1|1
+Ultraschalluntersuchung: ultraschalluntersuchung|2
+Anwesenheit: anwesenheit|1
+mit: mit|5
+klar: klaren|1
+hinweisen: hinweisen|1	hinweist|1
+darauf: darauf|1
+dass: dass|3
+handeln: handelt|2
+2.Tumormarker: 2.tumormarker|1
+Blut: blut|2
+AFP: afp|2
+bHCG: bhcg|2
+Bluttestergebnis: bluttestergebnis|1
+zeigen: zeigt|3
+erhöht: erhöhte|1
+Wert: werte|1	wert|1
+für: für|6
+Alpha: alpha|1
+-: -|3
+Fetoprotein: fetoprotein|1
+β-: β-|1
+human: humanes|1
+Choriongonadotropin: choriongonadotropin|1
+was: was|1
+möglich: möglichen|1	mögliche|1
+Hodentumor: hodentumor|1	hodentumoren|3
+3: 3|1
+Computertomographie: computertomographie|1
+CT: ct|3
+Abdomen: abdomens|1
+Becken: beckens|1
+werden: wird|8	wurden|2	werden|1
+anordnen: angeordnet|1
+feststellen: festzustellen|1
+ob: ob|1
+bereits: bereits|1
+metastasieren: metastasiert|1
+Lymphknot: lymphknoten|3
+ander: anderen|2
+Organe: organen|1
+ausbreiten: ausgebreitet|2
+4: 4|1
+Biopsie: biopsie|3
+definitiv: definitive|1
+Gewebeprobe: gewebeprobe|1
+durch: durch|1
+entnehmen: entnommen|1
+feingeweblich: feingeweblich|1
+untersuchen: untersucht|1
+Diagnosebestätigung: diagnosebestätigung|1
+Staging: staging|1
+basierend: basierend|3
+Ergebnis: ergebnissen|1	ergebnisse|1
+Stadium: stadium|5	stadiums|1	stadien|1
+festlegen: festgelegt|1
+I: i|1
+beschränken: beschränkt|1
+II: ii|1
+umgebend: umgebenden|1
+Gewebe: gewebe|1
+Iii: iii|1
+Fernmetastasen: fernmetastasen|2
+außerhalb: außerhalb|1
+nachweisen: nachgewiesen|1
+IV: iv|1
+Multipl: multiple|1
+vorhanden: vorhanden|1
+einschließlich: einschließlich|1
+nicht: nicht|1
+lymphogen: lymphogener|1
+Organ: organe|1
+wie: wie|3
+Leber: leber|1
+Lunge: lunge|1
+Therapievorschlag: therapievorschlag|1
+früh: frühen|2	früh|1
+i: i|1
+empfiehlen: empfiehlt|1
+radikal: radikale|1	radikalen|1
+Orchiektomie: orchiektomie|2
+operativ: operative|1
+Entfernung: entfernung|1
+anschließend: anschließend|1
+können: kann|2	könnten|1
+adjuvant: adjuvante|1	adjuvanten|1
+Chemotherapie: chemotherapie|4
+erforderlich: erforderlich|1
+Risiko: risiko|2
+erneut: erneuten|2
+Auftreten: auftretens|2
+Metastasierung: metastasierung|2
+verringern: verringern|2
+regelmäßige: regelmäßige|2
+Nachsorge: nachsorge|3
+bildgebend: bildgebenden|1	bildgebende|1
+empfohlen: empfohlen|1	empfohlenen|1
+eventuell: eventuelle|1
+Rückfall: rückfälle|3
+Metastasen: metastasen|2
+frühzeitig: frühzeitig|2	frühzeitigen|1
+erkennen: erkennen|2	erkannt|1
+Prognose: prognose|2
+Regel: regel|1
+gut: gut|2	gute|2
+insbesondere: insbesondere|1
+Heilungsrat: heilungsraten|1
+hoch: hoch|1
+Überlebensaussicht: überlebensaussichten|1
+positiv: positiv|1
+wenn: wenn|3
+anmessen: angemessen|1
+behandeln: behandelt|1
+Chance: chancen|1
+vollständig: vollständige|1
+Genesung: genesung|1
+normal: normales|1	normal|1
+nach: nach|3
+Behandlung: behandlung|5
+da: da|1
+fiktiv: fiktiven|1	fiktive|1
+Fall: fall|3
+persönlich: persönlichen|1
+frei: frei|1
+erfinden: erfunden|1
+hypothetisch: hypothetische|1
+dienen: dient|1
+ausschließlich: ausschließlich|1
+illustrativ: illustrativen|1
+Zweck: zwecken|1
+Darstellung: darstellung|1
+Situation: situation|1
+medizinisch: medizinischen|2
+Leitlinie: leitlinien|2
+Verlauf: verlauf|1
+stimmen: stimmt|1
+Empfehlung: empfehlung|1
+unterziehen: unterzieht|1
+entfernen: entfernt|1
+Operation: operation|1
+verlaufen: verläuft|1
+erfolgreich: erfolgreich|1
+erholen: erholt|1
+Eingriff: eingriff|1
+Anschluß: anschluss|1
+daran: daran|1
+beginnen: beginnt|1
+finden: findet|1
+Zeitraum: zeitraum|1
+mehrere: mehreren|1	mehrere|1
+Monat: monaten|1
+statt: statt|1
+erleben: erlebt|1
+während: während|3
+einige: einige|1	einigen|1
+Nebenwirkung: nebenwirkungen|2
+Übelkeit: übelkeit|1
+Erbrechen: erbrechen|1
+Haarausfall: haarausfall|1
+unterstützen: unterstützen|1
+dabei: dabei|2
+Beschwerde: beschwerden|1
+lindern: lindern|1
+geben: geben|1	gibt|1
+Ratschlag: ratschläge|1
+Bewältigung: bewältigung|2
+Rahmen: rahmen|1
+regelmäßiger: regelmäßiger|1
+Nachsorgeuntersuchung: nachsorgeuntersuchungen|1
+': '|2
+Blutwert: blutwerte|1
+überprüfen: überprüft|1
+durchführen: durchgeführt|1
+ansprechen: ansprechen|1
+Therapie: therapie|2
+sowie: sowie|3
+Glücklicherweise: glücklicherweise|1
+positive: positive|1
+Entwicklung: entwicklung|1
+Tumormarker: tumormarker|1
+nehmen: nehmen|1
+ab: ab|1
+Anzeichen: anzeichen|2
+Ausbreitung: ausbreitung|1
+Krebs: krebses|2
+Körper: körpers|1	körper|1
+erkennbar: erkennbar|1
+Zustand: zustand|1
+stabilisieren: stabilisiert|1
+allmählich: allmählich|1
+emotional: emotionalen|1
+Herausforderung: herausforderungen|1
+konfrontieren: konfrontiert|1
+helfen: helfen|1
+physisch: physischen|1
+psychisch: psychischen|1
+Belastung: belastungen|1
+fertigzuwerden: fertigzuwerden|1
+empfehlen: empfiehlt|1
+Onkolog: onkologe|1
+Unterstützungsprogramm: unterstützungsprogramme|1
+Krebserkrankung: krebserkrankungen|1
+beispielsweise: beispielsweise|1
+Psychotherapie: psychotherapie|1
+Selbsthilfegruppe: selbsthilfegruppen|1
+Abschluß: abschluss|2
+regelmäßig: regelmäßig|1	regelmäßige|1
+nachuntersuchen: nachuntersucht|1
+sicherstellen: sicherzustellen|1
+Rückkehr: rückkehr|1
+auftreten: auftreten|1
+umfassend: umfassende|1
+Bedeutung: bedeutung|2
+ermutigen: ermutigt|1
+Veränderung: veränderungen|2
+melden: melden|1
+Wiederauftret: wiederauftreten|1
+Krankheit: krankheit|1
+hindeuten: hindeuten|1
+hinweg: hinweg|1
+bleiben: bleibt|1
+krebsfrein: krebsfrei|1
+Aktivität: aktivitäten|1
+Alltag: alltag|1
+wieder: wieder|1
+ganz: ganz|1
+gestalten: gestalten|1
+bewußt: bewusst|1
+Wahrscheinlichkeit: wahrscheinlichkeit|1
+gehen: geht|1
+optimistisch: optimistisch|1
+Zukunft: zukunft|1
+machen: macht|1
+Vorsorgeuntersuchung: vorsorgeuntersuchungen|1
+Bestandteil: bestandteil|1
+Schlussfolgerung: schlussfolgerung|1
+dinken: dank|1
+adäquat: adäquaten|1
+Überlebenschance: überlebenschancen|1
+genau: genaue|1
+Einhaltung: einhaltung|1
+therapeutisch: therapeutischen|1
+Maßnahme: maßnahmen|1
+entscheidend: entscheidend|1
+Erfolg: erfolg|1
+veranschaulichen: veranschaulicht|1
+Aufmerksamkeit: aufmerksamkeit|1
+gegenüber: gegenüber|1
+zeitnah: zeitnahen|1
+ärztlich: ärztlichen|1
+Abklärung: abklärung|1
+multidisziplinär: multidisziplinären|1
+Ansatz: ansatzes|1
+Onkologiebehandlung: onkologiebehandlung|1
+Gewährleistung: gewährleistung|1
+bestmöglich: bestmöglicher|1
+sowohl: sowohl|1
+als: als|1

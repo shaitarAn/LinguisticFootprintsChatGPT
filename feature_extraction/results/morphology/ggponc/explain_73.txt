@@ -1,0 +1,138 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 379
+Length of all lemmas: 296
+Length of singleton lemmas: 263
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 263
+der
+dict_values([8, 6, 23, 15, 34, 10, 1])
+sum of wordFormDict.values() 97
+möglich
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([2, 4, 6, 8, 16, 2])
+sum of wordFormDict.values() 38
+fortschreitend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([7, 7])
+sum of wordFormDict.values() 14
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([10, 8])
+sum of wordFormDict.values() 18
+sprechen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 9, 4])
+sum of wordFormDict.values() 16
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+auffällig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+durchführen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+betonen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sollen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unklar
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+früh
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verstärkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([8, 6, 23, 15, 34, 10, 1])
+sum of wordFormDict.values() 97
+möglich
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([2, 4, 6, 8, 16, 2])
+sum of wordFormDict.values() 38
+fortschreitend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([7, 7])
+sum of wordFormDict.values() 14
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([10, 8])
+sum of wordFormDict.values() 18
+sprechen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 9, 4])
+sum of wordFormDict.values() 16
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+auffällig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+durchführen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+betonen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sollen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unklar
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+früh
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verstärkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2

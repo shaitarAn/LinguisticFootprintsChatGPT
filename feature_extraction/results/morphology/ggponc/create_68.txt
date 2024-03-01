@@ -1,0 +1,150 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 445
+Length of all lemmas: 356
+Length of singleton lemmas: 318
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 318
+der
+dict_values([29, 7, 21, 11, 8, 5])
+sum of wordFormDict.values() 81
+ihr
+dict_values([6, 3, 4, 2, 1])
+sum of wordFormDict.values() 16
+link
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([17, 7, 4, 5, 5, 1])
+sum of wordFormDict.values() 39
+werden
+dict_values([14, 5])
+sum of wordFormDict.values() 19
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+neoadjuvant
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verkleinern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erneut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjuvant
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+lokal
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+endokrin
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+engmaschig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+körperlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([29, 7, 21, 11, 8, 5])
+sum of wordFormDict.values() 81
+ihr
+dict_values([6, 3, 4, 2, 1])
+sum of wordFormDict.values() 16
+link
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([17, 7, 4, 5, 5, 1])
+sum of wordFormDict.values() 39
+werden
+dict_values([14, 5])
+sum of wordFormDict.values() 19
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+neoadjuvant
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verkleinern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erneut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjuvant
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+lokal
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+endokrin
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+engmaschig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+körperlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([1, 1])
+sum of wordFormDict.values() 2

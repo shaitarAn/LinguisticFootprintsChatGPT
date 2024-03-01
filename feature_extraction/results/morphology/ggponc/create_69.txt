@@ -1,0 +1,180 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 431
+Length of all lemmas: 346
+Length of singleton lemmas: 304
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 304
+der
+dict_values([31, 9, 14, 24, 3, 4, 1])
+sum of wordFormDict.values() 86
+ein
+dict_values([3, 9, 3, 9, 4, 5])
+sum of wordFormDict.values() 33
+ihr
+dict_values([4, 2, 2, 1])
+sum of wordFormDict.values() 9
+haben
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([3, 5, 9, 1])
+sum of wordFormDict.values() 18
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([10, 3, 1])
+sum of wordFormDict.values() 14
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fest
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+suspekt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+duktal
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+histopathologisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+brusterhaltend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjuvant
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+empfohlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+frühzeitig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+regelmäßig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+medizinisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erhalten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+behandeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([31, 9, 14, 24, 3, 4, 1])
+sum of wordFormDict.values() 86
+ein
+dict_values([3, 9, 3, 9, 4, 5])
+sum of wordFormDict.values() 33
+ihr
+dict_values([4, 2, 2, 1])
+sum of wordFormDict.values() 9
+haben
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([3, 5, 9, 1])
+sum of wordFormDict.values() 18
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([10, 3, 1])
+sum of wordFormDict.values() 14
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fest
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+suspekt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+duktal
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+histopathologisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+brusterhaltend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjuvant
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+empfohlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+frühzeitig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+regelmäßig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+medizinisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erhalten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+behandeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,174 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 421
+Length of all lemmas: 326
+Length of singleton lemmas: 284
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 284
+der
+dict_values([39, 6, 39, 10, 6, 11])
+sum of wordFormDict.values() 111
+medizinisch
+dict_values([13, 7])
+sum of wordFormDict.values() 20
+ein
+dict_values([19, 7, 2, 5, 1])
+sum of wordFormDict.values() 34
+wichtig
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+erwachsen
+dict_values([1, 6, 1])
+sum of wordFormDict.values() 8
+dies
+dict_values([7, 1, 4, 1, 1])
+sum of wordFormDict.values() 14
+umfassen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+therapeutisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([9, 9])
+sum of wordFormDict.values() 18
+entscheidend
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+unterstützen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+möglich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([9, 2, 2])
+sum of wordFormDict.values() 13
+aktiv
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+privat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+Erwachsene
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+sie
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+helfen
+dict_values([3, 6, 1])
+sum of wordFormDict.values() 10
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bewältigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganzheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+körperlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+maximal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([39, 6, 39, 10, 6, 11])
+sum of wordFormDict.values() 111
+medizinisch
+dict_values([13, 7])
+sum of wordFormDict.values() 20
+ein
+dict_values([19, 7, 2, 5, 1])
+sum of wordFormDict.values() 34
+wichtig
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+erwachsen
+dict_values([1, 6, 1])
+sum of wordFormDict.values() 8
+dies
+dict_values([7, 1, 4, 1, 1])
+sum of wordFormDict.values() 14
+umfassen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+therapeutisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([9, 9])
+sum of wordFormDict.values() 18
+entscheidend
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+unterstützen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+möglich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([9, 2, 2])
+sum of wordFormDict.values() 13
+aktiv
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+privat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+Erwachsene
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+sie
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+helfen
+dict_values([3, 6, 1])
+sum of wordFormDict.values() 10
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bewältigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganzheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+körperlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+maximal
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,192 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 428
+Length of all lemmas: 324
+Length of singleton lemmas: 278
+Length of matched lemmas: 31
+Length of singleton maching lemmas: 278
+der
+dict_values([32, 23, 5, 4, 3, 3, 1, 1, 1])
+sum of wordFormDict.values() 73
+gefährdet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([28, 5, 12, 4, 3, 1])
+sum of wordFormDict.values() 53
+sein
+dict_values([11, 6, 2, 1])
+sum of wordFormDict.values() 20
+ergreifen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 5, 3, 4, 1])
+sum of wordFormDict.values() 17
+werden
+dict_values([11, 9])
+sum of wordFormDict.values() 20
+können
+dict_values([8, 5])
+sum of wordFormDict.values() 13
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+durchschnittlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+depressiv
+dict_values([6, 9, 1])
+sum of wordFormDict.values() 16
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+selten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+differenzialdiagnostisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verstärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfüllen
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+zeitlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schwer
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+belastend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+subsyndromal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fortgeschritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([32, 23, 5, 4, 3, 3, 1, 1, 1])
+sum of wordFormDict.values() 73
+gefährdet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([28, 5, 12, 4, 3, 1])
+sum of wordFormDict.values() 53
+sein
+dict_values([11, 6, 2, 1])
+sum of wordFormDict.values() 20
+ergreifen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 5, 3, 4, 1])
+sum of wordFormDict.values() 17
+werden
+dict_values([11, 9])
+sum of wordFormDict.values() 20
+können
+dict_values([8, 5])
+sum of wordFormDict.values() 13
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+durchschnittlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+depressiv
+dict_values([6, 9, 1])
+sum of wordFormDict.values() 16
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+selten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+differenzialdiagnostisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verstärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfüllen
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+zeitlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schwer
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+belastend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+subsyndromal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fortgeschritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,102 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 311
+Length of all lemmas: 263
+Length of singleton lemmas: 243
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 243
+der
+dict_values([15, 8, 16, 11, 2, 3])
+sum of wordFormDict.values() 55
+chinesisch
+dict_values([3, 6, 7])
+sum of wordFormDict.values() 16
+haben
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+ein
+dict_values([2, 1, 4, 2, 2])
+sum of wordFormDict.values() 11
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 7])
+sum of wordFormDict.values() 10
+ihr
+dict_values([6, 1, 4])
+sum of wordFormDict.values() 11
+wohlhabend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+enorm
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wachsend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 8, 16, 11, 2, 3])
+sum of wordFormDict.values() 55
+chinesisch
+dict_values([3, 6, 7])
+sum of wordFormDict.values() 16
+haben
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+ein
+dict_values([2, 1, 4, 2, 2])
+sum of wordFormDict.values() 11
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 7])
+sum of wordFormDict.values() 10
+ihr
+dict_values([6, 1, 4])
+sum of wordFormDict.values() 11
+wohlhabend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+enorm
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wachsend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

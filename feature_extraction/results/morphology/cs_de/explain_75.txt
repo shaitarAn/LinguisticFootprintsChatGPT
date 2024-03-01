@@ -1,0 +1,108 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 357
+Length of all lemmas: 295
+Length of singleton lemmas: 270
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 270
+der
+dict_values([20, 8, 5, 13, 14, 6])
+sum of wordFormDict.values() 66
+ein
+dict_values([2, 3, 3, 5, 2])
+sum of wordFormDict.values() 15
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+letzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+prognostizieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+historisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 5, 2])
+sum of wordFormDict.values() 9
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 2, 1, 2])
+sum of wordFormDict.values() 9
+steigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+steigend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rückläufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([20, 8, 5, 13, 14, 6])
+sum of wordFormDict.values() 66
+ein
+dict_values([2, 3, 3, 5, 2])
+sum of wordFormDict.values() 15
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+letzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+prognostizieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+historisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 5, 2])
+sum of wordFormDict.values() 9
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 2, 1, 2])
+sum of wordFormDict.values() 9
+steigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+steigend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rückläufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3

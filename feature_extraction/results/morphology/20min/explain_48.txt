@@ -1,0 +1,138 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 392
+Length of all lemmas: 299
+Length of singleton lemmas: 271
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 271
+der
+dict_values([18, 8, 4, 4, 12, 4, 2])
+sum of wordFormDict.values() 52
+ein
+dict_values([3, 11, 5, 4, 1])
+sum of wordFormDict.values() 24
+er
+dict_values([18, 3, 1])
+sum of wordFormDict.values() 22
+werden
+dict_values([4, 3, 1, 4, 1])
+sum of wordFormDict.values() 13
+sein
+dict_values([3, 4, 6, 4, 2, 5, 5, 11])
+sum of wordFormDict.values() 40
+beeinflussen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ganz
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+einzigartig
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+geben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+kein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+hören
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([5, 2, 3])
+sum of wordFormDict.values() 10
+dies
+dict_values([1, 4, 1, 1])
+sum of wordFormDict.values() 7
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+persönlich
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+der
+dict_values([18, 8, 4, 4, 12, 4, 2])
+sum of wordFormDict.values() 52
+ein
+dict_values([3, 11, 5, 4, 1])
+sum of wordFormDict.values() 24
+er
+dict_values([18, 3, 1])
+sum of wordFormDict.values() 22
+werden
+dict_values([4, 3, 1, 4, 1])
+sum of wordFormDict.values() 13
+sein
+dict_values([3, 4, 6, 4, 2, 5, 5, 11])
+sum of wordFormDict.values() 40
+beeinflussen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ganz
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+einzigartig
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+geben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+kein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+hören
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([5, 2, 3])
+sum of wordFormDict.values() 10
+dies
+dict_values([1, 4, 1, 1])
+sum of wordFormDict.values() 7
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+persönlich
+dict_values([1, 3])
+sum of wordFormDict.values() 4

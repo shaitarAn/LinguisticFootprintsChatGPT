@@ -1,0 +1,90 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 411
+Length of all lemmas: 372
+Length of singleton lemmas: 354
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 354
+werden
+dict_values([1, 2, 3, 1])
+sum of wordFormDict.values() 7
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+darstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([32, 30, 12, 4, 5, 4])
+sum of wordFormDict.values() 87
+ein
+dict_values([7, 6, 1, 1, 4])
+sum of wordFormDict.values() 19
+progredient
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spät
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2, 5, 1])
+sum of wordFormDict.values() 10
+simultan
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+andauernd
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2, 3, 1])
+sum of wordFormDict.values() 7
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+darstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([32, 30, 12, 4, 5, 4])
+sum of wordFormDict.values() 87
+ein
+dict_values([7, 6, 1, 1, 4])
+sum of wordFormDict.values() 19
+progredient
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spät
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2, 5, 1])
+sum of wordFormDict.values() 10
+simultan
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+andauernd
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

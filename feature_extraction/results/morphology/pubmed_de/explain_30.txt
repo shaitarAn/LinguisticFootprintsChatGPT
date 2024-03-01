@@ -1,0 +1,162 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 411
+Length of all lemmas: 323
+Length of singleton lemmas: 285
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 285
+der
+dict_values([28, 7, 7, 28, 7, 6])
+sum of wordFormDict.values() 83
+werden
+dict_values([9, 8, 2])
+sum of wordFormDict.values() 19
+betonen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+epidemiologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([6, 1, 6])
+sum of wordFormDict.values() 13
+dies
+dict_values([7, 3, 3, 1, 1])
+sum of wordFormDict.values() 15
+gut
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+identifizieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 7, 5, 2])
+sum of wordFormDict.values() 17
+stellen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+einige
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+deutsch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+entwickeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([28, 7, 7, 28, 7, 6])
+sum of wordFormDict.values() 83
+werden
+dict_values([9, 8, 2])
+sum of wordFormDict.values() 19
+betonen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+epidemiologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([6, 1, 6])
+sum of wordFormDict.values() 13
+dies
+dict_values([7, 3, 3, 1, 1])
+sum of wordFormDict.values() 15
+gut
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+identifizieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 7, 5, 2])
+sum of wordFormDict.values() 17
+stellen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+einige
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+deutsch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+entwickeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -11,6 +11,16 @@ import spacy_udpipe
 from nltk import ngrams
 from collections import defaultdict
 
+parser = argparse.ArgumentParser()
+# parser.add_argument("prompt", type=str, help="Prompt to use for text generation")
+parser.add_argument("--corpus", "-c", type=str, required=True, help="Corpus name to use for text generation")
+# parser.add_argument("--params", type=str, required=True, help="combined params to use in file naming")
+
+args = parser.parse_args()
+
+corpus = args.corpus
+# params = args.params
+
 spacy_udpipe.download("en")
 spacy_udpipe.download("de")
 
@@ -19,17 +29,6 @@ nlp.add_pipe('textdescriptives/all')
 
 Dnlp = spacy.load('de_core_news_lg')
 Dnlp.add_pipe('textdescriptives/all')
-
-parser = argparse.ArgumentParser()
-# parser.add_argument("prompt", type=str, help="Prompt to use for text generation")
-parser.add_argument("--corpus", "-c", type=str, required=True, help="Corpus name to use for text generation")
-parser.add_argument("--params", type=str, required=True, help="combined params to use in file naming")
-
-args = parser.parse_args()
-
-corpus = args.corpus
-params = args.params
-print("params:", params)
 
 def create_list_of_connectives(lang):
     # import the file of connectives from Thomas Meyer
@@ -45,7 +44,7 @@ def create_list_of_connectives(lang):
 def make_ngrams(sentence, n):
     return ngrams(sentence, n)
 
-def extract_connectives(language, file_name):
+def extract_connectives(language, file_name, average):
     
     # download the spacy model
     nlp = spacy_udpipe.load(language)
@@ -59,6 +58,11 @@ def extract_connectives(language, file_name):
 
     with open(file_name, 'r') as f:
         text = f.read()
+        print(len(text.split()))
+        # cut the text to the average number of tokens
+        if len(text.split()) > average:
+            text = " ".join(text.split()[:int(average)])
+        # print(average, len(text.split()))
         all_connectives = 0
         upper_connectives = 0
 
@@ -88,12 +92,12 @@ def extract_connectives(language, file_name):
 
     return system_dict
 
-def process_file(file_path, lang):
+def process_file(file_path, lang, average):
     with open(file_path, 'r') as file:
         content = file.read()
-        # replace multiple spaces with a single space
-        content = " ".join(content.split())
-        # print(content)
+        # cut the text to the average number of tokens
+        if len(content.split()) > average:
+            content = " ".join(content.split()[:int(average)])
         if lang == 'en':
             doc = nlp(content)
         elif lang == 'de':
@@ -102,15 +106,12 @@ def process_file(file_path, lang):
     return td.extract_dict(doc), doc
 
 def count_oov_words(doc, system):
-    if not os.path.exists(f"../output_truncated/oov/"):
-        os.makedirs(f"../output_truncated/oov/")
-    with open(f"../output_truncated/oov/{corpus}_{params}.txt", "a") as f:
-        # f.write("--------------------\n")
-        # f.write(f"{system}\n")
+    if not os.path.exists(f"../results_final/oov/"):
+        os.makedirs(f"../results_final/oov/")
+    with open(f"../results_final/oov/{corpus}_{system}.txt", "a") as f:
         for token in doc:
             if token.is_oov:
-                f.write(token.text+"\n")
-                # print(token.text)
+                f.write(token.text.strip()+"\n")
 
 def main():
 
@@ -120,79 +121,65 @@ def main():
         lang = 'de'
 
 
-    # Create a list of file identifiers
-    file_identifiers = ["file1", "file2", "file3", "file4", "file5"]
+    num_files = len(os.listdir(f"../../data/{corpus}/human"))
+    # print(corpus, num_files)
+    
+    for i in range(1, num_files+1):
+        system_dataframes = []
+        print(i)
+        len_files = []
+        for task in ["human", "continue", "create", "explain"]:
+            with open(f"../../data/{corpus}/{task}/{i}", "r") as f:
+                content = f.read()
+                # replace multiple spaces with a single space
+                content = content.split()
+                len_files.append(len(content))
+                # print(task, system, i, len(content))
+        average = sum(len_files)/len(len_files)
+        # print(average)
+        # print("--------------")
 
-    # Iterate through each file identifier
-    for identifier in file_identifiers:
-        # print("--------------------------------------------------")
-        print(f"Identifier: {identifier}")
+        for task in ["human", "continue", "create", "explain"]:
+            with open(f"../../data/{corpus}/{task}/{i}", "r") as f:
+                print(task)
 
-        system_dataframes = []  # Initialize the list before the loop
+                file_path = os.path.join(f"../../data/{corpus}/{task}/", f"{i}")
 
-        for file_name in os.listdir(f"../output_truncated/{corpus}/"):
-            
-            # Check if the file contains the current identifier
-            if identifier in file_name:
-                # output_truncated_file = ""
-                data = []
-
-                # only process files with the target extensions
-                if "human" in file_name or params in file_name:
-                # Process the file based on its contents
-                    system = file_name.split("_")[0]
-                    # print(f"File: {file_name}")
-                    # print(f"System: {system}")
-
-
-                    connectives = extract_connectives(lang, os.path.join(f"../output_truncated/{corpus}", file_name))
-                    total_connectives = sum([connectives[key]['lower'] + connectives[key]['capitalized'] for key in connectives])
-                    uppper_connectives = sum([connectives[key]['capitalized'] for key in connectives])
-
-                    # print(connectives)
+                connectives = extract_connectives(lang, file_path, average)
+                total_connectives = sum([connectives[key]['lower'] + connectives[key]['capitalized'] for key in connectives])
+                uppper_connectives = sum([connectives[key]['capitalized'] for key in connectives])
 
 
-                    # output_truncated_file = "../results_truncated/" + {corpus} + "/" + file_name[:-3] + "csv"
-                    # print(output_truncated_file)
-                    file_path = os.path.join(f"../output_truncated/{corpus}", file_name)
-                    feature_values_list, obj = process_file(file_path, lang)
-                    count_oov_words(obj, system)
+                df = pd.DataFrame()
 
-                    for feature_values in feature_values_list:
-                        data.append(feature_values)
-                    
-                    # Create a pandas DataFrame and write it to a CSV file
-                    df = pd.DataFrame(data)
-                    # print(df.head())
-                    # Drop columns that have NaN
-                    df.dropna(axis=1, inplace=True)
-                    # Drop columns that have only 0
-                    df = df.loc[:, (df != 0).any(axis=0)]
+                # add a column with the number of connectives
+                df['connectives'] = total_connectives
+                df['connectives_cap'] = uppper_connectives
 
-                    # add a column with the number of connectives
-                    df['connectives'] = total_connectives
-                    df['connectives_cap'] = uppper_connectives
+                print(df.head())
 
-                    #  drop column "text"
-                    df.drop(columns=['text'], inplace=True)
-                    # df.to_csv(output_truncated_file, index=False)
+        #         #  drop column "text"
+        #         df.drop(columns=['text'], inplace=True)
+        #         # df.to_csv(output_truncated_file, index=False)
 
-                    #  transpose the dataframe and name the column with values as "system"
-                    df = df.transpose()               
-                    df.columns = [system]
-                    # print(df.head())
+        #         #  transpose the dataframe and name the column with values as "system"
+        #         df = df.transpose()               
+        #         df.columns = [task]
+        #         # print(df.head())
 
-                    system_dataframes.append(df)  # Append the DataFrame to system_dataframes
+        #         system_dataframes.append(df)  # Append the DataFrame to system_dataframes
 
-        # Step 3: Combine the dataframes keeping the index
-        combined_dataframe = pd.concat(system_dataframes, axis=1)
+        # combined_dataframe = pd.concat(system_dataframes, axis=1)
 
         # print(combined_dataframe.head())
-        if not os.path.exists(f"../results_truncated/{corpus}"):
-            os.makedirs(f"../results_truncated/{corpus}")
+
+        # print(combined_dataframe.head())
+        # if not os.path.exists(f"../results_final/{corpus}"):
+            # os.makedirs(f"../results_final/{corpus}")
 
         # # Step 4: Write the resulting dataframe to a CSV file
-        combined_dataframe.to_csv(f"../results_truncated/{corpus}/{identifier}_{params}.csv", index=True)
+        # combined_dataframe.to_csv(f"../results_final/{corpus}/{i}.csv", index=True)
+        # combined_dataframe.to_csv(f"../results_final/{corpus}/{i}.csv", index=True)
 
 
 if __name__ == "__main__":

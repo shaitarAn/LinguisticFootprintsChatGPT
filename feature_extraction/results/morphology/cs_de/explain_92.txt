@@ -1,0 +1,138 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 370
+Length of all lemmas: 298
+Length of singleton lemmas: 264
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 264
+der
+dict_values([23, 15, 4, 11, 21, 7])
+sum of wordFormDict.values() 81
+global
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+dies
+dict_values([3, 7, 6])
+sum of wordFormDict.values() 16
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([7, 2, 8, 1, 1])
+sum of wordFormDict.values() 19
+belasten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([8, 7, 1, 1])
+sum of wordFormDict.values() 17
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 7, 3])
+sum of wordFormDict.values() 14
+erheblich
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+betroffen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+eng
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+übernehmen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+umsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+harmonisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfordern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([23, 15, 4, 11, 21, 7])
+sum of wordFormDict.values() 81
+global
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+dies
+dict_values([3, 7, 6])
+sum of wordFormDict.values() 16
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([7, 2, 8, 1, 1])
+sum of wordFormDict.values() 19
+belasten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([8, 7, 1, 1])
+sum of wordFormDict.values() 17
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 7, 3])
+sum of wordFormDict.values() 14
+erheblich
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+betroffen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+eng
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+übernehmen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+umsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+harmonisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfordern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4

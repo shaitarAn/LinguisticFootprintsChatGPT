@@ -1,0 +1,180 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 481
+Length of all lemmas: 410
+Length of singleton lemmas: 372
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 372
+der
+dict_values([5, 19, 29, 28, 5, 5])
+sum of wordFormDict.values() 91
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 4, 9, 3])
+sum of wordFormDict.values() 17
+ein
+dict_values([3, 6, 8, 3, 5])
+sum of wordFormDict.values() 25
+können
+dict_values([1, 6, 2])
+sum of wordFormDict.values() 9
+intakt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([3, 6])
+sum of wordFormDict.values() 9
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dürfen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+einzig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+bewährt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fehlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([5, 19, 29, 28, 5, 5])
+sum of wordFormDict.values() 91
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 4, 9, 3])
+sum of wordFormDict.values() 17
+ein
+dict_values([3, 6, 8, 3, 5])
+sum of wordFormDict.values() 25
+können
+dict_values([1, 6, 2])
+sum of wordFormDict.values() 9
+intakt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([3, 6])
+sum of wordFormDict.values() 9
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dürfen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+einzig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+bewährt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fehlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,180 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 420
+Length of all lemmas: 341
+Length of singleton lemmas: 306
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 306
+der
+dict_values([34, 33, 10, 11, 4, 2, 7])
+sum of wordFormDict.values() 101
+chronisch
+dict_values([7, 3, 1])
+sum of wordFormDict.values() 11
+ein
+dict_values([15, 7, 5, 9])
+sum of wordFormDict.values() 36
+dies
+dict_values([11, 3, 6, 1])
+sum of wordFormDict.values() 21
+haben
+dict_values([7, 4])
+sum of wordFormDict.values() 11
+stellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wissenschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 5])
+sum of wordFormDict.values() 9
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+gesund
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+vorhanden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([8, 3])
+sum of wordFormDict.values() 11
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+basieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dienen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nichtakademisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erforderlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+methodisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ausgewogen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gezielt
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([34, 33, 10, 11, 4, 2, 7])
+sum of wordFormDict.values() 101
+chronisch
+dict_values([7, 3, 1])
+sum of wordFormDict.values() 11
+ein
+dict_values([15, 7, 5, 9])
+sum of wordFormDict.values() 36
+dies
+dict_values([11, 3, 6, 1])
+sum of wordFormDict.values() 21
+haben
+dict_values([7, 4])
+sum of wordFormDict.values() 11
+stellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wissenschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 5])
+sum of wordFormDict.values() 9
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+gesund
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+vorhanden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([8, 3])
+sum of wordFormDict.values() 11
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+basieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dienen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nichtakademisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erforderlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+methodisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ausgewogen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gezielt
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2

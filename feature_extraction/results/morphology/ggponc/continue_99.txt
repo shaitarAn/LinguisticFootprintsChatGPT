@@ -1,0 +1,138 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 362
+Length of all lemmas: 297
+Length of singleton lemmas: 265
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 265
+der
+dict_values([2, 28, 8, 23, 12, 14])
+sum of wordFormDict.values() 87
+haben
+dict_values([5, 5])
+sum of wordFormDict.values() 10
+zeigen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+komplett
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+verbessern
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([12, 3])
+sum of wordFormDict.values() 15
+ein
+dict_values([17, 6, 3, 2, 1, 1])
+sum of wordFormDict.values() 30
+dies
+dict_values([1, 7, 2])
+sum of wordFormDict.values() 10
+sein
+dict_values([9, 1, 3, 1])
+sum of wordFormDict.values() 14
+werden
+dict_values([1, 3, 10])
+sum of wordFormDict.values() 14
+adjuvant
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+führen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erzielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+senken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([2, 28, 8, 23, 12, 14])
+sum of wordFormDict.values() 87
+haben
+dict_values([5, 5])
+sum of wordFormDict.values() 10
+zeigen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+komplett
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+verbessern
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([12, 3])
+sum of wordFormDict.values() 15
+ein
+dict_values([17, 6, 3, 2, 1, 1])
+sum of wordFormDict.values() 30
+dies
+dict_values([1, 7, 2])
+sum of wordFormDict.values() 10
+sein
+dict_values([9, 1, 3, 1])
+sum of wordFormDict.values() 14
+werden
+dict_values([1, 3, 10])
+sum of wordFormDict.values() 14
+adjuvant
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+führen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erzielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+senken
+dict_values([1, 1])
+sum of wordFormDict.values() 2

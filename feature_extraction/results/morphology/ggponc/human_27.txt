@@ -1,0 +1,192 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 565
+Length of all lemmas: 474
+Length of singleton lemmas: 437
+Length of matched lemmas: 31
+Length of singleton maching lemmas: 437
+der
+dict_values([60, 1, 59, 7, 4, 4, 2])
+sum of wordFormDict.values() 137
+perkutan
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([10, 1, 6, 3])
+sum of wordFormDict.values() 20
+können
+dict_values([3, 6, 1])
+sum of wordFormDict.values() 10
+ein
+dict_values([15, 15, 8, 9, 1])
+sum of wordFormDict.values() 48
+werden
+dict_values([1, 8, 4, 1, 4])
+sum of wordFormDict.values() 18
+endoskopisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 3, 1, 1])
+sum of wordFormDict.values() 6
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+liegen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+negativ
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+transpapillär
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sichern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+biliär
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+endobiliär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ausschließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+selten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beide
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+steigern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+visuell-endoskopisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+visuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gestützt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+histologisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unklar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([60, 1, 59, 7, 4, 4, 2])
+sum of wordFormDict.values() 137
+perkutan
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([10, 1, 6, 3])
+sum of wordFormDict.values() 20
+können
+dict_values([3, 6, 1])
+sum of wordFormDict.values() 10
+ein
+dict_values([15, 15, 8, 9, 1])
+sum of wordFormDict.values() 48
+werden
+dict_values([1, 8, 4, 1, 4])
+sum of wordFormDict.values() 18
+endoskopisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 3, 1, 1])
+sum of wordFormDict.values() 6
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+liegen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+negativ
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+transpapillär
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sichern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+biliär
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+endobiliär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ausschließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+selten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beide
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+steigern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+visuell-endoskopisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+visuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gestützt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+histologisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unklar
+dict_values([1, 1])
+sum of wordFormDict.values() 2

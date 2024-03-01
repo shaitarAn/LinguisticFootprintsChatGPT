@@ -6,58 +6,93 @@ from PIL import Image
 import glob
 from pathlib import Path
 
-# convert png_directory into a Path object
-png_directory = Path("../plots")
+language = "english"
 
-if not os.path.exists("../plots/combined_results"):
-    os.makedirs("../plots/combined_results")
-
-if not os.path.exists("../results_truncated/combined_results"):
-    os.makedirs("../results_truncated/combined_results")
+if not os.path.exists(f"../visualizations/boxplots/{language}"):
+    os.makedirs(f"../visualizations/boxplots/{language}")
 
 # get the path to the directory where the pdf file will be saved
-output_dir = "../results_truncated/combined_results"
+output_dir = "../visualizations/boxplots/"
 
-# iterate through the directories in the png_directory
-for top_directory in os.listdir(png_directory):
-    # print(top_directory)
+# german_features_to_visualize = ["pos_prop_NOUN",  "prop_unique_tokens", "sent_length_std", "dep_distance_std", "shannon_entropy"]
 
-    list_of_images = []
-    # iterate through the png files in the top_directory
-    for png in glob.glob(f"{png_directory}/{top_directory}/*.png"):
-        # print(png)
+german_features_to_visualize = ["lix", "sentence_length_mean"]
+
+english_features_to_visualize = ["lix", "sentence_length_mean"]
+
+features_to_visualize = german_features_to_visualize
+
+def collect_pngs(language, features_to_visualize):
+
+    pngs = []
+    # check if path is a directory
+    if os.path.isdir(f"../visualizations/boxplots/{language}"):    
+        for png in os.listdir(f"../visualizations/boxplots/{language}"):
+            # print(png)
+            feature = png.split(".")[0]
+            # print(feature)
+            if feature in features_to_visualize:
+                if png.endswith(".png"):
+                    pngs.append(f"../visualizations/boxplots/{language}/{png}")
+
+    return pngs
+
+def collect_special_pngs():
+    pngs = []
+    # check if path is a directory
+    if os.path.isdir(f"../visualizations/boxplots/special"):    
+        for png in os.listdir(f"../visualizations/boxplots/special"):
+            print(png)
+            feature = png.split(".")[0]
+            # print(feature)
+            if png.endswith(".png"):
+                pngs.append(f"../visualizations/boxplots/special/{png}")
+
+    return pngs
+                
+# pngs_en = collect_pngs(language, english_features_to_visualize)
+# pngs_de = collect_pngs("german", german_features_to_visualize)
+pngs_special = collect_special_pngs()
+print(pngs_special)
+
+# pngs = pngs_en + pngs_de
+
+# organize the pngs in the directory by their name
+# organize the names based on this list
+# corpora_names = ["pubmed_en", "zora_en", "cnn", "cs_en", "e3c", "pubmed_de", "zora_de",  "20min", "cs_de", "ggponc"]
+
+# pngs = sorted(pngs, key=lambda x: features_to_visualize.index(x.split("/")[-1].split(".")[0]))
+pngs = sorted(pngs_special)
+print(pngs)
+
+
+list_of_images = []
+
+for png in pngs:
+    # print(type(png))
+    # open the png file
+
+    try:
+
         im = Image.open(png)
         list_of_images.append(im)
 
         w = max(im.width for im in list_of_images)
         h = max(im.height for im in list_of_images)
 
-        # print(w)
-        # print(h)
+    except FileNotFoundError:
+        continue
 
-        # create big empty image with place for images
-        new_image = Image.new('RGB', (w*2, h*5))
+    # create big empty image with a white background with 5 images per row
+    new_image = Image.new('RGB', (w * 2, h * 2), color='white')
 
-        if len(list_of_images) == 10:
+    # paste the images into the big image
+    for i, im in enumerate(list_of_images):
+        new_image.paste(im, (w * (i % 2), h * (i // 2)))
 
-            new_image.paste(list_of_images[0], (0, 0))
-            new_image.paste(list_of_images[1], (w, 0))
-            new_image.paste(list_of_images[2], (0, h))
-            new_image.paste(list_of_images[3], (w, h))
-            new_image.paste(list_of_images[4], (0, h*2))
-            new_image.paste(list_of_images[5], (w, h*2))
-            new_image.paste(list_of_images[6], (0, h*3))
-            new_image.paste(list_of_images[7], (w, h*3))
-            new_image.paste(list_of_images[8], (0, h*4))
-            new_image.paste(list_of_images[9], (w, h*4))
 
-        else:
-
-            new_image.paste(list_of_images[0], (0, 0))
-            new_image.paste(list_of_images[-1], (w, 0))
-
-        # save the new image as a png file
-        new_image.save(f"{output_dir}/{top_directory}.png")
+    # save big image
+    new_image.save(f"{output_dir}/{language}_german_boxplots.pdf")
 
 
 

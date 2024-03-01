@@ -1,0 +1,132 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 354
+Length of all lemmas: 285
+Length of singleton lemmas: 254
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 254
+der
+dict_values([31, 21, 8, 9, 12, 12])
+sum of wordFormDict.values() 93
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 1, 1, 3])
+sum of wordFormDict.values() 9
+aktivieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([7, 6, 4])
+sum of wordFormDict.values() 17
+hemmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([12, 2, 3, 2, 2])
+sum of wordFormDict.values() 21
+wichtig
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+klinisch
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 5, 3])
+sum of wordFormDict.values() 9
+zugelassen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+signifikant
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+einsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([31, 21, 8, 9, 12, 12])
+sum of wordFormDict.values() 93
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 1, 1, 3])
+sum of wordFormDict.values() 9
+aktivieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([7, 6, 4])
+sum of wordFormDict.values() 17
+hemmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([12, 2, 3, 2, 2])
+sum of wordFormDict.values() 21
+wichtig
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+klinisch
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 5, 3])
+sum of wordFormDict.values() 9
+zugelassen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+signifikant
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+einsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

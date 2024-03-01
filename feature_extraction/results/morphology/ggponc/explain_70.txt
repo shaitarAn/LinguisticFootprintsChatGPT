@@ -1,0 +1,150 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 349
+Length of all lemmas: 279
+Length of singleton lemmas: 249
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 249
+dies
+dict_values([3, 1, 4, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([15, 14, 11, 3, 8, 10])
+sum of wordFormDict.values() 61
+brusterhaltend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 12, 2])
+sum of wordFormDict.values() 17
+ein
+dict_values([17, 7, 10, 8, 7])
+sum of wordFormDict.values() 49
+postoperativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([15, 10, 2])
+sum of wordFormDict.values() 27
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+durchführen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([8, 1])
+sum of wordFormDict.values() 9
+pathologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+radiologisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sollen
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+sekundär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+primär
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+peripher
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+invasiv
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+tastbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+okkult
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 4, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([15, 14, 11, 3, 8, 10])
+sum of wordFormDict.values() 61
+brusterhaltend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 12, 2])
+sum of wordFormDict.values() 17
+ein
+dict_values([17, 7, 10, 8, 7])
+sum of wordFormDict.values() 49
+postoperativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([15, 10, 2])
+sum of wordFormDict.values() 27
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+durchführen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([8, 1])
+sum of wordFormDict.values() 9
+pathologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+radiologisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sollen
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+sekundär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+primär
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+peripher
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+invasiv
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+tastbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+okkult
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

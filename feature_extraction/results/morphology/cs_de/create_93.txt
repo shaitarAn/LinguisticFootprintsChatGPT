@@ -1,0 +1,180 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 439
+Length of all lemmas: 338
+Length of singleton lemmas: 301
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 301
+der
+dict_values([24, 19, 22, 8, 5, 5])
+sum of wordFormDict.values() 83
+stark
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+hoch
+dict_values([2, 2, 1, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([7, 5, 5, 4, 2])
+sum of wordFormDict.values() 23
+groß
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+international
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([7, 5])
+sum of wordFormDict.values() 12
+dies
+dict_values([1, 2, 7, 1, 1])
+sum of wordFormDict.values() 12
+erfolgreich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([9, 5, 2, 3, 1])
+sum of wordFormDict.values() 20
+ihr
+dict_values([8, 3, 4, 3, 1, 1])
+sum of wordFormDict.values() 20
+spielen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entscheidend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezialisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hochwertig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sie
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+maßgeschneidert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([24, 19, 22, 8, 5, 5])
+sum of wordFormDict.values() 83
+stark
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+hoch
+dict_values([2, 2, 1, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([7, 5, 5, 4, 2])
+sum of wordFormDict.values() 23
+groß
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+international
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([7, 5])
+sum of wordFormDict.values() 12
+dies
+dict_values([1, 2, 7, 1, 1])
+sum of wordFormDict.values() 12
+erfolgreich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([9, 5, 2, 3, 1])
+sum of wordFormDict.values() 20
+ihr
+dict_values([8, 3, 4, 3, 1, 1])
+sum of wordFormDict.values() 20
+spielen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entscheidend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezialisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hochwertig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sie
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+maßgeschneidert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2

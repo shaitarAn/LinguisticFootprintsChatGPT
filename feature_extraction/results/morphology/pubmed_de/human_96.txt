@@ -1,0 +1,108 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 355
+Length of all lemmas: 306
+Length of singleton lemmas: 283
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 283
+ein
+dict_values([8, 4, 3])
+sum of wordFormDict.values() 15
+sein
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+ambulant
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+primärärztlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 25, 12, 11, 5, 1, 1, 1])
+sum of wordFormDict.values() 72
+allgemeinmedizinisch
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 3, 1, 1])
+sum of wordFormDict.values() 6
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 4, 1, 1])
+sum of wordFormDict.values() 10
+klinisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hochwertig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+akademisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([8, 4, 3])
+sum of wordFormDict.values() 15
+sein
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+ambulant
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+primärärztlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 25, 12, 11, 5, 1, 1, 1])
+sum of wordFormDict.values() 72
+allgemeinmedizinisch
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 3, 1, 1])
+sum of wordFormDict.values() 6
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 4, 1, 1])
+sum of wordFormDict.values() 10
+klinisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hochwertig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+akademisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

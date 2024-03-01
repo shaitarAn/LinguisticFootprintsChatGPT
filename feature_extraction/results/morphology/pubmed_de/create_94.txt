@@ -1,0 +1,48 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 386
+Length of all lemmas: 389
+Length of singleton lemmas: 382
+Length of matched lemmas: 7
+Length of singleton maching lemmas: 382
+The
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+system
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+resourc
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+approach
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+balanc
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+long
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+objectiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+The
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+system
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+resourc
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+approach
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+balanc
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+long
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+objectiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3

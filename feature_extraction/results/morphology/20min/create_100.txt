@@ -1,0 +1,162 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 439
+Length of all lemmas: 335
+Length of singleton lemmas: 299
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 299
+der
+dict_values([4, 20, 9, 33, 9, 12])
+sum of wordFormDict.values() 87
+ein
+dict_values([7, 1, 2, 1, 7, 4])
+sum of wordFormDict.values() 22
+haben
+dict_values([4, 2, 3])
+sum of wordFormDict.values() 9
+können
+dict_values([3, 2, 1, 2])
+sum of wordFormDict.values() 8
+alle
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+technisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 6, 11, 2, 1, 1, 1])
+sum of wordFormDict.values() 24
+ander
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+verhindern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schnell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([9, 2, 1, 2, 3])
+sum of wordFormDict.values() 17
+betroffen
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+sie
+dict_values([2, 5])
+sum of wordFormDict.values() 7
+unterstützen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+unser
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 4, 1, 2])
+sum of wordFormDict.values() 8
+finden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+solidarisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kämpfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+schwierig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([4, 20, 9, 33, 9, 12])
+sum of wordFormDict.values() 87
+ein
+dict_values([7, 1, 2, 1, 7, 4])
+sum of wordFormDict.values() 22
+haben
+dict_values([4, 2, 3])
+sum of wordFormDict.values() 9
+können
+dict_values([3, 2, 1, 2])
+sum of wordFormDict.values() 8
+alle
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+technisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 6, 11, 2, 1, 1, 1])
+sum of wordFormDict.values() 24
+ander
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+verhindern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schnell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([9, 2, 1, 2, 3])
+sum of wordFormDict.values() 17
+betroffen
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+sie
+dict_values([2, 5])
+sum of wordFormDict.values() 7
+unterstützen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+unser
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 4, 1, 2])
+sum of wordFormDict.values() 8
+finden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+solidarisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kämpfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+schwierig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2

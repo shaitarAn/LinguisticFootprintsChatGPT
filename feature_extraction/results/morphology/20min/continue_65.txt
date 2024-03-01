@@ -1,0 +1,138 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 364
+Length of all lemmas: 281
+Length of singleton lemmas: 247
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 247
+haben
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+der
+dict_values([8, 9, 16, 14, 23, 8])
+sum of wordFormDict.values() 78
+dies
+dict_values([3, 6, 3, 1])
+sum of wordFormDict.values() 13
+erhöhen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+ein
+dict_values([2, 3, 9, 3, 1])
+sum of wordFormDict.values() 18
+können
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+sein
+dict_values([1, 7, 2, 1, 1])
+sum of wordFormDict.values() 12
+werden
+dict_values([8, 7])
+sum of wordFormDict.values() 15
+weit
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+bestehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeuten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wettbewerbsfähig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mutig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beobachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+der
+dict_values([8, 9, 16, 14, 23, 8])
+sum of wordFormDict.values() 78
+dies
+dict_values([3, 6, 3, 1])
+sum of wordFormDict.values() 13
+erhöhen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+ein
+dict_values([2, 3, 9, 3, 1])
+sum of wordFormDict.values() 18
+können
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+sein
+dict_values([1, 7, 2, 1, 1])
+sum of wordFormDict.values() 12
+werden
+dict_values([8, 7])
+sum of wordFormDict.values() 15
+weit
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+bestehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeuten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wettbewerbsfähig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mutig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beobachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2

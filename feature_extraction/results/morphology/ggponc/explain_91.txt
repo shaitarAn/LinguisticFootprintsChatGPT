@@ -1,0 +1,102 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 326
+Length of all lemmas: 263
+Length of singleton lemmas: 240
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 240
+der
+dict_values([14, 15, 6, 4, 6, 3])
+sum of wordFormDict.values() 48
+sein
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+ein
+dict_values([4, 9, 3, 4, 3])
+sum of wordFormDict.values() 23
+anstreben
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+körperlich
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+werden
+dict_values([14, 5, 1, 1])
+sum of wordFormDict.values() 21
+gesund
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+pflanzlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 15, 6, 4, 6, 3])
+sum of wordFormDict.values() 48
+sein
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+ein
+dict_values([4, 9, 3, 4, 3])
+sum of wordFormDict.values() 23
+anstreben
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+körperlich
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+werden
+dict_values([14, 5, 1, 1])
+sum of wordFormDict.values() 21
+gesund
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+pflanzlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

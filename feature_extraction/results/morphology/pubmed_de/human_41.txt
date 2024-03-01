@@ -1,0 +1,138 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 502
+Length of all lemmas: 422
+Length of singleton lemmas: 385
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 385
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([24, 41, 2, 2, 3, 26, 1, 1])
+sum of wordFormDict.values() 100
+geeignet
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+infektionsmindernd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([8, 1, 2, 1])
+sum of wordFormDict.values() 12
+schließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 6, 7, 1, 3])
+sum of wordFormDict.values() 18
+begrenzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([7, 2, 1, 4, 1])
+sum of wordFormDict.values() 15
+viel
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+menschlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+virushaltig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+infiziert
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+groß
+dict_values([1, 5, 1])
+sum of wordFormDict.values() 7
+klein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+infektiös
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([24, 41, 2, 2, 3, 26, 1, 1])
+sum of wordFormDict.values() 100
+geeignet
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+infektionsmindernd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([8, 1, 2, 1])
+sum of wordFormDict.values() 12
+schließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 6, 7, 1, 3])
+sum of wordFormDict.values() 18
+begrenzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([7, 2, 1, 4, 1])
+sum of wordFormDict.values() 15
+viel
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+menschlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+virushaltig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+infiziert
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+groß
+dict_values([1, 5, 1])
+sum of wordFormDict.values() 7
+klein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+infektiös
+dict_values([1, 1])
+sum of wordFormDict.values() 2

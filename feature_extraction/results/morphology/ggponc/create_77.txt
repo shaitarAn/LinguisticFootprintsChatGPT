@@ -1,0 +1,180 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 430
+Length of all lemmas: 333
+Length of singleton lemmas: 291
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 291
+ein
+dict_values([3, 3, 8, 5, 2])
+sum of wordFormDict.values() 21
+aktiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 9, 1])
+sum of wordFormDict.values() 11
+fortgeschritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 8, 3, 1, 3, 5, 1, 3, 1])
+sum of wordFormDict.values() 29
+befinden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+palliativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([6, 13, 14, 20, 7, 20])
+sum of wordFormDict.values() 80
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([7, 6, 1])
+sum of wordFormDict.values() 14
+helfen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+angenehm
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+frisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stabil
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unkontrolliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([1, 4, 6])
+sum of wordFormDict.values() 11
+wenig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 3, 8, 5, 2])
+sum of wordFormDict.values() 21
+aktiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 9, 1])
+sum of wordFormDict.values() 11
+fortgeschritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 8, 3, 1, 3, 5, 1, 3, 1])
+sum of wordFormDict.values() 29
+befinden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+palliativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([6, 13, 14, 20, 7, 20])
+sum of wordFormDict.values() 80
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([7, 6, 1])
+sum of wordFormDict.values() 14
+helfen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+angenehm
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+frisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stabil
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unkontrolliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([1, 4, 6])
+sum of wordFormDict.values() 11
+wenig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

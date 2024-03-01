@@ -1,0 +1,192 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 398
+Length of all lemmas: 311
+Length of singleton lemmas: 271
+Length of matched lemmas: 31
+Length of singleton maching lemmas: 271
+der
+dict_values([20, 23, 5, 13, 6, 7, 2])
+sum of wordFormDict.values() 76
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+verschieden
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 2, 3, 1])
+sum of wordFormDict.values() 8
+dies
+dict_values([7, 1, 1, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([11, 2, 2])
+sum of wordFormDict.values() 15
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganz
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+setzen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+sein
+dict_values([6, 2, 8, 2])
+sum of wordFormDict.values() 18
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sanft
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+manuell
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+ein
+dict_values([12, 3, 1, 2, 1])
+sum of wordFormDict.values() 19
+ganzheitlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+basieren
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+richtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+alternativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+komplementärmedizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+wichtig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entscheiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([20, 23, 5, 13, 6, 7, 2])
+sum of wordFormDict.values() 76
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+verschieden
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 2, 3, 1])
+sum of wordFormDict.values() 8
+dies
+dict_values([7, 1, 1, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([11, 2, 2])
+sum of wordFormDict.values() 15
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganz
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+setzen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+sein
+dict_values([6, 2, 8, 2])
+sum of wordFormDict.values() 18
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sanft
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+manuell
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+ein
+dict_values([12, 3, 1, 2, 1])
+sum of wordFormDict.values() 19
+ganzheitlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+basieren
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+richtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+alternativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+komplementärmedizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+wichtig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entscheiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

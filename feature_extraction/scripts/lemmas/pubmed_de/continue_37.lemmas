@@ -1,0 +1,370 @@
+Sauerstoff: sauerstoff|24
+(: (|5
+O2: o2|3
+): )|5
+sein: ist|18	sein|4	sind|3
+ein: ein|9	einen|3	eine|19	einer|15	einem|1	eines|1
+Arzneimittel: arzneimittel|1
+,: ,|44
+der: das|10	der|41	dem|22	die|36	des|14	den|7	deren|1	denen|1
+in: in|22
+Akuttherapie: akuttherapie|10
+bei: bei|12
+Erwachsene: erwachsenen|3
+häufig: häufig|1
+einsetzen: eingesetzt|1
+werden: wird|4	wurden|3	wurde|3	werden|4
+.: .|55
+es: es|10
+haben: hat|1	haben|3	hatten|1
+spezifisch: spezifische|2
+Eigenschaft: eigenschaften|1
+definiert: definierten|1
+Dosis: dosis|1
+-: -|12
+Wirkung: wirkungs|1	wirkungen|1
+Bereich: bereich|1
+und: und|32
+können: kann|11	könnte|1	können|1
+unerwünscht: unerwünschte|1
+richtig: richtige|1
+Anwendung: anwendung|11
+von: von|23
+jedoch: jedoch|8
+nicht: nicht|2
+immer: immer|2
+gewährleisten: gewährleistet|2	gewährleisten|1
+Studie: studie|1
+aus: aus|1
+Jahr: jahr|1
+2015: 2015|1
+ergeben: ergab|1
+dass: dass|5
+14: 14|1
+%: %|2
+britisch: britischen|1
+Krankenhauspatient: krankenhauspatienten|1
+mit: mit|5
+behandeln: behandelt|1
+obwohl: obwohl|2
+nur: nur|1
+42: 42|1
+davon: davon|1
+Verordnung: verordnung|2
+Grund: grund|1
+für: für|12
+unsachgemäß: unsachgemäße|1	unsachgemäßer|1
+Gesundheitspersonal: gesundheitspersonal|1
+oft: oft|2
+unsich: unsicher|1
+über: über|5
+Relevanz: relevanz|1
+Hypoxämie: hypoxämie|6
+Zustand: zustand|1	zustands|1
+Sauerstoffgehalt: sauerstoffgehalt|4
+Blut: blut|5
+abnehmen: abnimmt|1
+zu: zu|32
+Unterversorgung: unterversorgung|1
+Gewebe: gewebes|1	gewebe|1
+führen: führen|2	führt|1
+bestehen: besteht|2
+auch: auch|6
+eingeschränkt: eingeschränktes|1
+Bewußtsein: bewusstsein|3
+Risiko: risiken|5	risiko|2
+Hyperoxämie: hyperoxämie|3
+hoch: hoch|1	hohe|1	hohen|1	höheren|1	höherem|1
+ebenfalls: ebenfalls|1
+negativ: negative|2	negativen|1
+Auswirkung: auswirkungen|1
+um: um|8
+dies: diese|9	dieser|3	dies|1
+Unsicherheit: unsicherheiten|1
+adressieren: adressieren|1
+evidenzbasiert: evidenzbasierte|3
+Empfehlung: empfehlungen|7
+geben: geben|1	gibt|2
+national: nationale|3
+Leitlinie: leitlinie|12
+entwickeln: entwickelt|1	entwickeln|1
+Rahmen: rahmen|1
+Leitlinienprogramms: leitlinienprogramms|1
+Arbeitsgemeinschaft: arbeitsgemeinschaft|1
+Wissenschaftlichen: wissenschaftlichen|1
+medizinisch: medizinischen|1	medizinisches|2
+Fachgesellschaft: fachgesellschaften|1
+e.V.: e.v.|1
+AWMF: awmf|2
+erstellen: erstellt|1
+basieren: basiert|1
+auf: auf|4
+umfassend: umfassenden|1
+Literaturrecherche: literaturrecherche|1
+bis: bis|2
+01.Februar: 01.februar|1
+2021: 2021|1
+Bewertung: bewertung|1
+Evidenzqualität: evidenzqualität|1
+System: system|2	systems|1
+Oxford: oxford|1
+Centre: centre|1
+for: for|1
+Evidence: evidence|1
+Based: based|1
+Medicine: medicine|1
+CEBM: cebm|1
+verwenden: verwendet|1
+anschließend: anschließend|1
+formell: formell|1
+konsentieren: konsentiert|1
+enthalten: enthält|3
+insgesamt: insgesamt|1
+34: 34|1
+Indikation: indikation|2	indikationen|2
+Überwachung: überwachung|1	überwachungen|1
+Abbruch: abbruch|1
+Sauerstofftherapie: sauerstofftherapie|6
+Akutversorgung: akutversorgung|2
+wichtig: wichtigste|1	wichtig|2	wichtiges|1
+Ziel: ziel|1
+Therapie: therapie|1
+darin: darin|1
+ausreichend: ausreichenden|1	ausreichende|4	ausreichend|1
+Level: level|1
+bringen: bringen|1	gebracht|1
+Gewebeoxygenierung: gewebeoxygenierung|4
+sicherstellen: sicherzustellen|5
+vermeiden: vermeiden|2
+da: da|1
+erhöht: erhöhten|1	erhöhter|1	erhöhte|1
+Sterblichkeit: sterblichkeit|1
+assoziieren: assoziiert|1
+empfiehlen: empfiehlt|1
+Zielbereich: zielbereiche|3
+Sauerstoffsättigung: sauerstoffsättigung|3
+ohne: ohne|2
+Differenzierung: differenzierung|1
+zwischen: zwischen|2
+verschieden: verschiedenen|2	verschiedene|2
+Diagnose: diagnosen|1
+abhängig: abhängig|1
+Hyperkapnie: hyperkapnie|1
+CO2: co2|1
+Gehalt: gehalt|2
+Beatmungsstatus: beatmungsstatus|1
+Patient: patienten|10	patient|1
+empfohlen: empfohlen|1
+regelmäßig: regelmäßige|2
+Messung: messungen|1
+durchführen: durchzuführen|1
+anhand: anhand|1
+anzupassen: anzupassen|1
+bieten: bietet|2
+zudem: zudem|1
+Überblick: überblick|1
+verfügbar: verfügbare|1
+Sauerstoffzufuhrsystem: sauerstoffzufuhrsysteme|2
+Auswahl: auswahl|4
+basierend: basierend|2
+Patientensicherheit: patientensicherheit|2
+-komfort: -komfort|2
+dabei: dabei|3
+Faktor: faktoren|3
+wie: wie|7
+Mobilität: mobilität|1
+benötigen: benötigte|1
+O2-: o2-|1
+Flussrat: flussraten|3
+sowie: sowie|3
+Infektionsrisik: infektionsrisiken|2
+berücksichtigen: berücksichtigt|2
+Einsatz: einsatz|5
+Akutmedizin: akutmedizin|2
+richten: richtet|1
+er|es|sie: sich|1
+an: an|3
+Fachpersonal: fachpersonal|2
+außerklinisch: außerklinisch|1
+stationär: stationär|1
+anwenden: anwendet|1
+Sie|sie: sie|1
+sollen: soll|2	sollte|2	sollten|1
+dazu: dazu|4
+beitragen: beitragen|2	beiträgt|1
+qualitativ: qualitativ|2
+hochwertig: hochwertige|2
+sicher: sichere|1
+30.Juni: 30.juni|1
+2024: 2024|1
+gültig: gültig|1
+als: als|1
+Referenz: referenz|1
+klinisch: klinische|1	klinischen|1
+Praxis: praxis|1
+dienen: dienen|1
+hoffen: hoffen|2
+Veröffentlichung: veröffentlichung|1
+Bedeutung: bedeutung|1
+angemessen: angemessenen|1	angemessene|1
+schärfen: schärfen|1
+so: so|2
+gut: bessere|1	gute|1
+Versorgung: versorgung|2
+weit: weitere|2	weit|1
+Forschung: forschungen|2
+notwendig: notwendig|2
+nutzen: nutzen|2
+genau: genauer|2	genaue|1
+untersuchen: untersuchen|2
+evidenzbasieren: evidenzbasierte|1
+weiter: weiter|1
+2: 2.|1
+Hauptindikation: hauptindikation|1
+also: also|1
+niedrig: niedriger|1
+Ursache: ursachen|1
+Beispiel: beispiel|2
+akut: akute|2
+Atemwegserkrankung: atemwegserkrankungen|1
+Herz: herz|1
+Kreislauf: kreislauf|1
+Erkrankung: erkrankungen|1	erkrankung|1
+oder: oder|6
+Lungenembolie: lungenembolien|1
+einleiten: eingeleitet|1
+darüber: darüber|1
+hinaus: hinaus|1
+erwägen: erwogen|1
+gehören: gehören|1
+Situation: situationen|1
+Exazerbation: exazerbationen|1
+chronisch: chronisch|1
+obstruktiv: obstruktiven|1
+Lungenerkrankung: lungenerkrankung|1
+COPD: copd|1
+schwer: schwere|1
+Asthmaanfall: asthmaanfälle|1
+bestimmt: bestimmte|1
+Aspekt: aspekte|1
+präklinisch: präklinischen|1
+Notfallmedizin: notfallmedizin|1
+Entscheidung: entscheidung|1
+individuell: individuell|1	individuellen|1	individuelle|1
+treffen|triefen: getroffen|1
+unter: unter|1
+Berücksichtigung: berücksichtigung|1
+möglich: möglicher|1	mögliche|1
+Begleiterkrankung: begleiterkrankungen|1
+erfolgen: erfolgen|1
+3: 3|1
+Nebenwirkung: nebenwirkungen|2
+lebensrettend: lebensrettend|1
+bergen: birgt|1
+sie: sie|2
+potentiell: potentielle|1
+Konzentration: konzentration|1
+inhalativ: inhalativem|1
+Hyperoxämien: hyperoxämien|3
+übermäßig: übermäßig|1
+frei: freiem|1
+reaktiv: reaktivem|1
+molekular: molekularem|1
+Körper: körper|1
+Auswirkunge: auswirkungen|1
+oxidative: oxidative|1
+schädigung: schädigung|1
+beeinträchtigen: beeinträchtigte|1
+Immunfunktion: immunfunktion|1
+Mortalität: mortalität|1
+Verbindung: verbindung|1
+daher: daher|1
+Sauerstoffgabe: sauerstoffgabe|1
+einstellen: einzustellen|1
+verursachen: verursachen|2
+Weiteren: weiteren|1
+Absorptionsatelektase: absorptionsatelektase|1
+kommen: kommen|1
+Verringerung: verringerung|1
+Lungenvolumen: lungenvolumens|1
+aufgrund: aufgrund|1
+unzureichend: unzureichenden|1
+Gasaustausch: gasaustauschs|1
+Alveolen: alveolen|1
+Blutgefäßen: blutgefäßen|1
+minimieren: minimieren|1
+empfehlen: empfiehlt|1
+mittels: mittels|2
+Pulsoxymetrie: pulsoxymetrie|1
+anpassen: anpassen|1
+Sauerstoffmenge: sauerstoffmenge|1
+entsprechend: entsprechend|1
+Zielbereichen: zielbereichen|1
+4: 4|1
+Sauerstoffzufuhrsystemen: sauerstoffzufuhrsystemen|1
+Möglichkeit: möglichkeiten|1
+Zufuhr: zufuhr|1
+geeignet: geeigneten|1
+hängen: hängt|1
+ab: ab|1
+Mobilitätsgrad: mobilitätsgrad|1
+benötigt: benötigten|1
+verbreitet: verbreitetes|1
+Nasensond: nasensonde|1
+Nasenbrille: nasenbrille|1
+einatmen: einatmet|1
+Methode: methode|2	methoden|1
+einfach: einfach|2
+anzuwend: anzuwenden|2
+ermöglichen: ermöglicht|1
+gewiß: gewisse|1
+Bewegungsfreiheit: bewegungsfreiheit|1
+allerdings: allerdings|1
+unangenehm: unangenehm|1
+austrockn: austrocknen|1
+Nasenschleimhaut: nasenschleimhaut|1
+Bedarf: bedarf|1
+Atemwegsproblem: atemwegsproblemen|1
+stehen: stehen|1
+Maskensystem: maskensysteme|1
+Verfügung: verfügung|1
+hierbei: hierbei|1
+Maske: maske|2
+direkt: direkt|1
+Atemtrakt: atemtrakt|1
+geleiten|leiten: geleitet|1
+erfordern: erfordert|1
+Abdichtung: abdichtung|1
+Entweichen: entweichen|1
+Gas: gases|1
+verhindern: verhindern|1
+schwerkrank: schwerkranken|1
+alleine: alleine|1
+atmen: atmen|1
+invasiven: invasiven|2
+endotracheal: endotrachealen|1
+Intubation: intubation|1
+nicht-: nicht-|1
+Beatmung: beatmung|1
+erforderlich: erforderlich|1
+Anatomie: anatomie|1
+Schweregrad: schweregrad|1
+5: 5|1
+Zusammenfassung: zusammenfassung|1
+Ausblick: ausblick|1
+Behandlung: behandlung|1
+Element: element|1
+korrekt: korrekte|1
+entscheidend: entscheidend|1
+Folge: folgen|1
+durch: durch|1
+Implementierung: implementierung|1
+optimal: optimale|1
+stärken: stärkt|1
+verbessert: verbesserten|1
+Patientenversorgung: patientenversorgung|1
+Zukünftig: zukünftige|1
+Verhältnis: verhältnis|1
+Leitlinienempfehlung: leitlinienempfehlungen|1
+kontinuierlich: kontinuierlich|1
+weiterentwickeln: weiterzuentwickeln|1

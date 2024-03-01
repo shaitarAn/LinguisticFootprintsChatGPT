@@ -1,0 +1,120 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 377
+Length of all lemmas: 303
+Length of singleton lemmas: 276
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 276
+der
+dict_values([20, 21, 11, 9, 9, 5])
+sum of wordFormDict.values() 75
+werden
+dict_values([15, 2, 1])
+sum of wordFormDict.values() 18
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 1, 1, 2])
+sum of wordFormDict.values() 7
+viel
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([9, 5, 2, 1])
+sum of wordFormDict.values() 17
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([6, 1, 2, 5, 4])
+sum of wordFormDict.values() 18
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+russisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+stark
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimistisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([20, 21, 11, 9, 9, 5])
+sum of wordFormDict.values() 75
+werden
+dict_values([15, 2, 1])
+sum of wordFormDict.values() 18
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 1, 1, 2])
+sum of wordFormDict.values() 7
+viel
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([9, 5, 2, 1])
+sum of wordFormDict.values() 17
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([6, 1, 2, 5, 4])
+sum of wordFormDict.values() 18
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+russisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+stark
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimistisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

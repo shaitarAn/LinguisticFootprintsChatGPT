@@ -1,0 +1,162 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 432
+Length of all lemmas: 331
+Length of singleton lemmas: 293
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 293
+der
+dict_values([16, 5, 9, 25, 20, 6])
+sum of wordFormDict.values() 81
+neu
+dict_values([3, 2, 5, 1])
+sum of wordFormDict.values() 11
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 10, 6])
+sum of wordFormDict.values() 17
+1
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 5, 2, 1, 3, 6, 1])
+sum of wordFormDict.values() 21
+freuen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1, 3])
+sum of wordFormDict.values() 5
+ein
+dict_values([16, 2, 11, 9, 1])
+sum of wordFormDict.values() 39
+kulturell
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+haben
+dict_values([6, 5])
+sum of wordFormDict.values() 11
+können
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+zeitgenössisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+präsentieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+laden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interessiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+mögen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 5, 9, 25, 20, 6])
+sum of wordFormDict.values() 81
+neu
+dict_values([3, 2, 5, 1])
+sum of wordFormDict.values() 11
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 10, 6])
+sum of wordFormDict.values() 17
+1
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 5, 2, 1, 3, 6, 1])
+sum of wordFormDict.values() 21
+freuen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1, 3])
+sum of wordFormDict.values() 5
+ein
+dict_values([16, 2, 11, 9, 1])
+sum of wordFormDict.values() 39
+kulturell
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+haben
+dict_values([6, 5])
+sum of wordFormDict.values() 11
+können
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+zeitgenössisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+präsentieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+laden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interessiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+mögen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2

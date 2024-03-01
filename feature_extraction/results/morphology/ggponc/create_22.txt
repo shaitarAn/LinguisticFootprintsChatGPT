@@ -1,0 +1,198 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 442
+Length of all lemmas: 342
+Length of singleton lemmas: 300
+Length of matched lemmas: 32
+Length of singleton maching lemmas: 300
+sein
+dict_values([6, 2, 1, 2, 1, 1, 2, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([2, 5, 13, 4, 4, 1])
+sum of wordFormDict.values() 29
+der
+dict_values([30, 8, 13, 9, 11, 22])
+sum of wordFormDict.values() 93
+er
+dict_values([13, 2, 1])
+sum of wordFormDict.values() 16
+haben
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+regelmäßig
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+stellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ungeschützt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 2, 2, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([8, 7])
+sum of wordFormDict.values() 15
+schwer
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+richtig
+dict_values([3, 6, 1])
+sum of wordFormDict.values() 10
+korrekt
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+auftragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ausreichend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dick
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+verwenden
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+vermeiden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sie
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+angegeben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Auftrag
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schädlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schützend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erneut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 2, 1, 2, 1, 1, 2, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([2, 5, 13, 4, 4, 1])
+sum of wordFormDict.values() 29
+der
+dict_values([30, 8, 13, 9, 11, 22])
+sum of wordFormDict.values() 93
+er
+dict_values([13, 2, 1])
+sum of wordFormDict.values() 16
+haben
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+regelmäßig
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+stellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ungeschützt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 2, 2, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([8, 7])
+sum of wordFormDict.values() 15
+schwer
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+richtig
+dict_values([3, 6, 1])
+sum of wordFormDict.values() 10
+korrekt
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+auftragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ausreichend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dick
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+verwenden
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+vermeiden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sie
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+angegeben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Auftrag
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schädlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schützend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erneut
+dict_values([1, 1])
+sum of wordFormDict.values() 2

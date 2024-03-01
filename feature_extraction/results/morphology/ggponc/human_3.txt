@@ -1,0 +1,132 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 368
+Length of all lemmas: 311
+Length of singleton lemmas: 284
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 284
+können
+dict_values([8, 4])
+sum of wordFormDict.values() 12
+ein
+dict_values([13, 1, 8, 3, 5])
+sum of wordFormDict.values() 30
+der
+dict_values([35, 6, 12, 21, 4, 5])
+sum of wordFormDict.values() 83
+werden
+dict_values([3, 11])
+sum of wordFormDict.values() 14
+sein
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicher
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 5, 1])
+sum of wordFormDict.values() 8
+achten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+frei
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+patientenbezogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+adjuvant
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+funktionell
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+einzeitig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([8, 4])
+sum of wordFormDict.values() 12
+ein
+dict_values([13, 1, 8, 3, 5])
+sum of wordFormDict.values() 30
+der
+dict_values([35, 6, 12, 21, 4, 5])
+sum of wordFormDict.values() 83
+werden
+dict_values([3, 11])
+sum of wordFormDict.values() 14
+sein
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicher
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 5, 1])
+sum of wordFormDict.values() 8
+achten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+frei
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+patientenbezogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+adjuvant
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+funktionell
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+einzeitig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

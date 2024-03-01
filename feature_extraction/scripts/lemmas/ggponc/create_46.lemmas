@@ -1,0 +1,327 @@
+Patient: patient|3	patienten|1
+:: :|8
+Frau: frau|16
+Schmidt: schmidt|16
+,: ,|32
+55: 55|1
+Jahr: jahre|1
+alt: alt|1
+Anamnese: anamnese|1
+stellen: stellt|1
+er|es|sie: sich|5
+mit: mit|15
+Beschwerde: beschwerden|1
+in: in|14
+der: dem|11	der|26	den|9	die|25	das|2	deren|1	des|2
+Bereich: bereich|1
+Gelenk: gelenke|2
+vor: vor|2
+.: .|47
+Sie|sie: sie|4
+klagen: klagt|1
+über: über|7
+Schmerz: schmerzen|2
+knien: knien|1
+und: und|32
+Hand: händen|1
+seit: seit|1
+mehrere: mehreren|1
+Monat: monaten|2
+bestehen: bestehen|1
+ihr: ihre|5	ihrer|8	ihr|3	ihren|2
+Lebensqualität: lebensqualität|4
+stark: stark|1
+beeinträchtigen: beeinträchtigen|1
+zudem: zudem|1
+leiden: leidet|1
+sie: sie|6
+unter: unter|1
+Müdigkeit: müdigkeit|1
+leicht: leichtem|1
+Fieber: fieber|1
+ein: eine|14	einer|9	ein|3	einem|2	einen|1	eines|1
+rheumatologisch: rheumatologische|1
+Untersuchung: untersuchung|2
+ergeben: ergibt|1
+Anzeichen: anzeichen|2
+Polyarthritis: polyarthritis|2
+Diagnose: diagnose|2
+lauten: lautet|1
+chronisch: chronische|2
+(: (|3
+rheumatoide: rheumatoide|4
+Arthritis: arthritis|11
+): )|3
+basierend: basierend|1
+auf: auf|6
+Symptomen: symptomen|1
+klinisch: klinischen|2
+Bild: bild|1
+labordiagnostisch: labordiagnostischen|1
+befunde: befunden|1
+werden: wurde|2	wird|4	werden|5
+feststellen: festgestellt|2
+Therapieempfehlung: therapieempfehlung|1
+nach: nach|5
+medizinisch: medizinischer|1	medizinischen|3
+Leitlinie: leitlinie|1	leitlinien|1
+gemäß: gemäß|2
+für: für|4
+Behandlung: behandlung|7
+rheumatoiden: rheumatoiden|2
+konventionell: konventionelle|2	konventionellen|2
+Basistherapie: basistherapie|4
+Methotrexat: methotrexat|3
+MTX: mtx|5
+empfohlen: empfohlen|2
+[: [|1
+REF: ref|1
+]: ]|1
+sein: ist|12	sind|3	seinen|1	seiner|1
+antirheumatisch: antirheumatisches|1
+Medikament: medikament|1	medikamenten|1	medikamente|3
+Entzündung: entzündungen|2
+Gelenke: gelenken|1
+reduzieren: reduziert|1	reduzieren|1
+Krankheitsaktivität: krankheitsaktivität|1
+verringern: verringert|1
+Fallentwicklung: fallentwicklung|1
+haben: hat|3	habe|1
+Bedenken: bedenken|1
+hinsichtlich: hinsichtlich|2
+langfristig: langfristigen|2	langfristig|1
+Einnahme: einnahme|2
+von: von|12
+wie: wie|5
+fragen: fragt|1
+alternativ: alternativen|1	alternative|1
+Behandlungsmöglichkeit: behandlungsmöglichkeiten|1
+erwähnen: erwähnt|1
+dass: dass|10
+Freund: freunden|1
+gehören: gehört|1
+Boswellia: boswellia|17
+bei: bei|6
+entzündlich: entzündlichen|4
+Erkrankung: erkrankungen|3	erkrankung|1
+helfen: helfen|2
+können: könne|1	kann|4	können|1	könnten|1
+behandelnd: behandelnde|2	behandelnden|3
+Arzt: arzt|9
+klären: klärt|2
+": "|4
+Pflanzengattung: pflanzengattung|1
+Harz: harz|1
+als: als|4
+Weihrauch: weihrauch|2
+bekennen: bekannt|1
+es: es|9
+geben: gibt|4
+verschieden: verschiedene|2
+Art: arten|1
+Indien: indien|1
+Nordafrika: nordafrika|1
+nah: nahen|1
+Osten: osten|1
+wachsen: wachsen|1
+indisch: indische|1
+serrata: serrata|1
+häufig: häufig|1
+ayurvedisch: ayurvedischen|1
+Medizin: medizin|1
+einsetzen: eingesetzt|1
+insbesondere: insbesondere|1
+erklären: erklärt|3
+weiterhin: weiterhin|4
+einige: einige|1	einigen|2
+Studie|Studium: studien|2
+darauf: darauf|1
+hindeut: hindeuten|1
+lindern: lindern|2
+allerdings: allerdings|1
+Ergebnis: ergebnisse|1	ergebnis|1
+nicht: nicht|2
+eindeutig: eindeutig|1
+weit: weitere|3	weiteren|2
+Forschung: forschung|2
+erforderlich: erforderlich|3
+zeigen: zeigt|4	zeigen|3
+groß: großes|1	größere|1
+Interesse: interesse|1
+an: an|2
+Ergänzung: ergänzung|3
+Therapie: therapie|7
+jedoch: jedoch|4
+kein: keine|4
+ausreichend: ausreichende|1
+Evidenz: evidenz|2
+alleinig: alleinige|1
+daher: daher|2
+zu: zu|7
+betrachten: betrachtet|3
+sollen: sollte|4
+setzen: setzt|1
+empfehlen: empfiehlt|1
+ergänzend: ergänzend|1	ergänzende|2
+kontrollierte: kontrollierte|1
+-: -|4
+Extrakt: extrakten|3
+Herstellerempfehlung: herstellerempfehlungen|1
+er: er|2
+auch: auch|6
+möglich: mögliche|2
+Nebenwirkung: nebenwirkungen|2
+betonen: betont|2
+Wichtigkeit: wichtigkeit|1
+regelmäßig: regelmäßigen|2	regelmäßiger|1
+Überwachung: überwachung|3
+Krankheitsverlauf: krankheitsverlaufs|1
+Woche: wochen|1
+kombinierten: kombinierten|4
+berichten: berichtet|3
+signifikant: signifikanten|1	signifikante|1
+Verringerung: verringerung|3
+Gelenkschmerz: gelenkschmerzen|3
+Ihr|ihr: ihre|1
+verbessern: verbessert|1	verbessern|1
+zunehmend: zunehmenden|1
+Energieniveau: energieniveau|1
+Verlaufskontrolle: verlaufskontrollen|2
+Auffälligkeit: auffälligkeiten|1
+Blutbild: blutbild|2
+oder: oder|3
+unerwünscht: unerwünschte|1	unerwünschten|1
+Arzneimittelwirkung: arzneimittelwirkungen|1
+sehr: sehr|2
+zufrieden: zufrieden|2
+fühlen: fühlt|2
+gut: gut|2	besser|2
+betreuen: betreut|2
+unterstützen: unterstützt|1
+durch: durch|3
+Zusammenfassung: zusammenfassung|1
+dies: diesem|1	dieser|1	dies|1
+fiktiv: fiktiven|1	fiktive|1
+Fall: fall|2
+Patientin: patientin|2
+rheumatoider: rheumatoider|4
+neben: neben|1
+Verbesserung: verbesserung|2
+Symptom: symptome|2
+einschließlich: einschließlich|1
+verbessert: verbesserten|2
+wichtig: wichtig|2
+anmerken: anzumerken|2
+Wirksamkeit: wirksamkeit|2
+begrenzen: begrenzt|1
+um: um|3
+therapeutisch: therapeutischen|1
+Nutzen: nutzen|1
+verstehen: verstehen|1
+Option: option|1
+während: während|1
+Vordergrund: vordergrund|1
+stehen: steht|1
+Verlauf: verlauf|2
+Zustand: zustand|2
+stabil: stabil|1
+halten: gehalten|1
+kombiniert: kombinierte|1
+positiv: positive|1
+Auswirkung: auswirkungen|1
+deutlich: deutliche|1
+Steifheit: steifheit|1
+verspüren: verspürt|1
+täglich: täglichen|1
+Aktivität: aktivitäten|1
+wieder: wieder|1
+bewältigen: bewältigen|1
+Einschränkung: einschränkungen|1
+mehr: mehr|2
+alltäglich: alltäglichen|1
+Handlung: handlungen|1
+Kochen: kochen|1
+schreiben: schreiben|1
+regelmäßigen: regelmäßigen|1
+anhaltend: anhaltende|1
+Marker: marker|1
+körperliche: körperliche|1
+bestätigen: bestätigt|1
+welch: welche|1
+wenig: weniger|1
+schwollen: geschwollen|1
+Beweglichkeit: beweglichkeit|1
+aufweisen: aufweisen|1
+schätzen: schätzt|1
+Gefühl: gefühl|1
+Kontrolle: kontrolle|1
+Krankheit: krankheit|1
+beide: beider|1
+aufklären: aufklärt|1
+Routinetest: routinetests|1
+Leber: leber|1
+Nierenfunktion: nierenfunktion|1
+durchführen: durchführt|1
+Bedeutung: bedeutung|1
+Nachuntersuchung: nachuntersuchungen|1
+Erfolg: erfolg|1
+gewährleisten: gewährleisten|1
+periodisch: periodische|1
+Schübe: schübe|1
+auftreten: auftreten|2
+zusätzlich: zusätzliche|1
+Maßnahme: maßnahmen|1
+machen: machen|1
+erhalten: erhalten|1
+Informatione: informationen|1
+aktuell: aktuelle|1
+Forschungsergebnis: forschungsergebnisse|1
+kontrovers: kontroverse|1
+untermauern: untermauern|1
+widerlegen: widerlegen|1
+bleiben: bleibt|1
+gewiß: gewisser|1
+Grad: grad|1
+Unsicherheit: unsicherheit|1
+spezifisch: spezifischen|1
+Funktion: funktion|1
+Rahmen: rahmen|1
+entscheiden: entscheidet|1
+Therapi: therapie|1
+festzuhalten: festzuhalten|1
+Abstand: abständen|1
+sowohl: sowohl|1
+Naturheilkundler: naturheilkundler|1
+aufzusuchen: aufzusuchen|1
+sicherstellen: sicherzustellen|1
+optimal: optimal|1
+dosieren: dosiert|1
+Wechselwirkung: wechselwirkungen|1
+Erfahrung: erfahrungen|1
+einmal: einmal|1
+individuell: individuelle|1	individuell|1
+Natur: natur|1
+jed: jeder|2
+reagieren: reagiert|1
+unterschiedlich: unterschiedlich|1
+Ergänzungsmittel: ergänzungsmittel|1
+sorgfältig: sorgfältige|1
+Fortschritt: fortschritts|1
+sowie: sowie|1
+regelmäßige: regelmäßige|1
+Kommunikation: kommunikation|1
+Team: team|1
+erfolgreich: erfolgreicher|1
+Behandlungsplan: behandlungsplan|1
+entwickeln: entwickelt|1
+zusammenfassend: zusammenfassend|1
+einzig: einzige|1
+Ansatz: ansatz|1
+fundiert: fundierte|1
+Entscheidung: entscheidung|1
+Behandlungsoption: behandlungsoptionen|1
+immer: immer|1
+Absprache: absprache|1
+qualifiziert: qualifizierten|1
+Fachpersonal: fachpersonal|1
+treffen|triefen: getroffen|1

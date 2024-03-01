@@ -1,0 +1,168 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 425
+Length of all lemmas: 337
+Length of singleton lemmas: 300
+Length of matched lemmas: 27
+Length of singleton maching lemmas: 300
+klinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([23, 39, 6, 10, 1, 7, 1, 3])
+sum of wordFormDict.values() 90
+ein
+dict_values([2, 6, 17, 4, 7, 2])
+sum of wordFormDict.values() 38
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 4, 5, 1, 3])
+sum of wordFormDict.values() 14
+er
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+dies
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 5, 8])
+sum of wordFormDict.values() 14
+malign
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjuvant
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+anschließend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+folgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+körperlich
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+depressiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verbessern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([23, 39, 6, 10, 1, 7, 1, 3])
+sum of wordFormDict.values() 90
+ein
+dict_values([2, 6, 17, 4, 7, 2])
+sum of wordFormDict.values() 38
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 4, 5, 1, 3])
+sum of wordFormDict.values() 14
+er
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+dies
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 5, 8])
+sum of wordFormDict.values() 14
+malign
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjuvant
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+anschließend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+folgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+körperlich
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+depressiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verbessern
+dict_values([2, 1])
+sum of wordFormDict.values() 3

@@ -1,0 +1,156 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 427
+Length of all lemmas: 345
+Length of singleton lemmas: 313
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 313
+klinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+fortgeschritten
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+der
+dict_values([2, 27, 24, 8, 3])
+sum of wordFormDict.values() 64
+er
+dict_values([7, 5, 2])
+sum of wordFormDict.values() 14
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 9, 1, 3])
+sum of wordFormDict.values() 17
+ein
+dict_values([3, 4, 9, 17, 3, 3])
+sum of wordFormDict.values() 39
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+interdisziplinär
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([8, 6, 1, 2, 1, 1])
+sum of wordFormDict.values() 19
+können
+dict_values([1, 5, 2, 1, 1])
+sum of wordFormDict.values() 10
+steigern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+psychosozial
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhalten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+austauschen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+palliativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reduzieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+fortgeschritten
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+der
+dict_values([2, 27, 24, 8, 3])
+sum of wordFormDict.values() 64
+er
+dict_values([7, 5, 2])
+sum of wordFormDict.values() 14
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 9, 1, 3])
+sum of wordFormDict.values() 17
+ein
+dict_values([3, 4, 9, 17, 3, 3])
+sum of wordFormDict.values() 39
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+interdisziplinär
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([8, 6, 1, 2, 1, 1])
+sum of wordFormDict.values() 19
+können
+dict_values([1, 5, 2, 1, 1])
+sum of wordFormDict.values() 10
+steigern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+psychosozial
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhalten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+austauschen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+palliativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reduzieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

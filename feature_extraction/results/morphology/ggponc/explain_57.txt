@@ -1,0 +1,156 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 379
+Length of all lemmas: 310
+Length of singleton lemmas: 281
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 281
+der
+dict_values([10, 29, 31, 20, 8, 2])
+sum of wordFormDict.values() 100
+werden
+dict_values([8, 12, 5])
+sum of wordFormDict.values() 25
+verschieden
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([9, 15, 5, 3, 4, 2])
+sum of wordFormDict.values() 38
+verweisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 5])
+sum of wordFormDict.values() 9
+infiziert
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+fortgeschritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöht
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 1, 3, 1])
+sum of wordFormDict.values() 9
+erhöhen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+sein
+dict_values([10, 1, 1, 1])
+sum of wordFormDict.values() 13
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intestinal
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genetisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([10, 29, 31, 20, 8, 2])
+sum of wordFormDict.values() 100
+werden
+dict_values([8, 12, 5])
+sum of wordFormDict.values() 25
+verschieden
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([9, 15, 5, 3, 4, 2])
+sum of wordFormDict.values() 38
+verweisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 5])
+sum of wordFormDict.values() 9
+infiziert
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+fortgeschritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöht
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 1, 3, 1])
+sum of wordFormDict.values() 9
+erhöhen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+sein
+dict_values([10, 1, 1, 1])
+sum of wordFormDict.values() 13
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intestinal
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genetisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

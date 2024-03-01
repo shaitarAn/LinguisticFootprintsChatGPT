@@ -1,0 +1,102 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 343
+Length of all lemmas: 269
+Length of singleton lemmas: 248
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 248
+der
+dict_values([5, 14, 8, 6, 10, 4])
+sum of wordFormDict.values() 47
+haben
+dict_values([4, 2, 6, 1])
+sum of wordFormDict.values() 13
+ein
+dict_values([1, 8, 2, 5])
+sum of wordFormDict.values() 16
+ich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 3, 1, 1, 3, 2, 1])
+sum of wordFormDict.values() 12
+ihr
+dict_values([1, 3, 1, 1, 1])
+sum of wordFormDict.values() 7
+werden
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weich
+dict_values([2, 5])
+sum of wordFormDict.values() 7
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lange
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([5, 14, 8, 6, 10, 4])
+sum of wordFormDict.values() 47
+haben
+dict_values([4, 2, 6, 1])
+sum of wordFormDict.values() 13
+ein
+dict_values([1, 8, 2, 5])
+sum of wordFormDict.values() 16
+ich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 3, 1, 1, 3, 2, 1])
+sum of wordFormDict.values() 12
+ihr
+dict_values([1, 3, 1, 1, 1])
+sum of wordFormDict.values() 7
+werden
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weich
+dict_values([2, 5])
+sum of wordFormDict.values() 7
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lange
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2

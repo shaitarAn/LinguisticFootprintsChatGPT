@@ -1,0 +1,90 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 336
+Length of all lemmas: 277
+Length of singleton lemmas: 254
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 254
+der
+dict_values([5, 10, 13, 14, 8, 5])
+sum of wordFormDict.values() 55
+werden
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([10, 3, 1, 1, 1, 1])
+sum of wordFormDict.values() 17
+schaffen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([8, 2, 6, 7, 1, 1])
+sum of wordFormDict.values() 25
+international
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stabil
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+attraktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([5, 10, 13, 14, 8, 5])
+sum of wordFormDict.values() 55
+werden
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([10, 3, 1, 1, 1, 1])
+sum of wordFormDict.values() 17
+schaffen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([8, 2, 6, 7, 1, 1])
+sum of wordFormDict.values() 25
+international
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stabil
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+attraktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2

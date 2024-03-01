@@ -1,0 +1,156 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 602
+Length of all lemmas: 531
+Length of singleton lemmas: 496
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 496
+der
+dict_values([37, 18, 11, 16, 35, 4])
+sum of wordFormDict.values() 121
+sein
+dict_values([8, 4, 5, 4, 3, 1])
+sum of wordFormDict.values() 25
+günstig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fliegen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 6, 2, 2, 1, 1])
+sum of wordFormDict.values() 14
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+haben
+dict_values([5, 2, 1, 2])
+sum of wordFormDict.values() 10
+ihr
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+teuer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+preiswert
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+traditionell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([5, 3, 2, 1, 3])
+sum of wordFormDict.values() 14
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+billig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 2, 4, 1, 1])
+sum of wordFormDict.values() 13
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+Airline
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sagen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schwierig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([37, 18, 11, 16, 35, 4])
+sum of wordFormDict.values() 121
+sein
+dict_values([8, 4, 5, 4, 3, 1])
+sum of wordFormDict.values() 25
+günstig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fliegen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 6, 2, 2, 1, 1])
+sum of wordFormDict.values() 14
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+haben
+dict_values([5, 2, 1, 2])
+sum of wordFormDict.values() 10
+ihr
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+teuer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+preiswert
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+traditionell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([5, 3, 2, 1, 3])
+sum of wordFormDict.values() 14
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+billig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 2, 4, 1, 1])
+sum of wordFormDict.values() 13
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+Airline
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sagen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schwierig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2

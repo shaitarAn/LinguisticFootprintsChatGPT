@@ -1,0 +1,162 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 470
+Length of all lemmas: 372
+Length of singleton lemmas: 336
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 336
+der
+dict_values([6, 20, 21, 16, 5, 4, 1])
+sum of wordFormDict.values() 73
+digital
+dict_values([16, 14, 2, 1])
+sum of wordFormDict.values() 33
+speichern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 2, 13, 3, 2])
+sum of wordFormDict.values() 23
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 3, 1, 1])
+sum of wordFormDict.values() 9
+hinterlassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([14, 1])
+sum of wordFormDict.values() 15
+ein
+dict_values([2, 3, 13, 6, 1])
+sum of wordFormDict.values() 25
+zusätzlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+einsetzen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sollen
+dict_values([3, 1, 4])
+sum of wordFormDict.values() 8
+alt
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([8, 6])
+sum of wordFormDict.values() 14
+persönlich
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([6, 1, 1, 1])
+sum of wordFormDict.values() 9
+sicherstellen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+löschen
+dict_values([2, 5])
+sum of wordFormDict.values() 7
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([11, 2])
+sum of wordFormDict.values() 13
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unser
+dict_values([2, 4, 2])
+sum of wordFormDict.values() 8
+sammeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bereinigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([6, 20, 21, 16, 5, 4, 1])
+sum of wordFormDict.values() 73
+digital
+dict_values([16, 14, 2, 1])
+sum of wordFormDict.values() 33
+speichern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 2, 13, 3, 2])
+sum of wordFormDict.values() 23
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 3, 1, 1])
+sum of wordFormDict.values() 9
+hinterlassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([14, 1])
+sum of wordFormDict.values() 15
+ein
+dict_values([2, 3, 13, 6, 1])
+sum of wordFormDict.values() 25
+zusätzlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+einsetzen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sollen
+dict_values([3, 1, 4])
+sum of wordFormDict.values() 8
+alt
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([8, 6])
+sum of wordFormDict.values() 14
+persönlich
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([6, 1, 1, 1])
+sum of wordFormDict.values() 9
+sicherstellen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+löschen
+dict_values([2, 5])
+sum of wordFormDict.values() 7
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([11, 2])
+sum of wordFormDict.values() 13
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unser
+dict_values([2, 4, 2])
+sum of wordFormDict.values() 8
+sammeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bereinigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

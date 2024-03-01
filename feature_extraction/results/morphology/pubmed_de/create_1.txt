@@ -1,0 +1,138 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 316
+Length of all lemmas: 259
+Length of singleton lemmas: 232
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 232
+der
+dict_values([19, 7, 15, 5, 14, 3, 1])
+sum of wordFormDict.values() 64
+digital
+dict_values([6, 8, 1])
+sum of wordFormDict.values() 15
+sozial
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ein
+dict_values([2, 4, 3, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([3, 6])
+sum of wordFormDict.values() 9
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+benachteiligen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+gleich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 4, 2, 1])
+sum of wordFormDict.values() 8
+können
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+wenig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+begünstigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+feststellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+analysieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 7, 15, 5, 14, 3, 1])
+sum of wordFormDict.values() 64
+digital
+dict_values([6, 8, 1])
+sum of wordFormDict.values() 15
+sozial
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ein
+dict_values([2, 4, 3, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([3, 6])
+sum of wordFormDict.values() 9
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+benachteiligen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+gleich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 4, 2, 1])
+sum of wordFormDict.values() 8
+können
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+wenig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+begünstigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+feststellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+analysieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

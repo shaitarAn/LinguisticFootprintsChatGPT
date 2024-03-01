@@ -1,0 +1,174 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 402
+Length of all lemmas: 315
+Length of singleton lemmas: 280
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 280
+der
+dict_values([33, 13, 34, 8, 17, 14])
+sum of wordFormDict.values() 119
+sein
+dict_values([12, 5])
+sum of wordFormDict.values() 17
+ein
+dict_values([8, 12, 4, 1, 2])
+sum of wordFormDict.values() 27
+ermöglichen
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+transparent
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([5, 4, 4])
+sum of wordFormDict.values() 13
+relevant
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+systematisch
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+erfassen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+kontinuierlich
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+sektorübergreifend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+institutionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regional
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+national
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+international
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+erfolgreich
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entscheidend
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([2, 4, 3])
+sum of wordFormDict.values() 9
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beziehen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ander
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+gut
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bösartig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([33, 13, 34, 8, 17, 14])
+sum of wordFormDict.values() 119
+sein
+dict_values([12, 5])
+sum of wordFormDict.values() 17
+ein
+dict_values([8, 12, 4, 1, 2])
+sum of wordFormDict.values() 27
+ermöglichen
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+transparent
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([5, 4, 4])
+sum of wordFormDict.values() 13
+relevant
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+systematisch
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+erfassen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+kontinuierlich
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+sektorübergreifend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+institutionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regional
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+national
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+international
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+erfolgreich
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entscheidend
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([2, 4, 3])
+sum of wordFormDict.values() 9
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beziehen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ander
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+gut
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bösartig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

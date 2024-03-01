@@ -1,0 +1,198 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 522
+Length of all lemmas: 406
+Length of singleton lemmas: 362
+Length of matched lemmas: 32
+Length of singleton maching lemmas: 362
+neu
+dict_values([4, 4, 2])
+sum of wordFormDict.values() 10
+ein
+dict_values([19, 11, 2, 5, 5, 5])
+sum of wordFormDict.values() 47
+magisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([32, 37, 7, 1, 13, 10, 8])
+sum of wordFormDict.values() 108
+unkonventionell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([11, 1])
+sum of wordFormDict.values() 12
+spektakulär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([8, 5, 2, 2, 1])
+sum of wordFormDict.values() 18
+atemberaubend
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([7, 2, 2, 2, 1])
+sum of wordFormDict.values() 14
+tragen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sie
+dict_values([9, 2])
+sum of wordFormDict.values() 11
+zeigen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 4, 1, 3])
+sum of wordFormDict.values() 11
+schaffen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kunstvoll
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+visuell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([10, 5, 1, 1, 1])
+sum of wordFormDict.values() 18
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+inspirieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einfangen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vermitteln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kreativ
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+setzen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+begeistern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+übertreffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([4, 4, 2])
+sum of wordFormDict.values() 10
+ein
+dict_values([19, 11, 2, 5, 5, 5])
+sum of wordFormDict.values() 47
+magisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([32, 37, 7, 1, 13, 10, 8])
+sum of wordFormDict.values() 108
+unkonventionell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([11, 1])
+sum of wordFormDict.values() 12
+spektakulär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([8, 5, 2, 2, 1])
+sum of wordFormDict.values() 18
+atemberaubend
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([7, 2, 2, 2, 1])
+sum of wordFormDict.values() 14
+tragen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sie
+dict_values([9, 2])
+sum of wordFormDict.values() 11
+zeigen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 4, 1, 3])
+sum of wordFormDict.values() 11
+schaffen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kunstvoll
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+visuell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([10, 5, 1, 1, 1])
+sum of wordFormDict.values() 18
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+inspirieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einfangen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vermitteln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kreativ
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+setzen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+begeistern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+übertreffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

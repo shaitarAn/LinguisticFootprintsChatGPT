@@ -1,0 +1,150 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 372
+Length of all lemmas: 293
+Length of singleton lemmas: 261
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 261
+der
+dict_values([27, 25, 14, 15, 8, 5])
+sum of wordFormDict.values() 94
+sein
+dict_values([9, 1, 4])
+sum of wordFormDict.values() 14
+ein
+dict_values([22, 5, 6, 6, 3])
+sum of wordFormDict.values() 42
+speziell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+kontrastierend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([4, 16])
+sum of wordFormDict.values() 20
+neoplastisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 7])
+sum of wordFormDict.values() 9
+können
+dict_values([15, 7])
+sum of wordFormDict.values() 22
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nützlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erkennen
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+endoskopisch
+dict_values([1, 1, 1, 3])
+sum of wordFormDict.values() 6
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ermöglichen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+genau
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+gezielt
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+bildgebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entnehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([27, 25, 14, 15, 8, 5])
+sum of wordFormDict.values() 94
+sein
+dict_values([9, 1, 4])
+sum of wordFormDict.values() 14
+ein
+dict_values([22, 5, 6, 6, 3])
+sum of wordFormDict.values() 42
+speziell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+kontrastierend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([4, 16])
+sum of wordFormDict.values() 20
+neoplastisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 7])
+sum of wordFormDict.values() 9
+können
+dict_values([15, 7])
+sum of wordFormDict.values() 22
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nützlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erkennen
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+endoskopisch
+dict_values([1, 1, 1, 3])
+sum of wordFormDict.values() 6
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ermöglichen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+genau
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+gezielt
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+bildgebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entnehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,132 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 328
+Length of all lemmas: 265
+Length of singleton lemmas: 235
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 235
+der
+dict_values([24, 20, 10, 6, 5, 11])
+sum of wordFormDict.values() 76
+zeigen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+3-monatig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjuvant
+dict_values([8, 5])
+sum of wordFormDict.values() 13
+sein
+dict_values([2, 7, 3, 2])
+sum of wordFormDict.values() 14
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 8, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([4, 1, 14, 6, 1])
+sum of wordFormDict.values() 26
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verkürzt
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+sechsmonatig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 4, 4, 2])
+sum of wordFormDict.values() 12
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+individuell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liefern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([24, 20, 10, 6, 5, 11])
+sum of wordFormDict.values() 76
+zeigen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+3-monatig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjuvant
+dict_values([8, 5])
+sum of wordFormDict.values() 13
+sein
+dict_values([2, 7, 3, 2])
+sum of wordFormDict.values() 14
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 8, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([4, 1, 14, 6, 1])
+sum of wordFormDict.values() 26
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verkürzt
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+sechsmonatig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 4, 4, 2])
+sum of wordFormDict.values() 12
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+individuell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liefern
+dict_values([1, 1])
+sum of wordFormDict.values() 2

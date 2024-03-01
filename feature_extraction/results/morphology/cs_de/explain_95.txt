@@ -1,0 +1,174 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 436
+Length of all lemmas: 339
+Length of singleton lemmas: 298
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 298
+der
+dict_values([35, 16, 9, 8, 23, 5, 1])
+sum of wordFormDict.values() 97
+ein
+dict_values([4, 8, 8, 3, 1, 1])
+sum of wordFormDict.values() 25
+dies
+dict_values([2, 2, 2, 3, 1])
+sum of wordFormDict.values() 10
+bieten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+intakt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 4, 2])
+sum of wordFormDict.values() 9
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 8])
+sum of wordFormDict.values() 14
+können
+dict_values([5, 3, 4, 3])
+sum of wordFormDict.values() 15
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+fehlend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+privat
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ökologisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+hoch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+systematischer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wachsend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+standardisieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+natürlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([35, 16, 9, 8, 23, 5, 1])
+sum of wordFormDict.values() 97
+ein
+dict_values([4, 8, 8, 3, 1, 1])
+sum of wordFormDict.values() 25
+dies
+dict_values([2, 2, 2, 3, 1])
+sum of wordFormDict.values() 10
+bieten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+intakt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 4, 2])
+sum of wordFormDict.values() 9
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 8])
+sum of wordFormDict.values() 14
+können
+dict_values([5, 3, 4, 3])
+sum of wordFormDict.values() 15
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+fehlend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+privat
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ökologisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+hoch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+systematischer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wachsend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+standardisieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+natürlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

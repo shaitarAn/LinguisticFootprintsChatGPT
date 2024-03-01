@@ -1,0 +1,126 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 304
+Length of all lemmas: 237
+Length of singleton lemmas: 208
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 208
+der
+dict_values([25, 13, 4, 4, 14, 5])
+sum of wordFormDict.values() 65
+1
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+zitieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([5, 4, 2])
+sum of wordFormDict.values() 11
+vorliegend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([3, 4, 2, 2, 3])
+sum of wordFormDict.values() 14
+früh
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([4, 2, 2, 1])
+sum of wordFormDict.values() 9
+sein
+dict_values([2, 4, 3, 1])
+sum of wordFormDict.values() 10
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zweit
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+umstritten
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vermeintlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+der
+dict_values([25, 13, 4, 4, 14, 5])
+sum of wordFormDict.values() 65
+1
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+zitieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([5, 4, 2])
+sum of wordFormDict.values() 11
+vorliegend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([3, 4, 2, 2, 3])
+sum of wordFormDict.values() 14
+früh
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([4, 2, 2, 1])
+sum of wordFormDict.values() 9
+sein
+dict_values([2, 4, 3, 1])
+sum of wordFormDict.values() 10
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zweit
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+umstritten
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vermeintlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4

@@ -1,0 +1,174 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 458
+Length of all lemmas: 364
+Length of singleton lemmas: 331
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 331
+er
+dict_values([7, 3, 21])
+sum of wordFormDict.values() 31
+ihr
+dict_values([1, 2, 4, 1])
+sum of wordFormDict.values() 8
+vermeintlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([6, 8, 11, 1, 14, 3])
+sum of wordFormDict.values() 43
+haben
+dict_values([3, 4, 1, 1])
+sum of wordFormDict.values() 9
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([2, 3, 3])
+sum of wordFormDict.values() 8
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 6, 3, 3, 1, 1])
+sum of wordFormDict.values() 20
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([1, 2, 1, 2, 3])
+sum of wordFormDict.values() 9
+dies
+dict_values([2, 5, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([5, 6, 4, 2, 2, 1, 1, 5])
+sum of wordFormDict.values() 26
+sie
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ander
+dict_values([1, 4, 3])
+sum of wordFormDict.values() 8
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entpuppen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+warnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lernen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([7, 3, 21])
+sum of wordFormDict.values() 31
+ihr
+dict_values([1, 2, 4, 1])
+sum of wordFormDict.values() 8
+vermeintlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([6, 8, 11, 1, 14, 3])
+sum of wordFormDict.values() 43
+haben
+dict_values([3, 4, 1, 1])
+sum of wordFormDict.values() 9
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([2, 3, 3])
+sum of wordFormDict.values() 8
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 6, 3, 3, 1, 1])
+sum of wordFormDict.values() 20
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([1, 2, 1, 2, 3])
+sum of wordFormDict.values() 9
+dies
+dict_values([2, 5, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([5, 6, 4, 2, 2, 1, 1, 5])
+sum of wordFormDict.values() 26
+sie
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ander
+dict_values([1, 4, 3])
+sum of wordFormDict.values() 8
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entpuppen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+warnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lernen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2

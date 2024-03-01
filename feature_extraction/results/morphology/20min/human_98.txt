@@ -1,0 +1,204 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 702
+Length of all lemmas: 552
+Length of singleton lemmas: 505
+Length of matched lemmas: 33
+Length of singleton maching lemmas: 505
+der
+dict_values([32, 29, 45, 14, 10, 2])
+sum of wordFormDict.values() 132
+sein
+dict_values([16, 21, 3, 2, 4])
+sum of wordFormDict.values() 46
+erst
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+müssen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wir
+dict_values([4, 27])
+sum of wordFormDict.values() 31
+ein
+dict_values([5, 4, 14, 4, 3])
+sum of wordFormDict.values() 30
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+befinden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([6, 3, 3, 1, 2])
+sum of wordFormDict.values() 15
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 1, 1, 4])
+sum of wordFormDict.values() 8
+unzählig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wenig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+fahren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+jed
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+kommen
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([1, 3, 7, 1, 1, 2])
+sum of wordFormDict.values() 15
+alle
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+Mal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([3, 4, 2, 1, 1])
+sum of wordFormDict.values() 11
+dürfen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+kochen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+einzeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beliebt
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+chinesisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+funktionieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+japanisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verzichten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([32, 29, 45, 14, 10, 2])
+sum of wordFormDict.values() 132
+sein
+dict_values([16, 21, 3, 2, 4])
+sum of wordFormDict.values() 46
+erst
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+müssen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wir
+dict_values([4, 27])
+sum of wordFormDict.values() 31
+ein
+dict_values([5, 4, 14, 4, 3])
+sum of wordFormDict.values() 30
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+befinden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([6, 3, 3, 1, 2])
+sum of wordFormDict.values() 15
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 1, 1, 4])
+sum of wordFormDict.values() 8
+unzählig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wenig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+fahren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+jed
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+kommen
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([1, 3, 7, 1, 1, 2])
+sum of wordFormDict.values() 15
+alle
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+Mal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([3, 4, 2, 1, 1])
+sum of wordFormDict.values() 11
+dürfen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+kochen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+einzeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beliebt
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+chinesisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+funktionieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+japanisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verzichten
+dict_values([1, 1])
+sum of wordFormDict.values() 2

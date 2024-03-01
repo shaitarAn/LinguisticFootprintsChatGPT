@@ -1,0 +1,168 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 419
+Length of all lemmas: 318
+Length of singleton lemmas: 280
+Length of matched lemmas: 27
+Length of singleton maching lemmas: 280
+der
+dict_values([36, 35, 14, 15, 3, 7])
+sum of wordFormDict.values() 110
+2000
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 6])
+sum of wordFormDict.values() 9
+schweizerisch
+dict_values([3, 9])
+sum of wordFormDict.values() 12
+wachsend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 5, 5, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([6, 5, 1, 3, 1])
+sum of wordFormDict.values() 16
+stark
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([4, 4, 5, 1, 1])
+sum of wordFormDict.values() 15
+stellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+chinesisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([9, 7, 1])
+sum of wordFormDict.values() 17
+langfristig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+groß
+dict_values([2, 1, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 8
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unabhängig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erkennen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([36, 35, 14, 15, 3, 7])
+sum of wordFormDict.values() 110
+2000
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 6])
+sum of wordFormDict.values() 9
+schweizerisch
+dict_values([3, 9])
+sum of wordFormDict.values() 12
+wachsend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 5, 5, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([6, 5, 1, 3, 1])
+sum of wordFormDict.values() 16
+stark
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([4, 4, 5, 1, 1])
+sum of wordFormDict.values() 15
+stellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+chinesisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([9, 7, 1])
+sum of wordFormDict.values() 17
+langfristig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+groß
+dict_values([2, 1, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 8
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unabhängig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erkennen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2

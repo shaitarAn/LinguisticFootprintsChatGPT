@@ -1,0 +1,126 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 331
+Length of all lemmas: 271
+Length of singleton lemmas: 244
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 244
+der
+dict_values([23, 22, 5, 3, 5, 2, 2, 1])
+sum of wordFormDict.values() 63
+dies
+dict_values([1, 8, 1, 5, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([3, 7, 2, 1])
+sum of wordFormDict.values() 13
+allergisch
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ihr
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([11, 8, 2])
+sum of wordFormDict.values() 21
+hoch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+klinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+Allergene
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+langfristig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+allergenspezifisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+lindern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chemisch-synthetisch
+dict_values([1, 5, 1])
+sum of wordFormDict.values() 7
+herstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+alternativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([23, 22, 5, 3, 5, 2, 2, 1])
+sum of wordFormDict.values() 63
+dies
+dict_values([1, 8, 1, 5, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([3, 7, 2, 1])
+sum of wordFormDict.values() 13
+allergisch
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ihr
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([11, 8, 2])
+sum of wordFormDict.values() 21
+hoch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+klinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+Allergene
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+langfristig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+allergenspezifisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+lindern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chemisch-synthetisch
+dict_values([1, 5, 1])
+sum of wordFormDict.values() 7
+herstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+alternativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2

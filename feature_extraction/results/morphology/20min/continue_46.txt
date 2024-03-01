@@ -1,0 +1,138 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 526
+Length of all lemmas: 443
+Length of singleton lemmas: 411
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 411
+sein
+dict_values([4, 12, 1, 1, 1])
+sum of wordFormDict.values() 19
+der
+dict_values([25, 18, 2, 6, 12, 10, 4])
+sum of wordFormDict.values() 77
+ein
+dict_values([11, 11, 6, 5, 5, 3])
+sum of wordFormDict.values() 41
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([8, 1])
+sum of wordFormDict.values() 9
+spielen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+romantisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 4, 3, 1, 1])
+sum of wordFormDict.values() 10
+belasten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dunkel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+absolut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterhaltsam
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verfügbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spannend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([8, 2, 2])
+sum of wordFormDict.values() 12
+du
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 12, 1, 1, 1])
+sum of wordFormDict.values() 19
+der
+dict_values([25, 18, 2, 6, 12, 10, 4])
+sum of wordFormDict.values() 77
+ein
+dict_values([11, 11, 6, 5, 5, 3])
+sum of wordFormDict.values() 41
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([8, 1])
+sum of wordFormDict.values() 9
+spielen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+romantisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 4, 3, 1, 1])
+sum of wordFormDict.values() 10
+belasten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dunkel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+absolut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterhaltsam
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verfügbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spannend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([8, 2, 2])
+sum of wordFormDict.values() 12
+du
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,210 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 497
+Length of all lemmas: 394
+Length of singleton lemmas: 352
+Length of matched lemmas: 34
+Length of singleton maching lemmas: 352
+erhöht
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([8, 3, 10, 5, 7, 3])
+sum of wordFormDict.values() 36
+der
+dict_values([8, 25, 6, 16, 9, 3])
+sum of wordFormDict.values() 67
+stellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+mein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+sein
+dict_values([3, 4, 1, 5, 2, 1, 1])
+sum of wordFormDict.values() 17
+haben
+dict_values([5, 2, 4])
+sum of wordFormDict.values() 11
+klinisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([13, 5])
+sum of wordFormDict.values() 18
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intensiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+adäquat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dunkel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+neu
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+jährlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gründlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+berichten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+auffällig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verdächtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reduzieren
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+beitragen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+konsequent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöht
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([8, 3, 10, 5, 7, 3])
+sum of wordFormDict.values() 36
+der
+dict_values([8, 25, 6, 16, 9, 3])
+sum of wordFormDict.values() 67
+stellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+mein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+sein
+dict_values([3, 4, 1, 5, 2, 1, 1])
+sum of wordFormDict.values() 17
+haben
+dict_values([5, 2, 4])
+sum of wordFormDict.values() 11
+klinisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([13, 5])
+sum of wordFormDict.values() 18
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intensiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+adäquat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dunkel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+neu
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+jährlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gründlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+berichten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+auffällig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verdächtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reduzieren
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+beitragen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+konsequent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

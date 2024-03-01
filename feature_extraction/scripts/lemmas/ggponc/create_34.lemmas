@@ -1,0 +1,369 @@
+Patient: patient|1	patienten|5
+:: :|13
+Herr: herr|10	herrn|8
+Müller: müller|15	müllers|3
+,: ,|26
+34: 34|1
+Jahr: jahre|1	jahren|2	jahr|2
+alt: alt|1
+männlich: männlich|1
+Anamnese: anamnese|1
+werden: wurde|3	wird|8	werden|6	wurden|1
+vor: vor|1
+drei: drei|2
+mit: mit|17
+der: der|24	dem|11	den|7	des|5	die|23	das|7
+Diagnose: diagnose|2
+ein: eines|4	eine|15	ein|4	einen|4	einer|5	einem|2
+fortgeschritten: fortgeschrittenen|1
+Hodgkin: hodgkin|8
+-: -|18
+Lymphom: lymphoms|2	lymphom|6
+in: in|13
+Stadium: stadium|2
+IIIb: iiib|1
+behandeln: behandelt|1
+.: .|47
+er: er|9
+erhalten: erhielt|1	erhält|3
+Chemotherapie: chemotherapie|5
+nach: nach|10
+ABVD: abvd|1
+Protokoll: protokoll|3
+(: (|8
+Adriamycin: adriamycin|1
+[: [|5
+Doxorubicin: doxorubicin|1
+]: ]|5
+Bleomycin: bleomycin|1
+Vinblastin: vinblastin|1
+und: und|22
+Dacarbazin: dacarbazin|1
+): )|8
+sowie: sowie|4
+Bestrahlungstherapie: bestrahlungstherapie|1
+aktuell: aktuelle|1	aktuellen|1
+Symptom: symptome|1
+haben: hat|3	hatte|1	haben|1
+letzt: letzten|2
+Woche: wochen|2
+bemerken: bemerkt|1
+dass: dass|5
+er|es|sie: sich|5
+allgemein: allgemein|1	allgemeinem|1
+schwach: schwächer|1
+müd: müder|1
+fühlen: fühlt|1
+auch: auch|2
+zunehmend: zunehmende|1
+Nachtschweißepisoden: nachtschweißepisoden|1
+ungewollt: ungewollten|1
+Gewichtsverlust: gewichtsverlust|1
+von: von|12
+etwa: etwa|2
+5: 5|1
+kg: kg|1
+zwei: zwei|2
+Monat: monaten|2
+zusätzlich: zusätzlich|1
+klagen: klagt|1
+über: über|1
+Juckreiz: juckreiz|1
+an: an|2
+ganz: ganzen|1
+Körper: körper|1
+Befunde: befunde|1
+bei: bei|11
+körperlichen: körperlichen|1
+Untersuchung: untersuchung|2	untersuchungen|3
+zeigen: zeigt|2	zeigen|2	zeigte|1	gezeigt|2
+leicht: leichte|1
+Lymphadenopathie: lymphadenopathie|2
+Halsbereich: halsbereich|2
+Hepatomegalie: hepatomegalie|1
+Abtast: abtasten|1
+Bauch: bauchs|1
+Blutuntersuchung: blutuntersuchungen|1
+erhöht: erhöhtes|2	erhöhten|1
+LDH: ldh|1
+laktatdehydrogenase: laktatdehydrogenase|1
+500: 500|1
+U/l: u/l|2
+Normalwert: normalwert|1
+<250: <250|1
+Verdacht: verdacht|1
+auf: auf|8
+Leberwert: leberwert|1	leberwerte|1
+Diagnosestellung: diagnosestellung|2
+um: um|4
+zu: zu|10
+bestätigen: bestätigen|1	bestätigt|1
+Biopsie: biopsie|1
+vergrößert: vergrößerten|1
+Lymphknoten: lymphknotens|1
+durchführen: durchgeführt|5
+histologisch: histologische|1
+Gewebe: gewebes|1
+ergeben: ergibt|1
+Vorliegen: vorliegen|1
+rezidiviert: rezidivierten|2	rezidiviertem|2
+klassisch: klassischen|1
+nodulär: nodulär|1
+sklerotisch: sklerotischem|1
+Muster: muster|1
+Therapieplanung: therapieplanung|1
+aufgrund: aufgrund|3
+Rezidiv: rezidivs|2
+Hochdosischemotherapie: hochdosischemotherapie|8
+autolog: autologer|6	autologe|2
+Stammzelltransplantation: stammzelltransplantation|11
+Erwägung: erwägung|1
+ziehen: gezogen|1
+wie: wie|5
+deutsch: deutschen|2
+Leitlinie: leitlinien|3
+für: für|8
+empfehlen: empfohlen|1
+Empfehlung: empfehlung|1	empfehlungen|2
+9.18: 9.18|1
+es: es|4
+beschließen: beschlossen|1
+Wirksamkeit: wirksamkeit|1
+überprüfen: überprüfen|1
+dazu: dazu|1
+randomisiert: randomisierte|1
+klinisch: klinische|2	klinischen|1
+Studie|Studium: studien|2
+heranziehen: herangezogen|1
+Studer: studie|2
+1: 1|1
+erst: erste|1	ersten|1
+Studie: studie|2
+British: british|1
+National: national|1
+Lymphoma: lymphoma|1
+Investigation: investigation|1
+BNLI: bnli|1
+hierbei: hierbei|1
+2-3: 2-3|1
+Zykle: zyklen|1
+mini-: mini-|1
+BEAM: beam|7
+folgen: gefolgt|1
+autologen: autologen|3
+vergleichen: verglichen|1
+Ergebnis: ergebnis|1	ergebnissen|1	ergebnisse|2
+Überlegenheit: überlegenheit|2
+Bezug: bezug|1
+ereignisfrei: ereignisfreie|2
+Überleben: überleben|3
+53%: 53%|1
+gegenüber: gegenüber|1
+10%: 10%|1
+REF: ref|4
+basierend: basierend|1
+dies: diesen|1	dieser|4	diese|2
+2: 2|1
+zweit: zweite|1
+HD-: hd-|1
+R1: r1|1
+GHSG: ghsg|1
+gemeinsam: gemeinsam|1
+EBMT: ebmt|1
+bestätigt: bestätigte|1
+oder: oder|4
+refraktär: refraktärem|3
+Studienergebnis: studienergebnisse|1
+unterstreichen: unterstreichen|1
+Behandlungsplan: behandlungsplan|1
+Behandlungsdetails: behandlungsdetails|1
+daher: daher|2
+Sequenz: sequenz|1
+BCNU: bcnu|1
+Carmustin: carmustin|1
+Etoposid: etoposid|1
+Ara-C: ara-c|1
+Cytarabin: cytarabin|1
+Melphalan: melphalan|1
+anschließend: anschließend|1
+erfolgen: erfolgt|1
+sein: seinen|1	ist|4	sein|1	sind|2	seines|1	seiner|3
+eigen: eigenen|1
+zuvor: zuvor|1
+entnommen: entnommenen|1
+Stammzelle: stammzellen|3
+Nachsorge: nachsorge|1
+engmaschig: engmaschig|1
+überwachen: überwacht|1	überwachen|1
+regelmäßige: regelmäßige|1
+einschließlich: einschließlich|1
+Blutbildkontrolle: blutbildkontrollen|1
+bildgebend: bildgebende|1	bildgebenden|1
+Verfahren: verfahren|2
+Verlauf: verlauf|3
+Krankheit: krankheit|2
+beurteilen: beurteilen|1
+möglich: mögliche|2	möglichen|1
+Komplikation: komplikationen|1
+frühzeitig: frühzeitig|2
+erkennen: erkennen|2
+Prognose: prognose|2
+gut: gute|1	gut|1
+Erfolgsaussicht: erfolgsaussichten|1
+rezidiviertem: rezidiviertem|1
+allerdings: allerdings|1
+geben: gibt|1
+gewiss: gewisses|1
+Risiko: risiko|1	risiken|1
+kurz: kurz|2
+langfristig: langfristigen|1
+Nebenwirkung: nebenwirkung|1	nebenwirkungen|1
+Infektion: infektionen|2
+Organschaden: organschäden|1
+dennoch: dennoch|2
+Therapieoption: therapieoption|1
+sinnvoll: sinnvoll|1
+können: könnte|2	kann|3
+verbessern: verbessern|1
+da: da|2
+Fall: fall|2
+fiktiv: fiktive|1	fiktiven|1
+Situation: situation|1
+beziehen: bezieht|1
+beschrieben: beschriebenen|1
+Detail: details|1
+rein: rein|1
+hypothetisch: hypothetisch|1
+sollen: sollten|1	sollte|1
+nicht: nicht|1
+als: als|2
+medizinisch: medizinischer|1	medizinische|1
+Rat: rat|1
+ansehen: angesehen|1
+Bitte: bitte|1
+wenden: wenden|1
+Sie|sie: sie|1
+immer: immer|2
+qualifiziert: qualifizierten|1
+Arzt: arzt|1
+fundiert: fundierte|1
+Beratung: beratung|1
+Behandlungsverlauf: behandlungsverlauf|1
+beginnen: beginnt|1
+verlaufen: verläuft|1
+relativ: relativ|1
+obwohl: obwohl|1
+einige: einige|1	einigen|1
+Übelkeit: übelkeit|1
+Erbrechen: erbrechen|1
+vorübergehend: vorübergehende|1
+Haarausfall: haarausfall|1
+erleben: erlebt|1
+Abschluß: abschluss|1
+zurücktransplantieren: zurücktransplantiert|1
+durch: durch|1
+Hochdosisbehandlung: hochdosisbehandlung|1
+zerstört: zerstörten|1
+blutbildend: blutbildenden|1
+Knochenmark: knochenmark|1
+wiederherzustellen: wiederherzustellen|1
+Transplantation: transplantation|1
+besonders: besonders|1
+kritisch: kritisch|1
+Infektionsrisiko: infektionsrisiko|1
+geschwächt: geschwächten|1
+Immunsystem: immunsystems|1
+spezialisiert: spezialisierten|1
+Transplantationsstation: transplantationsstation|1
+betreuen: betreut|1
+unterstützend: unterstützende|1
+Therapie: therapien|1
+Antibiotika: antibiotika|1
+Antimykotika: antimykotika|1
+Verhinderung: verhinderung|1
+folgend: folgenden|1
+stabilisieren: stabilisiert|1
+Zustand: zustand|1
+allmählich: allmählich|1
+regelmäßigen: regelmäßigen|1
+Rückbildung: rückbildung|1
+Normalisierung: normalisierung|1
+Einsatz: einsatz|1
+ansprechen: ansprechen|1
+Behandlung: behandlung|2
+deutlich: deutlichen|1
+Abnahmen: abnahmen|1
+Tumorvolumen: tumorvolumens|1
+Remission: remission|1
+was: was|1
+bedeuten: bedeutet|1
+kein: keine|1
+Krankheitsaktivität: krankheitsaktivität|1
+mehr: mehr|1
+feststellen: festgestellt|1
+weit: weiteres|1
+spät: später|1
+noch: noch|1
+krankheitsfrei: krankheitsfrei|1
+einstufen: eingestuft|1
+Langzeitprognose: langzeitprognose|1
+variieren: variiert|1
+je: je|1
+individuell: individuellen|1	individuell|1	individuelle|1
+Faktor: faktoren|2
+Alter: alter|1
+Gesundheitszustand: gesundheitszustand|1
+erkrankung: erkrankung|1
+jedoch: jedoch|1
+50%: 50%|1
+liegen: liegt|1
+Fall|Fällen: fällen|1
+sogar: sogar|1
+Heilung: heilung|1
+führen: führen|1
+weiterhin: weiterhin|1
+routinemäßig: routinemäßige|1
+Nachsorgeuntersuchung: nachsorgeuntersuchungen|1
+unterziehen: unterzogen|1
+Rückfall: rückfälle|1
+außerdem: außerdem|1
+Unterstützung: unterstützung|1
+interdisziplinär: interdisziplinären|1
+Team: team|1
+aus: aus|1
+Onkologen: onkologen|1
+Hämatologen: hämatologen|1
+spezialisierten: spezialisierten|1
+Pflegekräft: pflegekräften|1
+Bewältigung: bewältigung|1
+physisch: physischen|1
+psychisch: psychischen|1
+Herausforderung: herausforderungen|1
+Zusammenhang: zusammenhang|1
+Erkrankung: erkrankung|1
+Entscheidung: entscheidung|1
+basieren: basierte|1
+legen: legen|1
+nahe: nahe|1
+therapeutisch: therapeutische|1
+Option: option|1
+Überlebensvorteil: überlebensvorteil|1
+bieten: bieten|1
+wichtig: wichtig|1
+beachen: beachten|1
+jed: jede|1	jeden|2
+zuschneiden: zugeschnitten|1
+sorgfältig: sorgfältige|1
+Abwägung: abwägung|1
+Potenzial: potenzialen|1
+Nutzen: nutzen|1
+erforderlich: erforderlich|1
+abschließend: abschließend|1
+typisch: typischen|1
+profitieren: profitieren|1
+Umsetzung: umsetzung|1
+helfen: helfen|1
+Auswahl: auswahl|1
+Optimierung: optimierung|1
+Therapieansatz: therapieansatzes|1
+einzeln: einzelnen|1

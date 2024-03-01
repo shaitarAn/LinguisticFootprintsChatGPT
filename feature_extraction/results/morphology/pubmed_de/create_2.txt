@@ -1,0 +1,108 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 276
+Length of all lemmas: 223
+Length of singleton lemmas: 197
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 197
+postoperativ
+dict_values([13, 4])
+sum of wordFormDict.values() 17
+der
+dict_values([2, 27, 32, 17, 10, 11, 4])
+sum of wordFormDict.values() 103
+hoch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([2, 8, 2, 2, 2])
+sum of wordFormDict.values() 16
+chirurgisch
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+werden
+dict_values([6, 4, 4])
+sum of wordFormDict.values() 14
+haben
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+können
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([6, 2, 2, 4])
+sum of wordFormDict.values() 14
+wir
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+potentiell
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+prädiktiv
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+gut
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+weit
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+präoperativ
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+perioperativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individualisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([13, 4])
+sum of wordFormDict.values() 17
+der
+dict_values([2, 27, 32, 17, 10, 11, 4])
+sum of wordFormDict.values() 103
+hoch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([2, 8, 2, 2, 2])
+sum of wordFormDict.values() 16
+chirurgisch
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+werden
+dict_values([6, 4, 4])
+sum of wordFormDict.values() 14
+haben
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+können
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([6, 2, 2, 4])
+sum of wordFormDict.values() 14
+wir
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+potentiell
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+prädiktiv
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+gut
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+weit
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+präoperativ
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+perioperativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individualisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2

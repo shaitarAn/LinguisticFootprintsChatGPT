@@ -1,0 +1,210 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 487
+Length of all lemmas: 382
+Length of singleton lemmas: 335
+Length of matched lemmas: 34
+Length of singleton maching lemmas: 335
+der
+dict_values([31, 16, 9, 17, 9, 11])
+sum of wordFormDict.values() 93
+werden
+dict_values([7, 12, 8])
+sum of wordFormDict.values() 27
+ein
+dict_values([5, 18, 11, 3, 1, 1])
+sum of wordFormDict.values() 39
+sein
+dict_values([3, 4, 8, 2, 1, 1])
+sum of wordFormDict.values() 19
+feststellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+leicht
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+stellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bildgebend
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+bestätigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umliegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 1, 3])
+sum of wordFormDict.values() 5
+chirurgisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entfernt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+adjuvant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rekonstruktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+frühzeitig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erkennen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entfernen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fiktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([31, 16, 9, 17, 9, 11])
+sum of wordFormDict.values() 93
+werden
+dict_values([7, 12, 8])
+sum of wordFormDict.values() 27
+ein
+dict_values([5, 18, 11, 3, 1, 1])
+sum of wordFormDict.values() 39
+sein
+dict_values([3, 4, 8, 2, 1, 1])
+sum of wordFormDict.values() 19
+feststellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+leicht
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+stellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bildgebend
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+bestätigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umliegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 1, 3])
+sum of wordFormDict.values() 5
+chirurgisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entfernt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+adjuvant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rekonstruktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+frühzeitig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erkennen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entfernen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fiktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,228 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 502
+Length of all lemmas: 379
+Length of singleton lemmas: 331
+Length of matched lemmas: 37
+Length of singleton maching lemmas: 331
+der
+dict_values([34, 29, 6, 12, 7, 10])
+sum of wordFormDict.values() 98
+russisch
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+haben
+dict_values([6, 4])
+sum of wordFormDict.values() 10
+international
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+groß
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([6, 4, 13, 1, 1, 9])
+sum of wordFormDict.values() 34
+sollen
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+führen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([4, 10, 1, 5, 1])
+sum of wordFormDict.values() 21
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+angemessen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+genau
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 12, 6, 2, 3, 1, 3])
+sum of wordFormDict.values() 31
+unabhängig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ziehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+politisch
+dict_values([3, 2, 1, 2])
+sum of wordFormDict.values() 8
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+bestätigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deutsch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+erhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+solch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+westlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+oppositionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kritisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([34, 29, 6, 12, 7, 10])
+sum of wordFormDict.values() 98
+russisch
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+haben
+dict_values([6, 4])
+sum of wordFormDict.values() 10
+international
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+groß
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([6, 4, 13, 1, 1, 9])
+sum of wordFormDict.values() 34
+sollen
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+führen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([4, 10, 1, 5, 1])
+sum of wordFormDict.values() 21
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+angemessen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+genau
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 12, 6, 2, 3, 1, 3])
+sum of wordFormDict.values() 31
+unabhängig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ziehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+politisch
+dict_values([3, 2, 1, 2])
+sum of wordFormDict.values() 8
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+bestätigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deutsch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+erhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+solch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+westlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+oppositionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kritisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2

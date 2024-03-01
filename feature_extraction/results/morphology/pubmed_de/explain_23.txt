@@ -1,0 +1,144 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 351
+Length of all lemmas: 271
+Length of singleton lemmas: 239
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 239
+der
+dict_values([22, 6, 10, 30, 13, 9])
+sum of wordFormDict.values() 90
+werden
+dict_values([6, 9, 1])
+sum of wordFormDict.values() 16
+dies
+dict_values([2, 5, 1, 1, 3, 1])
+sum of wordFormDict.values() 13
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+umfangreich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 5, 3, 5, 1])
+sum of wordFormDict.values() 19
+fest
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 1, 2, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stellen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+entstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+extrahieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+zusätzlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+urologisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+berufspolitisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+relevant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bewerten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prüfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([22, 6, 10, 30, 13, 9])
+sum of wordFormDict.values() 90
+werden
+dict_values([6, 9, 1])
+sum of wordFormDict.values() 16
+dies
+dict_values([2, 5, 1, 1, 3, 1])
+sum of wordFormDict.values() 13
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+umfangreich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 5, 3, 5, 1])
+sum of wordFormDict.values() 19
+fest
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 1, 2, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stellen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+entstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+extrahieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+zusätzlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+urologisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+berufspolitisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+relevant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bewerten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prüfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2

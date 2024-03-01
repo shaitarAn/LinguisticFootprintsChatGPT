@@ -1,0 +1,341 @@
+klinisch: klinischer|1
+Fall: fall|1
+:: :|11
+Kolorektales: kolorektales|1
+Karzinom: karzinom|4	karzinoms|1
+Fallbeschreibung: fallbeschreibung|1
+Patientin: patientin|15
+A: a|12
+,: ,|31
+ein: eine|17	einer|8	ein|5	einem|2	einen|1	eines|3
+60: 60|1
+-: -|8
+jährige: jährige|1
+Frau: frau|1
+stellen: stellt|1
+er|es|sie: sich|4
+mit: mit|5
+Bauchschmerz: bauchschmerzen|1
+und: und|19
+rektal: rektalen|1
+Blutung: blutungen|1
+in: in|10
+onkologisch: onkologischen|2
+Klinik: klinik|1
+vor: vor|1
+.: .|41
+nach: nach|7
+gründlich: gründlichen|1
+Anamnese: anamnese|1
+körperlichen: körperlichen|1
+Untersuchung: untersuchung|3	untersuchungen|1
+werden: wird|3	wurde|2	werden|5
+bei: bei|7
+ihr: ihr|3	ihren|2	ihre|2	ihrer|2
+kolorektal: kolorektales|3	kolorektalen|1
+der: dem|6	des|3	den|14	die|31	der|25	das|4
+Stadium: stadium|2
+II: ii|2
+diagnostizieren: diagnostiziert|1
+Computertomographie: computertomographie|1
+(: (|2
+CT: ct|2
+): )|2
+Abdomen: abdomens|2
+bestätigen: bestätigt|1
+Tumor: tumor|1
+lokalisieren: lokalisiert|1
+Dickdarm: dickdarm|1
+Therapieentscheidung: therapieentscheidung|2
+um: um|8
+geeignet: geeignete|1	geeigneter|1
+Behandlungsoption: behandlungsoption|1	behandlungsoptionen|1
+für: für|6
+zu: zu|16
+ermitteln: ermitteln|1
+beziehen: beziehen|1
+behandelnd: behandelnden|1	behandelnde|1
+Arzt: ärzte|3	ärzten|1	arzt|3
+aktuell: aktuellen|1	aktueller|1
+medizinisch: medizinischen|1	medizinischer|2	medizinisch|1
+Leitlinie: leitlinien|8
+adjuvant: adjuvanten|2	adjuvante|7
+Therapie: therapie|2
+von: von|11
+kolorektalem: kolorektalem|1
+Karzinome: karzinomen|1
+heran: heran|1
+dies: diese|6	diesen|1	dieser|1
+berücksichtigen: berücksichtigen|1
+insbesondere: insbesondere|1
+prospektiv: prospektive|1	prospektiven|2
+planmäßig: planmäßig|1
+gepoolt: gepoolte|1
+Analyse: analyse|1
+6: 6|1
+randomisiert: randomisierten|1
+Phase-: phase-|1
+III: iii|1
+Studie|Studium: studien|1
+SCOT: scot|1
+TOSCA: tosca|1
+Alliance/SWOG: alliance/swog|1
+80702: 80702|1
+IDEA: idea|4
+France: france|1
+ACHIEVE: achieve|1
+HORG: horg|1
+welch: welche|1
+auf: auf|3
+ASCO: asco|1
+Kongreß: kongress|1
+2017: 2017|1
+präsentieren: präsentiert|1
+[: [|3
+REF: ref|3
+]: ]|3
+voll: voll|1
+veröffentlichen: veröffentlichte|1
+Studie: studie|4
+zielen: zielt|1
+darauf: darauf|1
+ab: ab|1
+Nichtunterlegenheit: nichtunterlegenheit|1
+dreimonatig: dreimonatigen|3	dreimonatige|4
+versus: versus|1
+sechsmonatig: sechsmonatigen|2
+FOLFOX/CAPOX: folfox/capox|4
+Chemotherapie: chemotherapie|9
+nachzuweisen: nachzuweisen|1
+Therapieverlauf: therapieverlauf|3
+basierend: basierend|1
+entschieden: entschieden|1
+dass: dass|3
+Risikominimierung: risikominimierung|2
+erhalten: erhalten|2	erhält|1
+sollen: soll|1
+durch: durch|4
+Einsatz: einsatz|2
+vorgestellt: vorgestellten|1
+Studienergebnis: studienergebnisse|3
+ergeben: ergeben|1	ergab|1
+nun: nun|1
+zwei: zwei|1
+möglich: mögliche|4
+Option: optionen|1	option|5
+Dauer: dauer|1
+1: 1|1
+drei: drei|1
+Monat: monate|2	monaten|1
+gemäß: gemäß|3
+können: könnte|1	kann|2	können|2
+kürz: kürzere|1
+Behandlungsdauer: behandlungsdauer|2
+als: als|2
+nicht: nicht|2
+unterliegen: unterlegen|2
+Vergleich: vergleich|1
+herkömmlich: herkömmlichen|1
+Therapi: therapie|1
+feststellen: festgestellt|1
+besprechen: besprechen|1
+erklären: erklären|1	erklärt|1
+potenziell: potenziellen|1
+Vorteil: vorteile|1
+kurz: kürzeren|1
+Therapiedauer: therapiedauer|2
+wie: wie|3
+Verringerung: verringerung|1
+Nebenwirkung: nebenwirkungen|3
+sowie: sowie|3
+schnell: schnellere|1	schnell|1
+Rückkehr: rückkehr|1
+Normalität: normalität|1
+Abschluß: abschluss|3
+Behandlung: behandlung|5
+2: 2|1
+sechs: sechs|2
+zweit: zweite|1
+sein: ist|4	war|1	sind|2
+empfohlen: empfohlene|1	empfohlen|1
+Standardtherapiedauer: standardtherapiedauer|1
+hierbei: hierbei|1
+über: über|1
+lang: längeren|1	länger|1
+Zeitraum: zeitraum|1
+obwohl: obwohl|1
+bestehen: besteht|1
+Sicherheit: sicherheit|1
+standardmäßig: standardmäßig|1
+durchgeführt: durchgeführten|1
+andauernd: andauernden|1
+Entscheidung: entscheidung|2
+ausführlich: ausführlicher|1
+Beratung: beratung|2
+wählen: wählt|1
+gemeinsam: gemeinsam|1	gemeinsame|1
+Chemotherapietherapiedauer: chemotherapietherapiedauer|1
+Sie|sie: sie|4
+mögen: möchte|1
+möglichst: möglichst|1
+Symptomen: symptomen|1
+erholen: erholen|1
+zusätzlich: zusätzlich|1
+potentiell: potentielle|1
+minimieren: minimieren|1
+Ihr|ihr: ihr|1
+Vertrauen: vertrauen|1
+Bereitschaft: bereitschaft|1
+aktiv: aktiv|2
+an: an|2
+Genesung: genesung|1
+teilnehmen: teilzunehmen|1
+unterstützen: unterstützen|1
+Follow-up: follow-up|5
+beginnen: beginnt|1
+unmittelbar: unmittelbar|1
+Operation: operation|1
+während: während|1
+sie: sie|3
+regelmäßig: regelmäßig|1	regelmäßigen|2	regelmäßige|1
+interdisziplinär: interdisziplinären|1
+Behandlungsteam: behandlungsteam|1
+überwachen: überwacht|1	überwachen|1
+eng: enge|2
+Zusammenarbeit: zusammenarbeit|2
+alle: aller|1
+beteiligt: beteiligten|1
+sicherstellen: sicherstellt|1	sicherzustellen|1
+Behandlungsperiode: behandlungsperiode|1
+zeigen: zeigt|4
+positiven: positiven|1
+Verlauf: verlauf|1
+ohne: ohne|1
+signifikant: signifikante|1
+erfolgen: erfolgt|2
+Abstand: abständen|1
+rezidivfrei: rezidivfreie|2
+Überleben: überleben|2
+eventuell: eventuell|1
+auftretend: auftretende|1
+Rückfall: rückfälle|2	rückfalls|1
+frühzeitig: frühzeitig|3
+erkennen: erkennen|3
+besuchen: besucht|1
+weiterhin: weiterhin|2
+routinemäßig: routinemäßige|1
+Kontrolluntersuchung: kontrolluntersuchungen|2
+diagnostisch: diagnostische|1
+Bildgebungsverfahren: bildgebungsverfahren|1
+durchführen: durchgeführt|1
+Fazit: fazit|2
+Fallstudie: fallstudie|3
+illustriert: illustriert|1
+Anwendung: anwendung|2
+aktueller: aktueller|1
+auch: auch|3
+Bedeutung: bedeutung|2
+Studiendat: studiendaten|1
+Ermittlung: ermittlung|1
+Einzelfall: einzelfall|1
+angemessen: angemessene|1
+Berücksichtigung: berücksichtigung|1
+individuelle: individueller|1
+Präferenz: präferenzen|1
+Entscheidungsfindung: entscheidungsfindung|2
+zwischen: zwischen|2
+Patient: patient|2	patienten|2
+ermöglichen: ermöglicht|1
+wodurch: wodurch|1
+letztendlich: letztendlich|1
+optimal: optimale|1	optimal|1
+Versorgung: versorgung|2
+gewährleisten: gewährleistet|1	gewährleisten|1
+erleichtern: erleichtert|1
+gut: gut|1	besten|2
+vertragen: vertragen|1
+haben: hat|1
+fühlen: fühlt|1
+allmählich: allmählich|1
+wieder: wieder|2
+stark: stärker|1
+motiviert: motiviert|1
+Leben: leben|1
+Hand: hand|1
+nehmen: nehmen|1	nimmt|1
+regelmäßigen: regelmäßigen|1
+finden: finden|1
+statt: statt|1
+kontinuierlich: kontinuierliche|2
+Überwachung: überwachung|2
+Jahr: jahr|1
+erneut: erneute|1
+überprüfen: überprüfen|1
+kein: keine|1
+Anzeichen: anzeichen|1
+oder: oder|1
+Tumorbildung: tumorbildung|1
+weit: weitere|1
+Bestätigung: bestätigung|1
+erfolgreich: erfolgreichen|2
+bringen: bringt|1
+Erleichterung: erleichterung|1
+Familie: familie|1
+jedoch: jedoch|1
+Notwendigkeit: notwendigkeit|1
+langfristig: langfristigen|1	langfristige|1
+Follow: follow|1
+up: ups|1
+da: da|1
+immer: immer|1
+gewiss: gewisses|1
+Risiko: risiko|1
+bergen: birgt|1
+inklusive: inklusive|1
+Blutuntersuchung: blutuntersuchungen|1
+Tumormarkerbestimmung: tumormarkerbestimmung|1
+Stuhltest: stuhltest|1
+Veränderung: veränderungen|1
+Empfehlunge: empfehlungen|1
+ernsen: ernst|1
+bleiben: bleibt|1
+konsequent: konsequent|1
+Nachsorgetermine: nachsorgeterminen|1
+nutzen: nutzt|1
+Unterstützungsangebot: unterstützungsangebote|1
+Selbsthilfegruppe: selbsthilfegruppen|1
+psychologisch: psychologische|1
+emotional: emotionalen|2
+Auswirkung: auswirkungen|1
+Krebserkrankung: krebserkrankung|2
+umgehen: umzugehen|2
+verdeutlichen: verdeutlicht|1
+adäquat: adäquate|1
+individuell: individuell|1
+anpassen: angepasst|1
+Nutzen: nutzen|1
+erzielen: erzielen|1
+entscheidend: entscheidend|1
+optimale: optimale|1
+Einbeziehung: einbeziehung|1
+psychosozial: psychosozialer|1
+Unterstützung: unterstützung|1
+tragen: trägt|1
+ebenfalls: ebenfalls|1
+ganzheitlich: ganzheitlichen|1
+Betreuung: betreuung|1
+helfen: hilft|1
+er: ihm|1
+dabei: dabei|1
+Herausforderung: herausforderungen|1
+unterstreechen: unterstreicht|1
+evidenzbasiert: evidenzbasierten|1
+Praxis: praxis|1
+Wert: wert|1
+patientenzentriert: patientenzentrierten|1
+zugeschnitten: zugeschnittene|1
+Therapieoption: therapieoptionen|1
+auswählen: ausgewählt|1
+sowohl: sowohl|1
+persönlich: persönlich|1
+eignen: geeignet|1

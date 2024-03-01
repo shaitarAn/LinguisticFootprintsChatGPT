@@ -1,0 +1,138 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 367
+Length of all lemmas: 252
+Length of singleton lemmas: 218
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 218
+werden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 1, 2, 3, 1])
+sum of wordFormDict.values() 10
+sein
+dict_values([12, 3, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([3, 4, 1, 2, 1])
+sum of wordFormDict.values() 11
+statistisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([18, 21, 10, 9, 2, 9])
+sum of wordFormDict.values() 69
+richtig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([5, 1, 4, 1])
+sum of wordFormDict.values() 11
+wir
+dict_values([20, 2])
+sum of wordFormDict.values() 22
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+grün
+dict_values([6, 2, 2, 1])
+sum of wordFormDict.values() 11
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+identifizieren
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+liegen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unser
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([4, 3, 3, 1])
+sum of wordFormDict.values() 11
+bedingt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+benötigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fundiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 1, 2, 3, 1])
+sum of wordFormDict.values() 10
+sein
+dict_values([12, 3, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([3, 4, 1, 2, 1])
+sum of wordFormDict.values() 11
+statistisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([18, 21, 10, 9, 2, 9])
+sum of wordFormDict.values() 69
+richtig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([5, 1, 4, 1])
+sum of wordFormDict.values() 11
+wir
+dict_values([20, 2])
+sum of wordFormDict.values() 22
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+grün
+dict_values([6, 2, 2, 1])
+sum of wordFormDict.values() 11
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+identifizieren
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+liegen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unser
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([4, 3, 3, 1])
+sum of wordFormDict.values() 11
+bedingt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+benötigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fundiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2

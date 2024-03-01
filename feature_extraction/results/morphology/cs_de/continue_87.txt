@@ -1,0 +1,174 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 450
+Length of all lemmas: 369
+Length of singleton lemmas: 333
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 333
+wirtschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([21, 30, 13, 13, 5, 8])
+sum of wordFormDict.values() 90
+ein
+dict_values([6, 5, 1, 2])
+sum of wordFormDict.values() 14
+sein
+dict_values([4, 6, 1, 4, 1, 1, 1, 1])
+sum of wordFormDict.values() 19
+müssen
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+beruflich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([7, 3, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([4, 2, 4])
+sum of wordFormDict.values() 10
+günstig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 4, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Weg
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hochwertig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+beginnen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unsich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+japanisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hervorgehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([21, 30, 13, 13, 5, 8])
+sum of wordFormDict.values() 90
+ein
+dict_values([6, 5, 1, 2])
+sum of wordFormDict.values() 14
+sein
+dict_values([4, 6, 1, 4, 1, 1, 1, 1])
+sum of wordFormDict.values() 19
+müssen
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+beruflich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([7, 3, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([4, 2, 4])
+sum of wordFormDict.values() 10
+günstig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 4, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Weg
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hochwertig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+beginnen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unsich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+japanisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hervorgehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2

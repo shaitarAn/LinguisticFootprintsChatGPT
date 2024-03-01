@@ -1,0 +1,162 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 444
+Length of all lemmas: 347
+Length of singleton lemmas: 311
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 311
+dies
+dict_values([1, 2, 5, 2, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([14, 15, 4, 1])
+sum of wordFormDict.values() 34
+der
+dict_values([35, 38, 9, 10, 4, 6])
+sum of wordFormDict.values() 102
+möglich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([15, 1, 1, 2])
+sum of wordFormDict.values() 19
+ein
+dict_values([6, 12, 6, 1])
+sum of wordFormDict.values() 25
+verstärken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 7, 1, 1])
+sum of wordFormDict.values() 13
+haben
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+wirksam
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+kein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+feststellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+liegen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+steigern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ihr
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestätigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+oral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 5, 2, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([14, 15, 4, 1])
+sum of wordFormDict.values() 34
+der
+dict_values([35, 38, 9, 10, 4, 6])
+sum of wordFormDict.values() 102
+möglich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([15, 1, 1, 2])
+sum of wordFormDict.values() 19
+ein
+dict_values([6, 12, 6, 1])
+sum of wordFormDict.values() 25
+verstärken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 7, 1, 1])
+sum of wordFormDict.values() 13
+haben
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+wirksam
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+kein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+feststellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+liegen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+steigern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ihr
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestätigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+oral
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,120 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 349
+Length of all lemmas: 268
+Length of singleton lemmas: 243
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 243
+dies
+dict_values([6, 1, 4, 1])
+sum of wordFormDict.values() 12
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([21, 1, 7, 11, 14, 26, 1, 8])
+sum of wordFormDict.values() 89
+werden
+dict_values([9, 6, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([4, 4, 1, 2])
+sum of wordFormDict.values() 11
+führen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+häufig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 3, 4, 1, 1])
+sum of wordFormDict.values() 11
+gehören
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+zoonotisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([6, 1, 4, 1])
+sum of wordFormDict.values() 12
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([21, 1, 7, 11, 14, 26, 1, 8])
+sum of wordFormDict.values() 89
+werden
+dict_values([9, 6, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([4, 4, 1, 2])
+sum of wordFormDict.values() 11
+führen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+häufig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 3, 4, 1, 1])
+sum of wordFormDict.values() 11
+gehören
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+zoonotisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2

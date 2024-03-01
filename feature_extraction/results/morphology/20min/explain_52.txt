@@ -1,0 +1,144 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 312
+Length of all lemmas: 240
+Length of singleton lemmas: 209
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 209
+der
+dict_values([29, 16, 9, 11, 12, 5])
+sum of wordFormDict.values() 82
+sein
+dict_values([5, 1, 8, 2, 1, 4, 1, 1])
+sum of wordFormDict.values() 23
+betonen
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 4, 3, 3, 2])
+sum of wordFormDict.values() 15
+er
+dict_values([18, 2, 4])
+sum of wordFormDict.values() 24
+behaupten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+einsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+heben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 2, 2, 1, 2])
+sum of wordFormDict.values() 9
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kritisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+versprechen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erklären
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bezeichnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([29, 16, 9, 11, 12, 5])
+sum of wordFormDict.values() 82
+sein
+dict_values([5, 1, 8, 2, 1, 4, 1, 1])
+sum of wordFormDict.values() 23
+betonen
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 4, 3, 3, 2])
+sum of wordFormDict.values() 15
+er
+dict_values([18, 2, 4])
+sum of wordFormDict.values() 24
+behaupten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+einsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+heben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 2, 2, 1, 2])
+sum of wordFormDict.values() 9
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kritisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+versprechen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erklären
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bezeichnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2

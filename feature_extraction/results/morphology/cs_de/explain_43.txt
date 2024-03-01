@@ -1,0 +1,120 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 346
+Length of all lemmas: 263
+Length of singleton lemmas: 235
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 235
+der
+dict_values([32, 23, 6, 18, 9, 8])
+sum of wordFormDict.values() 96
+ein
+dict_values([7, 6, 2, 4, 4])
+sum of wordFormDict.values() 23
+groß
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+gering
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+hoch
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+durchschnittlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 4, 5, 1])
+sum of wordFormDict.values() 11
+sein
+dict_values([7, 4])
+sum of wordFormDict.values() 11
+ober
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+vermögend
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wirtschaftlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+folgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([32, 23, 6, 18, 9, 8])
+sum of wordFormDict.values() 96
+ein
+dict_values([7, 6, 2, 4, 4])
+sum of wordFormDict.values() 23
+groß
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+gering
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+hoch
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+durchschnittlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 4, 5, 1])
+sum of wordFormDict.values() 11
+sein
+dict_values([7, 4])
+sum of wordFormDict.values() 11
+ober
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+vermögend
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wirtschaftlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+folgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2

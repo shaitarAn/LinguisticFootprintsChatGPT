@@ -1,0 +1,114 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 381
+Length of all lemmas: 311
+Length of singleton lemmas: 285
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 285
+der
+dict_values([26, 27, 3, 11, 8, 11, 1])
+sum of wordFormDict.values() 87
+resistent
+dict_values([5, 1, 1, 2, 3])
+sum of wordFormDict.values() 12
+1
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 7, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([10, 2, 2, 3])
+sum of wordFormDict.values() 17
+nachhaltig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 10, 1])
+sum of wordFormDict.values() 12
+dies
+dict_values([2, 2, 8, 8, 1])
+sum of wordFormDict.values() 21
+regelmäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antibiotisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 3, 6])
+sum of wordFormDict.values() 10
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+feststellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([26, 27, 3, 11, 8, 11, 1])
+sum of wordFormDict.values() 87
+resistent
+dict_values([5, 1, 1, 2, 3])
+sum of wordFormDict.values() 12
+1
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 7, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([10, 2, 2, 3])
+sum of wordFormDict.values() 17
+nachhaltig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 10, 1])
+sum of wordFormDict.values() 12
+dies
+dict_values([2, 2, 8, 8, 1])
+sum of wordFormDict.values() 21
+regelmäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antibiotisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 3, 6])
+sum of wordFormDict.values() 10
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+feststellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2

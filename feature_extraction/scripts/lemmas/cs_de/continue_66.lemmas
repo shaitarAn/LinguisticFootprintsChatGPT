@@ -1,0 +1,252 @@
+werden: würden|1	werden|2
+Sie|sie: sie|3
+entscheiden: entscheiden|2
+?: ?|3
+dies: diese|3	diesem|1	dieser|2	dies|3	diesen|1
+Art: art|1
+von: von|7
+Fragestellung: fragestellung|1
+sein: ist|12	sind|3	war|1
+ein: ein|3	eine|4	eins|1	einer|2	eines|1
+typisch: typisches|1
+Beispiel: beispiel|1
+für: für|7
+statistisch: statistische|4	statistischen|1
+Entscheidungsproblem: entscheidungsprobleme|1
+.: .|32
+um: um|5
+der: die|18	der|21	des|10	den|9	dem|2	das|9
+richtig: richtige|2	richtig|2
+Entscheidung: entscheidung|3	entscheidungen|1
+treffen: treffen|4
+zu: zu|10
+können: können|5	konnte|1	kann|4	könnten|1
+,: ,|36
+müssen: müssen|5
+wir: wir|20	uns|2
+Wahrscheinlichkeit: wahrscheinlichkeiten|1	wahrscheinlichkeit|13
+verschieden: verschiedenen|1	verschiedene|1
+Szenarie: szenarien|1
+berücksichtigen: berücksichtigen|1	berücksichtigt|1
+in: in|13
+Fall: fall|2	fälle|4
+wissen: wissen|5
+dass: dass|14
+85: 85|1
+Prozent: prozent|12
+Taxi: taxis|6	taxi|11
+grün: grün|6	grünes|2	grünen|2	grüne|1
+und: und|10
+15: 15|2
+blau: blau|26
+haben: haben|2	hat|2
+auch: auch|2
+Information: informationen|4	information|3
+über: über|3
+Zuverlässigkeit: zuverlässigkeit|1
+Zeuge: zeugen|3	zeuge|11
+Farbe: farbe|4
+identifizieren: identifiziert|4	identifizieren|2
+bei: bei|1
+Lichtverhältnisse: lichtverhältnissen|1
+Zeitpunkt: zeitpunkt|1
+Unfall: unfalls|2	unfall|1
+er: er|3
+80: 80|2
+20: 20|3
+liegen: lag|1	liegt|2
+falsch: falsch|3
+unser: unsere|2	unserem|1	unserer|1
+berechnen: berechnen|3
+tatsächlich: tatsächlich|2
+oder: oder|5
+beginnen: beginnen|1
+mit: mit|2
+Satz: satz|2
+Bayes: bayes|1
+besagen: besagt|1
+:: :|8
+P: p|5
+(: (|24
+A|B: a|b|2
+): )|45
+=: =|8
+B|A: b|a|2
+*: *|7
+p(: p(|16
+A: a|6
+/: /|6
+B: b|6
+wo: wo|1
+stehen: steht|1
+": "|26
+geben: gegeben|4	gibt|3	gegebene|3	gegebenen|1
+allgemein: allgemeine|5
+mögen: möchten|1
+wie: wie|4
+wahrscheinlich: wahrscheinlich|2
+es: es|7
+als: als|6
+also: also|2
+|: ||10
+sagen: sagt|12
+p: p|4
+P(: p(|2
+allg: allg|2
+': '|6
+blaul: blaul|1
+anhand: anhand|1
+Informatione: informationen|3
+bereits: bereits|5
+0,15: 0,15|1
+0,8: 0,8|1
+jetzt: jetzt|2
+noch: noch|2
+tun: tun|1
+bedingt: bedingte|1	bedingten|1
+berücksichtig: berücksichtigen|1
+-: -|6
+bluen: blue|3
+Zeugnis: zeugnis|8
+blue: blue|2
+=(: =(|1
+0.8: 0.8|3
+0.15: 0.15|4
+nun: nun|2
+Bay: bayes|1
+verwenden: verwenden|1
+says: says|1
+blu: blue|2
+da: da|6
+=1: =1|2
+blues: blues|1
+Taxa: taxa|1
+.85: .85|1
+benötigen: benötigen|2	benötigt|1
+Test: test|1
+ansehen: anzusehen|1
+wenn: wenn|1
+x: x|1
+G%: g%|1
+Zeit: zeit|1
+Zeuginne: zeuginne|1
+behaupten: behauptet|2
+Blautaxi: blautaxi|1
+=G*0.85+x*015: =g*0.85+x*015|1
+kein: keine|1
+weit: weiteren|1	weitere|2
+annehmen: annehmen|1
+,dass: ,dass|4
+genauso: genauso|1
+nämlich: nämlich|2
+-dass: -dass|1
+gegebess: gegebesses|1
+Auto: auto|3
+er|es|sie: sich|1
+bestimmt: bestimmten|1
+befinden: befindet|1
+Mangelinformation: mangelinformationen|1
+nicht: nicht|6
+zulassen,der: zulassen,das|1
+Verhalten: verhalten|1
+desbeobachen: desbeobachten|1
+Pickup: pickups|1
+was: was|1
+nutzen: nutzt|1
+bisher: bisher|1
+herausgefunden: herausgefunden|1
+fraglich: fragliche|1
+0.8*0.15: 0.8*0.15|1
+teilen: geteilt|1
+durch: durch|1
+Aussage: aussage|1
+leider: leider|3
+ich: ich|3
+Text: text|3	textes|1
+weiter: weiter|3
+vervollständigen: vervollständigen|3
+Abschnitt: abschnitt|3
+aus: aus|4
+mehr: mehr|3
+600: 600|3
+Wort: wörtern|3
+bestehen: besteht|3
+viel: vielen|1
+Dank: dank|1
+Ihr|ihr: ihre|1
+Geduld: geduld|1
+setzen: setzen|1
+Besserstellung: besserstellung|1
+fort: fort|1
+...: ...|1
+unter: unter|3
+Berücksichtigung: berücksichtigung|1
+Fall|Fällen: fällen|2
+fälschlicherweise: fälschlicherweise|1
+angeben: angibt|1
+fehlend: fehlende|1
+zusätzlich: zusätzliche|1
+Datum: daten|2
+Annahme: annahmen|3	annahme|1
+solch: solche|1	solchen|1
+Aufgabenstellung: aufgabenstellung|1
+gehen: gehen|1
+davon: davon|1
+gleich: gleiche|1
+50: 50|1
+umgekehrt: umgekehrt|1
+Berechnung: berechnung|1	berechnungen|1
+fortsetzen: fortsetzen|1
++: +|1
+0.5: 0.5|1
+0.85: 0.85|1
+ergeben: ergibt|1
+0.12: 0.12|1
+0.145: 0.145|1
+durchfahren|durchführen: durchführen|1
+erhalten: erhalten|1
+Ergebnis: ergebnis|1	ergebnissen|1
+≈: ≈|1
+82,76: 82,76|2
+bedeuten: bedeutet|1
+etwa: etwa|1
+betragen: beträgt|1
+,dies: ,dies|1
+,der: ,das|1
+verwickeln: verwickelt|1
+anstatt: anstatt|1
+green: green|1
+basierend: basierend|1
+auf: auf|3
+daher: daher|1
+betreffend: betreffende|1
+Fahrzeug: fahrzeug|1
+allerdings: allerdings|1
+sollen: sollten|2
+beachen: beachten|1
+verfügbar: verfügbaren|1
+basieren: basiert|1
+möglicherweise: möglicherweise|1
+Unsicherheit: unsicherheiten|1	unsicherheit|1
+fundiert: fundiertere|1	fundierte|1
+beispielsweise: beispielsweise|1
+Genauigkeit: genauigkeit|1
+Zeugenbericht: zeugenberichts|1
+ander: andere|1
+unabhängig: unabhängige|1
+Beweis: beweise|1
+Überwachungsvideo: überwachungsvideos|1
+Foto: fotos|1
+wichtig: wichtig|1
+Möglichkeit: möglichkeiten|1
+Betracht: betracht|1
+ziehen: ziehen|1
+nur: nur|1
+einzig: einzige|1
+vertrauen: vertrauen|1
+Anwendung: anwendung|1
+rational: rationaler|1
+Statistik: statistik|1
+helfen: hilft|1
+dabei: dabei|1
+Welt: welt|1

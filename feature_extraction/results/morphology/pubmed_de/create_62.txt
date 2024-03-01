@@ -1,0 +1,186 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 453
+Length of all lemmas: 369
+Length of singleton lemmas: 328
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 328
+psychosozial
+dict_values([6, 3, 5, 9])
+sum of wordFormDict.values() 23
+der
+dict_values([30, 13, 16, 13, 16, 27])
+sum of wordFormDict.values() 115
+kognitiv
+dict_values([5, 7])
+sum of wordFormDict.values() 12
+1
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([6, 4, 1])
+sum of wordFormDict.values() 11
+ein
+dict_values([12, 5, 5, 7, 1])
+sum of wordFormDict.values() 30
+auftreten
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+anhaltend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([11, 4, 5, 5])
+sum of wordFormDict.values() 25
+signifikant
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([10, 7, 1, 1])
+sum of wordFormDict.values() 19
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 6, 3, 2])
+sum of wordFormDict.values() 14
+potentiell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+standardisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+messen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+kausal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+subjektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganzheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychosozial
+dict_values([6, 3, 5, 9])
+sum of wordFormDict.values() 23
+der
+dict_values([30, 13, 16, 13, 16, 27])
+sum of wordFormDict.values() 115
+kognitiv
+dict_values([5, 7])
+sum of wordFormDict.values() 12
+1
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([6, 4, 1])
+sum of wordFormDict.values() 11
+ein
+dict_values([12, 5, 5, 7, 1])
+sum of wordFormDict.values() 30
+auftreten
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+anhaltend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([11, 4, 5, 5])
+sum of wordFormDict.values() 25
+signifikant
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([10, 7, 1, 1])
+sum of wordFormDict.values() 19
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 6, 3, 2])
+sum of wordFormDict.values() 14
+potentiell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+standardisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+messen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+kausal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+subjektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganzheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,126 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 407
+Length of all lemmas: 331
+Length of singleton lemmas: 303
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 303
+der
+dict_values([31, 6, 12, 22, 14, 7, 1])
+sum of wordFormDict.values() 93
+werden
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([2, 1, 3, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([11, 1, 3, 2, 1])
+sum of wordFormDict.values() 18
+effizient
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sinnvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+diagnostisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+gesetzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zentral
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([9, 3, 1])
+sum of wordFormDict.values() 13
+zusätzlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+nutzen
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([31, 6, 12, 22, 14, 7, 1])
+sum of wordFormDict.values() 93
+werden
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([2, 1, 3, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([11, 1, 3, 2, 1])
+sum of wordFormDict.values() 18
+effizient
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sinnvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+diagnostisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+gesetzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zentral
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([9, 3, 1])
+sum of wordFormDict.values() 13
+zusätzlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+nutzen
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2

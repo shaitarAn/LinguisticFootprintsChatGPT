@@ -1,0 +1,180 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 403
+Length of all lemmas: 319
+Length of singleton lemmas: 283
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 283
+ein
+dict_values([18, 5, 5, 2])
+sum of wordFormDict.values() 30
+konventionell
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([33, 22, 11, 5, 11, 10])
+sum of wordFormDict.values() 92
+dies
+dict_values([2, 2, 5])
+sum of wordFormDict.values() 9
+werden
+dict_values([5, 11])
+sum of wordFormDict.values() 16
+autolog
+dict_values([7, 4])
+sum of wordFormDict.values() 11
+rezidiviert
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+refraktär
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([11, 2, 2, 2, 1, 1])
+sum of wordFormDict.values() 19
+hochdosiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+intensiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ziehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([4, 1, 3])
+sum of wordFormDict.values() 8
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([18, 5, 5, 2])
+sum of wordFormDict.values() 30
+konventionell
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([33, 22, 11, 5, 11, 10])
+sum of wordFormDict.values() 92
+dies
+dict_values([2, 2, 5])
+sum of wordFormDict.values() 9
+werden
+dict_values([5, 11])
+sum of wordFormDict.values() 16
+autolog
+dict_values([7, 4])
+sum of wordFormDict.values() 11
+rezidiviert
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+refraktär
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([11, 2, 2, 2, 1, 1])
+sum of wordFormDict.values() 19
+hochdosiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+intensiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ziehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([4, 1, 3])
+sum of wordFormDict.values() 8
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2

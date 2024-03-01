@@ -1,0 +1,102 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 296
+Length of all lemmas: 245
+Length of singleton lemmas: 227
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 227
+der
+dict_values([32, 22, 7, 7, 2, 1])
+sum of wordFormDict.values() 71
+ein
+dict_values([9, 4, 1, 1, 1])
+sum of wordFormDict.values() 16
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+evidenzbasiert
+dict_values([4, 1, 1, 2])
+sum of wordFormDict.values() 8
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 2, 2, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([3, 2, 1, 1, 1])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+zahlreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+relevant
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+organisatorisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+transparent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([32, 22, 7, 7, 2, 1])
+sum of wordFormDict.values() 71
+ein
+dict_values([9, 4, 1, 1, 1])
+sum of wordFormDict.values() 16
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+evidenzbasiert
+dict_values([4, 1, 1, 2])
+sum of wordFormDict.values() 8
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 2, 2, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([3, 2, 1, 1, 1])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+zahlreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+relevant
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+organisatorisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+transparent
+dict_values([1, 1])
+sum of wordFormDict.values() 2

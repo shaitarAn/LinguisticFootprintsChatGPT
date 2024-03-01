@@ -1,0 +1,180 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 503
+Length of all lemmas: 404
+Length of singleton lemmas: 370
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 370
+nachhaltig
+dict_values([11, 5, 4, 2, 1])
+sum of wordFormDict.values() 23
+ihr
+dict_values([10, 2, 5, 1])
+sum of wordFormDict.values() 18
+langfristig
+dict_values([2, 5, 1, 2])
+sum of wordFormDict.values() 10
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([22, 9, 14, 8, 3, 3])
+sum of wordFormDict.values() 59
+sein
+dict_values([4, 2, 7, 1, 1, 1])
+sum of wordFormDict.values() 16
+stark
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+wachsen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1, 4])
+sum of wordFormDict.values() 6
+haben
+dict_values([9, 8, 1])
+sum of wordFormDict.values() 18
+ein
+dict_values([5, 9, 4, 2, 4, 1])
+sum of wordFormDict.values() 25
+können
+dict_values([1, 11, 1])
+sum of wordFormDict.values() 13
+zeigen
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+finanziell
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+führen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+erwarten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schätzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+transparent
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klar
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+setzen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+leisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erkennen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verstärken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([11, 5, 4, 2, 1])
+sum of wordFormDict.values() 23
+ihr
+dict_values([10, 2, 5, 1])
+sum of wordFormDict.values() 18
+langfristig
+dict_values([2, 5, 1, 2])
+sum of wordFormDict.values() 10
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([22, 9, 14, 8, 3, 3])
+sum of wordFormDict.values() 59
+sein
+dict_values([4, 2, 7, 1, 1, 1])
+sum of wordFormDict.values() 16
+stark
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+wachsen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1, 4])
+sum of wordFormDict.values() 6
+haben
+dict_values([9, 8, 1])
+sum of wordFormDict.values() 18
+ein
+dict_values([5, 9, 4, 2, 4, 1])
+sum of wordFormDict.values() 25
+können
+dict_values([1, 11, 1])
+sum of wordFormDict.values() 13
+zeigen
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+finanziell
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+führen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+erwarten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schätzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+transparent
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klar
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+setzen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+leisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erkennen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verstärken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2

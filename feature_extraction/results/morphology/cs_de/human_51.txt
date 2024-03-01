@@ -1,0 +1,126 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 270
+Length of all lemmas: 219
+Length of singleton lemmas: 195
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 195
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+arbeiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 3, 3, 1, 4, 1])
+sum of wordFormDict.values() 19
+der
+dict_values([1, 11, 5, 4, 7, 1, 1])
+sum of wordFormDict.values() 30
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([10, 2, 1, 1])
+sum of wordFormDict.values() 14
+viel
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+gut
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+müssen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ganz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+haben
+dict_values([4, 2, 1, 2])
+sum of wordFormDict.values() 9
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+arbeiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 3, 3, 1, 4, 1])
+sum of wordFormDict.values() 19
+der
+dict_values([1, 11, 5, 4, 7, 1, 1])
+sum of wordFormDict.values() 30
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([10, 2, 1, 1])
+sum of wordFormDict.values() 14
+viel
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+gut
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+müssen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ganz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+haben
+dict_values([4, 2, 1, 2])
+sum of wordFormDict.values() 9

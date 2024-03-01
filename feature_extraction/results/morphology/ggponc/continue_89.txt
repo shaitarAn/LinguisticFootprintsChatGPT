@@ -1,0 +1,204 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 486
+Length of all lemmas: 377
+Length of singleton lemmas: 329
+Length of matched lemmas: 33
+Length of singleton maching lemmas: 329
+der
+dict_values([32, 31, 19, 9, 13, 10, 1])
+sum of wordFormDict.values() 115
+sein
+dict_values([11, 3, 2, 1, 4])
+sum of wordFormDict.values() 21
+ein
+dict_values([10, 8, 5, 17, 6, 1])
+sum of wordFormDict.values() 47
+photosensitivierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifiziert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktivieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 1, 11])
+sum of wordFormDict.values() 18
+niedrig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+maximal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([9, 1, 1, 1])
+sum of wordFormDict.values() 12
+gering
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([5, 1, 1, 2, 2, 1])
+sum of wordFormDict.values() 12
+selektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+umgebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesund
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+radikal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wenig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+vielversprechend
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fokal
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erneut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+feststellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([32, 31, 19, 9, 13, 10, 1])
+sum of wordFormDict.values() 115
+sein
+dict_values([11, 3, 2, 1, 4])
+sum of wordFormDict.values() 21
+ein
+dict_values([10, 8, 5, 17, 6, 1])
+sum of wordFormDict.values() 47
+photosensitivierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifiziert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktivieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 1, 11])
+sum of wordFormDict.values() 18
+niedrig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+maximal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([9, 1, 1, 1])
+sum of wordFormDict.values() 12
+gering
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([5, 1, 1, 2, 2, 1])
+sum of wordFormDict.values() 12
+selektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+umgebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesund
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+radikal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wenig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+vielversprechend
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fokal
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erneut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+feststellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

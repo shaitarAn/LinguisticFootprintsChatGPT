@@ -1,0 +1,126 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 297
+Length of all lemmas: 232
+Length of singleton lemmas: 205
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 205
+werden
+dict_values([3, 6, 1, 1, 1])
+sum of wordFormDict.values() 12
+gut
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+der
+dict_values([9, 8, 13, 14, 8, 2])
+sum of wordFormDict.values() 54
+sein
+dict_values([3, 4, 4, 2, 1, 1, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([6, 1, 2, 2, 5, 4])
+sum of wordFormDict.values() 20
+schweizerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+persönlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bilateral
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+beide
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+ähnlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+politisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+haben
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+national
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 6, 1, 1, 1])
+sum of wordFormDict.values() 12
+gut
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+der
+dict_values([9, 8, 13, 14, 8, 2])
+sum of wordFormDict.values() 54
+sein
+dict_values([3, 4, 4, 2, 1, 1, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([6, 1, 2, 2, 5, 4])
+sum of wordFormDict.values() 20
+schweizerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+persönlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bilateral
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+beide
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+ähnlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+politisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+haben
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+national
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2

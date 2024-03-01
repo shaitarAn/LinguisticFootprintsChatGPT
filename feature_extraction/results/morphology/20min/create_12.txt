@@ -1,0 +1,162 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 407
+Length of all lemmas: 298
+Length of singleton lemmas: 263
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 263
+der
+dict_values([15, 23, 13, 9, 31, 8])
+sum of wordFormDict.values() 99
+ein
+dict_values([6, 3, 2, 4, 3])
+sum of wordFormDict.values() 18
+werden
+dict_values([5, 9, 2, 2])
+sum of wordFormDict.values() 18
+weit
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+schnell
+dict_values([2, 4, 4])
+sum of wordFormDict.values() 10
+können
+dict_values([4, 4, 4, 1])
+sum of wordFormDict.values() 13
+bringen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 11, 5, 2, 1])
+sum of wordFormDict.values() 21
+effizient
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+haben
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+unser
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+rasch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 4, 2, 1])
+sum of wordFormDict.values() 8
+erkennen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reagieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beträchtlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+sicher
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+genau
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+entstehen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+bedanken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([15, 23, 13, 9, 31, 8])
+sum of wordFormDict.values() 99
+ein
+dict_values([6, 3, 2, 4, 3])
+sum of wordFormDict.values() 18
+werden
+dict_values([5, 9, 2, 2])
+sum of wordFormDict.values() 18
+weit
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+schnell
+dict_values([2, 4, 4])
+sum of wordFormDict.values() 10
+können
+dict_values([4, 4, 4, 1])
+sum of wordFormDict.values() 13
+bringen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 11, 5, 2, 1])
+sum of wordFormDict.values() 21
+effizient
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+haben
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+unser
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+rasch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 4, 2, 1])
+sum of wordFormDict.values() 8
+erkennen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reagieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beträchtlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+sicher
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+genau
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+entstehen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+bedanken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3

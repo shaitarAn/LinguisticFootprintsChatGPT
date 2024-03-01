@@ -1,0 +1,138 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 359
+Length of all lemmas: 282
+Length of singleton lemmas: 255
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 255
+bakteriell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([18, 6, 4, 1])
+sum of wordFormDict.values() 29
+der
+dict_values([23, 16, 35, 6, 3, 7, 1])
+sum of wordFormDict.values() 91
+öffentlich
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+antibiotikaresistent
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 9, 1, 1])
+sum of wordFormDict.values() 13
+sein
+dict_values([8, 3, 3])
+sum of wordFormDict.values() 14
+dies
+dict_values([3, 6, 7, 3])
+sum of wordFormDict.values() 19
+resistent
+dict_values([1, 5, 1])
+sum of wordFormDict.values() 7
+möglich
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([2, 11, 5, 2])
+sum of wordFormDict.values() 20
+spielen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ergreifen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+entscheidend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bakteriell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([18, 6, 4, 1])
+sum of wordFormDict.values() 29
+der
+dict_values([23, 16, 35, 6, 3, 7, 1])
+sum of wordFormDict.values() 91
+öffentlich
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+antibiotikaresistent
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 9, 1, 1])
+sum of wordFormDict.values() 13
+sein
+dict_values([8, 3, 3])
+sum of wordFormDict.values() 14
+dies
+dict_values([3, 6, 7, 3])
+sum of wordFormDict.values() 19
+resistent
+dict_values([1, 5, 1])
+sum of wordFormDict.values() 7
+möglich
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([2, 11, 5, 2])
+sum of wordFormDict.values() 20
+spielen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ergreifen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+entscheidend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

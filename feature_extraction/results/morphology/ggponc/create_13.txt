@@ -1,0 +1,90 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 327
+Length of all lemmas: 261
+Length of singleton lemmas: 234
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 234
+sein
+dict_values([2, 2, 1, 2, 1])
+sum of wordFormDict.values() 8
+der
+dict_values([13, 9, 24, 4, 14, 8])
+sum of wordFormDict.values() 72
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([4, 2, 11, 2, 1])
+sum of wordFormDict.values() 20
+werden
+dict_values([11, 5])
+sum of wordFormDict.values() 16
+diagnostisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+unterziehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+durchführen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verdächtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+histopathologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zellbasiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mikroskopisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2, 1, 2, 1])
+sum of wordFormDict.values() 8
+der
+dict_values([13, 9, 24, 4, 14, 8])
+sum of wordFormDict.values() 72
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([4, 2, 11, 2, 1])
+sum of wordFormDict.values() 20
+werden
+dict_values([11, 5])
+sum of wordFormDict.values() 16
+diagnostisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+unterziehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+durchführen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verdächtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+histopathologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zellbasiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mikroskopisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

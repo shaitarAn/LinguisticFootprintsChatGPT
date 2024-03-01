@@ -1,0 +1,96 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 408
+Length of all lemmas: 343
+Length of singleton lemmas: 319
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 319
+der
+dict_values([31, 27, 4, 2, 1, 1, 1])
+sum of wordFormDict.values() 67
+ein
+dict_values([27, 5, 3, 9, 1, 1])
+sum of wordFormDict.values() 46
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([9, 2, 3, 1, 1])
+sum of wordFormDict.values() 16
+psychisch
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+durchschnittlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+differenzialdiagnostisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+depressiv
+dict_values([8, 6])
+sum of wordFormDict.values() 14
+dies
+dict_values([2, 1, 2, 1])
+sum of wordFormDict.values() 6
+stark
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erfüllen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+zeitlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+niedergeschlagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([31, 27, 4, 2, 1, 1, 1])
+sum of wordFormDict.values() 67
+ein
+dict_values([27, 5, 3, 9, 1, 1])
+sum of wordFormDict.values() 46
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([9, 2, 3, 1, 1])
+sum of wordFormDict.values() 16
+psychisch
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+durchschnittlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+differenzialdiagnostisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+depressiv
+dict_values([8, 6])
+sum of wordFormDict.values() 14
+dies
+dict_values([2, 1, 2, 1])
+sum of wordFormDict.values() 6
+stark
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erfüllen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+zeitlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+niedergeschlagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

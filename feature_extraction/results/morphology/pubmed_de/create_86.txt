@@ -1,0 +1,132 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 353
+Length of all lemmas: 271
+Length of singleton lemmas: 241
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 241
+der
+dict_values([24, 5, 13, 29, 5, 10])
+sum of wordFormDict.values() 86
+medizinisch
+dict_values([3, 1, 2, 4])
+sum of wordFormDict.values() 10
+ein
+dict_values([8, 7, 8, 4, 2, 2])
+sum of wordFormDict.values() 31
+geplant
+dict_values([7, 5])
+sum of wordFormDict.values() 12
+ihr
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+solch
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([6, 2, 2])
+sum of wordFormDict.values() 10
+erforderlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1, 6, 3, 1])
+sum of wordFormDict.values() 13
+systematisch
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+etablieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([10, 6, 1])
+sum of wordFormDict.values() 17
+können
+dict_values([1, 5, 2])
+sum of wordFormDict.values() 8
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erkennen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+minimieren
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bewährt
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([24, 5, 13, 29, 5, 10])
+sum of wordFormDict.values() 86
+medizinisch
+dict_values([3, 1, 2, 4])
+sum of wordFormDict.values() 10
+ein
+dict_values([8, 7, 8, 4, 2, 2])
+sum of wordFormDict.values() 31
+geplant
+dict_values([7, 5])
+sum of wordFormDict.values() 12
+ihr
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+solch
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([6, 2, 2])
+sum of wordFormDict.values() 10
+erforderlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1, 6, 3, 1])
+sum of wordFormDict.values() 13
+systematisch
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+etablieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([10, 6, 1])
+sum of wordFormDict.values() 17
+können
+dict_values([1, 5, 2])
+sum of wordFormDict.values() 8
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erkennen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+minimieren
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bewährt
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2

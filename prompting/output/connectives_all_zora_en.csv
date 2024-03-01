@@ -1,0 +1,34 @@
+connective,human_upper,human_total,continue_upper,continue_total,explain_upper,explain_total,create_upper,create_total
+if,2,4,0,2,0,1,1,1
+by contrast,0,1,0,0,0,0,0,0
+nevertheless,1,2,0,0,0,0,0,0
+since,4,7,0,0,0,3,0,0
+indeed,1,1,0,2,0,0,0,0
+nonetheless,1,1,0,0,0,0,0,0
+thus,1,8,0,0,0,1,0,1
+because,0,3,0,0,0,2,0,0
+on the other hand,0,0,2,2,1,1,0,0
+when,3,20,1,17,0,12,0,9
+previously,0,1,0,1,0,2,0,2
+then,0,3,0,1,0,4,0,1
+still,1,6,0,2,0,3,0,0
+moreover,3,3,4,4,2,2,6,6
+in fact,0,2,0,0,0,0,0,0
+while,2,6,7,15,2,15,8,29
+later,0,6,0,2,0,2,0,0
+but,0,16,0,9,0,15,0,8
+for instance,5,7,4,5,2,2,0,0
+in turn,0,0,0,0,0,0,0,1
+before,0,1,0,1,1,2,0,1
+after,1,3,0,0,1,2,0,0
+instead,0,1,2,2,1,2,0,0
+as,4,89,4,78,1,77,2,67
+also,0,20,0,17,0,27,0,12
+finally,1,1,1,1,1,2,4,5
+though,0,1,0,0,0,0,0,0
+although,1,5,0,0,0,1,0,0
+however,9,11,14,14,14,14,9,9
+in addition,1,2,1,1,0,0,1,1
+separately,0,0,0,0,0,1,0,0
+for example,6,7,4,4,3,3,0,0
+therefore,2,6,0,0,1,1,3,3

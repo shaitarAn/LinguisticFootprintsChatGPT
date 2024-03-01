@@ -1,0 +1,162 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 359
+Length of all lemmas: 289
+Length of singleton lemmas: 254
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 254
+der
+dict_values([33, 29, 9, 3, 8, 4])
+sum of wordFormDict.values() 86
+verschieden
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([8, 1])
+sum of wordFormDict.values() 9
+betonen
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([9, 4, 2, 2, 2])
+sum of wordFormDict.values() 19
+konservativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+er
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+gut
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schätzen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+schweizerisch
+dict_values([1, 1, 4])
+sum of wordFormDict.values() 6
+neu
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+fühlen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+motiviert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+arbeiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+respektvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([33, 29, 9, 3, 8, 4])
+sum of wordFormDict.values() 86
+verschieden
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([8, 1])
+sum of wordFormDict.values() 9
+betonen
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([9, 4, 2, 2, 2])
+sum of wordFormDict.values() 19
+konservativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+er
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+gut
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schätzen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+schweizerisch
+dict_values([1, 1, 4])
+sum of wordFormDict.values() 6
+neu
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+fühlen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+motiviert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+arbeiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+respektvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

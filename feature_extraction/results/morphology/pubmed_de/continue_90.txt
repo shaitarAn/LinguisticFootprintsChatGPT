@@ -1,0 +1,126 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 342
+Length of all lemmas: 270
+Length of singleton lemmas: 245
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 245
+sein
+dict_values([14, 2])
+sum of wordFormDict.values() 16
+ein
+dict_values([6, 6, 5, 1, 4])
+sum of wordFormDict.values() 22
+der
+dict_values([10, 31, 26, 11, 9, 2])
+sum of wordFormDict.values() 89
+dies
+dict_values([5, 2, 1, 1])
+sum of wordFormDict.values() 9
+können
+dict_values([11, 7])
+sum of wordFormDict.values() 18
+auswirken
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kategorial
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([7, 8])
+sum of wordFormDict.values() 15
+spezifisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+erfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ökonomisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+psychometrisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verhaltenstherapeutisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+orientieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eindeutig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+auslösen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([14, 2])
+sum of wordFormDict.values() 16
+ein
+dict_values([6, 6, 5, 1, 4])
+sum of wordFormDict.values() 22
+der
+dict_values([10, 31, 26, 11, 9, 2])
+sum of wordFormDict.values() 89
+dies
+dict_values([5, 2, 1, 1])
+sum of wordFormDict.values() 9
+können
+dict_values([11, 7])
+sum of wordFormDict.values() 18
+auswirken
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kategorial
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([7, 8])
+sum of wordFormDict.values() 15
+spezifisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+erfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ökonomisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+psychometrisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verhaltenstherapeutisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+orientieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eindeutig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+auslösen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2

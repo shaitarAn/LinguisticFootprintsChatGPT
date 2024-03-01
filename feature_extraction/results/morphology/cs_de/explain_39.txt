@@ -1,0 +1,150 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 351
+Length of all lemmas: 251
+Length of singleton lemmas: 216
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 216
+der
+dict_values([29, 11, 19, 11, 7, 4])
+sum of wordFormDict.values() 81
+ein
+dict_values([8, 2, 1, 4, 2])
+sum of wordFormDict.values() 17
+werden
+dict_values([9, 1, 3, 2])
+sum of wordFormDict.values() 15
+sein
+dict_values([1, 6, 1, 2, 2, 1])
+sum of wordFormDict.values() 13
+demokratisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+sehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+lokal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+einige
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unaufhaltsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+streben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+russisch
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+investieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weltweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 1, 2])
+sum of wordFormDict.values() 7
+mögen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+warmherzig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+industriell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+menschlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([29, 11, 19, 11, 7, 4])
+sum of wordFormDict.values() 81
+ein
+dict_values([8, 2, 1, 4, 2])
+sum of wordFormDict.values() 17
+werden
+dict_values([9, 1, 3, 2])
+sum of wordFormDict.values() 15
+sein
+dict_values([1, 6, 1, 2, 2, 1])
+sum of wordFormDict.values() 13
+demokratisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+sehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+lokal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+einige
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unaufhaltsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+streben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+russisch
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+investieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weltweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 1, 2])
+sum of wordFormDict.values() 7
+mögen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+warmherzig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+industriell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+menschlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

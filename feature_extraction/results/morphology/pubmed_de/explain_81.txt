@@ -1,0 +1,192 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 449
+Length of all lemmas: 347
+Length of singleton lemmas: 306
+Length of matched lemmas: 31
+Length of singleton maching lemmas: 306
+dies
+dict_values([1, 3, 6, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([7, 4, 3, 9])
+sum of wordFormDict.values() 23
+der
+dict_values([41, 6, 41, 5, 12, 4, 1])
+sum of wordFormDict.values() 110
+sein
+dict_values([8, 1, 1])
+sum of wordFormDict.values() 10
+evidenzbasiert
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([6, 6, 1])
+sum of wordFormDict.values() 13
+ein
+dict_values([10, 3, 3, 5, 2])
+sum of wordFormDict.values() 23
+neu
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+entwickeln
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+treffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+standardisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+eng
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unabhängig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verfügbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+basierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+transparent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 3, 6, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([7, 4, 3, 9])
+sum of wordFormDict.values() 23
+der
+dict_values([41, 6, 41, 5, 12, 4, 1])
+sum of wordFormDict.values() 110
+sein
+dict_values([8, 1, 1])
+sum of wordFormDict.values() 10
+evidenzbasiert
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([6, 6, 1])
+sum of wordFormDict.values() 13
+ein
+dict_values([10, 3, 3, 5, 2])
+sum of wordFormDict.values() 23
+neu
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+entwickeln
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+treffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+standardisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+eng
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unabhängig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verfügbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+basierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+transparent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -24,7 +24,7 @@ def main():
     parser.add_argument('-f', '--files', required=True,
                         help='the files to read (min 1).', nargs='+')
     parser.add_argument('-o', '--outfile', type=str, required=True, help='The name of the output CSV file')
-    parser.add_argument('-sys', '--system', type=str, required=True, help='The name of the system')
+    # parser.add_argument('-sys', '--system', type=str, required=True, help='The name of the system')
 
     args = parser.parse_args()
 

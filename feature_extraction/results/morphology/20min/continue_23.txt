@@ -1,0 +1,186 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 397
+Length of all lemmas: 294
+Length of singleton lemmas: 252
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 252
+der
+dict_values([43, 12, 12, 34, 9, 5])
+sum of wordFormDict.values() 115
+neu
+dict_values([9, 3, 1])
+sum of wordFormDict.values() 13
+hoch
+dict_values([2, 1, 1, 1, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([2, 4, 5, 1, 1, 1, 1])
+sum of wordFormDict.values() 15
+ein
+dict_values([13, 4, 3, 2])
+sum of wordFormDict.values() 22
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einheimisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+argumentieren
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+heimisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 5, 1, 5, 4, 3, 1])
+sum of wordFormDict.values() 22
+betonen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 4, 1, 1, 3])
+sum of wordFormDict.values() 11
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+schweizerisch
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+eingehend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einsatzbereit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([43, 12, 12, 34, 9, 5])
+sum of wordFormDict.values() 115
+neu
+dict_values([9, 3, 1])
+sum of wordFormDict.values() 13
+hoch
+dict_values([2, 1, 1, 1, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([2, 4, 5, 1, 1, 1, 1])
+sum of wordFormDict.values() 15
+ein
+dict_values([13, 4, 3, 2])
+sum of wordFormDict.values() 22
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einheimisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+argumentieren
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+heimisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 5, 1, 5, 4, 3, 1])
+sum of wordFormDict.values() 22
+betonen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 4, 1, 1, 3])
+sum of wordFormDict.values() 11
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+schweizerisch
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+eingehend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einsatzbereit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

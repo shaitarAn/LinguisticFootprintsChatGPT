@@ -1,0 +1,210 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 360
+Length of all lemmas: 275
+Length of singleton lemmas: 234
+Length of matched lemmas: 34
+Length of singleton maching lemmas: 234
+ein
+dict_values([8, 1, 6, 3, 2])
+sum of wordFormDict.values() 20
+wichtig
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([48, 4, 36, 10, 6, 7, 1])
+sum of wordFormDict.values() 112
+wirksam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 7, 3])
+sum of wordFormDict.values() 12
+umsetzen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([8, 2])
+sum of wordFormDict.values() 10
+evidenzbasiert
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+planen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ergänzen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+systematisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+enthalten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([15, 6])
+sum of wordFormDict.values() 21
+darstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+relevant
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+sicherstellen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+bieten
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+strukturiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+weit
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stehen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+wertvoll
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kontinuierlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+vorhanden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erleichtern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geplant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([8, 1, 6, 3, 2])
+sum of wordFormDict.values() 20
+wichtig
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([48, 4, 36, 10, 6, 7, 1])
+sum of wordFormDict.values() 112
+wirksam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 7, 3])
+sum of wordFormDict.values() 12
+umsetzen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([8, 2])
+sum of wordFormDict.values() 10
+evidenzbasiert
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+planen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ergänzen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+systematisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+enthalten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([15, 6])
+sum of wordFormDict.values() 21
+darstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+relevant
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+sicherstellen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+bieten
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+strukturiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+weit
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stehen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+wertvoll
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kontinuierlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+vorhanden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erleichtern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geplant
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,114 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 296
+Length of all lemmas: 245
+Length of singleton lemmas: 223
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 223
+der
+dict_values([8, 4, 21, 1, 1, 4, 1, 1])
+sum of wordFormDict.values() 41
+gemeinsam
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 1, 2, 2])
+sum of wordFormDict.values() 9
+werden
+dict_values([2, 7])
+sum of wordFormDict.values() 9
+unterschiedlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+vertreten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Partizipative
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+partizipativ
+dict_values([4, 2, 2, 1])
+sum of wordFormDict.values() 9
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fördern
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+der
+dict_values([8, 4, 21, 1, 1, 4, 1, 1])
+sum of wordFormDict.values() 41
+gemeinsam
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 1, 2, 2])
+sum of wordFormDict.values() 9
+werden
+dict_values([2, 7])
+sum of wordFormDict.values() 9
+unterschiedlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+vertreten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Partizipative
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+partizipativ
+dict_values([4, 2, 2, 1])
+sum of wordFormDict.values() 9
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fördern
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 4])
+sum of wordFormDict.values() 6

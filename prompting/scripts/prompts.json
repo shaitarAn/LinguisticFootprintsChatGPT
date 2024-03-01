@@ -21,11 +21,11 @@
         },
         {
           "role": "user",
-          "content": "Please explain this clinical case to me: {intext}. Write about 600 words."
+          "content": "Explain this clinical case to me: {intext} Write about 600 words."
         },
         {
           "role": "user",
-          "content": "Please continue explaining this clinical case."
+          "content": "Continue explaining this clinical case."
         }
       ],
       "create": [
@@ -35,11 +35,11 @@
         },
         {
           "role": "user",
-          "content": "Use this truncated clinical case as an example: {intext}. Imagine a different patient with some similar symptoms mentioned in the case. Write a full clinical case about this imaginary patient matching the writing style of the example text. Write about 600 words."
+          "content": "Use this truncated clinical case as an example: {intext} Imagine a different patient with some similar symptoms mentioned in the case. Write a full clinical case about this imaginary patient matching the writing style of the example text. Write about 600 words."
         },
         {
           "role": "user",
-          "content": "Please continue creating this imaginary clinical case, matching the writing style of previous text."
+          "content": "Continue creating this imaginary clinical case, matching the writing style of previous text."
         }
       ]
     },
@@ -65,11 +65,11 @@
         },
         {
           "role": "user",
-          "content": "Please explain this news article to me: {intext}. Write about 600 words."
+          "content": "Explain this news article to me: {intext} Write about 600 words."
         },
         {
           "role": "user",
-          "content": "Please continue explaining this news article."
+          "content": "Continue explaining this news article."
         }
       ],
       "create": [
@@ -79,11 +79,11 @@
         },
         {
           "role": "user",
-          "content": "Use this truncated CNN article as an example: {intext}. Imagine a different newsworthy event that happened in the location mentioned in the article. Write a full news article about this imaginary event matching the writing style of the example text. Write about 600 words."
+          "content": "Use this truncated CNN article as an example: {intext} Imagine a different newsworthy event that happened in the location mentioned in the article. Write a full news article about this imaginary event matching the writing style of the example text. Write about 600 words."
         },
         {
           "role": "user",
-          "content": "Please continue creating this imaginary news piece, matching the writing style of previous text."
+          "content": "Continue creating this imaginary news piece, matching the writing style of previous text."
         }
       ]
     },
@@ -95,7 +95,7 @@
         },
         {
           "role": "user",
-          "content": "Vervollständige den folgenden text mit etwa 600 Wörter.: {intext}"
+          "content": "Vervollständige den folgenden text mit etwa 600 Wörter: {intext}"
         },
         {
           "role": "user",
@@ -109,11 +109,11 @@
         },
         {
           "role": "user",
-          "content": "Bitte erklären Sie mir diesen Text aus den Leitlinien: {intext}. Schreiben Sie etwa 600 Wörter."
+          "content": "Erklären Sie mir diesen Text aus den Leitlinien: {intext} Schreiben Sie etwa 600 Wörter."
         },
         {
           "role": "user",
-          "content": "Bitte fahren Sie fort, diesen Text aus den Leitlinien zu erklären."
+          "content": "Fahren Sie fort, diesen Text aus den Leitlinien zu erklären."
         }
       ],
       "create": [
@@ -123,11 +123,11 @@
         },
         {
           "role": "user",
-          "content": "Bitte erstellen Sie einen fiktiven klinischen Fall auf der Grundlage des Textes aus dem deutschen Leitlinienprogramm für die Onkologie: {intext}. Schreiben Sie etwa 600 Wörter."
+          "content": "Erstellen Sie einen fiktiven klinischen Fall auf der Grundlage des Textes aus dem deutschen Leitlinienprogramm für die Onkologie: {intext} Schreiben Sie etwa 600 Wörter."
         },
         {
           "role": "user",
-          "content": "Bitte fahren Sie fort, diesen fiktiven klinischen Fall weiter zu schreiben, und passen Sie dabei Ihren Schreibstil an den des vorherigen Textes an."
+          "content": "Fahren Sie fort, diesen fiktiven klinischen Fall weiter zu schreiben, und passen Sie dabei Ihren Schreibstil an den des vorherigen Textes an."
         }
       ]
     },
@@ -153,11 +153,11 @@
         },
         {
           "role": "user",
-          "content": "Please explain the introduction for this PubMed article to me: {intext}. Write about 600 words."
+          "content": "Explain the introduction for this PubMed article to me: {intext} Write about 600 words."
         },
         {
           "role": "user",
-          "content": "Please continue explaining this PubMed article."
+          "content": "Continue explaining this PubMed article."
         }
       ],
       "create": [
@@ -167,11 +167,11 @@
         },
         {
           "role": "user",
-          "content": "Use this truncated academic PubMed article containing the title and the abstract as an example: {intext}. Imagine a different research question concerning the same issue mentioned in the article. Write a full introduction section for an academic paper dedicated to this imaginary research question matching the writing style of the example text. Write about 600 words."
+          "content": "Use this truncated academic PubMed article containing the title and the abstract as an example: {intext} Imagine a different research question concerning the same issue mentioned in the article. Write a full introduction section for an academic paper dedicated to this imaginary research question matching the writing style of the example text. Write about 600 words."
         },
         {
           "role": "user",
-          "content": "Please continue writing this imaginary introduction section, matching the writing style of previous text."
+          "content": "Continue writing this imaginary introduction section, matching the writing style of previous text."
         }
       ]
     },
@@ -197,11 +197,11 @@
         },
         {
           "role": "user",
-          "content": "Bitte erklären Sie mir die Einleitung für diesen PubMed-Artikel: {intext}. Schreiben Sie etwa 600 Wörter."
+          "content": "Erklären Sie mir die Einleitung für diesen PubMed-Artikel: {intext} Schreiben Sie etwa 600 Wörter."
         },
         {
           "role": "user",
-          "content": "Bitte fahren Sie fort, diesen PubMed-Artikel zu erklären."
+          "content": "Fahren Sie fort, diesen PubMed-Artikel zu erklären."
         }
       ],
       "create": [
@@ -211,11 +211,11 @@
         },
         {
           "role": "user",
-          "content": "Verwenden Sie diesen gekürzten akademischen PubMed-Artikel, der den Titel und die Zusammenfassung enthält, als Beispiel: {intext}. Stellen Sie sich eine andere Forschungsfrage vor, die dasselbe Problem betrifft, das in dem Artikel erwähnt wird. Schreiben Sie eine vollständige Einleitung für ein wissenschaftliches Paper, das dieser imaginären Forschungsfrage gewidmet ist und dem Schreibstil des Beispieltextes entspricht. Schreiben Sie etwa 600 Wörter."
+          "content": "Verwenden Sie diesen gekürzten akademischen PubMed-Artikel, der den Titel und die Zusammenfassung enthält, als Beispiel: {intext} Stellen Sie sich eine andere Forschungsfrage vor, die dasselbe Problem betrifft, das in dem Artikel erwähnt wird. Schreiben Sie eine vollständige Einleitung für ein wissenschaftliches Paper, das dieser imaginären Forschungsfrage gewidmet ist und dem Schreibstil des Beispieltextes entspricht. Schreiben Sie etwa 600 Wörter."
         },
         {
           "role": "user",
-          "content": "Bitte fahren Sie fort, den Einleitungsteil weiter zu schreiben, und passen Sie dabei Ihren Schreibstil an den des vorherigen Textes an."
+          "content": "Fahren Sie fort, den Einleitungsteil weiter zu schreiben, und passen Sie dabei Ihren Schreibstil an den des vorherigen Textes an."
         }
       ]
     },
@@ -241,11 +241,11 @@
         },
         {
           "role": "user",
-          "content": "Bitte erklären Sie mir diesen Nachrichtenartikel: {intext}. Schreiben Sie etwa 600 Wörter."
+          "content": "Erklären Sie mir diesen Nachrichtenartikel: {intext} Schreiben Sie etwa 600 Wörter."
         },
         {
           "role": "user",
-          "content": "Bitte fahren Sie fort, diesen Nachrichtenartikel zu erklären."
+          "content": "Fahren Sie fort, diesen Nachrichtenartikel zu erklären."
         }
       ],
       "create": [
@@ -255,11 +255,11 @@
         },
         {
           "role": "user",
-          "content": "Verwenden Sie diesen gekürzten 20-Minuten-Artikel als Beispiel: {intext}. Stellen Sie sich ein anderes berichtenswertes Ereignis vor, das sich an dem im Artikel genannten Ort ereignet hat. Schreiben Sie einen vollständigen Nachrichtenartikel über dieses imaginäre Ereignis, der dem Schreibstil des Beispieltextes entspricht. Schreiben Sie etwa 600 Wörter."
+          "content": "Verwenden Sie diesen gekürzten 20-Minuten-Artikel als Beispiel: {intext} Stellen Sie sich ein anderes berichtenswertes Ereignis vor, das sich an dem im Artikel genannten Ort ereignet hat. Schreiben Sie einen vollständigen Nachrichtenartikel über dieses imaginäre Ereignis, der dem Schreibstil des Beispieltextes entspricht. Schreiben Sie etwa 600 Wörter."
         },
         {
           "role": "user",
-          "content": "Bitte fahren Sie fort, den imaginären Nachrichtenartikel weiter zu schreiben, und passen Sie dabei Ihren Schreibstil an den des vorherigen Textes an."
+          "content": "Fahren Sie fort, den imaginären Nachrichtenartikel weiter zu schreiben, und passen Sie dabei Ihren Schreibstil an den des vorherigen Textes an."
         }
       ]
     },
@@ -285,11 +285,11 @@
         },
         {
           "role": "user",
-          "content": "Please explain the introduction for this Zora article to me: {intext}. Write about 600 words."
+          "content": "Explain the introduction for this Zora article to me: {intext} Write about 600 words."
         },
         {
           "role": "user",
-          "content": "Please continue explaining this Zora article."
+          "content": "Continue explaining this Zora article."
         }
       ],
       "create": [
@@ -299,11 +299,11 @@
         },
         {
           "role": "user",
-          "content": "Use this truncated academic Zora article containing the title and the abstract as an example: {intext}. Imagine a different research question concerning the same issue mentioned in the article. Write a full introduction section for an academic paper dedicated to this imaginary research question matching the writing style of the example text. Write about 600 words."
+          "content": "Use this truncated academic Zora article containing the title and the abstract as an example: {intext} Imagine a different research question concerning the same issue mentioned in the article. Write a full introduction section for an academic paper dedicated to this imaginary research question matching the writing style of the example text. Write about 600 words."
         },
         {
           "role": "user",
-          "content": "Please continue writing this introduction section, matching the writing style of previous text."
+          "content": "Continue writing this introduction section, matching the writing style of previous text."
         }
       ]
     },
@@ -329,11 +329,11 @@
         },
         {
           "role": "user",
-          "content": "Bitte erklären Sie mir die Einleitung für diesen Zora-Artikel: {intext}. Schreiben Sie etwa 600 Wörter."
+          "content": "Erklären Sie mir die Einleitung für diesen Zora-Artikel: {intext} Schreiben Sie etwa 600 Wörter."
         },
         {
           "role": "user",
-          "content": "Bitte fahren Sie fort, diesen Zora-Artikel zu erklären."
+          "content": "Fahren Sie fort, diesen Zora-Artikel zu erklären."
         }
       ],
       "create": [
@@ -343,11 +343,11 @@
         },
         {
           "role": "user",
-          "content": "Verwenden Sie diesen gekürzten akademischen Zora-Artikel, der den Titel und die Zusammenfassung enthält, als Beispiel: {intext}. Stellen Sie sich eine andere Forschungsfrage vor, die dasselbe Problem betrifft, das in dem Artikel erwähnt wird. Schreiben Sie eine vollständige Einleitung für ein wissenschaftliches Paper, das dieser imaginären Forschungsfrage gewidmet ist und dem Schreibstil des Beispieltextes entspricht. Schreiben Sie etwa 600 Wörter."
+          "content": "Verwenden Sie diesen gekürzten akademischen Zora-Artikel, der den Titel und die Zusammenfassung enthält, als Beispiel: {intext} Stellen Sie sich eine andere Forschungsfrage vor, die dasselbe Problem betrifft, das in dem Artikel erwähnt wird. Schreiben Sie eine vollständige Einleitung für ein wissenschaftliches Paper, das dieser imaginären Forschungsfrage gewidmet ist und dem Schreibstil des Beispieltextes entspricht. Schreiben Sie etwa 600 Wörter."
         },
         {
           "role": "user",
-          "content": "Bitte fahren Sie fort, den Einleitungsteil weiter zu schreiben, und passen Sie dabei Ihren Schreibstil an den des vorherigen Textes an."
+          "content": "Fahren Sie fort, den Einleitungsteil weiter zu schreiben, und passen Sie dabei Ihren Schreibstil an den des vorherigen Textes an."
         }
       ]
     },
@@ -373,11 +373,11 @@
         },
         {
           "role": "user",
-          "content": "Please explain this news article to me: {intext}. Write about 600 words."
+          "content": "Explain this news article to me: {intext} Write about 600 words."
         },
         {
           "role": "user",
-          "content": "Please continue explaining this news article."
+          "content": "Continue explaining this news article."
         }
       ],
       "create": [
@@ -387,11 +387,11 @@
         },
         {
           "role": "user",
-          "content": "Use this truncated Credit Suisse Bulletin article as an example: {intext}. Imagine a different newsworthy piece about the topic mentioned in the example article and that could be interesting for the readers of the Credit Suisse Bulletin. Write a full news article about this imaginary piece of news matching the writing style of the example text. Write about 600 words."
+          "content": "Use this truncated Credit Suisse Bulletin article as an example: {intext} Imagine a different newsworthy piece about the topic mentioned in the example article and that could be interesting for the readers of the Credit Suisse Bulletin. Write a full news article about this imaginary piece of news matching the writing style of the example text. Write about 600 words."
         },
         {
           "role": "user",
-          "content": "Please continue creating this imaginary news piece, matching the writing style of previous text."
+          "content": "Continue creating this imaginary news piece, matching the writing style of previous text."
         }
       ]
     },
@@ -417,11 +417,11 @@
         },
         {
           "role": "user",
-          "content": "Bitte erklären Sie mir diesen Nachrichtenartikel: {intext}. Schreiben Sie etwa 600 Wörter."
+          "content": "Erklären Sie mir diesen Nachrichtenartikel: {intext} Schreiben Sie etwa 600 Wörter."
         },
         {
           "role": "user",
-          "content": "Bitte fahren Sie fort, diesen Nachrichtenartikel zu erklären."
+          "content": "Fahren Sie fort, diesen Nachrichtenartikel zu erklären."
         }
       ],
       "create": [
@@ -431,11 +431,11 @@
         },
         {
           "role": "user",
-          "content": "Verwenden Sie diesen gekürzten Artikel des Credit Suisse Bulletin als Beispiel: {intext}. Stellen Sie sich einen anderen Artikel vor, der das im Beispielartikel erwähnte Thema behandelt und für die Leserinnen und Leser des Credit Suisse Bulletin interessant sein könnte. Schreiben Sie einen vollständigen Nachrichtenartikel über diese imaginäre Nachricht, der dem Schreibstil des Beispieltextes entspricht. Schreiben Sie etwa 600 Wörter."
+          "content": "Verwenden Sie diesen gekürzten Artikel des Credit Suisse Bulletin als Beispiel: {intext} Stellen Sie sich einen anderen Artikel vor, der das im Beispielartikel erwähnte Thema behandelt und für die Leserinnen und Leser des Credit Suisse Bulletin interessant sein könnte. Schreiben Sie einen vollständigen Nachrichtenartikel über diese imaginäre Nachricht, der dem Schreibstil des Beispieltextes entspricht. Schreiben Sie etwa 600 Wörter."
         },
         {
           "role": "user",
-          "content": "Bitte fahren Sie fort, den imaginären Nachrichtenartikel weiter zu schreiben, und passen Sie dabei Ihren Schreibstil an den des vorherigen Textes an."
+          "content": "Fahren Sie fort, den imaginären Nachrichtenartikel weiter zu schreiben, und passen Sie dabei Ihren Schreibstil an den des vorherigen Textes an."
         }
       ]
     }

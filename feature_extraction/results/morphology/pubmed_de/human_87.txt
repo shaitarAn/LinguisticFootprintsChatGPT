@@ -1,0 +1,96 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 264
+Length of all lemmas: 229
+Length of singleton lemmas: 209
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 209
+der
+dict_values([5, 3, 20, 9, 12, 2, 2])
+sum of wordFormDict.values() 53
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+international
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+psychisch
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+stehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+somatisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+populationsbasiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+ihr
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+befassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+gesamt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+methodisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([5, 3, 20, 9, 12, 2, 2])
+sum of wordFormDict.values() 53
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+international
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+psychisch
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+stehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+somatisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+populationsbasiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+ihr
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+befassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+gesamt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+methodisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

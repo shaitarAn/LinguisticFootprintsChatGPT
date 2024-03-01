@@ -1,0 +1,186 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 407
+Length of all lemmas: 318
+Length of singleton lemmas: 276
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 276
+der
+dict_values([42, 9, 14, 13, 13, 28, 1, 1])
+sum of wordFormDict.values() 121
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 5, 2])
+sum of wordFormDict.values() 13
+haben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gesetzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([5, 3, 2])
+sum of wordFormDict.values() 10
+ein
+dict_values([4, 6, 6, 1])
+sum of wordFormDict.values() 17
+erhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+organisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verständlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betonen
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+individuell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+informiert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+qualitativ
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+hochwertig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([42, 9, 14, 13, 13, 28, 1, 1])
+sum of wordFormDict.values() 121
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 5, 2])
+sum of wordFormDict.values() 13
+haben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gesetzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([5, 3, 2])
+sum of wordFormDict.values() 10
+ein
+dict_values([4, 6, 6, 1])
+sum of wordFormDict.values() 17
+erhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+organisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verständlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betonen
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+individuell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+informiert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+qualitativ
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+hochwertig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

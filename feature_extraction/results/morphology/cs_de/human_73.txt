@@ -1,0 +1,138 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 478
+Length of all lemmas: 414
+Length of singleton lemmas: 379
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 379
+ihr
+dict_values([1, 2, 2, 2, 2])
+sum of wordFormDict.values() 9
+persönlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([35, 51, 9, 8, 7, 1, 6])
+sum of wordFormDict.values() 117
+ein
+dict_values([14, 7, 3, 3, 2])
+sum of wordFormDict.values() 29
+informell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 3, 6])
+sum of wordFormDict.values() 13
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+langfristig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([6, 6])
+sum of wordFormDict.values() 12
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([5, 1, 1, 1, 1])
+sum of wordFormDict.values() 9
+verwalten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 6
+sie
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+grösser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 1, 2])
+sum of wordFormDict.values() 9
+nah
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 2, 2, 2, 2])
+sum of wordFormDict.values() 9
+persönlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([35, 51, 9, 8, 7, 1, 6])
+sum of wordFormDict.values() 117
+ein
+dict_values([14, 7, 3, 3, 2])
+sum of wordFormDict.values() 29
+informell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 3, 6])
+sum of wordFormDict.values() 13
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+langfristig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([6, 6])
+sum of wordFormDict.values() 12
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([5, 1, 1, 1, 1])
+sum of wordFormDict.values() 9
+verwalten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 6
+sie
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+grösser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 1, 2])
+sum of wordFormDict.values() 9
+nah
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([4, 1])
+sum of wordFormDict.values() 5

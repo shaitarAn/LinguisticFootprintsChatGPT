@@ -1,0 +1,186 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 495
+Length of all lemmas: 386
+Length of singleton lemmas: 348
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 348
+der
+dict_values([11, 27, 22, 15, 6, 12])
+sum of wordFormDict.values() 93
+neu
+dict_values([1, 3, 6])
+sum of wordFormDict.values() 10
+sein
+dict_values([9, 3, 3, 1, 1])
+sum of wordFormDict.values() 17
+ein
+dict_values([13, 10, 7, 4, 6, 1])
+sum of wordFormDict.values() 41
+alle
+dict_values([2, 6, 1])
+sum of wordFormDict.values() 9
+professionell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([3, 1, 2, 1])
+sum of wordFormDict.values() 7
+breit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+mögen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+ihr
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+unser
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([7, 5])
+sum of wordFormDict.values() 12
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bahnbrechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+elektrisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dass
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+revolutionär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verbessert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emissionsfrei
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([11, 27, 22, 15, 6, 12])
+sum of wordFormDict.values() 93
+neu
+dict_values([1, 3, 6])
+sum of wordFormDict.values() 10
+sein
+dict_values([9, 3, 3, 1, 1])
+sum of wordFormDict.values() 17
+ein
+dict_values([13, 10, 7, 4, 6, 1])
+sum of wordFormDict.values() 41
+alle
+dict_values([2, 6, 1])
+sum of wordFormDict.values() 9
+professionell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([3, 1, 2, 1])
+sum of wordFormDict.values() 7
+breit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+mögen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+ihr
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+unser
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([7, 5])
+sum of wordFormDict.values() 12
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bahnbrechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+elektrisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dass
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+revolutionär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verbessert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emissionsfrei
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2

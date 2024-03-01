@@ -1,0 +1,156 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 398
+Length of all lemmas: 321
+Length of singleton lemmas: 290
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 290
+der
+dict_values([10, 30, 10, 18, 12, 5, 2])
+sum of wordFormDict.values() 87
+fortgeschritten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([8, 4])
+sum of wordFormDict.values() 12
+ein
+dict_values([21, 2, 7, 1, 2, 2])
+sum of wordFormDict.values() 35
+neoadjuvant
+dict_values([9, 7, 1])
+sum of wordFormDict.values() 17
+werden
+dict_values([13, 1, 2])
+sum of wordFormDict.values() 16
+dies
+dict_values([3, 1, 6, 2])
+sum of wordFormDict.values() 12
+funktionserhaltend
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ermöglichen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 8, 2])
+sum of wordFormDict.values() 13
+sollen
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+sorgfältig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+chirurgisch
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+verkleinern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+verbessern
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+reduzieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+funktionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([10, 30, 10, 18, 12, 5, 2])
+sum of wordFormDict.values() 87
+fortgeschritten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([8, 4])
+sum of wordFormDict.values() 12
+ein
+dict_values([21, 2, 7, 1, 2, 2])
+sum of wordFormDict.values() 35
+neoadjuvant
+dict_values([9, 7, 1])
+sum of wordFormDict.values() 17
+werden
+dict_values([13, 1, 2])
+sum of wordFormDict.values() 16
+dies
+dict_values([3, 1, 6, 2])
+sum of wordFormDict.values() 12
+funktionserhaltend
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ermöglichen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 8, 2])
+sum of wordFormDict.values() 13
+sollen
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+sorgfältig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+chirurgisch
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+verkleinern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+verbessern
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+reduzieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+funktionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
