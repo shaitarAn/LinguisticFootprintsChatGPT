@@ -4,17 +4,25 @@ OUTDIR=../results/lexical_richness
 mkdir -p $OUTDIR
 
 DATADIR="$@"
-dataset=$(basename "$DATADIR")
-contin="continue"
 
 echo "compute the pairwise lexical diversity standard metrics (TTR, Yules, MTLD) of datasets"
 
-for system in human ${contin} explain create; do
-  echo $system
-  for file in $DATADIR/${system}/*; do
-  # append results to file
-  mkdir -p $OUTDIR/${dataset}
-  python lxr_calculate.py -f ${file} -o $OUTDIR/${dataset}/$system.csv
-  done
+# Loop through all corpus folders
+for corpus_folder in $DATADIR*; do
+    corpus=$(basename "$corpus_folder")  # Get the corpus name
+    echo "**********"
+    echo $corpus
+
+    # Loop through each system folder within the corpus folder
+    for system_folder in "$corpus_folder"/*; do
+      system=$(basename "$system_folder")
+      echo $system
+
+      for file in "$system_folder"/*; do
+
+        python lxr_calculate.py -f ${file} -sys ${system} -o $OUTDIR/${corpus}.csv
+      done
+    done
+
 done
 

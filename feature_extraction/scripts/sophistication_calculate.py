@@ -24,11 +24,13 @@ def main():
     parser.add_argument('-f', '--files', required=True,
                         help='the files to read (min 1).', nargs='+')
     parser.add_argument('-o', '--outfile', type=str, required=True, help='The name of the output CSV file')
-    # parser.add_argument('-sys', '--system', type=str, required=True, help='The name of the system')
+    parser.add_argument('-sys', '--system', type=str, required=True, help='The name of the system')
+    parser.add_argument('-c', '--corpus', type=str, required=True, help='The name of the corpus')
 
     args = parser.parse_args()
 
     system = args.system
+    corpus = args.corpus
 
     sentences = {}
 
@@ -51,7 +53,7 @@ def main():
         writer = csv.writer(oF)
         # Write the headers only if the file does not exist or is empty
         if not os.path.exists(args.outfile) or os.path.getsize(args.outfile) == 0:
-            writer.writerow(["System", "B1", "B2", "B3"])
+            writer.writerow(["corpus", "system", "B1", "B2", "B3"])
         for syst in sentences:
             # print("SYST", syst)
             for sett in settings:
@@ -62,7 +64,7 @@ def main():
                 print("Step: " + str(step) + " Last: " + str(last))
                 print(",".join([str(round(s*100, 2)) for s in score]))
                 results = [str(round(s*100, 2)) for s in score]
-                results.insert(0, syst)
+                results = [corpus, syst] + results
                 writer.writerow(results)
 
     sys.exit("Done")

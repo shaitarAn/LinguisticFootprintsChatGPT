@@ -1,7 +1,0 @@
-Title: Immune Modulation Strategies for the Treatment of Post-Acute Sequelae of SARS-CoV-2 Infection (PASC)
-
-Abstract:
-Post-acute sequelae of SARS-CoV-2 infection (PASC), commonly known as long COVID, pose significant challenges with persistent symptoms and functional impairments following recovery from acute COVID-19. Immune dysregulation has been implicated in the pathogenesis of PASC, providing a potential target for therapeutic interventions. This review aims to explore the role of immune modulation strategies in alleviating PASC symptoms and improving patient outcomes.
-
-1. Introduction
-With an increasing number of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections worldwide, understanding the long-term consequences is becoming paramount for effective healthcare management. While many individuals recover completely after acute COVID-19 infection, a substantial proportion experience lingering symptoms and functional impairments known as post-acute sequelae of SARS-CoV

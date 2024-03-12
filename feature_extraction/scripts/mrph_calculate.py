@@ -1,4 +1,4 @@
-# scripts adapted from https://github.com/dimitarsh1/BiasMT/tree/main/scripts/diversity
+# script adapted from https://github.com/dimitarsh1/BiasMT/tree/main/scripts/diversity
 
 # example call: python shannon_pairwise.py -f ~/switchdrive/IMAGINE_files/datasets/nodalida/wmt22/tokenized/wmt22_de_A.txt -l de -sys A_wmt22 -v freq_voc/wmt22_de_A.freq_voc -t 0 > results_shannon/all_mostfrequent_wmt22_de_A.txt
 #
@@ -99,7 +99,7 @@ def main():
             if not os.path.exists(f"../results/morphology/per_lemma/{args.dataset}"):
                 os.makedirs(f"../results/morphology/per_lemma/{args.dataset}")
             with open(f"../results/morphology/per_lemma/{args.dataset}/{syst}.csv", "w") as outf2:
-                # print(syst)
+                print(syst)
                                 
                 score = compute_gram_diversity(sentences[syst], args.dataset, lang, syst, freq_dict)
                 # Shannon entropy, (removed invSimpDiv from output ) , Simpson's diversity

@@ -1,5 +1,6 @@
 Already downloaded a model for the 'de' language
-Frequency Dictionary size: 523
+Frequency Dictionary size: 522
+create_2
 Length of all lemmas: 409
 Length of singleton lemmas: 363
 Length of matched lemmas: 37

@@ -1,5 +1,7 @@
 # ignore data folders
 **/data/
+output/
+feature_extraction/scripts_other/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

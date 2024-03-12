@@ -98,9 +98,11 @@ def main():
     parser.add_argument('-s', '--sample-size', required=False, help='the sample size (in sentences).', default='100')
     parser.add_argument('-g', '--stat-sign', required=False, action='store_true', help='Statistical significance (in sentences).', default=False)
     parser.add_argument('-o', '--outfile', type=str, required=True, help='The name of the output CSV file')
+    parser.add_argument('-sys', '--persona', type=str, required=False, help='The name of the persona')
 
     
     args = parser.parse_args()
+    persona = args.persona
 
     sentences = {}
     metrics = {'TTR':'compute_ttr', 'Yules': 'compute_yules_i', 'MTLD':'compute_mtld'}
@@ -134,9 +136,9 @@ def main():
         writer = csv.writer(file)
         # Write the headers only if the file does not exist or is empty
         if not os.path.exists(args.outfile) or os.path.getsize(args.outfile) == 0:
-            writer.writerow(["file", "TTR", "Yules", "MTLD"])
+            writer.writerow(["system", "file", "TTR", "Yules", "MTLD"])
         for syst in sentences:
-            writer.writerow([syst, round(scores['TTR'][syst]*100,2), round(scores['Yules'][syst]*100,2), round(scores['MTLD'][syst],2)])
+            writer.writerow([persona, syst, round(scores['TTR'][syst]*100,2), round(scores['Yules'][syst]*100,2), round(scores['MTLD'][syst],2)])
 
         # print('{},{},{},{}'.format(syst,round(scores['TTR'][syst]*100,2),round(scores['Yules'][syst]*100,2),round(scores['MTLD'][syst],2)), file=sys.stdout)
         

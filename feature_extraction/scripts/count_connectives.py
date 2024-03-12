@@ -14,13 +14,17 @@ from collections import defaultdict
 spacy_udpipe.download("en")
 spacy_udpipe.download("de")
 
-# expand root directory with os.path.expanduser()
-root = os.path.expanduser('~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simple_prompt_2')
+# Create a Path object for the directory
+root = pathlib.Path('../../data/')
+
+# check if output directory exists
+if not os.path.exists('../results/connectives/'):
+    os.makedirs('../results/connectives/')
 
 def create_list_of_connectives(lang):
     # import the file of connectives from Thomas Meyer
     # the first column is the connective, the second column is the function, the third column is the frequency (if available)
-    discourse_connectives_file = f'../resources/discourse_connectives_{lang.upper()}_Thomas_Meyer_2014.txt'
+    discourse_connectives_file = f'../../feature_extraction/resources/discourse_connectives_{lang.upper()}_Thomas_Meyer_2014.txt'
     # discourse_connectives_file = "../connectives_DE_frequency+20.txt"
     with open(discourse_connectives_file, 'r') as f:
         connectives = f.read().splitlines()
@@ -38,19 +42,22 @@ def extract_connectives(language, corpus, system):
 
     # initialise a list of connectives from Thomas Meyer
     connectives = create_list_of_connectives(language)
+    # print(connectives)
 
     system_dict = defaultdict(lambda: {'lower': 0, 'capitalized': 0})
     file_dict = defaultdict(lambda: {'total': 0, 'capitalized': 0})
 
     # Create a Path object for the directory
     directory_path = pathlib.Path(root, corpus, system)
+    print(directory_path)
     file_count = 0
 
     # Use a list comprehension to generate a list of file paths
-    file_list = [file_path for file_path in directory_path.iterdir() if file_path.is_file() and file_path.suffix == '.txt']
+    file_list = [file_path for file_path in directory_path.iterdir() if file_path.is_file()]
 
     # iterate through the files in the human-written directory with the language
     for f in sorted(file_list):
+        print(f)
 
         with open(f, 'r') as f:
             text = f.read()
@@ -89,11 +96,12 @@ def extract_connectives(language, corpus, system):
     return system_dict, file_dict
     
 def main():
+
     # itarate over subdirectories in directory_path
     for subdirectory in os.listdir(root):
         # itarate over files in subdirectory
         corpus = subdirectory
-        if corpus in ['20min', 'GGPONC', "pubmed_de", "zora_de"]:
+        if corpus in ['20min', 'ggponc', "pubmed_de", "zora_de", "cs_de"]:
             lang = 'de'
         else:
             lang = 'en'
@@ -102,59 +110,54 @@ def main():
                 continue 
 
         print("-------------------")
-        print(corpus)      
+        # print(corpus)      
 
         human_dict = {}
-        machine_dict = {}  
+        continue_dict = {} 
+        explain_dict = {}
+        create_dict = {} 
         combined_dict = {} 
         combined_file_dict = {}    
 
         for system in os.listdir(os.path.join(root, subdirectory)):
     
-            print(system)
+            print(lang, corpus, system)
 
             if system == 'human':
                 human_dict, human_file_dict = extract_connectives(lang, corpus, system)
 
-            elif system == 'machine':
-                machine_dict, machine_file_dict = extract_connectives(lang, corpus, system)
+            elif system == 'continue':
+                continue_dict, continue_file_dict = extract_connectives(lang, corpus, system)
+
+            elif system == 'explain':
+                explain_dict, explain_file_dict = extract_connectives(lang, corpus, system)
+
+            elif system == 'create':
+                create_dict, create_file_dict = extract_connectives(lang, corpus, system)
             
             else:
                 continue
 
-        # Combine the two dictionaries
-        for key in set(human_dict.keys()) | set(machine_dict.keys()):
+        # combine 4 dictionaries into one based on keys
+        for key in set(human_dict.keys()) | set(continue_dict.keys()) | set(explain_dict.keys()) | set(create_dict.keys()):
             combined_dict[key] = {
             'human_upper': human_dict.get(key, {}).get('capitalized', 0),
             'human_total': human_dict.get(key, {}).get('capitalized', 0) + human_dict.get(key, {}).get('lower', 0),
-            'machine_upper': machine_dict.get(key, {}).get('capitalized', 0),
-            'machine_total': machine_dict.get(key, {}).get('capitalized', 0) + machine_dict.get(key, {}).get('lower', 0),} 
+            'continue_upper': continue_dict.get(key, {}).get('capitalized', 0),
+            'continue_total': continue_dict.get(key, {}).get('capitalized', 0) + continue_dict.get(key, {}).get('lower', 0),
+            'explain_upper': explain_dict.get(key, {}).get('capitalized', 0),
+            'explain_total': explain_dict.get(key, {}).get('capitalized', 0) + explain_dict.get(key, {}).get('lower', 0),
+            'create_upper': create_dict.get(key, {}).get('capitalized', 0),
+            'create_total': create_dict.get(key, {}).get('capitalized', 0) + create_dict.get(key, {}).get('lower', 0),}
 
+        print(combined_dict)
+        print(combined_file_dict)
 
-        #  combine the human_file_dict and machine_file_dict based on keys
-        for key in set(human_file_dict.keys()) | set(machine_file_dict.keys()):
-            combined_file_dict[key] = {
-            'human_upper': human_file_dict.get(key, {}).get('capitalized', 0),
-            'human_total': human_file_dict.get(key, {}).get('total', 0),
-            'machine_upper': machine_file_dict.get(key, {}).get('capitalized', 0),
-            'machine_total': machine_file_dict.get(key, {}).get('total', 0),}
-
-        with open(f'../output/connectives_all_{corpus}.csv', 'w') as f:
+        # write the dictionaries to csv files
+        with open(f'../results/connectives/connectives_all_{corpus}.csv', 'w') as f:
             writer = csv.writer(f)
-            writer.writerow(['connective', 'human_upper', 'human_total', 'gpt_upper', 'gpt_total'])
+            writer.writerow(['connective', 'human_upper', 'human_total', 'continue_upper', 'continue_total', 'explain_upper', 'explain_total', 'create_upper', 'create_total'])
             for key, values in combined_dict.items():
-                writer.writerow([key, values["human_upper"], values["human_total"], values["machine_upper"], values["machine_total"]])
-
-        with open(f'../output/paired_features_{corpus}/connectives_upper.csv', 'w') as f:
-            writer = csv.writer(f)
-            writer.writerow(['gpt', 'human'])
-            for key, values in combined_file_dict.items():
-                writer.writerow([values["machine_upper"], values["human_upper"]])
-
-        with open(f'../output/paired_features_{corpus}/connectives_total.csv', 'w') as f:
-            writer = csv.writer(f)
-            writer.writerow(['gpt', 'human'])
-            for key, values in combined_file_dict.items():
-                writer.writerow([values["machine_total"], values["human_total"]])
+                writer.writerow([key, values["human_upper"], values["human_total"], values["continue_upper"], values["continue_total"], values["explain_upper"], values["explain_total"], values["create_upper"], values["create_total"]])
 
 main()

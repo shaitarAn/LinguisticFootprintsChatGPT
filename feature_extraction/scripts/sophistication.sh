@@ -1,12 +1,10 @@
 #!/bin/bash
 
-# DATADIR=$HOME/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simple_prompt/20min
-
 OUTDIR=../results/sophistication
 mkdir -p $OUTDIR
 
 # Loop through each text file in the data directory
-for file in ../data/*.txt; do
+for file in ../concatenated_data/*.txt; do
     # Extract corpus name from the file name
     # Extract everything before the last underscore as "corpus"
     filename=$(basename "$file") 
@@ -21,5 +19,5 @@ for file in ../data/*.txt; do
     echo "System: $system"
 
     # Run your Python script on the current file and save the results
-    python sophistication_calculate.py -f "$file" -sys "$system" -o "$OUTDIR/${corpus}.csv"
+    python sophistication_calculate.py -f "$file" -sys "$system" -c "$corpus" -o "$OUTDIR/sophistication_scores.csv"
 done

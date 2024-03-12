@@ -1,7 +1,0 @@
-In randomisierten Studien, in denen ganz überwiegend R0 (86 %) resezierte Weichgewebesarkome behandelt wurden, konnten Yang et al. [REF] für die adjuvante perkutane Strahlentherapie (45 Gy/1,8 Gy Einzeldosis + 18 Gy/1,8 Gy Einzeldosis Boost) und Pisters et al. [REF] für die adjuvante Brachytherapie (45 Gy low dose rate) zeigen, dass sich die lokale Rückfallrate durch die Strahlentherapie hochsignifikant senken lässt. In der letzteren Studie betrug bei Patienten mit G2/G3 Sarkomen die lokale Kontrollrate mit Brachytherapie 89 % gegenüber 66 % ohne Brachytherapie (p=0,0025).
-
-Diese Ergebnisse legen nahe, dass eine postoperative Strahlentherapie bei Weichgewebesarkomen der Extremitäten und des Körperstamms (nicht retroperitoneal) empfohlen werden kann. Sowohl perkutane Strahlentherapie als auch Brachytherapie haben gezeigt, dass sie effektiv sind und das Risiko eines lokalen Rückfalls signifikant reduzieren können.
-
-Es ist wichtig zu beachten, dass diese Ergebnisse auf Patienten mit R0-resezierten Sarkomen basieren. Bei Patienten mit inkompletter Resektion oder anderen Risikofaktoren kann eine individuelle Bewertung erforderlich sein.
-
-Zusammenfassend lässt sich sagen, dass eine postoperative Strahlentherapie eine wichtige Rolle bei der Behandlung von Weichgewebesarkomen spielt und dazu beitragen kann, die lokale Kontrolle der Erkrankung zu verbessern. Weitere Studien sind jedoch erforderlich, um die optimale Strahlentherapiedosis und -technik sowie den Nutzen bei verschiedenen Subtypen von Sarkomen zu bestimmen.

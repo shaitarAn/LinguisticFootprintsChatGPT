@@ -1,17 +1,32 @@
 #!/bin/bash
 
-DATADIR="$@"/*
+DATADIR="$@"
 
 # Loop through each corpus folder
-for corpus_folder in $DATADIR; do
+for corpus_folder in $DATADIR*; do
     corpus=$(basename "$corpus_folder")  # Get the corpus name
-    ECHO $corpus
+    echo "**********"
+    echo $corpus
 
     # Loop through each system folder within the corpus folder
-    for system_folder in "${corpus_folder}"/human/ "${corpus_folder}"/machine/; do
+    for system_folder in "$corpus_folder"/*; do
         system=$(basename "$system_folder")  # Get the system name
+        echo $system
 
-        # Concatenate text files within the system folder and save to corpus_system_all.txt
-        cat "$system_folder"*.txt > "../data/${corpus}_${system}.txt"
+        # Loop through files in the system folder
+        for file in "$system_folder"/*; do
+            echo $file
+            
+            # Append the file contents to the "../data/${corpus}_${system}.txt" file
+            cat "$file" >> "../concatenated_data/${corpus}_${system}.tmp"
+            echo " " >> "../concatenated_data/${corpus}_${system}.tmp"
+
+            # awk '1; END {print ""}' "$file" >> "../data/${corpus}_${system}.txt"
+        done
+
+        sed -r '/^\s*$/d' ../concatenated_data/${corpus}_${system}.tmp > ../concatenated_data/${corpus}_${system}.txt
+        rm ../concatenated_data/${corpus}_${system}.tmp
+
+        
     done
 done
