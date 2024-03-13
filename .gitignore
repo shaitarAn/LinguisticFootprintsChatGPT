@@ -2,7 +2,7 @@
 **/data/
 output/
 feature_extraction/scripts_other/
-analysis/old_scripts/
+# analysis/scripts/old_scripts/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
