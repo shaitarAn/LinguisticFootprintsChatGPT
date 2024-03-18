@@ -1,0 +1,13 @@
+"Feature","System","Cohen_d"
+"MTLD","continue",2.41268872786587
+"MTLD","explain",2.48951182518833
+"MTLD","create",3.59893594549524
+"coleman_liau_index","continue",1.85424806623288
+"coleman_liau_index","explain",1.64802115068821
+"coleman_liau_index","create",3.03975005851004
+"mean_word_length","continue",2.68535790507053
+"mean_word_length","explain",2.4183268526885
+"mean_word_length","create",3.48249170419278
+"pos_prop_VERB","continue",2.21410266834718
+"pos_prop_VERB","explain",2.20086520191342
+"pos_prop_VERB","create",2.39354775016578

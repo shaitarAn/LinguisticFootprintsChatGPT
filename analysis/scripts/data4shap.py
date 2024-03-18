@@ -27,7 +27,23 @@ for corpus in corpora:
     if not os.path.exists('../shapdata'):
         os.makedirs('../shapdata')
     # save the dataframe to a csv file
-    df.to_csv(f'../shapdata/{corpus}.csv', index=False)
+    df.to_csv(f'../shapdata/{corpus}.csv', index=False)import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Assuming you have loaded your data into a DataFrame named df
+
+# Pivot the DataFrame to have personas1 and personas2 as columns and f1-score as values
+pivot_df = df.pivot_table(index='persona1', columns='persona2', values='f1-score')
+
+# Create a heatmap
+plt.figure(figsize=(10, 8))
+sns.heatmap(pivot_df, annot=True, cmap='viridis', fmt=".2f")
+plt.title('F1-Score Comparison Between Personas')
+plt.xlabel('Persona 2')
+plt.ylabel('Persona 1')
+plt.show()
+
 
 # combine all feature files into a single dataframe
 # columns: text, persona, feature1, feature2, ...

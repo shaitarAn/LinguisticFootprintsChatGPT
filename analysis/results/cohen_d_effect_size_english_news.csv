@@ -1,0 +1,13 @@
+"Feature","System","Cohen_d"
+"MTLD","continue",2.96249499237533
+"MTLD","explain",0.60055242765403
+"MTLD","create",3.74680938065712
+"Yules","continue",2.38102940800006
+"Yules","explain",0.237872721707164
+"Yules","create",4.20714404031235
+"mean_word_length","continue",2.71688415872808
+"mean_word_length","explain",2.73691108302393
+"mean_word_length","create",3.62701925372593
+"token_length_mean","continue",2.42768663606463
+"token_length_mean","explain",2.45665883237469
+"token_length_mean","create",3.54396598840236

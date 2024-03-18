@@ -8,7 +8,7 @@ do
 
 done
 
-python3 combine_results_per_feat_corpus.py
+python3 combine_results_per_lang_domain.py
 
 for feature_type in "morphology" "lexical_richness" 
 
