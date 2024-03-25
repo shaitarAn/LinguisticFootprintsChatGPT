@@ -45,21 +45,25 @@ for row in data:
     # get the value of the dictionary
     row_values = list(row.values())
     # print(row_values)
-    feature_name = row_values[0]
-    feature_name = features_to_visualize_dict[feature_name]
+    feature = row_values[0]
+    feature = features_to_visualize_dict[feature]
     # replace the underscores with latex underscores
-    feature_name = feature_name.replace("_", "\\_")
+    feature = feature.replace("_", "\\_")
+    feature_type = feature.split(" ")[0]
+    feature_name = " ".join(feature.split(" ")[1:])
     # convert the values to integers
     values = [int(float(value)) for value in row_values[1:]]
     print(values)
     print(feature_name)
-    if "(bold)" in feature_name:
-        feature_name = "\\textbf{" + feature_name.replace("(bold)", "") + "}"
+    # if "(bold)" in feature_name:
+    #     feature_name = "\\textbf{" + feature_name.replace("(bold)", "") + "}"
     values = [int(float(row[header])) for header in value_headers]
     cells_str = " & ".join([f"\\cellcolor{{cell{value}}}\\textcolor{{{'black' if value >= 0 else 'black'}}}{value_letters[value]}" for value in values])
-    table_str = f"{feature_name} & {cells_str} \\\\"
+    table_str = f"{feature_type} & {feature_name} & {cells_str} \\\\"
     table_strs.append(table_str)
 
+# reorganize the table strings by the feature name
+table_strs.sort()
 print("\n".join(table_strs))
 # print()
 

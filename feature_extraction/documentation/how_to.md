@@ -40,17 +40,41 @@ bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simpl
 
 # Extract Features with TextDescriptives
 
-## extract features as is
+**features_list.py** contains several dictionnaries with feature names:
 
-bash run_extract_fetures.sh --> iterates over a list of corpora --> ../results/per_corpus/{corpus}/{i}.csv"
+- features_list is a list of TextDescriptives features
+- features_custom is a list of custom-added feature names
+- features_to_visualize_dict is a dictionnary with feature names used by textDescriptives and throughout the project as keys and modified feature names as values
+- features_raw_counts is a list of features that are measured in raw counts
 
-Collects features from TextDescriptives, replaapplying custom formula for German Flesch Reading Ease metric. Additionally counts connectives.
 
-## rearrange results first based on feature then on language
+## Extract features and sort results by feature, language and domain
 
-python3 combine_results_per_feat_corpus.py : 
+bash run_extract_features.sh :
 
-    iterates over:  ../results/per_corpus/{corpus}  
-    writes to :     ../results/per_feature/{feature_to_extract}/{corpus}.csv
-                    ../results/per_language/german/{feature}.csv
-                    ../results/per_language/english/{feature}.csv
+        # executes 3 python scripts
+
+        1. iterates through all corpora and extracts features w TextDescriptives
+        includes custom formula for German Flesch Reading Ease
+        
+        python3 extract_features.py --corpus $corpus
+        
+        2. iterates through ../results/per_corpus/{corpus}, restructures to 
+        ../results/per_feature/{feature_to_extract}/{corpus}.csv and
+        ../results/per_language/{language}/{feature}.csv and
+        ../results/per_domain/news/{language}/{feature}.csv
+
+        python3 combine_results_per_lang_domain.py
+        
+        3. adds morphological from ../results/morphology/{corpus}.csv and 
+        lexical features from ../results/lexical_richness/{corpus}.csv
+        writes to 
+        ../results/per_feature/{feature_to_extract}/{corpus}.csv and
+        ../results/per_language/{language}/{feature}.csv and
+        ../results/per_domain/news/{language}/{feature}.csv       
+
+        python3 transform_dataframe.py -f $feature_type
+
+
+
+ ## create data 
