@@ -16,7 +16,7 @@ def collect_special_pngs(path):
 
     return pngs
 
-def plot_means(outputdir, df, language, alpha):
+def plot_means(outputdir, df, title, alpha):
     # if not os.path.exists(f'{outputdir}/{language}'):
     #     os.makedirs(f'{outputdir}/{language}')
     # make a boxplot with the p-values of the dunns test
@@ -25,12 +25,12 @@ def plot_means(outputdir, df, language, alpha):
     sns.boxplot(data=df, palette='Set3', showmeans=True)
     # ignore severe outliers
     # plt.yscale('log')
-    plt.title(f"{language}", fontsize=20)
+    plt.title(f"{title}", fontsize=20)
     plt.xticks(rotation=45)
     # increase the font size of the x
     plt.xticks(fontsize=20)
     plt.yticks(fontsize=15)
-    # plt.savefig(f"{outputdir}/{language}/means_{alpha}.pdf")
+    plt.savefig(f"{outputdir}/means_{title}.png")
     plt.show()
     plt.close()
 

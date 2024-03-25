@@ -58,7 +58,6 @@ def compute_ttest_scikit(metrics, iterations):
 
 def print_latex_table(scores, metric_title):
     ''' Prints a table in latex format; ready to incorporate into a tex file
-
         :param scores: dictionary with scores and systems
         :param metric_title: identifying the metric (string)
     '''

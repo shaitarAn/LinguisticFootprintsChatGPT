@@ -53,7 +53,7 @@ def combine_means(outputdir, dfp, input_dir, files):
             dfm = pd.concat([dfm, feat], ignore_index=True)
 
     # plot the means for each feature
-    plot_means(outputdir, dfm, language, alpha)
+    # plot_means(outputdir, dfm, language, alpha)
 
     # save the dataframe to a csv file
     dfm.to_csv(f'../results/{language}_means_{alpha}.csv', index=False)
@@ -101,8 +101,8 @@ def perform_multiple_test_correction(outputdir, dfp):
         significant_features[p]['bh'] = dfp_p[dfp_p['bh'] < alpha]['feature'].tolist()
         significant_features[p]['bon'] = dfp_p[dfp_p['bon'] < alpha]['feature'].tolist()
 
-        plot_values(outputdir, dfp_p, p, language, method, alpha)
-        plot_distribtuions(outputdir, dfp_p.pvalue, bonferroni, p, language, method, alpha)
+        # plot_values(outputdir, dfp_p, p, language, method, alpha)
+        # plot_distribtuions(outputdir, dfp_p.pvalue, bonferroni, p, language, method, alpha)
 
     return dfp
 
@@ -159,7 +159,7 @@ def run_stats_tests(input_dir, outputdir):
     # perform the multiple hypothesis testing correction
     dfp = perform_multiple_test_correction(outputdir, dfp)
 
-    plot_distribtuions(outputdir, dfp.pvalue, dfp.bon, language, language, method, alpha)
+    # plot_distribtuions(outputdir, dfp.pvalue, dfp.bon, language, language, method, alpha)
     combine_means(outputdir, dfp, input_dir, files)
 
     return dfp
@@ -180,6 +180,7 @@ def main():
     print(language)
     for p, v in significant_features.items():
         print(p, len(v['bon']))
+        print(p, v['bon'])
         print()
 
     for domain in ['news', 'science', 'clinical']:
