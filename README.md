@@ -49,11 +49,11 @@ To **generate personas**:
 `bash sophistication.sh`:  --> feature_extraction/results/sophistication_scores.csv
 
 
-### **Lexical richness**
+#### **Lexical richness**
 
 `bash lxr_scores.sh` prompts_n_coherence/data/
 
-### **Morphology**
+#### **Morphology**
 
 **Step 1** Extract vocabulary of most frequent words
 
@@ -85,7 +85,7 @@ bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simpl
 ```
 
 
-### **Extract Features with TextDescriptives**
+#### **Extract Features with TextDescriptives**
 
 **features_list.py** contains several dictionnaries with feature names:
 
@@ -95,7 +95,7 @@ bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simpl
 - features_raw_counts is a list of features that are measured in raw counts
 
 
-#### Extract features and sort results by feature, language and domain
+**Extract features and sort results by feature, language and domain**
 
 `bash run_extract_features.sh` executes 3 python scripts:
 
@@ -114,6 +114,55 @@ bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simpl
   ../results/per_language/{language}/{feature}.csv, and
   ../results/per_domain/news/{language}/{feature}.csv       
 
+## Feature Extraction and Data Organization
+
+This section outlines the process of extracting features from the corpora and organizing the results by features, languages, and domains using a series of Python scripts.
+
+### Scripts and their Functions
+
+1. **Extract Features**
+   - **Script**: `run_extract_features.sh`
+   - **Description**: Executes three Python scripts to extract linguistic features, reorganize results, and transform dataframes for further analysis.
+   - **Execution**: 
+     ```bash
+     bash run_extract_features.sh
+     ```
+
+2. **Extract Linguistic Features**
+   - **Script**: `extract_features.py`
+   - **Parameters**: `--corpus`
+   - **Function**: Iterates through all specified corpora to extract features using the TextDescriptives library, including a custom formula for German Flesch Reading Ease.
+   - **Usage**:
+     ```bash
+     python3 extract_features.py --corpus $corpus
+     ```
+
+3. **Combine Results by Language and Domain**
+   - **Script**: `combine_results_per_lang_domain.py`
+   - **Function**: Restructures data into a more accessible format, sorting by individual features, language, and domain.
+   - **Output Directories**:
+     - Per Feature: `../results/per_feature/{feature_to_extract}/{corpus}.csv`
+     - Per Language: `../results/per_language/{language}/{feature}.csv`
+     - Per Domain: `../results/per_domain/news/{language}/{feature}.csv`
+
+4. **Transform DataFrames**
+   - **Script**: `transform_dataframe.py`
+   - **Parameters**: `-f $feature_type`
+   - **Function**: Enhances the dataframes by incorporating additional morphological and lexical features.
+   - **Sources**:
+     - Morphological Features: `../results/morphology/{corpus}.csv`
+     - Lexical Features: `../results/lexical_richness/{corpus}.csv`
+   - **Output Directories**:
+     - Per Feature: `../results/per_feature/{feature_to_extract}/{corpus}.csv`
+     - Per Language: `../results/per_language/{language}/{feature}.csv`
+     - Per Domain: `../results/per_domain/news/{language}/{feature}.csv`
+
+### How to Run
+
+To run these scripts sequentially and ensure all features are properly extracted and organized, execute the `run_extract_features.sh` script as mentioned above. Ensure all paths and dependencies are correctly set in your environment.
+
+
+## Citation
 
 ```
 @article{YourLastName2024,
@@ -125,5 +174,7 @@ bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simpl
   pages={xxx-xxx}
 }
 ```
+
+
 
 
