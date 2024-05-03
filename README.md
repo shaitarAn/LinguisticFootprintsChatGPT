@@ -100,10 +100,10 @@ bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simpl
 **Main Script**: `bash run_extract_features.sh`
   - **Description**: Executes three Python scripts to extract linguistic features, reorganize results, and transform dataframes for further analysis.
   - **Executes**:
-    1. **Script**: `extract_features.py --corpus $corpus`
+    1. `extract_features.py --corpus $corpus`
         - **Function**: Iterates through all specified corpora to extract features using the TextDescriptives library, including a custom formula for German Flesch Reading Ease.
 
-    2. **Script**: `combine_results_per_lang_domain.py`
+    2. `combine_results_per_lang_domain.py`
         - **Function**: Restructures data into a more accessible format, sorting by individual features, language, and domain.
         - **Iterates through**: `../results/per_corpus/{corpus}`
         - **Output Directories**:
@@ -111,7 +111,7 @@ bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simpl
           - Per Language: `../results/per_language/{language}/{feature}.csv`
           - Per Domain: `../results/per_domain/news/{language}/{feature}.csv`
 
-    3. **Script**: `transform_dataframe.py -f $feature_type`
+    3. `transform_dataframe.py -f $feature_type`
         - **Function**: Pools together and formats results for morphological and lexical features.
         - **Sources**:
           - Morphological Features: `../results/morphology/{corpus}.csv`
