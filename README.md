@@ -36,7 +36,7 @@ with the flag `--outfolder`, for more info on the optional arguments see `genera
 
 `bash call_generate_personas.sh`
   - **Parameters**: 
-    - model: `gpt-4, gpt-3.5-turbo-16k`
+    - model: `gpt-4`, `gpt-3.5-turbo-16k`
     - outfolder: `../generated_data` in this folder subfolders task/corpus/system will be created
     - infolder: `../data_collection/100_files_json/` all the JSON for generation
   - **Calls python script**: `generate_personas.py`
@@ -115,8 +115,14 @@ Link to the [TextDescriptives library](https://hlasse.github.io/TextDescriptives
           - Per Language: `../results/per_language/{language}/{feature}.csv`
           - Per Domain: `../results/per_domain/news/{language}/{feature}.csv`
 
+### Analysis: analysis/scripts/
 
-## Citation
+`bash run_analysis.sh`
+  - **Parameters**:
+    - alpha: `0.01`, `0.05`
+    - method: `bon` (bonferroni), `bh` (benjamini-hochberg)
+
+## Cite this paper (to be updated)
 
 ```
 @article{YourLastName2024,
