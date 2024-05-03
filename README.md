@@ -32,7 +32,7 @@ In this example the model gpt-3.5-turbo is used. Additional positional arguments
 This will create an output folder in the directory from which the script is run with two subfolders `human` and `machine`. Optionally the output directory can be specified
 with the flag `--outfolder`, for more info on the optional arguments see `generate.py --help`.
 
-To **generate personas**:
+**Generate personas**:
 
 `bash call_generate_personas.sh`
   - **Parameters**: 
@@ -48,14 +48,13 @@ To **generate personas**:
 
 #### **Sophistication**
 
-**Step 1** Concatenate all corpus files into one txt file in the data folder
-`bash concatenate_files.sh`:
-  - **Input**: `generated_data/data`
-  - **Output**: `feature_extraction/concatenated_data`
+**Step 1** `bash concatenate_files.sh`
+  - **Input**: `generated_data/`
+  - **Output**: `feature_extraction/concatenated_data/`
+  - **Function**: Concatenates all corpus files into one txt file in the data folder
 
-**Step 2** Run the main script
-`bash sophistication.sh`:  --> feature_extraction/results/sophistication_scores.csv
-
+**Step 2** `bash sophistication.sh`
+  - **Output**: feature_extraction/results/sophistication_scores.csv
 
 #### **Lexical richness**
 
@@ -63,9 +62,10 @@ To **generate personas**:
 
 #### **Morphology**
 
-**Step 1** Extract vocabulary of most frequent words
-
-`bash create_most_freq_vocs.sh` : prompts_n_coherence/data/ --> scripts/freq_voc/, scripts/lemmas/
+**Step 1** `bash create_most_freq_vocs.sh`
+  - **Input**: `generated_data/`
+  - **Output**: `scripts/freq_voc/`, `scripts/lemmas/`
+  - **Function**: Extracts vocabulary of most frequent words
 
 **Step 2** Run diversity analysis
 
