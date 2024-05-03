@@ -37,8 +37,8 @@ To **generate personas**:
 `bash call_generate_personas.sh`
   - **Parameters**: 
     - model: `gpt-4, gpt-3.5-turbo-16k`
-    - outfolder: `../data_date_model` in this folder subfolders task/corpus/system will be created
-    - infolder: `../data_collection/100_files_json/`  # Folder with all the JSON for generation
+    - outfolder: `../generated_data` in this folder subfolders task/corpus/system will be created
+    - infolder: `../data_collection/100_files_json/` all the JSON for generation
   - **Calls python script**: `generate_personas.py`
   - **Output file structure**: `f"{outputdir}/{corpus}/{task}/{file_counter}.txt"`
 
@@ -49,7 +49,9 @@ To **generate personas**:
 #### **Sophistication**
 
 **Step 1** Concatenate all corpus files into one txt file in the data folder
-`bash concatenate_files.sh`: prompts_n_coherence/data/  --> feature_extraction/data
+`bash concatenate_files.sh`:
+  - **Input**: `generated_data/data`
+  - **Output**: `feature_extraction/concatenated_data`
 
 **Step 2** Run the main script
 `bash sophistication.sh`:  --> feature_extraction/results/sophistication_scores.csv
