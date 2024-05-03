@@ -1,4 +1,6 @@
-# Text generation
+# Text generation directory
+
+**generate.py**
 
 The script `generate.py` sends requests to the OpenAI-API. As input it takes a JSON file in the following form:
 ```json
@@ -24,7 +26,13 @@ In this example the model gpt-3.5-turbo is used. Additional positional arguments
 This will create an output folder in the directory from which the script is run with two subfolders `human` and `machine`. Optionally the output directory can be specified
 with the flag `--outfolder`, for more info on the optional arguments see `generate.py --help`.
 
-# Feature extraction
+To **generate personas**:
+
+`bash call_generate_personas.sh` calls `generate_personas.py`
+
+`prompts.json` contains all the prompts and personas
+
+# Feature extraction directory
 
 ## **Sophistication**
 
