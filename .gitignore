@@ -13,6 +13,8 @@ analysis/docs/
 text_generation/completion_time/
 text_generation/prompts/
 feature_extraction/scripts_other/
+README.pdf
+README_temp.html
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
