@@ -97,12 +97,8 @@ bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simpl
 
 **Extract features and sort results by feature, language and domain**
 
-**Main Script**: `run_extract_features.sh`
-   - **Description**: Executes three Python scripts to extract linguistic features, reorganize results, and transform dataframes for further analysis.
-   - **Execution**: 
-     ```
-     bash run_extract_features.sh
-     ```
+**Main Script**: `bash run_extract_features.sh`
+  - **Description**: Executes three Python scripts to extract linguistic features, reorganize results, and transform dataframes for further analysis.
   - **Executes**:
     1. **Script**: `extract_features.py --corpus $corpus`
         - **Function**: Iterates through all specified corpora to extract features using the TextDescriptives library, including a custom formula for German Flesch Reading Ease.

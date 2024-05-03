@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>README.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="tracing-linguistic-footprints-of-chatgpt-across-tasks-domains-and-personas">Tracing Linguistic Footprints of ChatGPT Across Tasks, Domains, and Personas</h1>
+<h2 id="brief-description">Brief Description</h2>
+<p>This repository contains the code and data supporting the research paper &quot;Tracing Linguistic Footprints of ChatGPT Across Tasks, Domains and Personas in English and German.&quot; The project explores how the output of large language models like ChatGPT differs from human-generated text and analyzes the impact of task-specific prompting on linguistic features in both English and German texts.</p>
+<h2 id="usage">Usage</h2>
+<h3 id="text-generation-directory">Text generation directory</h3>
+<p>The script <code>generate.py</code> sends requests to the OpenAI-API. As input it takes a JSON file in the following form:</p>
+<pre class="hljs"><code><div>{
+  <span class="hljs-attr">"file1"</span>: {
+    <span class="hljs-attr">"title"</span>: <span class="hljs-string">"very interesting and engaging topic"</span>,
+    <span class="hljs-attr">"prompt"</span>: <span class="hljs-string">"part of the text to use for the prompt"</span>,
+    <span class="hljs-attr">"text"</span>: <span class="hljs-string">"the rest of the text"</span>
+  },
+  <span class="hljs-attr">"file2"</span>: {
+    
+  }
+}
+</div></code></pre>
+<p>The <code>make_json.py</code> script can be used to create such a file from a collection of txt files (see below).
+From the input for every file in the JSON the API is called to generate a text of more than 500 tokens.
+After making sure that both the remainder of the human text (without the pompt) and the machine generated text are of the same length
+by truncating the shorter one, it saves them in two separate folders called <code>human</code> and <code>machine</code>.  An example call looks like this:</p>
+<p><code>generate.py gpt-3.5-turbo path_to_input_file.json de</code></p>
+<p>In this example the model gpt-3.5-turbo is used. Additional positional arguments are the path to the input and the language of the document (needed for the tokenizer).
+This will create an output folder in the directory from which the script is run with two subfolders <code>human</code> and <code>machine</code>. Optionally the output directory can be specified
+with the flag <code>--outfolder</code>, for more info on the optional arguments see <code>generate.py --help</code>.</p>
+<p>To <strong>generate personas</strong>:</p>
+<p><code>bash call_generate_personas.sh</code> calls <code>generate_personas.py</code></p>
+<p><code>prompts.json</code> contains all the prompts and personas</p>
+<h3 id="feature-extraction-directory">Feature extraction directory</h3>
+<h4 id="sophistication"><strong>Sophistication</strong></h4>
+<p><strong>Step 1</strong> Concatenate all corpus files into one txt file in the data folder
+<code>bash concatenate_files.sh</code>: prompts_n_coherence/data/  --&gt; feature_extraction/data</p>
+<p><strong>Step 2</strong> Run the main script
+<code>bash sophistication.sh</code>:  --&gt; feature_extraction/results/sophistication_scores.csv</p>
+<h4 id="lexical-richness"><strong>Lexical richness</strong></h4>
+<p><code>bash lxr_scores.sh</code> prompts_n_coherence/data/</p>
+<h4 id="morphology"><strong>Morphology</strong></h4>
+<p><strong>Step 1</strong> Extract vocabulary of most frequent words</p>
+<p><code>bash create_most_freq_vocs.sh</code> : prompts_n_coherence/data/ --&gt; scripts/freq_voc/, scripts/lemmas/</p>
+<p><strong>Step 2</strong> Run diversity analysis</p>
+<p><strong>for single file</strong></p>
+<pre class="hljs"><code><div>python3 shannon_pairwise.py -f ~/switchdrive/IMAGINE_files/datasets/wmtnews21/wmtnews_test_de_A.txt -l de -sys A_wmt -v freq_voc/wmtnews_test_de_A.freq_voc &gt; test.txt
+</div></code></pre>
+<p><strong>for multiple files in a directory</strong>
+<strong>if considering the top 1000 most frequent lemmas with more than 1 morphological form</strong></p>
+<p>lang = {&quot;en&quot;, &quot;de&quot;}</p>
+<pre class="hljs"><code><div>bash shannon_1000_mostfrequent_script.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simple_prompt/{corpus} lang
+</div></code></pre>
+<p><strong>if chosing all lemmas with more than one morphological form</strong></p>
+<p>lang = {&quot;en&quot;, &quot;de&quot;}</p>
+<pre class="hljs"><code><div>bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simple_prompt/{corpus} lang
+</div></code></pre>
+<h4 id="extract-features-with-textdescriptives"><strong>Extract Features with TextDescriptives</strong></h4>
+<p><strong>features_list.py</strong> contains several dictionnaries with feature names:</p>
+<ul>
+<li>features_list is a list of TextDescriptives features</li>
+<li>features_custom is a list of custom-added feature names</li>
+<li>features_to_visualize_dict is a dictionnary with feature names used by textDescriptives and throughout the project as keys and modified feature names as values</li>
+<li>features_raw_counts is a list of features that are measured in raw counts</li>
+</ul>
+<p><strong>Extract features and sort results by feature, language and domain</strong></p>
+<p><strong>Main Script</strong>: <code>bash run_extract_features.sh</code></p>
+<ul>
+<li><strong>Description</strong>: Executes three Python scripts to extract linguistic features, reorganize results, and transform dataframes for further analysis.</li>
+<li><strong>Executes</strong>:
+<ol>
+<li>
+<p><strong>Script</strong>: <code>extract_features.py --corpus $corpus</code></p>
+<ul>
+<li><strong>Function</strong>: Iterates through all specified corpora to extract features using the TextDescriptives library, including a custom formula for German Flesch Reading Ease.</li>
+</ul>
+</li>
+<li>
+<p><strong>Script</strong>: <code>combine_results_per_lang_domain.py</code></p>
+<ul>
+<li><strong>Function</strong>: Restructures data into a more accessible format, sorting by individual features, language, and domain.</li>
+<li><strong>Iterates through</strong>: <code>../results/per_corpus/{corpus}</code></li>
+<li><strong>Output Directories</strong>:
+<ul>
+<li>Per Feature: <code>../results/per_feature/{feature_to_extract}/{corpus}.csv</code></li>
+<li>Per Language: <code>../results/per_language/{language}/{feature}.csv</code></li>
+<li>Per Domain: <code>../results/per_domain/news/{language}/{feature}.csv</code></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Script</strong>: <code>transform_dataframe.py -f $feature_type</code></p>
+<ul>
+<li><strong>Function</strong>: Pools together and formats results for morphological and lexical features.</li>
+<li><strong>Sources</strong>:
+<ul>
+<li>Morphological Features: <code>../results/morphology/{corpus}.csv</code></li>
+<li>Lexical Features: <code>../results/lexical_richness/{corpus}.csv</code></li>
+</ul>
+</li>
+<li><strong>Output Directories</strong>:
+<ul>
+<li>Per Feature: <code>../results/per_feature/{feature_to_extract}/{corpus}.csv</code></li>
+<li>Per Language: <code>../results/per_language/{language}/{feature}.csv</code></li>
+<li>Per Domain: <code>../results/per_domain/news/{language}/{feature}.csv</code></li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+</li>
+</ul>
+<h2 id="citation">Citation</h2>
+<pre class="hljs"><code><div>@article{YourLastName2024,
+  title={Tracing Linguistic Footprints of ChatGPT Across Tasks, Domains and Personas in English and German},
+  author={Anastassia Shaitarova, Nikolaj Bauer, Jannis Vamvas, Martin Volk},
+  journal={Journal Name},
+  year={2024},
+  volume={xx},
+  pages={xxx-xxx}
+}
+</div></code></pre>
+
+</body>
+</html>
