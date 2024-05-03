@@ -8,8 +8,6 @@ This repository contains the code and data supporting the research paper "Tracin
 
 ### Text generation directory
 
-**generate.py**
-
 The script `generate.py` sends requests to the OpenAI-API. As input it takes a JSON file in the following form:
 ```json
 {
@@ -65,7 +63,9 @@ To **generate personas**:
 
 **for single file**
 
-`python3 shannon_pairwise.py -f ~/switchdrive/IMAGINE_files/datasets/wmtnews21/wmtnews_test_de_A.txt -l de -sys A_wmt -v freq_voc/wmtnews_test_de_A.freq_voc > test.txt`
+```
+python3 shannon_pairwise.py -f ~/switchdrive/IMAGINE_files/datasets/wmtnews21/wmtnews_test_de_A.txt -l de -sys A_wmt -v freq_voc/wmtnews_test_de_A.freq_voc > test.txt
+```
 
 **for multiple files in a directory**
 **if considering the top 1000 most frequent lemmas with more than 1 morphological form**
