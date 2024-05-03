@@ -51,31 +51,31 @@ The metrics for Sophistication, Lexical and Morphological richness are calcualte
 #### **Sophistication**
 
 **Step 1** `bash concatenate_files.sh`
-  - **Input**: `../../generated_data/`
-  - **Output**: `../concatenated_data/`
-  - **Function**: Concatenates all corpus files into one txt file in the data folder
+  - Input: `../../generated_data/`
+  - Output: `../concatenated_data/`
+  - Function: Concatenates all corpus files into one txt file in the data folder
 
 **Step 2** `bash sophistication.sh`
-  - **Output**: `../results/sophistication/sophistication_scores.csv`
+  - Output: `../results/sophistication/sophistication_scores.csv`
 
 #### **Lexical richness**
 
 `bash lxr_scores.sh`
-  - **Input**: `../../generated_data/`
-  - **Output**: `../results/lexical_richness`
+  - Input: `../../generated_data/`
+  - Output: `../results/lexical_richness`
 
 #### **Morphology** for the German corpora
 
 **Step 1** `bash create_most_freq_vocs.sh`
-  - **Input**: `../../generated_data/`
-  - **Output**: `freq_voc/`, `lemmas/`
-  - **Function**: Extracts vocabulary of most frequent words
+  - Input: `../../generated_data/`
+  - Output: `freq_voc/`, `lemmas/`
+  - Function: Extracts vocabulary of most frequent words
 
 **Step 2** `bash mrph_all.sh`
-  - **Language**: `de`
-  - **Input**: `../../generated_data/`
-  - **Output**: `../results/morphology/${corpus_name}`
-  - **Function**: Measure the surprisal levels within the inflectional paradigms of the German lemmas and Produces Shannon entropy and Simpson diversity metrics 
+  - Language: `de`
+  - Input: `../../generated_data/`
+  - Output: `../results/morphology/${corpus_name}`
+  - Function: Measure the surprisal levels within the inflectional paradigms of the German lemmas and Produces Shannon entropy and Simpson diversity metrics 
 
 #### **Extract Features with TextDescriptives**
 
@@ -95,22 +95,22 @@ Link to the [TextDescriptives library](https://hlasse.github.io/TextDescriptives
   - **Description**: Executes three Python scripts to extract linguistic features, reorganize results, and transform dataframes for further analysis.
   - **Executes**:
     1. `extract_features.py --corpus $corpus`
-        - **Function**: Iterates through all specified corpora to extract features using the TextDescriptives library, including a custom formula for German Flesch Reading Ease.
+        - Function: Iterates through all specified corpora to extract features using the TextDescriptives library, including a custom formula for German Flesch Reading Ease.
 
     2. `combine_results_per_lang_domain.py`
-        - **Function**: Restructures data into a more accessible format, sorting by individual features, language, and domain.
-        - **Iterates through**: `../results/per_corpus/{corpus}`
-        - **Output Directories**:
+        - Function: Restructures data into a more accessible format, sorting by individual features, language, and domain.
+        - Iterates through: `../results/per_corpus/{corpus}`
+        - Output Directories:
           - Per Feature: `../results/per_feature/{feature_to_extract}/{corpus}.csv`
           - Per Language: `../results/per_language/{language}/{feature}.csv`
           - Per Domain: `../results/per_domain/news/{language}/{feature}.csv`
 
     3. `transform_dataframe.py -f $feature_type`
-        - **Function**: Pools together and formats results for morphological and lexical features.
-        - **Sources**:
+        - Function: Pools together and formats results for morphological and lexical features.
+        - Inputs:
           - Morphological Features: `../results/morphology/{corpus}.csv`
           - Lexical Features: `../results/lexical_richness/{corpus}.csv`
-        - **Output Directories**:
+        - Output Directories:
           - Per Feature: `../results/per_feature/{feature_to_extract}/{corpus}.csv`
           - Per Language: `../results/per_language/{language}/{feature}.csv`
           - Per Domain: `../results/per_domain/news/{language}/{feature}.csv`
