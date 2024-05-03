@@ -115,6 +115,7 @@ bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simpl
   ../results/per_domain/news/{language}/{feature}.csv       
 
 
+```
 @article{YourLastName2024,
   title={Tracing Linguistic Footprints of ChatGPT Across Tasks, Domains and Personas in English and German},
   author={Anastassia Shaitarova, Nikolaj Bauer, Jannis Vamvas, Martin Volk},
@@ -123,5 +124,6 @@ bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simpl
   volume={xx},
   pages={xxx-xxx}
 }
+```
 
 
