@@ -81,7 +81,7 @@ The metrics for Sophistication, Lexical and Morphological richness are calcualte
 
 Link to the [TextDescriptives library](https://hlasse.github.io/TextDescriptives/descriptivestats.html)
 
-**features_list.py** contains several dictionnaries with feature names:
+`features_list.py` contains several dictionnaries with feature names:
 
 - features_list is a list of TextDescriptives features
 - features_custom is a list of custom-added feature names
