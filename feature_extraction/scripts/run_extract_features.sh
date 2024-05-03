@@ -4,7 +4,7 @@ for corpus in 'cs_de' 'cs_en' '20min' 'cnn' 'pubmed_de' 'pubmed_en' 'zora_en' 'z
 
 do
     echo $corpus
-    # python3 extract_features.py --corpus $corpus
+    python3 extract_features.py --corpus $corpus
 
 done
 
