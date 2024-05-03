@@ -2,6 +2,10 @@
 **/data_2309_gpt3/
 output/
 data_collection/mine_elsevier.py
+analysis/shapdata/
+analysis/scripts/shap_manfred/
+analysis/scripts/old_scripts/
+analysis/scripts/*shap*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -9,9 +13,10 @@ __pycache__/
 *$py.class
 
 # R
-.Rproj.user/
-.Rhistory
-.RData
+**/.Rproj.user/
+**/.Rhistory
+**/.RData
+**/.DS_Store
 
 # C extensions
 *.so
