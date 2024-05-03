@@ -1,8 +1,7 @@
 # ignore data folders
-**/data/
+**/data_2309_gpt3/
 output/
-feature_extraction/scripts_other/
-analysis/scripts/old_scripts/
+data_collection/mine_elsevier.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

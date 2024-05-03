@@ -167,6 +167,8 @@ def run_stats_tests(input_dir, outputdir):
 
 def main():
 
+    # ######## run statistical analysis tests for each language ########
+
     input_dir = f'../../feature_extraction/results/per_language/{language}/'
     output_dir = '../../viz/per_lang'
 
@@ -177,11 +179,13 @@ def main():
     with open(f'../results/{language}_significant_features_{alpha}.json', 'w') as f:
         json.dump(significant_features, f)
 
-    print(language)
-    for p, v in significant_features.items():
-        print(p, len(v['bon']))
-        print(p, v['bon'])
-        print()
+    # print(language)
+    # for p, v in significant_features.items():
+    #     print(p, len(v['bon']))
+    #     print(p, v['bon'])
+    #     print()
+
+    # ######## run statistical analysis tests for each domain ########
 
     for domain in ['news', 'science', 'clinical']:
         input_dir = f'../../feature_extraction/results/per_domain/{domain}/{language}/'

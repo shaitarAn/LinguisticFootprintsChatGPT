@@ -5,6 +5,16 @@ import matplotlib.pyplot as plt
 
 methods = {'bh': 'Benjamini-Hochberg', 'holm': 'Holm', 'bon': 'Bonferroni'}
 
+corpus_dict = {
+    "cnn": "CNN",
+    "20min": "20 Minuten",
+    "cs_en": "CSB English",
+    "cs_de": "CSB German", 
+    "pubmed_de": "PubMed German",
+    "pubmed_en": "PubMed English",
+    "full": "Full data"
+}
+
 def collect_special_pngs(path):
     pngs = []
     # check if path is a directory

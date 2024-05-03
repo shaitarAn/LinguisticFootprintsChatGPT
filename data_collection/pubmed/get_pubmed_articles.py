@@ -4,8 +4,7 @@ from Bio import Entrez
 import time
 import os
 
-Entrez.email = os.getenv("EMAIL_ADDRESS")
-
+Entrez.email = "hailyyeugng1997@gmail.com"
 
 class BatchIterator:
     def __init__(self, lst, batch_size=100):
@@ -69,18 +68,22 @@ def get_pcmids(source, dest):
         pmids = [line.strip() for line in infile.readlines()]
     batch_pmids = BatchIterator(pmids)
     for batch in tqdm(batch_pmids, total=len(pmids) / 100):
-        handle = Entrez.esummary(db="pubmed", id=batch, retmode="xml")
-        records = Entrez.read(handle)
-        for record in records:
-            try:
-                pmcid = record["ArticleIds"]["pmc"]
-            except KeyError:
-                continue
-            with open(dest, "a", encoding="utf-8") as outfile:
-                outfile.write(f"{pmcid}\n")
-
-        # to not overload the api...
-        time.sleep(1)
+        try:
+            handle = Entrez.esummary(db="pubmed", id=batch, retmode="xml")
+            records = Entrez.read(handle)
+            for record in records:
+                print(record)
+                try:
+                    pmcid = record["ArticleIds"]["pmc"]
+                except KeyError:
+                    continue
+                with open(dest, "a", encoding="utf-8") as outfile:
+                    outfile.write(f"{pmcid}\n")
+                    # to not overload the api...
+            time.sleep(1)
+        
+        except Exception as e:
+            print(e)
 
 
 if __name__ == "__main__":
@@ -102,4 +105,6 @@ if __name__ == "__main__":
 
     # write_articles("pcmid-EnglishLan-set.txt", "en/xml-files")
 
-    # download_articles(["PMC9646605", "PMC9559163"])
+    # output = download_articles(["PMC9646605", "PMC9559163"])
+    # print(output)
+# handle = Entrez.efetch(db='pubmed', id=33766997, rettype="medline", retmode="text")
