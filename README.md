@@ -1,4 +1,12 @@
-# Text generation directory
+# Tracing Linguistic Footprints of ChatGPT Across Tasks, Domains, and Personas
+
+## Brief Description
+
+This repository contains the code and data supporting the research paper "Tracing Linguistic Footprints of ChatGPT Across Tasks, Domains and Personas in English and German." The project explores how the output of large language models like ChatGPT differs from human-generated text and analyzes the impact of task-specific prompting on linguistic features in both English and German texts.
+
+## Usage
+
+### Text generation directory
 
 **generate.py**
 
@@ -32,28 +40,28 @@ To **generate personas**:
 
 `prompts.json` contains all the prompts and personas
 
-# Feature extraction directory
+### Feature extraction directory
 
-## **Sophistication**
+#### **Sophistication**
 
-### Step 1 Concatenate all corpus files into one txt file in the data folder
+**Step 1** Concatenate all corpus files into one txt file in the data folder
 `bash concatenate_files.sh`: prompts_n_coherence/data/  --> feature_extraction/data
 
-### Step 2 Run the main script
+**Step 2** Run the main script
 `bash sophistication.sh`:  --> feature_extraction/results/sophistication_scores.csv
 
 
-## **Lexical richness**
+### **Lexical richness**
 
 `bash lxr_scores.sh` prompts_n_coherence/data/
 
-## **Morphology**
+### **Morphology**
 
-### Step 1 Extract vocabulary of most frequent words
+**Step 1** Extract vocabulary of most frequent words
 
 `bash create_most_freq_vocs.sh` : prompts_n_coherence/data/ --> scripts/freq_voc/, scripts/lemmas/
 
-### Step 2 Run diversity analysis
+**Step 2** Run diversity analysis
 
 **for single file**
 
@@ -77,7 +85,7 @@ bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simpl
 ```
 
 
-## **Extract Features with TextDescriptives**
+### **Extract Features with TextDescriptives**
 
 **features_list.py** contains several dictionnaries with feature names:
 
@@ -87,7 +95,7 @@ bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simpl
 - features_raw_counts is a list of features that are measured in raw counts
 
 
-### Extract features and sort results by feature, language and domain
+#### Extract features and sort results by feature, language and domain
 
 `bash run_extract_features.sh` executes 3 python scripts:
 
@@ -106,6 +114,4 @@ bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simpl
   ../results/per_language/{language}/{feature}.csv, and
   ../results/per_domain/news/{language}/{feature}.csv       
 
-  
 
- ## create data 
