@@ -1,6 +1,0 @@
-Medizinische Leitlinien sind sind systematisch entwickelte Entscheidungshilfen für Leistungserbringer und Patienten zur angemessenen Vorgehensweise bei speziellen Gesundheitsproblemen. 
-Das Leitlinienprogramm Onkologie enthält spezifische Empfehlungen, sowie Texte, die aufgrund des aktuellen wissenschaftlichen Standes und aktueller Literatur die Empfehlungen begründen.
-Bitte vervollständige den folgenden Text aus dem Leitlinienprogramm Onkologie:
-<title>
-
-<prompt>

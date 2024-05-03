@@ -1,6 +1,0 @@
-Die Schweizer Zeitung "20 Minuten" ist eine kostenlose Tageszeitung, die in der Schweiz veröffentlicht wird. Sie zeichnet sich durch ein kompaktes Format aus und richtet sich an ein breites Publikum. Die Zeitung deckt verschiedene Themenbereiche ab, darunter Nachrichten, Politik, Wirtschaft, Sport, Unterhaltung und Lifestyle. Sie legt Wert auf eine einfache und leicht verständliche Sprache, um eine breite Leserschaft anzusprechen.
-
-Vervollständige den folgenden Artikel den in "20 Minuten" publiziert wurde:
-<titel>
-
-<prompt>

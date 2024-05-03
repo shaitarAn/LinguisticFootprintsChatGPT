@@ -1,8 +1,0 @@
-PubMed ist eine weit verbreitete Datenbank, die Zugriff auf eine umfangreiche Sammlung von biomedizinischer Literatur bietet. Die Datenbank enthält millionen von Quellenangaben und Abstracts von Artikeln in wissenschaftlichen Zeitrschriften, Büchern und anderen Quellen, die in den Bereichen Medizin, Gesundheitsversorgung, Biowissenschaften und anderen verwanten Gebieten publiziert wurden.
-Bitte vervollständige die Einleitung eines Artikels, der auf PubMed publiziert wurde.
-Der Titel is wiefolgt:
-<title>
-Der Abstract ist:
-<prompt>
-
-1. Einleitung
