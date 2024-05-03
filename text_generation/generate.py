@@ -9,7 +9,7 @@ from tqdm import tqdm
 from datetime import datetime
 import time
 import copy
-print (os.environ.keys())
+# print (os.environ.keys())
 
 
 
@@ -31,7 +31,7 @@ class OpenAiModels:
     def generate(self, messages, temp, freq_pen):
         """returns completion time in tokens per second and the generated text"""
         # todo: test the 16k model
-        if not self.model_name in ["gpt-3.5-turbo", "gpt-3.5-turbo-16k"]:
+        if not self.model_name in ["gpt-3.5-turbo", "gpt-3.5-turbo-16k", "gpt-4"]:
             print(f"{self.model_name} not implemented")
             exit(1)
 
@@ -246,7 +246,7 @@ def generate_from_filename(filename, file_counter):
               f.write(source_dict[filename]['text'])
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Generate with the OpenAI API. The API key needs to be specified as an environment variable called 'OPENAI_KEY'"
+    parser = argparse.ArgumentParser(description="Generate with the OpenAI API. The API key needs to be specified as an environment variable called 'OPENAI_API_KEY'"
                                                  "If needed the organization's ID needs to be specified as 'OPENAI_ORG'")
     parser.add_argument("model", type=str, choices=["gpt-3.5-turbo", "gpt-3.5-turbo-16k"], help="OpenAI model to use")
     parser.add_argument("source_file", type=str, help="Filepath of the JSON file with the human texts in following format:"
@@ -320,7 +320,7 @@ if __name__ == "__main__":
     prompt_template = prompt_dict[corpus][prompt_type]
 
     # Initialize the specified model
-    openai.api_key = os.getenv("OPENAI_KEY")
+    openai.api_key = os.getenv("OPENAI_API_KEY")
     openai.organization = os.getenv("OPENAI_ORG")
 
     print("openai.api_key", openai.api_key)
