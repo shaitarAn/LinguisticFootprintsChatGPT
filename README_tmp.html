@@ -369,7 +369,7 @@ code {
 <h2 id="brief-description">Brief Description</h2>
 <p>This repository contains the code and data supporting the research paper &quot;Tracing Linguistic Footprints of ChatGPT Across Tasks, Domains and Personas in English and German.&quot; The project explores how the output of large language models like ChatGPT differs from human-generated text and analyzes the impact of task-specific prompting on linguistic features in both English and German texts.</p>
 <h2 id="usage">Usage</h2>
-<h3 id="text-generation-directory">Text generation directory</h3>
+<h3 id="text-generation-textgeneration">Text generation: text_generation/</h3>
 <p>The script <code>generate.py</code> sends requests to the OpenAI-API. As input it takes a JSON file in the following form:</p>
 <pre class="hljs"><code><div>{
   <span class="hljs-attr">"file1"</span>: {
@@ -404,41 +404,41 @@ with the flag <code>--outfolder</code>, for more info on the optional arguments 
 <li><strong>Output file structure</strong>: <code>f&quot;{outputdir}/{corpus}/{task}/{file_counter}.txt&quot;</code></li>
 </ul>
 <p><code>prompts.json</code> contains all the prompts and personas</p>
-<h3 id="feature-extraction-directory">Feature extraction directory</h3>
+<h3 id="feature-extraction-featureextractionscripts">Feature extraction: feature_extraction/scripts/</h3>
+<p>The metrics for Sophistication, Lexical and Morphological richness are calcualted using <a href="https://github.com/dimitarsh1/BiasMT/">BiasMT</a> tool.</p>
 <h4 id="sophistication"><strong>Sophistication</strong></h4>
 <p><strong>Step 1</strong> <code>bash concatenate_files.sh</code></p>
 <ul>
-<li><strong>Input</strong>: <code>generated_data/</code></li>
-<li><strong>Output</strong>: <code>feature_extraction/concatenated_data/</code></li>
+<li><strong>Input</strong>: <code>../../generated_data/</code></li>
+<li><strong>Output</strong>: <code>../concatenated_data/</code></li>
 <li><strong>Function</strong>: Concatenates all corpus files into one txt file in the data folder</li>
 </ul>
 <p><strong>Step 2</strong> <code>bash sophistication.sh</code></p>
 <ul>
-<li><strong>Output</strong>: feature_extraction/results/sophistication_scores.csv</li>
+<li><strong>Output</strong>: <code>../results/sophistication/sophistication_scores.csv</code></li>
 </ul>
 <h4 id="lexical-richness"><strong>Lexical richness</strong></h4>
-<p><code>bash lxr_scores.sh</code> prompts_n_coherence/data/</p>
-<h4 id="morphology"><strong>Morphology</strong></h4>
+<p><code>bash lxr_scores.sh</code></p>
+<ul>
+<li><strong>Input</strong>: <code>../../generated_data/</code></li>
+<li><strong>Output</strong>: <code>../results/lexical_richness</code></li>
+</ul>
+<h4 id="morphology-for-the-german-corpora"><strong>Morphology</strong> for the German corpora</h4>
 <p><strong>Step 1</strong> <code>bash create_most_freq_vocs.sh</code></p>
 <ul>
-<li><strong>Input</strong>: <code>generated_data/</code></li>
-<li><strong>Output</strong>: <code>scripts/freq_voc/</code>, <code>scripts/lemmas/</code></li>
+<li><strong>Input</strong>: <code>../../generated_data/</code></li>
+<li><strong>Output</strong>: <code>freq_voc/</code>, <code>lemmas/</code></li>
 <li><strong>Function</strong>: Extracts vocabulary of most frequent words</li>
 </ul>
-<p><strong>Step 2</strong> Run diversity analysis</p>
-<p><strong>for single file</strong></p>
-<pre class="hljs"><code><div>python3 shannon_pairwise.py -f ~/switchdrive/IMAGINE_files/datasets/wmtnews21/wmtnews_test_de_A.txt -l de -sys A_wmt -v freq_voc/wmtnews_test_de_A.freq_voc &gt; test.txt
-</div></code></pre>
-<p><strong>for multiple files in a directory</strong>
-<strong>if considering the top 1000 most frequent lemmas with more than 1 morphological form</strong></p>
-<p>lang = {&quot;en&quot;, &quot;de&quot;}</p>
-<pre class="hljs"><code><div>bash shannon_1000_mostfrequent_script.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simple_prompt/{corpus} lang
-</div></code></pre>
-<p><strong>if chosing all lemmas with more than one morphological form</strong></p>
-<p>lang = {&quot;en&quot;, &quot;de&quot;}</p>
-<pre class="hljs"><code><div>bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simple_prompt/{corpus} lang
-</div></code></pre>
+<p><strong>Step 2</strong> <code>bash mrph_all.sh</code></p>
+<ul>
+<li><strong>Language</strong>: <code>de</code></li>
+<li><strong>Input</strong>: <code>../../generated_data/</code></li>
+<li><strong>Output</strong>: <code>../results/morphology/${corpus_name}</code></li>
+<li><strong>Function</strong>: Measure the surprisal levels within the inflectional paradigms of the German lemmas and Produces Shannon entropy and Simpson diversity metrics</li>
+</ul>
 <h4 id="extract-features-with-textdescriptives"><strong>Extract Features with TextDescriptives</strong></h4>
+<p>Link to the <a href="https://hlasse.github.io/TextDescriptives/descriptivestats.html">TextDescriptives library</a></p>
 <p><strong>features_list.py</strong> contains several dictionnaries with feature names:</p>
 <ul>
 <li>features_list is a list of TextDescriptives features</li>

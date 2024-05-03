@@ -6,7 +6,7 @@ This repository contains the code and data supporting the research paper "Tracin
 
 ## Usage
 
-### Text generation directory
+### Text generation: text_generation/
 
 The script `generate.py` sends requests to the OpenAI-API. As input it takes a JSON file in the following form:
 ```json
@@ -44,56 +44,42 @@ with the flag `--outfolder`, for more info on the optional arguments see `genera
 
 `prompts.json` contains all the prompts and personas
 
-### Feature extraction directory
+### Feature extraction: feature_extraction/scripts/
+
+The metrics for Sophistication, Lexical and Morphological richness are calcualted using [BiasMT](https://github.com/dimitarsh1/BiasMT/) tool.
 
 #### **Sophistication**
 
 **Step 1** `bash concatenate_files.sh`
-  - **Input**: `generated_data/`
-  - **Output**: `feature_extraction/concatenated_data/`
+  - **Input**: `../../generated_data/`
+  - **Output**: `../concatenated_data/`
   - **Function**: Concatenates all corpus files into one txt file in the data folder
 
 **Step 2** `bash sophistication.sh`
-  - **Output**: feature_extraction/results/sophistication_scores.csv
+  - **Output**: `../results/sophistication/sophistication_scores.csv`
 
 #### **Lexical richness**
 
-`bash lxr_scores.sh` prompts_n_coherence/data/
+`bash lxr_scores.sh`
+  - **Input**: `../../generated_data/`
+  - **Output**: `../results/lexical_richness`
 
-#### **Morphology**
+#### **Morphology** for the German corpora
 
 **Step 1** `bash create_most_freq_vocs.sh`
-  - **Input**: `generated_data/`
-  - **Output**: `scripts/freq_voc/`, `scripts/lemmas/`
+  - **Input**: `../../generated_data/`
+  - **Output**: `freq_voc/`, `lemmas/`
   - **Function**: Extracts vocabulary of most frequent words
 
-**Step 2** Run diversity analysis
-
-**for single file**
-
-```
-python3 shannon_pairwise.py -f ~/switchdrive/IMAGINE_files/datasets/wmtnews21/wmtnews_test_de_A.txt -l de -sys A_wmt -v freq_voc/wmtnews_test_de_A.freq_voc > test.txt
-```
-
-**for multiple files in a directory**
-**if considering the top 1000 most frequent lemmas with more than 1 morphological form**
-
-lang = {"en", "de"}
-
-```
-bash shannon_1000_mostfrequent_script.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simple_prompt/{corpus} lang
-```
-
-**if chosing all lemmas with more than one morphological form**
-
-lang = {"en", "de"}
-
-```
-bash mrph_all.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simple_prompt/{corpus} lang
-```
-
+**Step 2** `bash mrph_all.sh`
+  - **Language**: `de`
+  - **Input**: `../../generated_data/`
+  - **Output**: `../results/morphology/${corpus_name}`
+  - **Function**: Measure the surprisal levels within the inflectional paradigms of the German lemmas and Produces Shannon entropy and Simpson diversity metrics 
 
 #### **Extract Features with TextDescriptives**
+
+Link to the [TextDescriptives library](https://hlasse.github.io/TextDescriptives/descriptivestats.html)
 
 **features_list.py** contains several dictionnaries with feature names:
 
