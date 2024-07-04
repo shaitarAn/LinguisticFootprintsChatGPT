@@ -185,6 +185,7 @@ def main():
     #     print(p, v['bon'])
     #     print()
 
+
     # ######## run statistical analysis tests for each domain ########
 
     for domain in ['news', 'science', 'clinical']:
@@ -207,6 +208,11 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
 
 
 

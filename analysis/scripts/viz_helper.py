@@ -40,7 +40,8 @@ def plot_means(outputdir, df, title, alpha):
     # increase the font size of the x
     plt.xticks(fontsize=20)
     plt.yticks(fontsize=15)
-    plt.savefig(f"{outputdir}/means_{title}.png")
+    plt.tight_layout()
+    plt.savefig(f"{outputdir}/{title}.png")
     plt.show()
     plt.close()
 

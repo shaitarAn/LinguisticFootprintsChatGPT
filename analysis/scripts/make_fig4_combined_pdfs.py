@@ -70,10 +70,14 @@ def make_boxplot_one_row(pngs, output_path):
         plt.tight_layout()
 
         # Save the figure as a page in the PDF file
-        pdf.savefig()
+        # pdf.savefig()
+        # plt.show()
+        # save the plot as a png file
+        plt.savefig(output_path, bbox_inches='tight')
+
 
         # Close the figure
-        plt.close(fig)
+        # plt.close(fig)
 
     # Print message
     print("PDF file saved successfully with combined plots.")
@@ -100,11 +104,14 @@ def main():
 
     # List of PNG paths
     pngs = ['../../viz/boxplots/special/full_uniq.png'] + [f'../../viz/boxplots/special/{corpus}_{feature}.png' for corpus in corpora]
+    print(pngs)
 
     # Combine PNGs into a single PDF
-    combine_pngs(pngs, "../../viz/boxplots/special/unique_tokens_3x2.pdf")
+    # combine_pngs(pngs, "../../viz/boxplots/special/unique_tokens_3x2.pdf")
 
-    make_boxplot_one_row(pngs, "../../viz/boxplots/special/unique_tokens.pdf")
+    # make_boxplot_one_row(pngs, "../../viz/boxplots/special/unique_tokens.pdf")
+    # save png
+    make_boxplot_one_row(pngs, "../../viz/boxplots/special/unique_tokens.png")
 
     # ##############################################################################
     # # make boxplots with the top and bottom features

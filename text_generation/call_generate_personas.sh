@@ -2,15 +2,16 @@
 
 ## without parameters
 
-model="gpt-4" #gpt-3.5-turbo-16k, gpt-4
+model="gpt-4-turbo-2024-04-09" #gpt-3.5-turbo-16k, gpt-4
 
-outfolder="../data_2403_gpt4" # in this folder subfolders task/corpus/system will be created
+outfolder="../data_2407_gpt4" # in this folder subfolders task/corpus/system will be created
+
+# make sure the folder exists
+mkdir -p $outfolder
 
 infolder="../data_collection/100_files_json/"  # Folder with all the JSON for generation
 
 # echo $OPENAI_API_KEY
-
-mkdir -p $outfolder
 
 prompt_file="prompts.json"
 

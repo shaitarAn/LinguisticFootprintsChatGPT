@@ -73,6 +73,8 @@ def make_figure1(features):
     # create a new pdf
     pdf_path = "../../viz/for_paper/Figure1_En+De_2features.pdf"
     list_of_images[0].save(pdf_path, save_all=True, append_images=list_of_images[1:])
+    png_path = "../../viz/for_paper/Figure1_En+De_2features.png"
+    list_of_images[0].save(png_path, save_all=True, append_images=list_of_images[1:])
 
 def make_figure2():
     # #####################################################################################
@@ -90,11 +92,11 @@ def make_figure2():
 def main():
     features = ["mean_word_length", "pos_prop_PUNCT"]
     make_figure1(features)
-    make_figure2()
+    # make_figure2()
 
 if __name__ == "__main__":
     make_figure1(["mean_word_length", "pos_prop_PUNCT"])
-    make_figure2()
+    # make_figure2()
 
 
         

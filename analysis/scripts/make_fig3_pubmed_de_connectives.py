@@ -2,6 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
+import numpy as np
 
 # ##############################################################################
 # # create a csv file with the differences between the usage of capitalized
@@ -17,13 +18,22 @@ df_sorted = df.sort_values(by='human_upper', ascending=False)
 
 print(df_sorted)
 
-# Calculate absolute differences
-df_sorted['HU-CO'] = df_sorted['human_upper'] - df_sorted['continue_upper']
-df_sorted['HU-EX'] = df_sorted['human_upper'] - df_sorted['explain_upper']
-df_sorted['HU-CR'] = df_sorted['human_upper'] - df_sorted['create_upper']
-df_sorted['CO-EX'] = df_sorted['continue_upper'] - df_sorted['explain_upper']
-df_sorted['CO-CR'] = df_sorted['continue_upper'] - df_sorted['create_upper']
-df_sorted['EX-CR'] = df_sorted['explain_upper'] - df_sorted['create_upper']
+# Calculate absolute differences human values are at zero
+# df_sorted['HU-CO'] = df_sorted['human_upper'] - df_sorted['continue_upper']
+# df_sorted['HU-EX'] = df_sorted['human_upper'] - df_sorted['explain_upper']
+# df_sorted['HU-CR'] = df_sorted['human_upper'] - df_sorted['create_upper']
+# df_sorted['CO-EX'] = df_sorted['continue_upper'] - df_sorted['explain_upper']
+# df_sorted['CO-CR'] = df_sorted['continue_upper'] - df_sorted['create_upper']
+# df_sorted['EX-CR'] = df_sorted['explain_upper'] - df_sorted['create_upper']
+
+# Calculate absolute differences in the reverse order
+df_sorted['HU-CO'] = df_sorted['continue_upper'] - df_sorted['human_upper']
+df_sorted['HU-EX'] = df_sorted['explain_upper'] - df_sorted['human_upper']
+df_sorted['HU-CR'] = df_sorted['create_upper'] - df_sorted['human_upper']
+df_sorted['CO-EX'] = df_sorted['explain_upper'] - df_sorted['continue_upper']
+df_sorted['CO-CR'] = df_sorted['create_upper'] - df_sorted['continue_upper']
+df_sorted['EX-CR'] = df_sorted['create_upper'] - df_sorted['explain_upper']
+
 
 # Select only the required columns
 df_final = df_sorted[['connective', 'human_upper', 'HU-CO', 'HU-EX', 'HU-CR', 'CO-EX', 'CO-CR', 'EX-CR']]
@@ -37,41 +47,56 @@ df_final.to_csv("../results/connectives_upper_pubmed_de_diffs.csv", index=False)
 
 sns.set_theme(style="white")
 
-# use the first 25 rows
+# Use the first 10 rows
 data = df_final.iloc[:30]
 
-# make heat map for the values in the columns hu-co, hu-ex, hu-cr
-
+# Make heat map for the values in the columns HU-CO, HU-EX, HU-CR
 data = data.set_index('connective')
 
-# set the size of the plot
-plt.figure(figsize=(5, 10))
+# Rename specific columns for the heatmap
+data = data.rename(columns={'HU-CO': 'human-continue', 'HU-EX': 'human-explain', 'HU-CR': 'human-create', 'human-upper': 'human_upper'})
 
-# create a heatmap
-ax = sns.heatmap(data=data[['HU-CO', 'HU-EX', 'HU-CR']], annot=True, fmt="d", linewidths=.5, cbar=False, cmap="YlGnBu")
+# Create a mask for the heatmap where human_upper column is set to NaN
+mask = data.copy()
+mask['human_upper'] = np.nan
 
-# set the font size of the x and y axis labels
-plt.yticks(fontsize=15)
-plt.xticks(fontsize=15)
+# Set the size of the plot
+plt.figure(figsize=(8, 8))
 
+# Create a heatmap with the mask for color mapping but with original data for annotation
+ax = sns.heatmap(data=mask[['human_upper', 'human-continue', 'human-explain', 'human-create']], 
+                 annot=data[['human_upper', 'human-continue', 'human-explain', 'human-create']], fmt="d", 
+                 linewidths=.3, cbar=False, cmap="YlGnBu", annot_kws={"size": 20}, xticklabels=False)
 
-# place the x axis labels on the top
+# Make the background transparent
+ax.set_facecolor('none')
+plt.gcf().set_facecolor('none')
+
+# Set the font size of the y-axis labels
+plt.yticks(fontsize=20)
+
+# Place the x-axis labels on the top
 ax.xaxis.tick_top()
 
-# set font size for the labels
-ax.tick_params(labelsize=15) 
+# Set font size for the labels
+ax.tick_params(labelsize=20)
 
-# set the color palette to set3
-sns.set_palette("Set3")
-
-# remove the y axis label
+# Remove the y-axis label
 plt.ylabel("")
 
-# save the plot as a pdf file
-plt.savefig("../../viz/for_paper/connectives_cap_pubmed_de_heatmap.pdf", bbox_inches='tight')
+# Correctly position the values in the human_upper column
+for i in range(data.shape[0]):
+    ax.text(0.5, i + 0.5, f'{data["human_upper"].iloc[i]:.0f}', 
+            ha='center', va='center', color='black', fontsize=20)
+# Set the title of the plot
 
-# show the plot
+# Save the plot with a transparent background
+plt.savefig('../../viz/for_paper/connectives_cap_pubmed_de_heatmap.pdf', bbox_inches='tight', transparent=True)
+plt.savefig('../../viz/for_paper/connectives_cap_pubmed_de_heatmap.png', bbox_inches='tight', transparent=True)
+
+# Show the plot
 plt.show()
 plt.close()
+
 
 
