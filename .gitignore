@@ -3,6 +3,7 @@
 
 # ignore data folders
 **/data_2309_gpt3/
+data_2407_gpt4o/
 output/
 data_collection/mine_elsevier.py
 analysis/shapdata/

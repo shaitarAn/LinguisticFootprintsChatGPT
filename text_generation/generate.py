@@ -9,7 +9,7 @@ from tqdm import tqdm
 from datetime import datetime
 import time
 import copy
-print (os.environ.keys())
+# print (os.environ.keys())
 
 
 
@@ -31,7 +31,7 @@ class OpenAiModels:
     def generate(self, messages, temp, freq_pen):
         """returns completion time in tokens per second and the generated text"""
         # todo: test the 16k model
-        if not self.model_name in ["gpt-3.5-turbo", "gpt-3.5-turbo-16k", "gpt-4", "gpt-4-turbo-2024-04-09"]:
+        if not self.model_name in ["gpt-3.5-turbo", "gpt-3.5-turbo-16k", "gpt-4", "gpt-4-turbo-2024-04-09", "gpt-4o"]:
             print(f"{self.model_name} not implemented")
             exit(1)
 

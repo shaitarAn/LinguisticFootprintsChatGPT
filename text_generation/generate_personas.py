@@ -11,14 +11,14 @@ from generate import OpenAiModels
 
 # ############################################
 
-openai.api_key = os.getenv("OPENAI_KEY")
+openai.api_key = os.getenv("OPENAI_API_KEY")
 openai.organization = os.getenv("OPENAI_ORG")
 
 # ############################################
 
 parser = argparse.ArgumentParser()
 # parser.add_argument("prompt", type=str, help="Prompt to use for text generation")
-parser.add_argument("model", type=str, choices=["gpt-3.5-turbo", "gpt-3.5-turbo-16k", "gpt-4", "gpt-4-turbo-2024-04-09"], help="OpenAI model to use")
+parser.add_argument("model", type=str, choices=["gpt-3.5-turbo", "gpt-3.5-turbo-16k", "gpt-4", "gpt-4-turbo-2024-04-09", "gpt-4o"], help="OpenAI model to use")
 parser.add_argument("--temperature", "-t", type=float, required=False, default=1, help="Temperature to use for text generation")
 parser.add_argument("--frequency_penalty", "-fp", type=float, required=False, default=1, help="Frequency penalty to use for text generation")
 parser.add_argument("--corpus", "-c", type=str, required=True, help="Corpus name to use for text generation")
