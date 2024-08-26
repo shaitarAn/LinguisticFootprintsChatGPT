@@ -29,19 +29,22 @@ features_led = [
     "pos_prop_PUNCT",
 ]
 
-features = ["coleman_liau_index"]
+features = ["shannon_entropy"]
             # "dependency_distance_mean", "prop_adjacent_dependency_relation_mean", "first_order_coherence", "second_order_coherence"]
 
 for f in features:
 
-    feature = f"../../feature_extraction/results/per_language/english/{f}.csv"
-    feature_other_lang = f"../../feature_extraction/results/per_language/german/{f}.csv"
+    # feature = f"../../feature_extraction/results/per_language/english/{f}.csv"
+    # feature_other_lang = f"../../feature_extraction/results/per_language/german/{f}.csv"
+    feature_other_lang = f"../../feature_extraction/results/per_feature/{f}/20min.csv"
 
-    dfe = pd.read_csv(feature)
+    # dfe = pd.read_csv(feature)
     dfg = pd.read_csv(feature_other_lang)
 
+
     # combine the dataframes
-    df = pd.concat([dfe, dfg])
+    # df = pd.concat([dfe, dfg])
+    df = dfg
 
 
     # print("feature", "corpus", "mean_human", "std_human", "mean_continue", "std_continue", "mean_explain", "std_explain", "mean_create", "std_create")
@@ -62,6 +65,6 @@ for f in features:
     # analyse statistical significance between distributions
     
 
-    plot_means("../../viz/boxplots/special", df, "coleman", 0.05)
+    plot_means("../../viz/boxplots/special", df, "shannon", 0.05)
     # plot_means("../../viz", dfg, f, 0.05)
 

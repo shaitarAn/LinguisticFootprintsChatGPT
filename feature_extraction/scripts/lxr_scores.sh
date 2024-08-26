@@ -21,6 +21,7 @@ for corpus_folder in $DATADIR*; do
       for file in "$system_folder"/*; do
 
         python lxr_calculate.py -f ${file} -sys ${system} -o $OUTDIR/${corpus}.csv
+
       done
     done
 
