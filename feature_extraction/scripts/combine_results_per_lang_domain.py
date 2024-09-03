@@ -1,7 +1,9 @@
 import pandas as pd
-import os
+import os, sys
 import matplotlib.pyplot as plt
 from features_list import features_to_visualize_dict
+
+data_run = sys.argv[1]
 
 # initialize a dictionary with feature names as keys and empty lists as values
 german_dict = {}
@@ -24,7 +26,7 @@ for corpus in ["pubmed_en", "pubmed_de", "zora_en", "zora_de", "cnn", "20min", "
     print("*" * 50)
 
     # Directory where the CSV files are located
-    csv_directory = f"../results/per_corpus/{corpus}"  # Change this to the directory containing your CSV files
+    csv_directory = f"../{data_run}/results/per_corpus/{corpus}"  # Change this to the directory containing your CSV files
 
     # create list of features based on the first column of the first csv file
     first_csv = os.listdir(csv_directory)[0]
@@ -105,11 +107,11 @@ for corpus in ["pubmed_en", "pubmed_de", "zora_en", "zora_de", "cnn", "20min", "
                     else:
                         clinical_dict["english"][feature_to_extract].append(combined_dataframe)
 
-            if not os.path.exists(f"../results/per_feature/{feature_to_extract}"):
-                os.makedirs(f"../results/per_feature/{feature_to_extract}")
+            if not os.path.exists(f"../{data_run}/results/per_feature/{feature_to_extract}"):
+                os.makedirs(f"../{data_run}/results/per_feature/{feature_to_extract}")
 
             # write the dataframe to a csv file
-            combined_dataframe.to_csv(f"../results/per_feature/{feature_to_extract}/{corpus}.csv", index=False)
+            combined_dataframe.to_csv(f"../{data_run}/results/per_feature/{feature_to_extract}/{corpus}.csv", index=False)
 
         except:
             print(f"Error in feature: {feature_to_extract}")
@@ -121,56 +123,56 @@ for feature, dataframes in german_dict.items():
     german_dict[feature] = pd.concat(dataframes)
     # print(german_dict[feature].head())
     # print(german_dict[feature].shape)
-    if not os.path.exists(f"../results/per_language/german"):
-        os.makedirs(f"../results/per_language/german")
+    if not os.path.exists(f"../{data_run}/results/per_language/german"):
+        os.makedirs(f"../{data_run}/results/per_language/german")
     # write the dataframe to a csv file
-    german_dict[feature].to_csv(f"../results/per_language/german/{feature}.csv", index=False)
+    german_dict[feature].to_csv(f"../{data_run}/results/per_language/german/{feature}.csv", index=False)
 
 for feature, dataframes in english_dict.items():
     english_dict[feature] = pd.concat(dataframes)
     print(english_dict[feature].head())
     # print(english_dict[feature].shape)
-    if not os.path.exists(f"../results/per_language/english"):
-        os.makedirs(f"../results/per_language/english")
-    english_dict[feature].to_csv(f"../results/per_language/english/{feature}.csv", index=False)
+    if not os.path.exists(f"../{data_run}/results/per_language/english"):
+        os.makedirs(f"../{data_run}/results/per_language/english")
+    english_dict[feature].to_csv(f"../{data_run}/results/per_language/english/{feature}.csv", index=False)
 
 
 # iterate through the dictionaries and concatenate the dataframes
 for feature, dataframes in news_dict["german"].items():
     news_dict["german"][feature] = pd.concat(dataframes)
-    if not os.path.exists(f"../results/per_domain/news/german"):
-        os.makedirs(f"../results/per_domain/news/german")
-    news_dict["german"][feature].to_csv(f"../results/per_domain/news/german/{feature}.csv", index=False)
+    if not os.path.exists(f"../{data_run}/results/per_domain/news/german"):
+        os.makedirs(f"../{data_run}/results/per_domain/news/german")
+    news_dict["german"][feature].to_csv(f"../{data_run}/results/per_domain/news/german/{feature}.csv", index=False)
 
 for feature, dataframes in news_dict["english"].items():
     news_dict["english"][feature] = pd.concat(dataframes)
-    if not os.path.exists(f"../results/per_domain/news/english"):
-        os.makedirs(f"../results/per_domain/news/english")
-    news_dict["english"][feature].to_csv(f"../results/per_domain/news/english/{feature}.csv", index=False)
+    if not os.path.exists(f"../{data_run}/results/per_domain/news/english"):
+        os.makedirs(f"../{data_run}/results/per_domain/news/english")
+    news_dict["english"][feature].to_csv(f"../{data_run}/results/per_domain/news/english/{feature}.csv", index=False)
 
 for feature, dataframes in science_dict["german"].items():
     science_dict["german"][feature] = pd.concat(dataframes)
-    if not os.path.exists(f"../results/per_domain/science/german"):
-        os.makedirs(f"../results/per_domain/science/german")
-    science_dict["german"][feature].to_csv(f"../results/per_domain/science/german/{feature}.csv", index=False)
+    if not os.path.exists(f"../{data_run}/results/per_domain/science/german"):
+        os.makedirs(f"../{data_run}/results/per_domain/science/german")
+    science_dict["german"][feature].to_csv(f"../{data_run}/results/per_domain/science/german/{feature}.csv", index=False)
 
 for feature, dataframes in science_dict["english"].items():
     science_dict["english"][feature] = pd.concat(dataframes)
-    if not os.path.exists(f"../results/per_domain/science/english"):
-        os.makedirs(f"../results/per_domain/science/english")
-    science_dict["english"][feature].to_csv(f"../results/per_domain/science/english/{feature}.csv", index=False)
+    if not os.path.exists(f"../{data_run}/results/per_domain/science/english"):
+        os.makedirs(f"../{data_run}/results/per_domain/science/english")
+    science_dict["english"][feature].to_csv(f"../{data_run}/results/per_domain/science/english/{feature}.csv", index=False)
 
 for feature, dataframes in clinical_dict["german"].items():
     clinical_dict["german"][feature] = pd.concat(dataframes)
-    if not os.path.exists(f"../results/per_domain/clinical/german"):
-        os.makedirs(f"../results/per_domain/clinical/german")
-    clinical_dict["german"][feature].to_csv(f"../results/per_domain/clinical/german/{feature}.csv", index=False)
+    if not os.path.exists(f"../{data_run}/results/per_domain/clinical/german"):
+        os.makedirs(f"../{data_run}/results/per_domain/clinical/german")
+    clinical_dict["german"][feature].to_csv(f"../{data_run}/results/per_domain/clinical/german/{feature}.csv", index=False)
 
 for feature, dataframes in clinical_dict["english"].items():
     clinical_dict["english"][feature] = pd.concat(dataframes)
-    if not os.path.exists(f"../results/per_domain/clinical/english"):
-        os.makedirs(f"../results/per_domain/clinical/english")
-    clinical_dict["english"][feature].to_csv(f"../results/per_domain/clinical/english/{feature}.csv", index=False)
+    if not os.path.exists(f"../{data_run}/results/per_domain/clinical/english"):
+        os.makedirs(f"../{data_run}/results/per_domain/clinical/english")
+    clinical_dict["english"][feature].to_csv(f"../{data_run}/results/per_domain/clinical/english/{feature}.csv", index=False)
 
     
     

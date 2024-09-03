@@ -9,11 +9,13 @@ import statistics
 import spacy_udpipe
 import time
 import pickle
-import os
+import os, sys
 from nltk.probability import FreqDist
 import logging
 
-root = "lemmas/"
+data_run = sys.argv[1]
+
+root = f"data_run/lemmas/"
 
 
 def plot_freqdist_freq(fd,

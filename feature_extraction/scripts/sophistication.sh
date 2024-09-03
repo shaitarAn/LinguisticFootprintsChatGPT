@@ -1,10 +1,14 @@
 #!/bin/bash
 
-OUTDIR=../results/sophistication
+DATA_DIR=$1
+
+OUTDIR=../$DATA_DIR/results/sophistication
 mkdir -p $OUTDIR
 
+echo $DATA_DIR
+
 # Loop through each text file in the data directory
-for file in ../concatenated_data/*.txt; do
+for file in "../$DATA_DIR"/concatenated_data/*.txt; do
     # Extract corpus name from the file name
     # Extract everything before the last underscore as "corpus"
     filename=$(basename "$file") 

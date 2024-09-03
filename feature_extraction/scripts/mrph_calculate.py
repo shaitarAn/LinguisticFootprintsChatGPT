@@ -39,6 +39,7 @@ def main():
                         help='the number of iterations for the bootstrap.', default='1000')
     parser.add_argument('-s', '--sample-size', required=False,
                         help='the sample size (in sentences).', default='100')
+    parser.add_argument('-o', '--output_dir', required=True, help="Directory where all results and outputs will go.")
 
     args = parser.parse_args()
 
@@ -80,9 +81,9 @@ def main():
     # print(sentences)
     # 2. Compute overall metrics and per-lemma shannon scores
 
-    file_exists = os.path.isfile(f"../results/morphology/{args.dataset}.csv")
+    file_exists = os.path.isfile(f"{args.output_dir}/results/morphology/{args.dataset}.csv")
 
-    with open(f"../results/morphology/{args.dataset}.csv", 'a', newline='') as outf:
+    with open(f"{args.output_dir}/results/morphology/{args.dataset}.csv", 'a', newline='') as outf:
         writer1 = csv.writer(outf, delimiter=',')
 
         if not file_exists:
@@ -96,9 +97,9 @@ def main():
             author = parts[0]
             rest = "_".join(parts[1:])
             # check if the output folder exists
-            if not os.path.exists(f"../results/morphology/per_lemma/{args.dataset}"):
-                os.makedirs(f"../results/morphology/per_lemma/{args.dataset}")
-            with open(f"../results/morphology/per_lemma/{args.dataset}/{syst}.csv", "w") as outf2:
+            if not os.path.exists(f"{args.output_dir}/morphology/per_lemma/{args.dataset}"):
+                os.makedirs(f"{args.output_dir}/morphology/per_lemma/{args.dataset}")
+            with open(f"{args.output_dir}/morphology/per_lemma/{args.dataset}/{syst}.csv", "w") as outf2:
                 print(syst)
                                 
                 score = compute_gram_diversity(sentences[syst], args.dataset, lang, syst, freq_dict)

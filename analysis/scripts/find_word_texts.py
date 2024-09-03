@@ -2,7 +2,7 @@ import os
 import re
 import langdetect
 
-data_dir = "../../data_2309_gpt3/zora_de"
+data_dir = "../../data_2407_gpt4o/ggponc"
 
 # Define the word to search for
 word = "Darüber hinaus"

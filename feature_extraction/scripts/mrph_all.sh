@@ -4,7 +4,10 @@
 GERMAN_CORPORA=("20min")
 # pubmed_de" "ggponc" "zora_de" "cs_de
 
-DATADIR="../../data"
+DATADIR=$1
+OUTPUTDIR=$2
+# OUTPUTDR = ../2407
+
 lang="de"
 
 # dataset=$(basename "$DATADIR")
@@ -19,7 +22,7 @@ for corpus in $DATADIR/*; do
     if [[ " ${GERMAN_CORPORA[@]} " =~ " ${corpus_name} " ]]; then
         echo "Processing corpus: $corpus_name"
         
-        outdir=../results/morphology/${corpus_name}
+        outdir=../${OUTPUTDIR}/morphology/${corpus_name}
         mkdir -p $outdir
         
         for system in human ${cont} explain create; do
@@ -30,7 +33,7 @@ for corpus in $DATADIR/*; do
                 file_name=$(basename "$file" .txt)
                 echo "File name: ${file_name}"
                 
-                python mrph_calculate.py -f ${file} -l $lang -sys "${system}_$file_name" -dat "${corpus_name}" -v "freq_voc/${corpus_name}/${system}_${file_name}.freq_voc" -t 0 > "${outdir}/${system}_$file_name.txt"
+                python mrph_calculate.py -f ${file} -l $lang -sys "${system}_$file_name" -dat "${corpus_name}" -o $OUTPUTDIR -v "../${OUTPUTDIR}/freq_voc/${corpus_name}/${system}_${file_name}.freq_voc" -t 0 > "${outdir}/${system}_$file_name.txt"
             done
         done
     else
