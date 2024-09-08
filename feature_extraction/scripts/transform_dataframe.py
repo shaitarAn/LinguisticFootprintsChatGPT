@@ -2,15 +2,26 @@ import pandas as pd
 import csv
 import os
 import argparse
-from config import GERMAN_CORPORA, ENGLISH_CORPORA, SCIENCE_CORPORA, NEWS_CORPORA, CLINICAL_CORPORA
+# from config import GERMAN_CORPORA, ENGLISH_CORPORA, SCIENCE_CORPORA, NEWS_CORPORA, CLINICAL_CORPORA
+import yaml
+
+def load_config(config_path):
+    with open(config_path, 'r') as file:
+        return yaml.safe_load(file)
+
 
 # make list of arguments
 parser = argparse.ArgumentParser()
-parser.add_argument("--features", "-f", type=str, required=True, help="type of feature to convert")
+parser.add_argument("--feature", "-f", type=str, required=True, help="type of feature to convert")
 parser.add_argument('-o', '--output_dir', type=str, required=True, help="Directory where all results and outputs will go.")
+parser.add_argument("-c", "--config", type=str, required=True, help="Path to YAML configuration file.")
 args = parser.parse_args()
 
-type_of_feature = args.features
+type_of_feature = args.feature
+
+config = load_config(args.config)
+GERMAN_CORPORA = config['corpora']['german']
+ENGLISH_CORPORA = config['corpora']['english']
 
 # create domain specific dictionaries
 news_dict = {"english": {}, "german": {}}

@@ -1,12 +1,9 @@
 #!/bin/bash
 
-# bash create_most_freq_vocs.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simple_prompt/{corpus}
-
 DATADIR=$1
 OUTPUTDIR=$2
 
 source corpora_config.sh
-# iterate through directories named huamn, continue, explain, create
 
 # Iterate over the corpora
 for corpus_folder in $DATADIR/*; do

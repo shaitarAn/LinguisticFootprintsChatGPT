@@ -11,7 +11,19 @@ from nltk import ngrams
 import argparse
 import spacy_udpipe
 from collections import defaultdict
-from config import GERMAN_CORPORA
+import yaml
+
+def load_config(config_path):
+    with open(config_path, 'r') as file:
+        config = yaml.safe_load(file)
+    return config
+
+config = load_config('config.yaml')
+
+GERMAN_CORPORA = config['corpora']['german']
+ENGLISH_CORPORA = config['corpora']['english']
+
+# ############################################
 
 parser = argparse.ArgumentParser()
 # parser.add_argument("prompt", type=str, help="Prompt to use for text generation")

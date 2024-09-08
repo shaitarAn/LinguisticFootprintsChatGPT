@@ -48,17 +48,15 @@ with the flag `--outfolder`, for more info on the optional arguments see `genera
 
 ### Feature extraction
 
-First make sure to update the lists of corpora and tasks in the `config.py`.
-
 `cd feature_extraction/scripts/`
 
-`bash run_feature_extraction.sh` runs two bash scripts:
+Update the lists of corpora, domains, and tasks in the `config.py`.
 
-#### script 1: 
-`bash run_extract_BiasMT_features.sh` extracts metrics for Sophistication, Lexical and Morphological richness using the [BiasMT tool](https://github.com/dimitarsh1/BiasMT/).
+Specify your input data and output directories in `bash run_experiments.sh`, which executes two bash scripts:
 
-#### script 2:
-`bash run_extract_other_features.sh` extracts other features using the [TextDescriptives library](https://hlasse.github.io/TextDescriptives/descriptivestats.html), also reorganizes results, and transforms dataframes for further analysis.
+  - `bash run_extract_BiasMT_features.sh` extracts metrics for Sophistication, Lexical and Morphological richness using the [BiasMT tool](https://github.com/dimitarsh1/BiasMT/).
+
+  - `bash run_extract_other_features.sh` extracts other features using the [TextDescriptives library](https://hlasse.github.io/TextDescriptives/descriptivestats.html), also reorganizes results, and transforms dataframes for further analysis.
 
 `features_list.py` contains several dictionnaries with feature names:
 

@@ -10,18 +10,30 @@ import textdescriptives as td
 import spacy_udpipe
 from nltk import ngrams
 from collections import defaultdict
-from config import GERMAN_CORPORA, ENGLISH_CORPORA, tasks
+import yaml
 
 '''
 writes results to ..results/per_corpus
 '''
 
+def load_config(config_path):
+    with open(config_path, 'r') as file:
+        config = yaml.safe_load(file)
+    return config
+# ########################################################################
 parser = argparse.ArgumentParser()
 # parser.add_argument("prompt", type=str, help="Prompt to use for text generation")
 parser.add_argument('-o', '--output_dir', required=True, help="Directory where all results and outputs will go.")
 parser.add_argument('-i', '--input_dir', required=True, help="Directory with generated data.")
+parser.add_argument('-c', '--config', required=True, help="Path to the configuration file.")
 
 args = parser.parse_args()
+
+config = load_config(args.config)
+
+tasks = config['tasks']
+GERMAN_CORPORA = config['corpora']['german']
+ENGLISH_CORPORA = config['corpora']['english']
 
 spacy_udpipe.download("en")
 spacy_udpipe.download("de")
@@ -34,6 +46,8 @@ Dnlp.add_pipe('textdescriptives/all')
 
 german_vowels = "aeiouäöüAEIOUÄÖÜ"
 german_diphthongs = ['ai', 'au', 'ei', 'eu', 'äu', 'ie', 'ue']
+
+# ######################################################################
 
 def create_list_of_connectives(lang):
     # import the file of connectives from Thomas Meyer
@@ -145,7 +159,6 @@ def main(corpus):
         lang = 'de'
 
     input_dir = os.path.join(args.input_dir, corpus)
-
 
     num_files = len(os.listdir(f"{input_dir}/human"))
     # print(corpus, num_files)
