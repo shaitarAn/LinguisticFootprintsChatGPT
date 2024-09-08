@@ -1,0 +1,175 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 633
+continue_43
+Length of all lemmas: 555
+Length of singleton lemmas: 518
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 518
+sein
+dict_values([3, 2, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 10
+der
+dict_values([13, 14, 6, 5, 2, 6])
+sum of wordFormDict.values() 46
+fordern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+laut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([3, 4, 1, 2, 1])
+sum of wordFormDict.values() 11
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 2, 1])
+sum of wordFormDict.values() 9
+ein
+dict_values([3, 6, 2, 1, 1])
+sum of wordFormDict.values() 13
+pauschal
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 4, 3, 1])
+sum of wordFormDict.values() 9
+viel
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganz
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+europäisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+politisch
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+regional
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+praktisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+regelmäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effizient
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+schaffen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewährleisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+föderal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 2, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 10
+der
+dict_values([13, 14, 6, 5, 2, 6])
+sum of wordFormDict.values() 46
+fordern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+laut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([3, 4, 1, 2, 1])
+sum of wordFormDict.values() 11
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 2, 1])
+sum of wordFormDict.values() 9
+ein
+dict_values([3, 6, 2, 1, 1])
+sum of wordFormDict.values() 13
+pauschal
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 4, 3, 1])
+sum of wordFormDict.values() 9
+viel
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganz
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+europäisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+politisch
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+regional
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+praktisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+regelmäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effizient
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+schaffen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewährleisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+föderal
+dict_values([1, 1])
+sum of wordFormDict.values() 2

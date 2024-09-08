@@ -1,0 +1,97 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 343
+explain_100
+Length of all lemmas: 279
+Length of singleton lemmas: 256
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 256
+der
+dict_values([24, 1, 13, 19, 10, 12, 5])
+sum of wordFormDict.values() 84
+ein
+dict_values([10, 3, 2, 1, 5, 1, 2])
+sum of wordFormDict.values() 24
+haben
+dict_values([4, 8, 2])
+sum of wordFormDict.values() 14
+ihr
+dict_values([3, 3, 3, 2, 4])
+sum of wordFormDict.values() 15
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 3, 1, 1, 2, 1])
+sum of wordFormDict.values() 11
+schwer
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+jeglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fordern
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([24, 1, 13, 19, 10, 12, 5])
+sum of wordFormDict.values() 84
+ein
+dict_values([10, 3, 2, 1, 5, 1, 2])
+sum of wordFormDict.values() 24
+haben
+dict_values([4, 8, 2])
+sum of wordFormDict.values() 14
+ihr
+dict_values([3, 3, 3, 2, 4])
+sum of wordFormDict.values() 15
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 3, 1, 1, 2, 1])
+sum of wordFormDict.values() 11
+schwer
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+jeglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fordern
+dict_values([3, 1])
+sum of wordFormDict.values() 4

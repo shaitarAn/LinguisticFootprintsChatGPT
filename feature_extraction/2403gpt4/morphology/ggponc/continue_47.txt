@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 394
+continue_47
+Length of all lemmas: 330
+Length of singleton lemmas: 302
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 302
+der
+dict_values([5, 17, 19, 7, 7, 3])
+sum of wordFormDict.values() 58
+sein
+dict_values([4, 1, 2, 2])
+sum of wordFormDict.values() 9
+bekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antioxidativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entzündungshemmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([3, 7, 3, 1, 2])
+sum of wordFormDict.values() 16
+altersbedingt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 1, 7])
+sum of wordFormDict.values() 12
+verbessert
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vielfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alt
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+natürlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([5, 17, 19, 7, 7, 3])
+sum of wordFormDict.values() 58
+sein
+dict_values([4, 1, 2, 2])
+sum of wordFormDict.values() 9
+bekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antioxidativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entzündungshemmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([3, 7, 3, 1, 2])
+sum of wordFormDict.values() 16
+altersbedingt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 1, 7])
+sum of wordFormDict.values() 12
+verbessert
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vielfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alt
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+natürlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

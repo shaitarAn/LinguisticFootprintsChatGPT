@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 406
+create_74
+Length of all lemmas: 329
+Length of singleton lemmas: 299
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 299
+selten
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([16, 7, 19, 4, 5, 9, 1, 2])
+sum of wordFormDict.values() 63
+ein
+dict_values([1, 1, 1, 4, 1, 2])
+sum of wordFormDict.values() 10
+sein
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+werden
+dict_values([8, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 13
+können
+dict_values([8, 4, 1])
+sum of wordFormDict.values() 13
+dies
+dict_values([5, 4, 3, 5])
+sum of wordFormDict.values() 17
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+phänotypisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+künstlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+maschinell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([4, 8])
+sum of wordFormDict.values() 12
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unser
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vielversprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+selten
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([16, 7, 19, 4, 5, 9, 1, 2])
+sum of wordFormDict.values() 63
+ein
+dict_values([1, 1, 1, 4, 1, 2])
+sum of wordFormDict.values() 10
+sein
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+werden
+dict_values([8, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 13
+können
+dict_values([8, 4, 1])
+sum of wordFormDict.values() 13
+dies
+dict_values([5, 4, 3, 5])
+sum of wordFormDict.values() 17
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+phänotypisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+künstlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+maschinell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([4, 8])
+sum of wordFormDict.values() 12
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unser
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vielversprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2

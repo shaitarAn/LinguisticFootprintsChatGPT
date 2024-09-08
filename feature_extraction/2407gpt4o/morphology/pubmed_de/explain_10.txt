@@ -1,0 +1,211 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 668
+explain_10
+Length of all lemmas: 576
+Length of singleton lemmas: 528
+Length of matched lemmas: 34
+Length of singleton maching lemmas: 528
+der
+dict_values([20, 17, 17, 11, 6, 9])
+sum of wordFormDict.values() 80
+werden
+dict_values([5, 3, 3, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([4, 7, 5, 2, 1])
+sum of wordFormDict.values() 19
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 6, 2, 1, 4, 2])
+sum of wordFormDict.values() 19
+können
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+religiös
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+philosophisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([1, 2, 1, 1, 1])
+sum of wordFormDict.values() 6
+solch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([7, 2, 1, 1, 1])
+sum of wordFormDict.values() 12
+notwendig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+klassisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+schwer
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+führen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ärztlich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+akut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestätigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dokumentieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Kontroverse
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+diagnostisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ethisch
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+hirntot
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geteilt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontrovers
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([20, 17, 17, 11, 6, 9])
+sum of wordFormDict.values() 80
+werden
+dict_values([5, 3, 3, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([4, 7, 5, 2, 1])
+sum of wordFormDict.values() 19
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 6, 2, 1, 4, 2])
+sum of wordFormDict.values() 19
+können
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+religiös
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+philosophisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([1, 2, 1, 1, 1])
+sum of wordFormDict.values() 6
+solch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([7, 2, 1, 1, 1])
+sum of wordFormDict.values() 12
+notwendig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+klassisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+schwer
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+führen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ärztlich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+akut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestätigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dokumentieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Kontroverse
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+diagnostisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ethisch
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+hirntot
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geteilt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontrovers
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

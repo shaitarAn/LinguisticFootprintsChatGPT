@@ -1,0 +1,169 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 423
+create_9
+Length of all lemmas: 353
+Length of singleton lemmas: 318
+Length of matched lemmas: 27
+Length of singleton maching lemmas: 318
+ein
+dict_values([6, 5, 3, 8, 2])
+sum of wordFormDict.values() 24
+der
+dict_values([4, 22, 17, 6, 8, 2, 2])
+sum of wordFormDict.values() 61
+sein
+dict_values([2, 6, 1, 1])
+sum of wordFormDict.values() 10
+individuell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 4, 3])
+sum of wordFormDict.values() 8
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allergisch
+dict_values([1, 6, 1])
+sum of wordFormDict.values() 8
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+dies
+dict_values([1, 2, 4, 1])
+sum of wordFormDict.values() 8
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+neu
+dict_values([2, 2, 4])
+sum of wordFormDict.values() 8
+wirkend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+präventiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+akut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alternativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 5, 3, 8, 2])
+sum of wordFormDict.values() 24
+der
+dict_values([4, 22, 17, 6, 8, 2, 2])
+sum of wordFormDict.values() 61
+sein
+dict_values([2, 6, 1, 1])
+sum of wordFormDict.values() 10
+individuell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 4, 3])
+sum of wordFormDict.values() 8
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allergisch
+dict_values([1, 6, 1])
+sum of wordFormDict.values() 8
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+dies
+dict_values([1, 2, 4, 1])
+sum of wordFormDict.values() 8
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+neu
+dict_values([2, 2, 4])
+sum of wordFormDict.values() 8
+wirkend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+präventiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+akut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alternativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,103 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 468
+human_22
+Length of all lemmas: 397
+Length of singleton lemmas: 372
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 372
+sollen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([9, 2, 2, 1])
+sum of wordFormDict.values() 14
+der
+dict_values([27, 7, 36, 20, 7, 3])
+sum of wordFormDict.values() 100
+ein
+dict_values([6, 7, 3, 6, 6])
+sum of wordFormDict.values() 28
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+finden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+selten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chemisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([9, 2, 2, 1])
+sum of wordFormDict.values() 14
+der
+dict_values([27, 7, 36, 20, 7, 3])
+sum of wordFormDict.values() 100
+ein
+dict_values([6, 7, 3, 6, 6])
+sum of wordFormDict.values() 28
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+finden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+selten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chemisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

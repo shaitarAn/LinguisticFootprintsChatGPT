@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 429
+create_38
+Length of all lemmas: 391
+Length of singleton lemmas: 363
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 363
+der
+dict_values([7, 4, 3, 7, 2, 6, 1])
+sum of wordFormDict.values() 30
+sein
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([3, 1, 1, 3, 1])
+sum of wordFormDict.values() 9
+binär
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 2, 1, 1])
+sum of wordFormDict.values() 7
+biologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kritisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kulturell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+multinational
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+westlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+resultierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 4, 3, 7, 2, 6, 1])
+sum of wordFormDict.values() 30
+sein
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([3, 1, 1, 3, 1])
+sum of wordFormDict.values() 9
+binär
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 2, 1, 1])
+sum of wordFormDict.values() 7
+biologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kritisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kulturell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+multinational
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+westlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+resultierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

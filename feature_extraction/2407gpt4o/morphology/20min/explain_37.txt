@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 525
+explain_37
+Length of all lemmas: 442
+Length of singleton lemmas: 410
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 410
+der
+dict_values([12, 15, 10, 5, 6, 4])
+sum of wordFormDict.values() 52
+ein
+dict_values([5, 4, 1, 5, 4, 1])
+sum of wordFormDict.values() 20
+sein
+dict_values([5, 5, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 16
+dies
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+kurz
+dict_values([6, 2, 1, 2])
+sum of wordFormDict.values() 11
+werden
+dict_values([1, 4, 1, 2, 1])
+sum of wordFormDict.values() 9
+können
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+zweiwöchig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strikt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ähnlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+solch
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+vorausschauend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kurzfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+planen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unklar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ökonomisch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([12, 15, 10, 5, 6, 4])
+sum of wordFormDict.values() 52
+ein
+dict_values([5, 4, 1, 5, 4, 1])
+sum of wordFormDict.values() 20
+sein
+dict_values([5, 5, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 16
+dies
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+kurz
+dict_values([6, 2, 1, 2])
+sum of wordFormDict.values() 11
+werden
+dict_values([1, 4, 1, 2, 1])
+sum of wordFormDict.values() 9
+können
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+zweiwöchig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strikt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ähnlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+solch
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+vorausschauend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kurzfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+planen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unklar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ökonomisch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2

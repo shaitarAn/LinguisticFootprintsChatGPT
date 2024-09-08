@@ -1,18 +1,12 @@
 #!/bin/bash
 
-# List of German corpora names
-GERMAN_CORPORA=("20min")
-# pubmed_de" "ggponc" "zora_de" "cs_de
+source corpora_config.sh
 
 DATADIR=$1
-OUTPUTDIR=$2
-# OUTPUTDR = ../2407
-
-lang="de"
-
-# dataset=$(basename "$DATADIR")
-
-cont="continue"
+out=$2
+OUTPUTDIR="${out}/morphology"
+mkdir -p $OUTPUTDIR
+mkdir -p "${out}/results/morphology"
 
 # Iterate over the corpora
 for corpus in $DATADIR/*; do
@@ -21,19 +15,21 @@ for corpus in $DATADIR/*; do
     # Check if the corpus is one of the specified names
     if [[ " ${GERMAN_CORPORA[@]} " =~ " ${corpus_name} " ]]; then
         echo "Processing corpus: $corpus_name"
-        
-        outdir=../${OUTPUTDIR}/morphology/${corpus_name}
+
+        outdir=${OUTPUTDIR}/${corpus_name}
         mkdir -p $outdir
-        
-        for system in human ${cont} explain create; do
-            echo "Processing system: $system"
+
+        # print the subdirectory names in the corpus
+        for persona in $(ls $corpus); do
+
+            echo "Processing personas: $persona"
             
-            for file in $corpus/${system}/*; do
-                echo "Processing file: $file"
+            for file in $corpus/${persona}/*; do
+                # echo "Processing file: $file"
                 file_name=$(basename "$file" .txt)
                 echo "File name: ${file_name}"
                 
-                python mrph_calculate.py -f ${file} -l $lang -sys "${system}_$file_name" -dat "${corpus_name}" -o $OUTPUTDIR -v "../${OUTPUTDIR}/freq_voc/${corpus_name}/${system}_${file_name}.freq_voc" -t 0 > "${outdir}/${system}_$file_name.txt"
+                python mrph_calculate.py -f ${file} -l "de" -sys "${persona}_$file_name" -dat "${corpus_name}" -o $out -v "${OUTPUTDIR}/freq_voc/${corpus_name}/${persona}_${file_name}.freq_voc" -t 0 > "${outdir}/${persona}_$file_name.txt"
             done
         done
     else

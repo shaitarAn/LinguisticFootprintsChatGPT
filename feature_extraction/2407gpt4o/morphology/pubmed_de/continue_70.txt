@@ -1,0 +1,169 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 421
+continue_70
+Length of all lemmas: 367
+Length of singleton lemmas: 333
+Length of matched lemmas: 27
+Length of singleton maching lemmas: 333
+selten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+der
+dict_values([8, 9, 3, 4, 3, 1])
+sum of wordFormDict.values() 28
+europäisch
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+dies
+dict_values([2, 4, 1, 1])
+sum of wordFormDict.values() 8
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+national
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 6, 1])
+sum of wordFormDict.values() 8
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+diagnostisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+genetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bezogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+selten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+der
+dict_values([8, 9, 3, 4, 3, 1])
+sum of wordFormDict.values() 28
+europäisch
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+dies
+dict_values([2, 4, 1, 1])
+sum of wordFormDict.values() 8
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+national
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 6, 1])
+sum of wordFormDict.values() 8
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+diagnostisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+genetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bezogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

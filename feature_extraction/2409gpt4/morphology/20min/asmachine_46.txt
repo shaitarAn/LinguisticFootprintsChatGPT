@@ -1,0 +1,181 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 463
+asmachine_46
+Length of all lemmas: 378
+Length of singleton lemmas: 337
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 337
+sein
+dict_values([4, 2, 1, 1, 1, 1, 2, 1, 1])
+sum of wordFormDict.values() 14
+ein
+dict_values([9, 3, 6, 3, 3, 5])
+sum of wordFormDict.values() 29
+der
+dict_values([19, 1, 9, 6, 9, 12, 3, 2])
+sum of wordFormDict.values() 61
+dies
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+stehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sie
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+begehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+zwingen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([3, 1, 4])
+sum of wordFormDict.values() 8
+finden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+romantisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+menschlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+suchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+äußer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tiefgründig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 2, 1, 1, 1, 1, 2, 1, 1])
+sum of wordFormDict.values() 14
+ein
+dict_values([9, 3, 6, 3, 3, 5])
+sum of wordFormDict.values() 29
+der
+dict_values([19, 1, 9, 6, 9, 12, 3, 2])
+sum of wordFormDict.values() 61
+dies
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+stehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sie
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+begehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+zwingen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([3, 1, 4])
+sum of wordFormDict.values() 8
+finden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+romantisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+menschlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+suchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+äußer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tiefgründig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2

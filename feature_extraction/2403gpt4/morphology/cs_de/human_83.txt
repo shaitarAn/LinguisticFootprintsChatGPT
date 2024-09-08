@@ -1,0 +1,199 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 677
+human_83
+Length of all lemmas: 584
+Length of singleton lemmas: 537
+Length of matched lemmas: 32
+Length of singleton maching lemmas: 537
+der
+dict_values([7, 18, 60, 24, 44, 7, 1, 1])
+sum of wordFormDict.values() 162
+sein
+dict_values([10, 3, 3, 1, 1, 5, 1, 2])
+sum of wordFormDict.values() 26
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([5, 1, 2, 2, 2])
+sum of wordFormDict.values() 12
+werden
+dict_values([9, 3, 16, 1, 3])
+sum of wordFormDict.values() 32
+ein
+dict_values([6, 8, 9, 4, 3, 1])
+sum of wordFormDict.values() 31
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([6, 3, 1])
+sum of wordFormDict.values() 10
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+streng
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sinken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+grün
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dürfen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+einige
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+steigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+spannend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+chinesisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zulässig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jährlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gefährlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 18, 60, 24, 44, 7, 1, 1])
+sum of wordFormDict.values() 162
+sein
+dict_values([10, 3, 3, 1, 1, 5, 1, 2])
+sum of wordFormDict.values() 26
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([5, 1, 2, 2, 2])
+sum of wordFormDict.values() 12
+werden
+dict_values([9, 3, 16, 1, 3])
+sum of wordFormDict.values() 32
+ein
+dict_values([6, 8, 9, 4, 3, 1])
+sum of wordFormDict.values() 31
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([6, 3, 1])
+sum of wordFormDict.values() 10
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+streng
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sinken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+grün
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dürfen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+einige
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+steigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+spannend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+chinesisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zulässig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jährlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gefährlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2

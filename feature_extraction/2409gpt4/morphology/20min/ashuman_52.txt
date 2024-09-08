@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 450
+ashuman_52
+Length of all lemmas: 372
+Length of singleton lemmas: 347
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 347
+der
+dict_values([19, 18, 8, 9, 12, 9])
+sum of wordFormDict.values() 75
+sein
+dict_values([1, 9, 9, 1, 2, 6, 1, 4, 1])
+sum of wordFormDict.values() 34
+er
+dict_values([12, 1])
+sum of wordFormDict.values() 13
+ein
+dict_values([4, 2, 6, 1, 1])
+sum of wordFormDict.values() 14
+welch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([2, 5, 4, 1, 1])
+sum of wordFormDict.values() 13
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+argumentieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+klar
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+amerikanisch
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dominieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([19, 18, 8, 9, 12, 9])
+sum of wordFormDict.values() 75
+sein
+dict_values([1, 9, 9, 1, 2, 6, 1, 4, 1])
+sum of wordFormDict.values() 34
+er
+dict_values([12, 1])
+sum of wordFormDict.values() 13
+ein
+dict_values([4, 2, 6, 1, 1])
+sum of wordFormDict.values() 14
+welch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([2, 5, 4, 1, 1])
+sum of wordFormDict.values() 13
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+argumentieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+klar
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+amerikanisch
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dominieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3

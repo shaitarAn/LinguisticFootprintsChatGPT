@@ -1,0 +1,30 @@
+{
+"ashuman": [
+    {
+      "role": "system",
+      "content": "Du bist ein menschlicher Schreiber."
+    },
+    {
+      "role": "user",
+      "content": "Führe den folgenden Text mit etwa 600 Wörtern fort: {intext}"
+    },
+    {
+      "role": "user",
+      "content": "Fortsetzen des textes"
+    }
+  ],
+  "asmachine": [
+    {
+      "role": "system",
+      "content": "Du bist ein auf Anweisungen abgestimmtes großes Sprachmodell."
+    },
+    {
+      "role": "user",
+      "content": "Führe den folgenden Text mit etwa 600 Wörtern fort: {intext}"
+    },
+    {
+      "role": "user",
+      "content": "Fortsetzen des textes"
+    }
+  ]
+}

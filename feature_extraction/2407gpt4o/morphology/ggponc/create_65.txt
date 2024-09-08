@@ -1,0 +1,163 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 532
+create_65
+Length of all lemmas: 454
+Length of singleton lemmas: 416
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 416
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 3, 2, 5, 4, 6])
+sum of wordFormDict.values() 26
+familiär
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+der
+dict_values([22, 8, 6, 8, 3, 5])
+sum of wordFormDict.values() 52
+ihr
+dict_values([3, 2, 2, 1, 1, 1])
+sum of wordFormDict.values() 10
+erkranken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+Ihr|ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+durchführen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genetisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+besprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjuvant
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+positiv
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+bilateral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prophylaktisch
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+engmaschig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßige
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 3, 2, 5, 4, 6])
+sum of wordFormDict.values() 26
+familiär
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+der
+dict_values([22, 8, 6, 8, 3, 5])
+sum of wordFormDict.values() 52
+ihr
+dict_values([3, 2, 2, 1, 1, 1])
+sum of wordFormDict.values() 10
+erkranken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+Ihr|ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+durchführen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genetisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+besprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjuvant
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+positiv
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+bilateral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prophylaktisch
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+engmaschig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßige
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

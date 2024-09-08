@@ -1,0 +1,157 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 630
+continue_30
+Length of all lemmas: 558
+Length of singleton lemmas: 529
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 529
+wir
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([5, 13, 1, 12, 7, 8, 5])
+sum of wordFormDict.values() 51
+ein
+dict_values([5, 7, 1, 2, 2])
+sum of wordFormDict.values() 17
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mehrere
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+dramatisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+betrügerisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 2, 3, 1, 2])
+sum of wordFormDict.values() 9
+alle
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+angespannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+voll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zwingen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nah
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hart
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+streng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+detailliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([5, 13, 1, 12, 7, 8, 5])
+sum of wordFormDict.values() 51
+ein
+dict_values([5, 7, 1, 2, 2])
+sum of wordFormDict.values() 17
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mehrere
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+dramatisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+betrügerisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 2, 3, 1, 2])
+sum of wordFormDict.values() 9
+alle
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+angespannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+voll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zwingen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nah
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hart
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+streng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+detailliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2

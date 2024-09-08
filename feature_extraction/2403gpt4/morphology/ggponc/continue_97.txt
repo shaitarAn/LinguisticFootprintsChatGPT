@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 401
+continue_97
+Length of all lemmas: 335
+Length of singleton lemmas: 308
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 308
+der
+dict_values([16, 8, 8, 3, 23, 2, 6])
+sum of wordFormDict.values() 66
+ein
+dict_values([14, 6, 2, 1, 1])
+sum of wordFormDict.values() 24
+sein
+dict_values([7, 4, 5])
+sum of wordFormDict.values() 16
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+endoskopisch
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+bildgebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+dies
+dict_values([3, 1, 2, 1])
+sum of wordFormDict.values() 7
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erzielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 8, 8, 3, 23, 2, 6])
+sum of wordFormDict.values() 66
+ein
+dict_values([14, 6, 2, 1, 1])
+sum of wordFormDict.values() 24
+sein
+dict_values([7, 4, 5])
+sum of wordFormDict.values() 16
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+endoskopisch
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+bildgebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+dies
+dict_values([3, 1, 2, 1])
+sum of wordFormDict.values() 7
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erzielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

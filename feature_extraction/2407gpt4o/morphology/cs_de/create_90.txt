@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 518
+create_90
+Length of all lemmas: 483
+Length of singleton lemmas: 459
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 459
+der
+dict_values([11, 3, 9, 3, 6, 8])
+sum of wordFormDict.values() 40
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 4, 3, 1])
+sum of wordFormDict.values() 10
+lang
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([1, 5, 3, 2, 1])
+sum of wordFormDict.values() 12
+absolut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kurzfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+öffentlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+privat
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([11, 3, 9, 3, 6, 8])
+sum of wordFormDict.values() 40
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 4, 3, 1])
+sum of wordFormDict.values() 10
+lang
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([1, 5, 3, 2, 1])
+sum of wordFormDict.values() 12
+absolut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kurzfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+öffentlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+privat
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

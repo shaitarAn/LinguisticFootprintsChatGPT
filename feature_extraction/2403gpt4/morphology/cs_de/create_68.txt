@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 473
+create_68
+Length of all lemmas: 399
+Length of singleton lemmas: 371
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 371
+der
+dict_values([14, 16, 11, 3, 4, 3])
+sum of wordFormDict.values() 51
+ein
+dict_values([1, 6, 7, 1, 1, 1])
+sum of wordFormDict.values() 17
+unser
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([4, 1, 1, 1, 1])
+sum of wordFormDict.values() 8
+digital
+dict_values([1, 5, 2])
+sum of wordFormDict.values() 8
+gehen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verborgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 5, 2, 3, 2])
+sum of wordFormDict.values() 13
+virtuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lernen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+wir
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 16, 11, 3, 4, 3])
+sum of wordFormDict.values() 51
+ein
+dict_values([1, 6, 7, 1, 1, 1])
+sum of wordFormDict.values() 17
+unser
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([4, 1, 1, 1, 1])
+sum of wordFormDict.values() 8
+digital
+dict_values([1, 5, 2])
+sum of wordFormDict.values() 8
+gehen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verborgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 5, 2, 3, 2])
+sum of wordFormDict.values() 13
+virtuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lernen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+wir
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

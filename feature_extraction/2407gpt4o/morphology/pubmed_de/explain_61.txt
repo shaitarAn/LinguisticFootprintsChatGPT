@@ -1,0 +1,211 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 573
+explain_61
+Length of all lemmas: 481
+Length of singleton lemmas: 431
+Length of matched lemmas: 34
+Length of singleton maching lemmas: 431
+gesundheitlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([17, 5, 14, 10, 4, 10, 1])
+sum of wordFormDict.values() 61
+minderjährig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([6, 2, 1, 2, 9])
+sum of wordFormDict.values() 20
+dies
+dict_values([5, 2, 4, 1])
+sum of wordFormDict.values() 12
+stellen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1, 3, 1, 1])
+sum of wordFormDict.values() 7
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([2, 3, 1, 1, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([4, 2, 3, 1, 1, 1])
+sum of wordFormDict.values() 12
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+höchstmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erkennen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+infektiologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+selten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geflüchtet
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesundheitlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([17, 5, 14, 10, 4, 10, 1])
+sum of wordFormDict.values() 61
+minderjährig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([6, 2, 1, 2, 9])
+sum of wordFormDict.values() 20
+dies
+dict_values([5, 2, 4, 1])
+sum of wordFormDict.values() 12
+stellen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1, 3, 1, 1])
+sum of wordFormDict.values() 7
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([2, 3, 1, 1, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([4, 2, 3, 1, 1, 1])
+sum of wordFormDict.values() 12
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+höchstmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erkennen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+infektiologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+selten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geflüchtet
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

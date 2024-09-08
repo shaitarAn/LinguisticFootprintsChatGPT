@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 427
+ashuman_89
+Length of all lemmas: 364
+Length of singleton lemmas: 333
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 333
+der
+dict_values([18, 24, 5, 8, 6, 8, 2])
+sum of wordFormDict.values() 71
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([1, 6, 2, 3, 7])
+sum of wordFormDict.values() 19
+hoch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gehören
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betrieblich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+digital
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+gesund
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+werden
+dict_values([11, 1])
+sum of wordFormDict.values() 12
+bestehend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+physisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([18, 24, 5, 8, 6, 8, 2])
+sum of wordFormDict.values() 71
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([1, 6, 2, 3, 7])
+sum of wordFormDict.values() 19
+hoch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gehören
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betrieblich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+digital
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+gesund
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+werden
+dict_values([11, 1])
+sum of wordFormDict.values() 12
+bestehend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+physisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

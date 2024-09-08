@@ -8,10 +8,15 @@ fi
 
 # Assign arguments to variables
 DATADIR=$1
-OUTPUT_DIR=$2
-
 # Ensure input directory ends with a slash
 DATADIR="${DATADIR%/}/"
+
+OUTPUT_DIR=$2
+# Check if the OUTPUT_DIR directory exists
+# create it if it doesn't
+if [ ! -d "$OUTPUT_DIR" ]; then
+  mkdir -p "$OUTPUT_DIR"
+fi
 OUTPUT_DIR="${OUTPUT_DIR}/concatenated_data/"
 
 # Create the output directory if it doesn't exist

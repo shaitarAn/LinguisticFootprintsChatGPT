@@ -62,8 +62,8 @@ def main():
                 print(syst, end=",")
                 score = textToLFP(sentences[syst], step, last)
                 print("Step: " + str(step) + " Last: " + str(last))
-                print(",".join([str(round(s*100, 2)) for s in score]))
-                results = [str(round(s*100, 2)) for s in score]
+                print(",".join([str(s*100) for s in score]))
+                results = [str(s*100) for s in score]
                 results = [corpus, syst] + results
                 writer.writerow(results)
 

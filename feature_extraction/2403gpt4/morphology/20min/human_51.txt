@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 413
+human_51
+Length of all lemmas: 326
+Length of singleton lemmas: 300
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 300
+der
+dict_values([13, 6, 19, 7, 17, 12])
+sum of wordFormDict.values() 74
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 4, 1, 1, 1])
+sum of wordFormDict.values() 8
+ich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 2, 2, 2, 11, 1, 1, 5, 1, 4])
+sum of wordFormDict.values() 30
+können
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+ein
+dict_values([2, 3, 2, 1, 3])
+sum of wordFormDict.values() 11
+positiv
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+demokratisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 2, 1, 1])
+sum of wordFormDict.values() 6
+wir
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+haben
+dict_values([4, 2, 5])
+sum of wordFormDict.values() 11
+schreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+letzt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sagen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+nah
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nominieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([13, 6, 19, 7, 17, 12])
+sum of wordFormDict.values() 74
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 4, 1, 1, 1])
+sum of wordFormDict.values() 8
+ich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 2, 2, 2, 11, 1, 1, 5, 1, 4])
+sum of wordFormDict.values() 30
+können
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+ein
+dict_values([2, 3, 2, 1, 3])
+sum of wordFormDict.values() 11
+positiv
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+demokratisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 2, 1, 1])
+sum of wordFormDict.values() 6
+wir
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+haben
+dict_values([4, 2, 5])
+sum of wordFormDict.values() 11
+schreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+letzt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sagen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+nah
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nominieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2

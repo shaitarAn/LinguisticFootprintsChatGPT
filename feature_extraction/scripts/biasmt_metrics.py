@@ -13,10 +13,6 @@ import os, sys
 from nltk.probability import FreqDist
 import logging
 
-data_run = sys.argv[1]
-
-root = f"data_run/lemmas/"
-
 
 def plot_freqdist_freq(fd,
                        max_num=None,
@@ -54,7 +50,7 @@ def plot_freqdist_freq(fd,
     return
 
 
-def get_lemmas(sentences, nlpD, system_name, corpus, freq_voc=None):
+def get_lemmas(output_dir, sentences, nlpD, system_name, corpus, freq_voc=None):
     ''' Computes the lemmas and their frequencies for the given sentences
 
         :param sentences: a list of sentences
@@ -64,6 +60,7 @@ def get_lemmas(sentences, nlpD, system_name, corpus, freq_voc=None):
     '''
     a = time.time()
 
+    root = f"{output_dir}/morphology/lemmas/"
     lemmas = {}
 
     # print("computing lemmas")
@@ -375,7 +372,7 @@ def compute_ld_metric(metric_func, sentences, sample_idxs, iters):
     return scores
 
 
-def compute_gram_diversity(sentences, corpus, lang="", system_name="", freq_voc=None):
+def compute_gram_diversity(sentences, corpus, output_dir, lang="", system_name="", freq_voc=None):
     ''' Computing metric
 
         :param metric_func: get_bleu or get_ter_multeval
@@ -388,7 +385,7 @@ def compute_gram_diversity(sentences, corpus, lang="", system_name="", freq_voc=
     nlp = spacy_udpipe.load(lang).tokenizer
     nlp.max_length = 300000000
 
-    lemmas = get_lemmas(sentences, nlp, system_name, corpus, freq_voc)
+    lemmas = get_lemmas(output_dir, sentences, nlp, system_name, corpus, freq_voc)
 
     return (compute_simpDiv(lemmas), compute_invSimpDiv(lemmas), compute_shannonDiv(lemmas), compute_shannonDiv_perLemma(lemmas))
 

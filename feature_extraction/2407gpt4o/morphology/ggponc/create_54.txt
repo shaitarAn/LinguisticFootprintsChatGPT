@@ -1,0 +1,175 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 615
+create_54
+Length of all lemmas: 523
+Length of singleton lemmas: 479
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 479
+klinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 7, 5, 8, 2, 1])
+sum of wordFormDict.values() 25
+der
+dict_values([17, 15, 14, 7, 3, 5])
+sum of wordFormDict.values() 61
+zeigen
+dict_values([4, 3, 1, 1])
+sum of wordFormDict.values() 9
+weit
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([4, 2, 3])
+sum of wordFormDict.values() 9
+gut
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 4, 2])
+sum of wordFormDict.values() 7
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+symptomatisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gelegentlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 1, 2, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 9
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+erst
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+können
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deutlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+standardisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+onkologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwerwiegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liefern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 7, 5, 8, 2, 1])
+sum of wordFormDict.values() 25
+der
+dict_values([17, 15, 14, 7, 3, 5])
+sum of wordFormDict.values() 61
+zeigen
+dict_values([4, 3, 1, 1])
+sum of wordFormDict.values() 9
+weit
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([4, 2, 3])
+sum of wordFormDict.values() 9
+gut
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 4, 2])
+sum of wordFormDict.values() 7
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+symptomatisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gelegentlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 1, 2, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 9
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+erst
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+können
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deutlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+standardisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+onkologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwerwiegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liefern
+dict_values([1, 1])
+sum of wordFormDict.values() 2

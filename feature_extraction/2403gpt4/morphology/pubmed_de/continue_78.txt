@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 352
+continue_78
+Length of all lemmas: 293
+Length of singleton lemmas: 266
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 266
+der
+dict_values([14, 14, 5, 5, 5, 3])
+sum of wordFormDict.values() 46
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+biologisch
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 4, 1, 1])
+sum of wordFormDict.values() 9
+sein
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([5, 11, 8, 1])
+sum of wordFormDict.values() 25
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+latent
+dict_values([3, 3, 2, 1])
+sum of wordFormDict.values() 9
+werden
+dict_values([3, 3, 1, 3])
+sum of wordFormDict.values() 10
+weltweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+präventiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+immunsuppressiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+komplex
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verbessern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([14, 14, 5, 5, 5, 3])
+sum of wordFormDict.values() 46
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+biologisch
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 4, 1, 1])
+sum of wordFormDict.values() 9
+sein
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([5, 11, 8, 1])
+sum of wordFormDict.values() 25
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+latent
+dict_values([3, 3, 2, 1])
+sum of wordFormDict.values() 9
+werden
+dict_values([3, 3, 1, 3])
+sum of wordFormDict.values() 10
+weltweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+präventiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+immunsuppressiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+komplex
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verbessern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4

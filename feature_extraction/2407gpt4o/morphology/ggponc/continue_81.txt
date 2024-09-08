@@ -1,0 +1,199 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 639
+continue_81
+Length of all lemmas: 557
+Length of singleton lemmas: 516
+Length of matched lemmas: 32
+Length of singleton maching lemmas: 516
+spezialisiert
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([6, 7, 4, 1, 1])
+sum of wordFormDict.values() 19
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+sollen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([23, 8, 8, 6, 3, 3, 1])
+sum of wordFormDict.values() 52
+können
+dict_values([3, 3, 1, 1])
+sum of wordFormDict.values() 8
+werden
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+vielfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intensiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+orientiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spirituell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+palliativ
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stärken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+würdig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+begleiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+letzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezialisiert
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([6, 7, 4, 1, 1])
+sum of wordFormDict.values() 19
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+sollen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([23, 8, 8, 6, 3, 3, 1])
+sum of wordFormDict.values() 52
+können
+dict_values([3, 3, 1, 1])
+sum of wordFormDict.values() 8
+werden
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+vielfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intensiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+orientiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spirituell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+palliativ
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stärken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+würdig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+begleiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+letzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2

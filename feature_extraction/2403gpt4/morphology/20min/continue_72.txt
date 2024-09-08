@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 382
+continue_72
+Length of all lemmas: 306
+Length of singleton lemmas: 279
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 279
+der
+dict_values([12, 6, 7, 18, 15, 7])
+sum of wordFormDict.values() 65
+heftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([7, 4, 1, 1])
+sum of wordFormDict.values() 13
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([3, 3, 3, 3, 6, 1])
+sum of wordFormDict.values() 19
+sein
+dict_values([5, 1, 1, 6, 2, 3, 1, 1])
+sum of wordFormDict.values() 20
+unabhängig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+wir
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([12, 6, 7, 18, 15, 7])
+sum of wordFormDict.values() 65
+heftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([7, 4, 1, 1])
+sum of wordFormDict.values() 13
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([3, 3, 3, 3, 6, 1])
+sum of wordFormDict.values() 19
+sein
+dict_values([5, 1, 1, 6, 2, 3, 1, 1])
+sum of wordFormDict.values() 20
+unabhängig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+wir
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

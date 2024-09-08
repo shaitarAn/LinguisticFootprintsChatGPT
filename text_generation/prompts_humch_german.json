@@ -1,0 +1,30 @@
+{
+  "ashuman": [
+    {
+      "role": "system",
+      "content": "You are a human writer."
+    },
+    {
+      "role": "user",
+      "content": "Continue the following text with about 600 words: {intext}"
+    },
+    {
+      "role": "user",
+      "content": "Continue generating the text"
+    }
+  ],
+  "asmachine": [
+    {
+      "role": "system",
+      "content": "You are an Instruction-tuned Large Language Model."
+    },
+    {
+      "role": "user",
+      "content": "Continue the following text with about 600 words: {intext}"
+    },
+    {
+      "role": "user",
+      "content": "Continue generating the text"
+    }
+  ]
+}

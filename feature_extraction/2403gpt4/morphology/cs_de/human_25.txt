@@ -1,0 +1,103 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 320
+human_25
+Length of all lemmas: 280
+Length of singleton lemmas: 261
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 261
+der
+dict_values([17, 5, 21, 8, 4, 2])
+sum of wordFormDict.values() 57
+sein
+dict_values([8, 5])
+sum of wordFormDict.values() 13
+dies
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+werden
+dict_values([8, 4, 1, 1])
+sum of wordFormDict.values() 14
+entstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 1, 4, 1, 1, 1])
+sum of wordFormDict.values() 11
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lang
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erhöhen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+blau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 5, 21, 8, 4, 2])
+sum of wordFormDict.values() 57
+sein
+dict_values([8, 5])
+sum of wordFormDict.values() 13
+dies
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+werden
+dict_values([8, 4, 1, 1])
+sum of wordFormDict.values() 14
+entstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 1, 4, 1, 1, 1])
+sum of wordFormDict.values() 11
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lang
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erhöhen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+blau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2

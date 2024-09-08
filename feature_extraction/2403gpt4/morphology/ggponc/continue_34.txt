@@ -1,0 +1,175 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 380
+continue_34
+Length of all lemmas: 312
+Length of singleton lemmas: 278
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 278
+der
+dict_values([12, 10, 7, 4, 1, 8, 2, 1])
+sum of wordFormDict.values() 45
+konventionell
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([7, 4, 9, 5, 1])
+sum of wordFormDict.values() 26
+autolog
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+dies
+dict_values([6, 5, 1])
+sum of wordFormDict.values() 12
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([10, 2, 1])
+sum of wordFormDict.values() 13
+wichtig
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+geeignet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 2, 3])
+sum of wordFormDict.values() 6
+intensiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+refraktär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+umfangreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individualisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([12, 10, 7, 4, 1, 8, 2, 1])
+sum of wordFormDict.values() 45
+konventionell
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([7, 4, 9, 5, 1])
+sum of wordFormDict.values() 26
+autolog
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+dies
+dict_values([6, 5, 1])
+sum of wordFormDict.values() 12
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([10, 2, 1])
+sum of wordFormDict.values() 13
+wichtig
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+geeignet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 2, 3])
+sum of wordFormDict.values() 6
+intensiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+refraktär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+umfangreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individualisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2

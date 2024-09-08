@@ -1,0 +1,85 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 540
+explain_43
+Length of all lemmas: 516
+Length of singleton lemmas: 501
+Length of matched lemmas: 13
+Length of singleton maching lemmas: 501
+der
+dict_values([8, 7, 12, 4, 2, 2])
+sum of wordFormDict.values() 35
+atopisch
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+ein
+dict_values([5, 1, 3, 1, 1])
+sum of wordFormDict.values() 11
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 1, 1, 1])
+sum of wordFormDict.values() 8
+genetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+allergisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+variabel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([8, 7, 12, 4, 2, 2])
+sum of wordFormDict.values() 35
+atopisch
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+ein
+dict_values([5, 1, 3, 1, 1])
+sum of wordFormDict.values() 11
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 1, 1, 1])
+sum of wordFormDict.values() 8
+genetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+allergisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+variabel
+dict_values([1, 1])
+sum of wordFormDict.values() 2

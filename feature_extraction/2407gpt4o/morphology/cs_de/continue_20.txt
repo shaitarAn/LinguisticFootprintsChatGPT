@@ -1,0 +1,193 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 559
+continue_20
+Length of all lemmas: 490
+Length of singleton lemmas: 457
+Length of matched lemmas: 31
+Length of singleton maching lemmas: 457
+der
+dict_values([8, 4, 5, 18, 7, 1, 3])
+sum of wordFormDict.values() 46
+ein
+dict_values([2, 1, 3, 6, 3, 1])
+sum of wordFormDict.values() 16
+griechisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 2, 2, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([1, 1, 1, 1, 1])
+sum of wordFormDict.values() 5
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einfach
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+südeuropäisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+stabilisierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+staatlich
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+tragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+nachhaltig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sichern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+national
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([8, 4, 5, 18, 7, 1, 3])
+sum of wordFormDict.values() 46
+ein
+dict_values([2, 1, 3, 6, 3, 1])
+sum of wordFormDict.values() 16
+griechisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 2, 2, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([1, 1, 1, 1, 1])
+sum of wordFormDict.values() 5
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einfach
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+südeuropäisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+stabilisierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+staatlich
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+tragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+nachhaltig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sichern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+national
+dict_values([1, 1])
+sum of wordFormDict.values() 2

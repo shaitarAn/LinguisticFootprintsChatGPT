@@ -1,0 +1,103 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 490
+continue_1
+Length of all lemmas: 465
+Length of singleton lemmas: 445
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 445
+der
+dict_values([4, 5, 5, 4, 3, 1])
+sum of wordFormDict.values() 22
+sein
+dict_values([1, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 6
+einfach
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+profitabel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([4, 5, 5, 4, 3, 1])
+sum of wordFormDict.values() 22
+sein
+dict_values([1, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 6
+einfach
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+profitabel
+dict_values([1, 1])
+sum of wordFormDict.values() 2

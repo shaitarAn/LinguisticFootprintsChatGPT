@@ -1,0 +1,181 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 489
+create_76
+Length of all lemmas: 409
+Length of singleton lemmas: 371
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 371
+führen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([21, 20, 13, 10, 13, 7])
+sum of wordFormDict.values() 84
+ein
+dict_values([8, 8, 5, 3, 2, 1])
+sum of wordFormDict.values() 27
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 1, 4, 2, 1])
+sum of wordFormDict.values() 9
+bahnbrechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 1, 5, 1])
+sum of wordFormDict.values() 11
+neu
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+fortschrittlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([6, 3, 1, 1])
+sum of wordFormDict.values() 11
+stark
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+entstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 3, 3])
+sum of wordFormDict.values() 7
+privat
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+digital
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+befinden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dynamisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+technologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([21, 20, 13, 10, 13, 7])
+sum of wordFormDict.values() 84
+ein
+dict_values([8, 8, 5, 3, 2, 1])
+sum of wordFormDict.values() 27
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 1, 4, 2, 1])
+sum of wordFormDict.values() 9
+bahnbrechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 1, 5, 1])
+sum of wordFormDict.values() 11
+neu
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+fortschrittlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([6, 3, 1, 1])
+sum of wordFormDict.values() 11
+stark
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+entstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 3, 3])
+sum of wordFormDict.values() 7
+privat
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+digital
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+befinden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dynamisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+technologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2

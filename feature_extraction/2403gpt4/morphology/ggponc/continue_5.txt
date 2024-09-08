@@ -1,0 +1,163 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 351
+continue_5
+Length of all lemmas: 272
+Length of singleton lemmas: 240
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 240
+beide
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 1, 5, 5])
+sum of wordFormDict.values() 13
+der
+dict_values([15, 4, 15, 4, 7, 1, 2, 2])
+sum of wordFormDict.values() 50
+sein
+dict_values([6, 2, 1])
+sum of wordFormDict.values() 9
+aktinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 1, 2, 2])
+sum of wordFormDict.values() 10
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([3, 4, 1, 1])
+sum of wordFormDict.values() 9
+können
+dict_values([5, 3, 1, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+herkömmlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+natürlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vielversprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sorgfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beide
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 1, 5, 5])
+sum of wordFormDict.values() 13
+der
+dict_values([15, 4, 15, 4, 7, 1, 2, 2])
+sum of wordFormDict.values() 50
+sein
+dict_values([6, 2, 1])
+sum of wordFormDict.values() 9
+aktinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 1, 2, 2])
+sum of wordFormDict.values() 10
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([3, 4, 1, 1])
+sum of wordFormDict.values() 9
+können
+dict_values([5, 3, 1, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+herkömmlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+natürlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vielversprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sorgfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2

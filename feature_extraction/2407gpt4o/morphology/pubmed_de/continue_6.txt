@@ -1,0 +1,103 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 424
+continue_6
+Length of all lemmas: 410
+Length of singleton lemmas: 391
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 391
+der
+dict_values([2, 9, 4, 2, 4, 3, 2])
+sum of wordFormDict.values() 26
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 4, 2, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+modifiziert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+regulatorisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+Regulatorisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+primär
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 3, 3])
+sum of wordFormDict.values() 7
+herkömmlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erforderlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([2, 9, 4, 2, 4, 3, 2])
+sum of wordFormDict.values() 26
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 4, 2, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+modifiziert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+regulatorisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+Regulatorisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+primär
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 3, 3])
+sum of wordFormDict.values() 7
+herkömmlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erforderlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

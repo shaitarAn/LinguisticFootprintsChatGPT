@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 355
+explain_45
+Length of all lemmas: 279
+Length of singleton lemmas: 255
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 255
+der
+dict_values([17, 8, 17, 3, 1, 8, 7])
+sum of wordFormDict.values() 61
+werden
+dict_values([7, 2, 5, 3])
+sum of wordFormDict.values() 17
+ein
+dict_values([4, 3, 2, 1, 1])
+sum of wordFormDict.values() 11
+dies
+dict_values([6, 1, 2, 5])
+sum of wordFormDict.values() 14
+proteolytisch
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+können
+dict_values([4, 3, 4])
+sum of wordFormDict.values() 11
+verschieden
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+geben
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([2, 3, 4, 1])
+sum of wordFormDict.values() 10
+weit
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+tatsächlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ausschließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 8, 17, 3, 1, 8, 7])
+sum of wordFormDict.values() 61
+werden
+dict_values([7, 2, 5, 3])
+sum of wordFormDict.values() 17
+ein
+dict_values([4, 3, 2, 1, 1])
+sum of wordFormDict.values() 11
+dies
+dict_values([6, 1, 2, 5])
+sum of wordFormDict.values() 14
+proteolytisch
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+können
+dict_values([4, 3, 4])
+sum of wordFormDict.values() 11
+verschieden
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+geben
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([2, 3, 4, 1])
+sum of wordFormDict.values() 10
+weit
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+tatsächlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ausschließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2

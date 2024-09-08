@@ -18,6 +18,14 @@ feature_extraction/2309/concatenated_data
 feature_extraction/2309/freq_voc
 feature_extraction/2309/lemmas
 feature_extraction/2309/morphology
+feature_extraction/2407/concatenated_data
+feature_extraction/2407/freq_voc
+feature_extraction/2407/lemmas
+feature_extraction/2407/morphology
+feature_extraction/2403/concatenated_data
+feature_extraction/2403/freq_voc
+feature_extraction/2403/lemmas
+feature_extraction/2403/morphology
 
 README.pdf
 README_temp.html

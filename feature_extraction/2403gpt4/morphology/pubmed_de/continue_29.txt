@@ -1,0 +1,103 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 351
+continue_29
+Length of all lemmas: 304
+Length of singleton lemmas: 282
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 282
+der
+dict_values([17, 26, 6, 5, 1, 6, 1])
+sum of wordFormDict.values() 62
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 7, 4, 1, 1])
+sum of wordFormDict.values() 15
+automatisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 4, 1, 1])
+sum of wordFormDict.values() 9
+werden
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+automatisiert
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+sein
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 3, 1, 1])
+sum of wordFormDict.values() 6
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+telemedizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 26, 6, 5, 1, 6, 1])
+sum of wordFormDict.values() 62
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 7, 4, 1, 1])
+sum of wordFormDict.values() 15
+automatisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 4, 1, 1])
+sum of wordFormDict.values() 9
+werden
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+automatisiert
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+sein
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 3, 1, 1])
+sum of wordFormDict.values() 6
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+telemedizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2

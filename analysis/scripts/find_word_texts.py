@@ -2,7 +2,7 @@ import os
 import re
 import langdetect
 
-data_dir = "../../data_2407_gpt4o/ggponc"
+data_dir = os.path.expanduser("~/switchdrive/AItextDetect/data_2407_gpt4o/zora_de")
 
 # Define the word to search for
 word = "Darüber hinaus"

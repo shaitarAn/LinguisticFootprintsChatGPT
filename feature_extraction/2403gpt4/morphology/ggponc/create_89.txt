@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 368
+create_89
+Length of all lemmas: 295
+Length of singleton lemmas: 263
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 263
+alt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 2, 2, 1, 4])
+sum of wordFormDict.values() 16
+der
+dict_values([12, 16, 4, 4, 3, 3])
+sum of wordFormDict.values() 42
+unser
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+er
+dict_values([10, 2])
+sum of wordFormDict.values() 12
+sein
+dict_values([2, 5, 4, 4, 6, 3, 2, 2, 4])
+sum of wordFormDict.values() 32
+haben
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 4, 2])
+sum of wordFormDict.values() 8
+diagnostizieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokalisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+begrenzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+proaktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 2, 2, 1, 4])
+sum of wordFormDict.values() 16
+der
+dict_values([12, 16, 4, 4, 3, 3])
+sum of wordFormDict.values() 42
+unser
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+er
+dict_values([10, 2])
+sum of wordFormDict.values() 12
+sein
+dict_values([2, 5, 4, 4, 6, 3, 2, 2, 4])
+sum of wordFormDict.values() 32
+haben
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 4, 2])
+sum of wordFormDict.values() 8
+diagnostizieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokalisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+begrenzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+proaktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2

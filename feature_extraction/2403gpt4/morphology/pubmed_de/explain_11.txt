@@ -1,0 +1,157 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 372
+explain_11
+Length of all lemmas: 297
+Length of singleton lemmas: 261
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 261
+dies
+dict_values([4, 2, 2, 4, 1])
+sum of wordFormDict.values() 13
+werden
+dict_values([2, 2, 2, 3])
+sum of wordFormDict.values() 9
+der
+dict_values([7, 11, 4, 4, 18, 6])
+sum of wordFormDict.values() 50
+sein
+dict_values([3, 7])
+sum of wordFormDict.values() 10
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 3, 3, 1, 1])
+sum of wordFormDict.values() 13
+deutsch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+medizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ethisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+übernehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+anfällig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+moralisch
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+inner
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+äußer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+professionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 2, 2, 4, 1])
+sum of wordFormDict.values() 13
+werden
+dict_values([2, 2, 2, 3])
+sum of wordFormDict.values() 9
+der
+dict_values([7, 11, 4, 4, 18, 6])
+sum of wordFormDict.values() 50
+sein
+dict_values([3, 7])
+sum of wordFormDict.values() 10
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 3, 3, 1, 1])
+sum of wordFormDict.values() 13
+deutsch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+medizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ethisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+übernehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+anfällig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+moralisch
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+inner
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+äußer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+professionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2

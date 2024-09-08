@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 882
+explain_9
+Length of all lemmas: 852
+Length of singleton lemmas: 822
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 822
+Allergisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([1, 7, 8, 5, 1, 3, 2])
+sum of wordFormDict.values() 27
+ein
+dict_values([6, 6, 2, 1, 2, 1])
+sum of wordFormDict.values() 18
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+allergisch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+Erwachsene
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allergenspezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+community
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Allergisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([1, 7, 8, 5, 1, 3, 2])
+sum of wordFormDict.values() 27
+ein
+dict_values([6, 6, 2, 1, 2, 1])
+sum of wordFormDict.values() 18
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+allergisch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+Erwachsene
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allergenspezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+community
+dict_values([1, 1])
+sum of wordFormDict.values() 2

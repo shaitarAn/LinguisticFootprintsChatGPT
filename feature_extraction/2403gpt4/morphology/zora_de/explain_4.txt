@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 373
+explain_4
+Length of all lemmas: 284
+Length of singleton lemmas: 251
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 251
+der
+dict_values([14, 15, 10, 13, 3, 1, 6, 2])
+sum of wordFormDict.values() 64
+dies
+dict_values([5, 5, 4, 1, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([1, 4, 8, 2, 2, 1])
+sum of wordFormDict.values() 18
+sein
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+verschieden
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+morphologisch
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+können
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+detailliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kennzeichnen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+mimisch
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+auftreten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+spezifisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+der
+dict_values([14, 15, 10, 13, 3, 1, 6, 2])
+sum of wordFormDict.values() 64
+dies
+dict_values([5, 5, 4, 1, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([1, 4, 8, 2, 2, 1])
+sum of wordFormDict.values() 18
+sein
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+verschieden
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+morphologisch
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+können
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+detailliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kennzeichnen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+mimisch
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+auftreten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+spezifisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4

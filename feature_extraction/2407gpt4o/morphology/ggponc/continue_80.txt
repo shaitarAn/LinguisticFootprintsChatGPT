@@ -1,0 +1,169 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 569
+continue_80
+Length of all lemmas: 484
+Length of singleton lemmas: 445
+Length of matched lemmas: 27
+Length of singleton maching lemmas: 445
+dies
+dict_values([2, 1, 1, 4, 2])
+sum of wordFormDict.values() 10
+werden
+dict_values([1, 7, 2])
+sum of wordFormDict.values() 10
+der
+dict_values([18, 4, 7, 6, 4, 4])
+sum of wordFormDict.values() 43
+ein
+dict_values([4, 7, 3, 5])
+sum of wordFormDict.values() 19
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 3, 2, 2])
+sum of wordFormDict.values() 8
+sein
+dict_values([4, 3, 3, 2])
+sum of wordFormDict.values() 12
+professionell
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+gemeinsam
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sensibel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 7, 1])
+sum of wordFormDict.values() 10
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Leiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sterbenskrank
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bestehend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+Mensch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1, 1, 4, 2])
+sum of wordFormDict.values() 10
+werden
+dict_values([1, 7, 2])
+sum of wordFormDict.values() 10
+der
+dict_values([18, 4, 7, 6, 4, 4])
+sum of wordFormDict.values() 43
+ein
+dict_values([4, 7, 3, 5])
+sum of wordFormDict.values() 19
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 3, 2, 2])
+sum of wordFormDict.values() 8
+sein
+dict_values([4, 3, 3, 2])
+sum of wordFormDict.values() 12
+professionell
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+gemeinsam
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sensibel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 7, 1])
+sum of wordFormDict.values() 10
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Leiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sterbenskrank
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bestehend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+Mensch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

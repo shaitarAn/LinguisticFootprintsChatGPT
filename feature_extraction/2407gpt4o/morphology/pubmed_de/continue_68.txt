@@ -1,0 +1,211 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 650
+continue_68
+Length of all lemmas: 584
+Length of singleton lemmas: 541
+Length of matched lemmas: 34
+Length of singleton maching lemmas: 541
+der
+dict_values([19, 4, 20, 6, 6, 12, 1])
+sum of wordFormDict.values() 68
+kardiogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 2, 1, 1])
+sum of wordFormDict.values() 8
+kritisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([8, 3, 4, 4, 2, 1])
+sum of wordFormDict.values() 22
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+stehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+notwendig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 5, 1, 1])
+sum of wordFormDict.values() 11
+umfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pflegerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rasch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+anschließend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 4, 3])
+sum of wordFormDict.values() 10
+methodisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+standardisiert
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+initial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+technisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+fundiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+persistierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 4, 20, 6, 6, 12, 1])
+sum of wordFormDict.values() 68
+kardiogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 2, 1, 1])
+sum of wordFormDict.values() 8
+kritisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([8, 3, 4, 4, 2, 1])
+sum of wordFormDict.values() 22
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+stehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+notwendig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 5, 1, 1])
+sum of wordFormDict.values() 11
+umfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pflegerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rasch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+anschließend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 4, 3])
+sum of wordFormDict.values() 10
+methodisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+standardisiert
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+initial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+technisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+fundiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+persistierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2

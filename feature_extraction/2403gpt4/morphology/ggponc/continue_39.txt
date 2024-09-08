@@ -1,0 +1,205 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 421
+continue_39
+Length of all lemmas: 333
+Length of singleton lemmas: 292
+Length of matched lemmas: 33
+Length of singleton maching lemmas: 292
+können
+dict_values([1, 2, 6, 5, 3, 2])
+sum of wordFormDict.values() 19
+werden
+dict_values([11, 2, 1, 1])
+sum of wordFormDict.values() 15
+der
+dict_values([14, 18, 5, 8, 6, 4])
+sum of wordFormDict.values() 55
+ein
+dict_values([8, 6, 3, 3])
+sum of wordFormDict.values() 20
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 1, 4, 4, 1])
+sum of wordFormDict.values() 12
+signifikant
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kein
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+chronisch
+dict_values([1, 1, 2, 2])
+sum of wordFormDict.values() 6
+emotional
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+beobachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 3, 4])
+sum of wordFormDict.values() 11
+verbessert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+negativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+körperlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+physisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 2, 6, 5, 3, 2])
+sum of wordFormDict.values() 19
+werden
+dict_values([11, 2, 1, 1])
+sum of wordFormDict.values() 15
+der
+dict_values([14, 18, 5, 8, 6, 4])
+sum of wordFormDict.values() 55
+ein
+dict_values([8, 6, 3, 3])
+sum of wordFormDict.values() 20
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 1, 4, 4, 1])
+sum of wordFormDict.values() 12
+signifikant
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kein
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+chronisch
+dict_values([1, 1, 2, 2])
+sum of wordFormDict.values() 6
+emotional
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+beobachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 3, 4])
+sum of wordFormDict.values() 11
+verbessert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+negativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+körperlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+physisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2

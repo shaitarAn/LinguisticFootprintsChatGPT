@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 329
+explain_14
+Length of all lemmas: 254
+Length of singleton lemmas: 227
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 227
+dies
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([20, 5, 7, 12, 18, 8])
+sum of wordFormDict.values() 70
+prognostizieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 8, 5, 1, 2])
+sum of wordFormDict.values() 21
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 3, 3, 1])
+sum of wordFormDict.values() 9
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+betreffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+negativ
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+erwarten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+auswirken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+privat
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+steigend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+niedrig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([20, 5, 7, 12, 18, 8])
+sum of wordFormDict.values() 70
+prognostizieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 8, 5, 1, 2])
+sum of wordFormDict.values() 21
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 3, 3, 1])
+sum of wordFormDict.values() 9
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+betreffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+negativ
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+erwarten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+auswirken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+privat
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+steigend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+niedrig
+dict_values([2, 1])
+sum of wordFormDict.values() 3

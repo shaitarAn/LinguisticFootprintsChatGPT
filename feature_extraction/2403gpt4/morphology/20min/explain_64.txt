@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 411
+explain_64
+Length of all lemmas: 329
+Length of singleton lemmas: 297
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 297
+der
+dict_values([25, 8, 22, 6, 1, 10, 4])
+sum of wordFormDict.values() 76
+dass
+dict_values([10, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([10, 2, 7, 2])
+sum of wordFormDict.values() 21
+können
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([3, 3, 4])
+sum of wordFormDict.values() 10
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([7, 7, 1, 2])
+sum of wordFormDict.values() 17
+ein
+dict_values([6, 3, 3])
+sum of wordFormDict.values() 12
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vorbereiten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reagieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+testen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vorausschauend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+flexibel
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unternehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+proaktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([25, 8, 22, 6, 1, 10, 4])
+sum of wordFormDict.values() 76
+dass
+dict_values([10, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([10, 2, 7, 2])
+sum of wordFormDict.values() 21
+können
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([3, 3, 4])
+sum of wordFormDict.values() 10
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([7, 7, 1, 2])
+sum of wordFormDict.values() 17
+ein
+dict_values([6, 3, 3])
+sum of wordFormDict.values() 12
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vorbereiten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reagieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+testen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vorausschauend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+flexibel
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unternehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+proaktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

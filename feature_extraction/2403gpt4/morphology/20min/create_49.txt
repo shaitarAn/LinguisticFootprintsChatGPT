@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 466
+create_49
+Length of all lemmas: 398
+Length of singleton lemmas: 378
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 378
+ein
+dict_values([8, 6, 9, 3, 1, 3])
+sum of wordFormDict.values() 30
+groß
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([17, 13, 15, 13, 6, 7, 1])
+sum of wordFormDict.values() 72
+sein
+dict_values([1, 3, 2, 1])
+sum of wordFormDict.values() 7
+wir
+dict_values([8, 11])
+sum of wordFormDict.values() 19
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+scheinen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spektakulär
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 7, 5, 1])
+sum of wordFormDict.values() 14
+dies
+dict_values([3, 2, 2, 1, 1])
+sum of wordFormDict.values() 9
+gelingen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([8, 6, 9, 3, 1, 3])
+sum of wordFormDict.values() 30
+groß
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([17, 13, 15, 13, 6, 7, 1])
+sum of wordFormDict.values() 72
+sein
+dict_values([1, 3, 2, 1])
+sum of wordFormDict.values() 7
+wir
+dict_values([8, 11])
+sum of wordFormDict.values() 19
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+scheinen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spektakulär
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 7, 5, 1])
+sum of wordFormDict.values() 14
+dies
+dict_values([3, 2, 2, 1, 1])
+sum of wordFormDict.values() 9
+gelingen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganz
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,325 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 746
+human_69
+Length of all lemmas: 564
+Length of singleton lemmas: 494
+Length of matched lemmas: 53
+Length of singleton maching lemmas: 494
+der
+dict_values([24, 66, 57, 13, 4, 3, 2, 1])
+sum of wordFormDict.values() 170
+werden
+dict_values([18, 5, 3, 4])
+sum of wordFormDict.values() 30
+radiologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([18, 19, 5])
+sum of wordFormDict.values() 42
+ein
+dict_values([16, 9, 6, 15, 12, 6])
+sum of wordFormDict.values() 64
+lobulär
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+mikroskopisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+auffällig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ausgeprägt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+apokrin
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+abgrenzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+subareolär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([6, 7])
+sum of wordFormDict.values() 13
+epithelial
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+sklerosierend
+dict_values([5, 4, 2])
+sum of wordFormDict.values() 11
+zellreich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+tubulär
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+mikroglandulär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+radiär
+dict_values([5, 2, 1, 1])
+sum of wordFormDict.values() 9
+mammographisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+einnehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+glandulär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zentral
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+selten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+duktal
+dict_values([4, 1, 2, 1, 1])
+sum of wordFormDict.values() 9
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vollständig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erfassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+atypisch
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+invasiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+intraduktal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gutartig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewöhnlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+multipl
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+terminal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sondern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+papillär
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+biphasisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zellulär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+luminal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fließend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mitotisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([24, 66, 57, 13, 4, 3, 2, 1])
+sum of wordFormDict.values() 170
+werden
+dict_values([18, 5, 3, 4])
+sum of wordFormDict.values() 30
+radiologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([18, 19, 5])
+sum of wordFormDict.values() 42
+ein
+dict_values([16, 9, 6, 15, 12, 6])
+sum of wordFormDict.values() 64
+lobulär
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+mikroskopisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+auffällig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ausgeprägt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+apokrin
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+abgrenzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+subareolär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([6, 7])
+sum of wordFormDict.values() 13
+epithelial
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+sklerosierend
+dict_values([5, 4, 2])
+sum of wordFormDict.values() 11
+zellreich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+tubulär
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+mikroglandulär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+radiär
+dict_values([5, 2, 1, 1])
+sum of wordFormDict.values() 9
+mammographisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+einnehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+glandulär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zentral
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+selten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+duktal
+dict_values([4, 1, 2, 1, 1])
+sum of wordFormDict.values() 9
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vollständig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erfassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+atypisch
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+invasiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+intraduktal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gutartig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewöhnlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+multipl
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+terminal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sondern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+papillär
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+biphasisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zellulär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+luminal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fließend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mitotisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

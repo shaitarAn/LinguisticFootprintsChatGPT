@@ -1,0 +1,181 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 466
+create_66
+Length of all lemmas: 366
+Length of singleton lemmas: 330
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 330
+der
+dict_values([15, 5, 14, 4, 5, 5, 1])
+sum of wordFormDict.values() 49
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+empathisch
+dict_values([1, 1, 4])
+sum of wordFormDict.values() 6
+ein
+dict_values([8, 4, 7, 3, 2, 2])
+sum of wordFormDict.values() 26
+haben
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+erkennen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([4, 3, 4, 4])
+sum of wordFormDict.values() 15
+neu
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([8, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 14
+unbekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1, 2, 2])
+sum of wordFormDict.values() 6
+täglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 8, 2, 1, 4])
+sum of wordFormDict.values() 16
+scheinen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+menschlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+emotional
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+eingehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+maschinell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+decken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ethisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dienen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 5, 14, 4, 5, 5, 1])
+sum of wordFormDict.values() 49
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+empathisch
+dict_values([1, 1, 4])
+sum of wordFormDict.values() 6
+ein
+dict_values([8, 4, 7, 3, 2, 2])
+sum of wordFormDict.values() 26
+haben
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+erkennen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([4, 3, 4, 4])
+sum of wordFormDict.values() 15
+neu
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([8, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 14
+unbekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1, 2, 2])
+sum of wordFormDict.values() 6
+täglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 8, 2, 1, 4])
+sum of wordFormDict.values() 16
+scheinen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+menschlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+emotional
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+eingehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+maschinell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+decken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ethisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dienen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

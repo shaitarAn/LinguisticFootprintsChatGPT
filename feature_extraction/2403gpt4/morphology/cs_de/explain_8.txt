@@ -1,0 +1,97 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 380
+explain_8
+Length of all lemmas: 306
+Length of singleton lemmas: 281
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 281
+der
+dict_values([19, 16, 8, 11, 9, 7])
+sum of wordFormDict.values() 70
+sein
+dict_values([3, 4, 2, 2, 1, 2])
+sum of wordFormDict.values() 14
+ein
+dict_values([1, 4, 5, 2])
+sum of wordFormDict.values() 12
+enorm
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([2, 4, 2, 1, 1])
+sum of wordFormDict.values() 10
+etablieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+chinesisch
+dict_values([3, 6])
+sum of wordFormDict.values() 9
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rasant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+regulatorisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+digital
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ausländisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([19, 16, 8, 11, 9, 7])
+sum of wordFormDict.values() 70
+sein
+dict_values([3, 4, 2, 2, 1, 2])
+sum of wordFormDict.values() 14
+ein
+dict_values([1, 4, 5, 2])
+sum of wordFormDict.values() 12
+enorm
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([2, 4, 2, 1, 1])
+sum of wordFormDict.values() 10
+etablieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+chinesisch
+dict_values([3, 6])
+sum of wordFormDict.values() 9
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rasant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+regulatorisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+digital
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ausländisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3

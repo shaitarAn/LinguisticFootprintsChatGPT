@@ -1,0 +1,181 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 546
+continue_39
+Length of all lemmas: 482
+Length of singleton lemmas: 442
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 442
+sein
+dict_values([5, 1, 2])
+sum of wordFormDict.values() 8
+ein
+dict_values([7, 5, 1, 1])
+sum of wordFormDict.values() 14
+der
+dict_values([19, 15, 10, 9, 8, 2])
+sum of wordFormDict.values() 63
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+präzis
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aggressiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bewerten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 3, 3, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([1, 7, 1])
+sum of wordFormDict.values() 9
+sollen
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+invasiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+adjuvant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zählen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+korrekt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pathologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erforderlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+standardisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 1, 2])
+sum of wordFormDict.values() 8
+ein
+dict_values([7, 5, 1, 1])
+sum of wordFormDict.values() 14
+der
+dict_values([19, 15, 10, 9, 8, 2])
+sum of wordFormDict.values() 63
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+präzis
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aggressiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bewerten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 3, 3, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([1, 7, 1])
+sum of wordFormDict.values() 9
+sollen
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+invasiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+adjuvant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zählen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+korrekt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pathologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erforderlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+standardisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2

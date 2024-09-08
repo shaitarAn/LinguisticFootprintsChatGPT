@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 409
+continue_84
+Length of all lemmas: 341
+Length of singleton lemmas: 315
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 315
+der
+dict_values([6, 19, 1, 3, 12, 7, 16, 1])
+sum of wordFormDict.values() 65
+spielen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([9, 2, 6, 1])
+sum of wordFormDict.values() 18
+sein
+dict_values([8, 4, 2])
+sum of wordFormDict.values() 14
+können
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+physisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 3, 1, 1])
+sum of wordFormDict.values() 6
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+psychosozial
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+ethisch
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+letzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+komplex
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([6, 19, 1, 3, 12, 7, 16, 1])
+sum of wordFormDict.values() 65
+spielen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([9, 2, 6, 1])
+sum of wordFormDict.values() 18
+sein
+dict_values([8, 4, 2])
+sum of wordFormDict.values() 14
+können
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+physisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 3, 1, 1])
+sum of wordFormDict.values() 6
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+psychosozial
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+ethisch
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+letzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+komplex
+dict_values([1, 1])
+sum of wordFormDict.values() 2

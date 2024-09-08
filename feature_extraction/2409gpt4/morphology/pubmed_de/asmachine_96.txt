@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 378
+asmachine_96
+Length of all lemmas: 309
+Length of singleton lemmas: 279
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 279
+der
+dict_values([15, 12, 16, 6, 7, 9])
+sum of wordFormDict.values() 65
+transregional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([9, 2])
+sum of wordFormDict.values() 11
+ein
+dict_values([7, 7, 2, 3, 1])
+sum of wordFormDict.values() 20
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 6, 3, 1, 1, 1])
+sum of wordFormDict.values() 13
+werden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([4, 4, 2, 1, 2])
+sum of wordFormDict.values() 13
+aufbauen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1, 1, 1, 1])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ambulant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+personalisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 12, 16, 6, 7, 9])
+sum of wordFormDict.values() 65
+transregional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([9, 2])
+sum of wordFormDict.values() 11
+ein
+dict_values([7, 7, 2, 3, 1])
+sum of wordFormDict.values() 20
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 6, 3, 1, 1, 1])
+sum of wordFormDict.values() 13
+werden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([4, 4, 2, 1, 2])
+sum of wordFormDict.values() 13
+aufbauen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1, 1, 1, 1])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ambulant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+personalisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

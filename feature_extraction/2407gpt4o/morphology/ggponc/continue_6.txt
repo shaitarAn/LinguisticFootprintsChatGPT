@@ -1,0 +1,187 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 590
+continue_6
+Length of all lemmas: 520
+Length of singleton lemmas: 482
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 482
+Aktinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([21, 8, 11, 8, 6, 1, 2, 1])
+sum of wordFormDict.values() 58
+aktinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 8, 5, 2, 1, 2])
+sum of wordFormDict.values() 24
+werden
+dict_values([2, 3, 5])
+sum of wordFormDict.values() 10
+sein
+dict_values([4, 6])
+sum of wordFormDict.values() 10
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dysplastisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genetisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+entscheidend
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verwenden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+aggressiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+anfällig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+molekulargenetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+regelmäßige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+regelmäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Aktinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([21, 8, 11, 8, 6, 1, 2, 1])
+sum of wordFormDict.values() 58
+aktinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 8, 5, 2, 1, 2])
+sum of wordFormDict.values() 24
+werden
+dict_values([2, 3, 5])
+sum of wordFormDict.values() 10
+sein
+dict_values([4, 6])
+sum of wordFormDict.values() 10
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dysplastisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genetisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+entscheidend
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verwenden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+aggressiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+anfällig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+molekulargenetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+regelmäßige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+regelmäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

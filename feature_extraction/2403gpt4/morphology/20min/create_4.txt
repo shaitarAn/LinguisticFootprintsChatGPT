@@ -1,0 +1,163 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 399
+create_4
+Length of all lemmas: 312
+Length of singleton lemmas: 278
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 278
+der
+dict_values([9, 17, 7, 10, 7, 19])
+sum of wordFormDict.values() 69
+ein
+dict_values([3, 4, 6, 8, 1, 1])
+sum of wordFormDict.values() 23
+sein
+dict_values([6, 3, 2, 3, 2, 1, 1, 1])
+sum of wordFormDict.values() 19
+haben
+dict_values([7, 5, 1])
+sum of wordFormDict.values() 13
+dies
+dict_values([2, 3, 4, 1])
+sum of wordFormDict.values() 10
+können
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+global
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([1, 1, 3])
+sum of wordFormDict.values() 5
+werden
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+grün
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1, 1, 1, 1])
+sum of wordFormDict.values() 6
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antworten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([9, 17, 7, 10, 7, 19])
+sum of wordFormDict.values() 69
+ein
+dict_values([3, 4, 6, 8, 1, 1])
+sum of wordFormDict.values() 23
+sein
+dict_values([6, 3, 2, 3, 2, 1, 1, 1])
+sum of wordFormDict.values() 19
+haben
+dict_values([7, 5, 1])
+sum of wordFormDict.values() 13
+dies
+dict_values([2, 3, 4, 1])
+sum of wordFormDict.values() 10
+können
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+global
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([1, 1, 3])
+sum of wordFormDict.values() 5
+werden
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+grün
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1, 1, 1, 1])
+sum of wordFormDict.values() 6
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antworten
+dict_values([1, 1])
+sum of wordFormDict.values() 2

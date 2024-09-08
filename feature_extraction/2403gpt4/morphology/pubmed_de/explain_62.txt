@@ -1,0 +1,97 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 379
+explain_62
+Length of all lemmas: 322
+Length of singleton lemmas: 302
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 302
+dies
+dict_values([5, 2, 1, 1, 2, 2])
+sum of wordFormDict.values() 13
+ein
+dict_values([9, 1, 1, 2])
+sum of wordFormDict.values() 13
+der
+dict_values([13, 6, 18, 7, 6, 2])
+sum of wordFormDict.values() 52
+sein
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+können
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+physisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+kognitiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geistig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einige
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neurologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([5, 2, 1, 1, 2, 2])
+sum of wordFormDict.values() 13
+ein
+dict_values([9, 1, 1, 2])
+sum of wordFormDict.values() 13
+der
+dict_values([13, 6, 18, 7, 6, 2])
+sum of wordFormDict.values() 52
+sein
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+können
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+physisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+kognitiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geistig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einige
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([7, 2])
+sum of wordFormDict.values() 9
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neurologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2

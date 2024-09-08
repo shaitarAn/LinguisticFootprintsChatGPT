@@ -1,0 +1,187 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 700
+continue_17
+Length of all lemmas: 637
+Length of singleton lemmas: 601
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 601
+der
+dict_values([3, 2, 19, 8, 16, 3, 1])
+sum of wordFormDict.values() 52
+verschieden
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+zunehmend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zielen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verfügbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 3, 5, 2])
+sum of wordFormDict.values() 13
+wissenschaftlich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ergeben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+systematisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+transparent
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+minimieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([8, 2, 1, 1])
+sum of wordFormDict.values() 12
+dies
+dict_values([2, 1, 1, 1, 3])
+sum of wordFormDict.values() 8
+umfassen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozialpolitisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fundiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vorliegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unabhängig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([3, 2, 19, 8, 16, 3, 1])
+sum of wordFormDict.values() 52
+verschieden
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+zunehmend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zielen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verfügbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 3, 5, 2])
+sum of wordFormDict.values() 13
+wissenschaftlich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ergeben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+systematisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+transparent
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+minimieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([8, 2, 1, 1])
+sum of wordFormDict.values() 12
+dies
+dict_values([2, 1, 1, 1, 3])
+sum of wordFormDict.values() 8
+umfassen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozialpolitisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fundiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vorliegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unabhängig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

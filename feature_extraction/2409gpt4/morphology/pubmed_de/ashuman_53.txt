@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 381
+ashuman_53
+Length of all lemmas: 312
+Length of singleton lemmas: 280
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 280
+der
+dict_values([21, 12, 17, 7, 4, 2, 1])
+sum of wordFormDict.values() 64
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 2, 1, 5])
+sum of wordFormDict.values() 10
+ein
+dict_values([6, 1, 6, 2, 2])
+sum of wordFormDict.values() 17
+können
+dict_values([2, 6, 1, 2])
+sum of wordFormDict.values() 11
+medizinisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+digital
+dict_values([4, 4, 1, 1])
+sum of wordFormDict.values() 10
+ermöglichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beitragen
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([7, 4])
+sum of wordFormDict.values() 11
+jed
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ethisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+nutzen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([21, 12, 17, 7, 4, 2, 1])
+sum of wordFormDict.values() 64
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 2, 1, 5])
+sum of wordFormDict.values() 10
+ein
+dict_values([6, 1, 6, 2, 2])
+sum of wordFormDict.values() 17
+können
+dict_values([2, 6, 1, 2])
+sum of wordFormDict.values() 11
+medizinisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+digital
+dict_values([4, 4, 1, 1])
+sum of wordFormDict.values() 10
+ermöglichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beitragen
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([7, 4])
+sum of wordFormDict.values() 11
+jed
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ethisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+nutzen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2

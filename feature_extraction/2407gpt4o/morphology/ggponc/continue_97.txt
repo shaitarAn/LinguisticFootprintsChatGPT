@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 613
+continue_97
+Length of all lemmas: 575
+Length of singleton lemmas: 555
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 555
+der
+dict_values([15, 11, 10, 4, 2, 5, 1])
+sum of wordFormDict.values() 48
+ein
+dict_values([2, 2, 1, 6, 2])
+sum of wordFormDict.values() 13
+sein
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+neoplastisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bildgebend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kommen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+direkt
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+exakt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verdächtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 11, 10, 4, 2, 5, 1])
+sum of wordFormDict.values() 48
+ein
+dict_values([2, 2, 1, 6, 2])
+sum of wordFormDict.values() 13
+sein
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+neoplastisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bildgebend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kommen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+direkt
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+exakt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verdächtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 343
+asmachine_82
+Length of all lemmas: 288
+Length of singleton lemmas: 264
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 264
+der
+dict_values([15, 21, 3, 3, 7, 2])
+sum of wordFormDict.values() 51
+werden
+dict_values([2, 1, 8])
+sum of wordFormDict.values() 11
+klinisch
+dict_values([3, 7])
+sum of wordFormDict.values() 10
+ein
+dict_values([2, 1, 5, 3])
+sum of wordFormDict.values() 11
+dies
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([5, 1, 1, 1, 1])
+sum of wordFormDict.values() 9
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konkret
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+studienbezogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+neu
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 21, 3, 3, 7, 2])
+sum of wordFormDict.values() 51
+werden
+dict_values([2, 1, 8])
+sum of wordFormDict.values() 11
+klinisch
+dict_values([3, 7])
+sum of wordFormDict.values() 10
+ein
+dict_values([2, 1, 5, 3])
+sum of wordFormDict.values() 11
+dies
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([5, 1, 1, 1, 1])
+sum of wordFormDict.values() 9
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konkret
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+studienbezogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+neu
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

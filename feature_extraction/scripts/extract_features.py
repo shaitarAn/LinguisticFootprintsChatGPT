@@ -10,6 +10,7 @@ import textdescriptives as td
 import spacy_udpipe
 from nltk import ngrams
 from collections import defaultdict
+from config import GERMAN_CORPORA, ENGLISH_CORPORA, tasks
 
 '''
 writes results to ..results/per_corpus
@@ -17,13 +18,10 @@ writes results to ..results/per_corpus
 
 parser = argparse.ArgumentParser()
 # parser.add_argument("prompt", type=str, help="Prompt to use for text generation")
-parser.add_argument("--corpus", "-c", type=str, required=True, help="Corpus name to use for text generation")
-# parser.add_argument("--params", type=str, required=True, help="combined params to use in file naming")
+parser.add_argument('-o', '--output_dir', required=True, help="Directory where all results and outputs will go.")
+parser.add_argument('-i', '--input_dir', required=True, help="Directory with generated data.")
 
 args = parser.parse_args()
-
-corpus = args.corpus
-# params = args.params
 
 spacy_udpipe.download("en")
 spacy_udpipe.download("de")
@@ -112,10 +110,10 @@ def process_file(file_path, lang, average):
         
     return td.extract_dict(doc), doc
 
-def count_oov_words(doc, system):
-    if not os.path.exists(f"../results/oov/"):
-        os.makedirs(f"../results/oov/")
-    with open(f"../results/oov/{corpus}_{system}.txt", "a") as f:
+def count_oov_words(doc, system, corpus_name):
+    if not os.path.exists(f"{args.output_dir}/results/oov/"):
+        os.makedirs(f"{args.output_dir}/results/oov/")
+    with open(f"{args.output_dir}/results/oov/{corpus_name}_{system}.txt", "a") as f:
         for token in doc:
             if token.is_oov:
                 f.write(token.text.strip()+"\n")
@@ -138,23 +136,26 @@ def calculate_german_flesch_reading_ease(file_content):
 
     return flesch_reading_ease
 
-def main():
+def main(corpus):
 
-    if corpus in ["cnn", "e3c", "zora_en", "pubmed_en", "cs_en"]:
+    corpus_name = corpus.split("/")[-1]
+    if corpus_name in ENGLISH_CORPORA:
         lang = 'en'
     else:
         lang = 'de'
 
+    input_dir = os.path.join(args.input_dir, corpus)
 
-    num_files = len(os.listdir(f"../../data/{corpus}/human"))
+
+    num_files = len(os.listdir(f"{input_dir}/human"))
     # print(corpus, num_files)
     
     for i in range(1, num_files+1):
         system_dataframes = []
         print(i)
         len_files = []
-        for task in ["human", "continue", "create", "explain"]:
-            with open(f"../../data/{corpus}/{task}/{i}", "r") as f:
+        for task in tasks:
+            with open(f"{input_dir}/{task}/{i}.txt", "r") as f:
                 content = f.read()
                 # replace multiple spaces with a single space
                 content = content.split()
@@ -164,20 +165,20 @@ def main():
         # print(average)
         # print("--------------")
 
-        for task in ["human", "continue", "create", "explain"]:
+        for task in tasks:
 
-            with open(f"../../data/{corpus}/{task}/{i}", "r") as f:
+            with open(f"{input_dir}/{task}/{i}.txt", "r") as f:
                 print(task)
                 file_content = f.read()
 
-                file_path = os.path.join(f"../../data/{corpus}/{task}/", f"{i}")
+                file_path = os.path.join(f"{input_dir}/{task}/", f"{i}.txt")
 
                 connectives = extract_connectives(lang, file_path, average)
                 total_connectives = sum([connectives[key]['lower'] + connectives[key]['capitalized'] for key in connectives])
                 uppper_connectives = sum([connectives[key]['capitalized'] for key in connectives])
 
                 feature_values_list, obj = process_file(file_path, lang, average)
-                count_oov_words(obj, task)
+                count_oov_words(obj, task, corpus_name)
 
                 df = pd.DataFrame()
                 
@@ -214,12 +215,14 @@ def main():
         combined_dataframe = pd.concat(system_dataframes, axis=1)
 
         print(combined_dataframe.head())
-        if not os.path.exists(f"../results/per_corpus/{corpus}"):
-            os.makedirs(f"../results/per_corpus/{corpus}")
+        if not os.path.exists(f"{args.output_dir}/results/per_corpus/{corpus_name}"):
+            os.makedirs(f"{args.output_dir}/results/per_corpus/{corpus_name}")
 
         # Step 4: Write the resulting dataframe to a CSV file
-        combined_dataframe.to_csv(f"../results/per_corpus/{corpus}/{i}.csv", index=True)
+        combined_dataframe.to_csv(f"{args.output_dir}/results/per_corpus/{corpus_name}/{i}.csv", index=True)
 
 
 if __name__ == "__main__":
-    main()
+    corpus_list = GERMAN_CORPORA + ENGLISH_CORPORA
+    for corpus in corpus_list:
+        main(corpus)

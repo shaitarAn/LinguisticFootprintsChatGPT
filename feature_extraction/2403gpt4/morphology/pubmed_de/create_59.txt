@@ -1,0 +1,157 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 405
+create_59
+Length of all lemmas: 325
+Length of singleton lemmas: 290
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 290
+sein
+dict_values([5, 2, 2])
+sum of wordFormDict.values() 9
+ein
+dict_values([5, 7, 1, 1, 1])
+sum of wordFormDict.values() 15
+präventiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 19, 6, 8, 6, 4])
+sum of wordFormDict.values() 58
+riskant
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 3, 3, 2])
+sum of wordFormDict.values() 11
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+schulisch
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+begrenzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lebensecht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ihr
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+effektiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+interaktiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+neu
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vielversprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spät
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 2, 2])
+sum of wordFormDict.values() 9
+ein
+dict_values([5, 7, 1, 1, 1])
+sum of wordFormDict.values() 15
+präventiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 19, 6, 8, 6, 4])
+sum of wordFormDict.values() 58
+riskant
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 3, 3, 2])
+sum of wordFormDict.values() 11
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+schulisch
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+begrenzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lebensecht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ihr
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+effektiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+interaktiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+neu
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vielversprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spät
+dict_values([1, 1])
+sum of wordFormDict.values() 2

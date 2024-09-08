@@ -1,0 +1,199 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 572
+explain_41
+Length of all lemmas: 476
+Length of singleton lemmas: 436
+Length of matched lemmas: 32
+Length of singleton maching lemmas: 436
+der
+dict_values([16, 20, 3, 7, 3, 9, 4, 1])
+sum of wordFormDict.values() 63
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1, 5, 1])
+sum of wordFormDict.values() 10
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+besonder
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bestehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1, 5, 2])
+sum of wordFormDict.values() 9
+ein
+dict_values([6, 3, 4, 2])
+sum of wordFormDict.values() 15
+asymptomatisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([8, 2, 1])
+sum of wordFormDict.values() 11
+dies
+dict_values([5, 5, 3, 1])
+sum of wordFormDict.values() 14
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+infektiös
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schulisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+belüftet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reduzieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bilden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+physikalisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fundiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+rational
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pandemisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 20, 3, 7, 3, 9, 4, 1])
+sum of wordFormDict.values() 63
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1, 5, 1])
+sum of wordFormDict.values() 10
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+besonder
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bestehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1, 5, 2])
+sum of wordFormDict.values() 9
+ein
+dict_values([6, 3, 4, 2])
+sum of wordFormDict.values() 15
+asymptomatisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([8, 2, 1])
+sum of wordFormDict.values() 11
+dies
+dict_values([5, 5, 3, 1])
+sum of wordFormDict.values() 14
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+infektiös
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schulisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+belüftet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reduzieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bilden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+physikalisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fundiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+rational
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pandemisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

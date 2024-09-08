@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 500
+create_51
+Length of all lemmas: 470
+Length of singleton lemmas: 442
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 442
+der
+dict_values([7, 6, 2, 2, 4, 1, 1])
+sum of wordFormDict.values() 23
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([1, 3, 4, 2, 2, 1])
+sum of wordFormDict.values() 13
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bearbeiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezialisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+effizient
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+künstlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 6, 2, 2, 4, 1, 1])
+sum of wordFormDict.values() 23
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([1, 3, 4, 2, 2, 1])
+sum of wordFormDict.values() 13
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bearbeiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezialisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+effizient
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+künstlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

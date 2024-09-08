@@ -1,0 +1,205 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 583
+continue_11
+Length of all lemmas: 502
+Length of singleton lemmas: 459
+Length of matched lemmas: 33
+Length of singleton maching lemmas: 459
+der
+dict_values([10, 3, 10, 5, 14, 1, 4])
+sum of wordFormDict.values() 47
+haben
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+nachhaltig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([2, 2, 5])
+sum of wordFormDict.values() 9
+moralisch
+dict_values([1, 5, 4])
+sum of wordFormDict.values() 10
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ärztlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+richtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+ihr
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ethisch
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([4, 1, 3])
+sum of wordFormDict.values() 8
+spezifisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+langfristig
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pandemiebedingt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([3, 2, 5, 1])
+sum of wordFormDict.values() 11
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 2, 1, 2])
+sum of wordFormDict.values() 6
+institutionell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+emotional
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jung
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erfahren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+offen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unterstützen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geschult
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesamt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([10, 3, 10, 5, 14, 1, 4])
+sum of wordFormDict.values() 47
+haben
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+nachhaltig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([2, 2, 5])
+sum of wordFormDict.values() 9
+moralisch
+dict_values([1, 5, 4])
+sum of wordFormDict.values() 10
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ärztlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+richtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+ihr
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ethisch
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([4, 1, 3])
+sum of wordFormDict.values() 8
+spezifisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+langfristig
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pandemiebedingt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([3, 2, 5, 1])
+sum of wordFormDict.values() 11
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 2, 1, 2])
+sum of wordFormDict.values() 6
+institutionell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+emotional
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jung
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erfahren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+offen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unterstützen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geschult
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesamt
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 455
+continue_48
+Length of all lemmas: 370
+Length of singleton lemmas: 338
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 338
+der
+dict_values([18, 12, 12, 18, 6, 4, 2])
+sum of wordFormDict.values() 72
+sein
+dict_values([6, 4, 10, 7, 1, 2, 5, 4])
+sum of wordFormDict.values() 39
+ein
+dict_values([2, 4, 5, 1, 1])
+sum of wordFormDict.values() 13
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+explosiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([8, 2, 1])
+sum of wordFormDict.values() 11
+er
+dict_values([12, 2])
+sum of wordFormDict.values() 14
+ganz
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([6, 3, 3])
+sum of wordFormDict.values() 12
+musikalisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+revolutionär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+prägen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+bleiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+leben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+der
+dict_values([18, 12, 12, 18, 6, 4, 2])
+sum of wordFormDict.values() 72
+sein
+dict_values([6, 4, 10, 7, 1, 2, 5, 4])
+sum of wordFormDict.values() 39
+ein
+dict_values([2, 4, 5, 1, 1])
+sum of wordFormDict.values() 13
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+explosiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([8, 2, 1])
+sum of wordFormDict.values() 11
+er
+dict_values([12, 2])
+sum of wordFormDict.values() 14
+ganz
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([6, 3, 3])
+sum of wordFormDict.values() 12
+musikalisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+revolutionär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+prägen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+bleiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+leben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([3, 2])
+sum of wordFormDict.values() 5

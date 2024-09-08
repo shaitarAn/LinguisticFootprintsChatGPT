@@ -1,0 +1,103 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 533
+create_15
+Length of all lemmas: 549
+Length of singleton lemmas: 524
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 524
+sein
+dict_values([3, 1, 2, 1])
+sum of wordFormDict.values() 7
+der
+dict_values([10, 10, 6, 17, 6, 5])
+sum of wordFormDict.values() 54
+werden
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+ein
+dict_values([5, 4, 5, 2, 1])
+sum of wordFormDict.values() 17
+haben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+wir
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+bewußt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesamt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jährlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1, 2, 1])
+sum of wordFormDict.values() 7
+der
+dict_values([10, 10, 6, 17, 6, 5])
+sum of wordFormDict.values() 54
+werden
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+ein
+dict_values([5, 4, 5, 2, 1])
+sum of wordFormDict.values() 17
+haben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+wir
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+bewußt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesamt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jährlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2

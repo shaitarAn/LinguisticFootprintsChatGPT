@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 386
+explain_89
+Length of all lemmas: 303
+Length of singleton lemmas: 271
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 271
+dies
+dict_values([7, 3, 1, 1, 1])
+sum of wordFormDict.values() 13
+werden
+dict_values([9, 5, 1])
+sum of wordFormDict.values() 15
+der
+dict_values([16, 23, 11, 8, 5, 4])
+sum of wordFormDict.values() 67
+lokalisiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verwenden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([3, 1, 4, 1, 1, 1])
+sum of wordFormDict.values() 11
+sein
+dict_values([4, 1, 3])
+sum of wordFormDict.values() 8
+gering
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+radikal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reduzieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+nutzen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+ihr
+dict_values([3, 1, 1, 2])
+sum of wordFormDict.values() 7
+herkömmlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+direkt
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+fehlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+meist
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([7, 3, 1, 1, 1])
+sum of wordFormDict.values() 13
+werden
+dict_values([9, 5, 1])
+sum of wordFormDict.values() 15
+der
+dict_values([16, 23, 11, 8, 5, 4])
+sum of wordFormDict.values() 67
+lokalisiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verwenden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([3, 1, 4, 1, 1, 1])
+sum of wordFormDict.values() 11
+sein
+dict_values([4, 1, 3])
+sum of wordFormDict.values() 8
+gering
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+radikal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reduzieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+nutzen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+ihr
+dict_values([3, 1, 1, 2])
+sum of wordFormDict.values() 7
+herkömmlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+direkt
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+fehlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+meist
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

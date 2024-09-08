@@ -1,0 +1,79 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 335
+ashuman_48
+Length of all lemmas: 282
+Length of singleton lemmas: 261
+Length of matched lemmas: 12
+Length of singleton maching lemmas: 261
+der
+dict_values([14, 9, 15, 7, 10, 3])
+sum of wordFormDict.values() 58
+sein
+dict_values([6, 2, 1, 4])
+sum of wordFormDict.values() 13
+ein
+dict_values([6, 2, 6])
+sum of wordFormDict.values() 14
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+zoonotisch
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tierisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effizient
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 9, 15, 7, 10, 3])
+sum of wordFormDict.values() 58
+sein
+dict_values([6, 2, 1, 4])
+sum of wordFormDict.values() 13
+ein
+dict_values([6, 2, 6])
+sum of wordFormDict.values() 14
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+zoonotisch
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tierisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effizient
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

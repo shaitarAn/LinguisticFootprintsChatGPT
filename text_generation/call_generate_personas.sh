@@ -23,6 +23,6 @@ for corpus in "${corpora[@]}";do
 
     mkdir -p "../output/${corpus}/human/"
 
-    python3 generate_personas.py $model -c $corpus -i $infolder -o $outfolder 
+    python3 generate_personas.py $model -c $corpus -i $infolder -o $outfolder -p $prompt_file
 
 done

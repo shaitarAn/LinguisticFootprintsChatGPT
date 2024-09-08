@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 406
+ashuman_29
+Length of all lemmas: 344
+Length of singleton lemmas: 316
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 316
+der
+dict_values([19, 17, 6, 7, 1, 5, 8])
+sum of wordFormDict.values() 63
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([2, 7, 1, 1])
+sum of wordFormDict.values() 11
+individuell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+bieten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+Automatisiert
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+ein
+dict_values([4, 8, 1, 2, 1, 1])
+sum of wordFormDict.values() 17
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 8, 4])
+sum of wordFormDict.values() 13
+verringern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+rechtlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vollautomatisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+automatisiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 17, 6, 7, 1, 5, 8])
+sum of wordFormDict.values() 63
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([2, 7, 1, 1])
+sum of wordFormDict.values() 11
+individuell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+bieten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+Automatisiert
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+ein
+dict_values([4, 8, 1, 2, 1, 1])
+sum of wordFormDict.values() 17
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 8, 4])
+sum of wordFormDict.values() 13
+verringern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+rechtlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vollautomatisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+automatisiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2

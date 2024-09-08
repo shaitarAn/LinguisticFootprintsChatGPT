@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 356
+explain_8
+Length of all lemmas: 289
+Length of singleton lemmas: 265
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 265
+dies
+dict_values([3, 1, 2, 2])
+sum of wordFormDict.values() 8
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+metastasiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([7, 5, 1, 3])
+sum of wordFormDict.values() 16
+der
+dict_values([5, 12, 17, 2, 6, 2, 1])
+sum of wordFormDict.values() 45
+sein
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 6, 4, 2, 1, 1])
+sum of wordFormDict.values() 16
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhalten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+verlängert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+multidisziplinär
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rückblickend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+patientenspezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+metastasierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 2, 2])
+sum of wordFormDict.values() 8
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+metastasiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([7, 5, 1, 3])
+sum of wordFormDict.values() 16
+der
+dict_values([5, 12, 17, 2, 6, 2, 1])
+sum of wordFormDict.values() 45
+sein
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 6, 4, 2, 1, 1])
+sum of wordFormDict.values() 16
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhalten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+verlängert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+multidisziplinär
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rückblickend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+patientenspezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+metastasierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

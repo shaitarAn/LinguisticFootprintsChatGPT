@@ -1,0 +1,199 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 460
+explain_3
+Length of all lemmas: 379
+Length of singleton lemmas: 338
+Length of matched lemmas: 32
+Length of singleton maching lemmas: 338
+der
+dict_values([5, 16, 7, 22, 15, 3, 2])
+sum of wordFormDict.values() 70
+ein
+dict_values([10, 3, 6, 3, 3, 3])
+sum of wordFormDict.values() 28
+literarisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+von
+dict_values([11, 1])
+sum of wordFormDict.values() 12
+enorm
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 4, 1, 2])
+sum of wordFormDict.values() 8
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 4, 7, 1])
+sum of wordFormDict.values() 15
+d
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+methodisch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+schriftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 4, 4, 1])
+sum of wordFormDict.values() 10
+früh
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+griechisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+archäologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bieten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spät
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+solch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+chronologisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+besonder
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([5, 16, 7, 22, 15, 3, 2])
+sum of wordFormDict.values() 70
+ein
+dict_values([10, 3, 6, 3, 3, 3])
+sum of wordFormDict.values() 28
+literarisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+von
+dict_values([11, 1])
+sum of wordFormDict.values() 12
+enorm
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 4, 1, 2])
+sum of wordFormDict.values() 8
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 4, 7, 1])
+sum of wordFormDict.values() 15
+d
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+methodisch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+schriftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 4, 4, 1])
+sum of wordFormDict.values() 10
+früh
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+griechisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+archäologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bieten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spät
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+solch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+chronologisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+besonder
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

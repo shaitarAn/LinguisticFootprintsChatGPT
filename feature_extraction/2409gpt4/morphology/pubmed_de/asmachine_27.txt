@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 373
+asmachine_27
+Length of all lemmas: 308
+Length of singleton lemmas: 276
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 276
+der
+dict_values([14, 16, 9, 6, 4])
+sum of wordFormDict.values() 49
+sein
+dict_values([6, 1, 4, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([3, 5, 5, 1])
+sum of wordFormDict.values() 14
+wichtig
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+zahnmedizinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 1, 5, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([7, 3, 3])
+sum of wordFormDict.values() 13
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+geistig
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+hoch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zahnärztlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+evidenzbasiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 16, 9, 6, 4])
+sum of wordFormDict.values() 49
+sein
+dict_values([6, 1, 4, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([3, 5, 5, 1])
+sum of wordFormDict.values() 14
+wichtig
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+zahnmedizinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 1, 5, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([7, 3, 3])
+sum of wordFormDict.values() 13
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+geistig
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+hoch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zahnärztlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+evidenzbasiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 370
+create_60
+Length of all lemmas: 298
+Length of singleton lemmas: 267
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 267
+werden
+dict_values([3, 5, 4])
+sum of wordFormDict.values() 12
+der
+dict_values([13, 20, 8, 3, 6, 2])
+sum of wordFormDict.values() 52
+ein
+dict_values([4, 4, 2, 4])
+sum of wordFormDict.values() 14
+sein
+dict_values([2, 8, 8, 5, 4, 1, 1])
+sum of wordFormDict.values() 29
+malign
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesamt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+wir
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+standardisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+emotional
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+er
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 5, 4])
+sum of wordFormDict.values() 12
+der
+dict_values([13, 20, 8, 3, 6, 2])
+sum of wordFormDict.values() 52
+ein
+dict_values([4, 4, 2, 4])
+sum of wordFormDict.values() 14
+sein
+dict_values([2, 8, 8, 5, 4, 1, 1])
+sum of wordFormDict.values() 29
+malign
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesamt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+wir
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+standardisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+emotional
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+er
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2

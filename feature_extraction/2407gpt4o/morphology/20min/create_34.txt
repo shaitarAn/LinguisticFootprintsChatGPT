@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 486
+create_34
+Length of all lemmas: 439
+Length of singleton lemmas: 410
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 410
+ein
+dict_values([3, 3, 1, 1])
+sum of wordFormDict.values() 8
+haben
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+der
+dict_values([6, 11, 8, 6, 3, 1, 1, 2])
+sum of wordFormDict.values() 38
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zahlreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+massiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+portugiesisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antworten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+extrem
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 3, 1, 1])
+sum of wordFormDict.values() 8
+haben
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+der
+dict_values([6, 11, 8, 6, 3, 1, 1, 2])
+sum of wordFormDict.values() 38
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zahlreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+massiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+portugiesisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antworten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+extrem
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

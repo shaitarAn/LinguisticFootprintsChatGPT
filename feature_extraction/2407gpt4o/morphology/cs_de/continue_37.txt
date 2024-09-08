@@ -1,0 +1,205 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 616
+continue_37
+Length of all lemmas: 522
+Length of singleton lemmas: 481
+Length of matched lemmas: 33
+Length of singleton maching lemmas: 481
+ich
+dict_values([4, 7, 1])
+sum of wordFormDict.values() 12
+intensiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([11, 5, 2, 9, 9, 8, 1])
+sum of wordFormDict.values() 45
+sein
+dict_values([6, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([2, 6, 2, 1, 2, 1])
+sum of wordFormDict.values() 14
+spannend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 2, 1, 1, 1])
+sum of wordFormDict.values() 9
+neu
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([5, 8])
+sum of wordFormDict.values() 13
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 3, 5, 1])
+sum of wordFormDict.values() 10
+entstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stecken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([6, 6, 1])
+sum of wordFormDict.values() 13
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+mein
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+jed
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wahr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kollektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dürfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([4, 7, 1])
+sum of wordFormDict.values() 12
+intensiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([11, 5, 2, 9, 9, 8, 1])
+sum of wordFormDict.values() 45
+sein
+dict_values([6, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([2, 6, 2, 1, 2, 1])
+sum of wordFormDict.values() 14
+spannend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 2, 1, 1, 1])
+sum of wordFormDict.values() 9
+neu
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([5, 8])
+sum of wordFormDict.values() 13
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 3, 5, 1])
+sum of wordFormDict.values() 10
+entstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stecken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([6, 6, 1])
+sum of wordFormDict.values() 13
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+mein
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+jed
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wahr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kollektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dürfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,97 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 371
+asmachine_11
+Length of all lemmas: 314
+Length of singleton lemmas: 293
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 293
+der
+dict_values([17, 8, 6, 1, 12, 5, 10])
+sum of wordFormDict.values() 59
+sein
+dict_values([5, 1, 1, 1, 2, 1])
+sum of wordFormDict.values() 11
+ein
+dict_values([7, 3, 1])
+sum of wordFormDict.values() 11
+ärztlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+moralisch
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([3, 2, 1, 1, 1])
+sum of wordFormDict.values() 8
+bringen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 2, 3, 1])
+sum of wordFormDict.values() 8
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+organisatorisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+präventiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesamt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 8, 6, 1, 12, 5, 10])
+sum of wordFormDict.values() 59
+sein
+dict_values([5, 1, 1, 1, 2, 1])
+sum of wordFormDict.values() 11
+ein
+dict_values([7, 3, 1])
+sum of wordFormDict.values() 11
+ärztlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+moralisch
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([3, 2, 1, 1, 1])
+sum of wordFormDict.values() 8
+bringen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 2, 3, 1])
+sum of wordFormDict.values() 8
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+organisatorisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+präventiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesamt
+dict_values([1, 1])
+sum of wordFormDict.values() 2

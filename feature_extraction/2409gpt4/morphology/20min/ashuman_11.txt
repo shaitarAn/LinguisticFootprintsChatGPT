@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 431
+ashuman_11
+Length of all lemmas: 353
+Length of singleton lemmas: 327
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 327
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([4, 11, 10, 2, 9, 6])
+sum of wordFormDict.values() 42
+betonen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([6, 6, 3, 1, 1, 1])
+sum of wordFormDict.values() 18
+ein
+dict_values([5, 7, 3, 4])
+sum of wordFormDict.values() 19
+welch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([6, 6])
+sum of wordFormDict.values() 12
+zünden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 4, 2, 1])
+sum of wordFormDict.values() 9
+unser
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+gesund
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+halten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+enthalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+schlecht
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+gesättigt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+ausgewogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([4, 11, 10, 2, 9, 6])
+sum of wordFormDict.values() 42
+betonen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([6, 6, 3, 1, 1, 1])
+sum of wordFormDict.values() 18
+ein
+dict_values([5, 7, 3, 4])
+sum of wordFormDict.values() 19
+welch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([6, 6])
+sum of wordFormDict.values() 12
+zünden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 4, 2, 1])
+sum of wordFormDict.values() 9
+unser
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+gesund
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+halten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+enthalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+schlecht
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+gesättigt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+ausgewogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

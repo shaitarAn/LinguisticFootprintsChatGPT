@@ -1,0 +1,157 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 401
+continue_49
+Length of all lemmas: 333
+Length of singleton lemmas: 296
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 296
+der
+dict_values([15, 15, 9, 6, 6, 3])
+sum of wordFormDict.values() 54
+können
+dict_values([2, 5, 2, 2])
+sum of wordFormDict.values() 11
+ein
+dict_values([10, 6, 2, 1, 1])
+sum of wordFormDict.values() 20
+sein
+dict_values([4, 6, 1, 2])
+sum of wordFormDict.values() 13
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([6, 1, 1, 1, 1])
+sum of wordFormDict.values() 10
+komplex
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vielversprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+genetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([15, 15, 9, 6, 6, 3])
+sum of wordFormDict.values() 54
+können
+dict_values([2, 5, 2, 2])
+sum of wordFormDict.values() 11
+ein
+dict_values([10, 6, 2, 1, 1])
+sum of wordFormDict.values() 20
+sein
+dict_values([4, 6, 1, 2])
+sum of wordFormDict.values() 13
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([6, 1, 1, 1, 1])
+sum of wordFormDict.values() 10
+komplex
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vielversprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fortgeschritten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+genetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3

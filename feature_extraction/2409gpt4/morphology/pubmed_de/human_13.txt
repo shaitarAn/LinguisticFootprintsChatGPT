@@ -1,0 +1,103 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 330
+human_13
+Length of all lemmas: 280
+Length of singleton lemmas: 257
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 257
+der
+dict_values([23, 7, 7, 23, 6, 2, 1, 1])
+sum of wordFormDict.values() 70
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 5, 1])
+sum of wordFormDict.values() 9
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+gesundheitlich
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+partizipativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+betreffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beschreiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+ereignen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([23, 7, 7, 23, 6, 2, 1, 1])
+sum of wordFormDict.values() 70
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 5, 1])
+sum of wordFormDict.values() 9
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+gesundheitlich
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+partizipativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+betreffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beschreiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+ereignen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

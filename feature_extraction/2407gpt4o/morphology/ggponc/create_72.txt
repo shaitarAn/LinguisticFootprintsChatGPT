@@ -1,0 +1,187 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 637
+create_72
+Length of all lemmas: 577
+Length of singleton lemmas: 544
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 544
+klinisch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([7, 7, 2, 5, 3, 1])
+sum of wordFormDict.values() 25
+der
+dict_values([22, 14, 11, 5, 6, 7])
+sum of wordFormDict.values() 65
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 2, 1, 2])
+sum of wordFormDict.values() 7
+fest
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+durchgeführt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestätigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+duktal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+folgend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+negativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 3, 2, 1])
+sum of wordFormDict.values() 9
+adjuvant
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+integrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+etabliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wöchentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 1, 2, 1, 1])
+sum of wordFormDict.values() 7
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kognitiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+onkologisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+modern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+engmaschig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berichten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([7, 7, 2, 5, 3, 1])
+sum of wordFormDict.values() 25
+der
+dict_values([22, 14, 11, 5, 6, 7])
+sum of wordFormDict.values() 65
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 2, 1, 2])
+sum of wordFormDict.values() 7
+fest
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+durchgeführt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestätigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+duktal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+folgend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+negativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 3, 2, 1])
+sum of wordFormDict.values() 9
+adjuvant
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+integrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+etabliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wöchentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 1, 2, 1, 1])
+sum of wordFormDict.values() 7
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kognitiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+onkologisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+modern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+engmaschig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berichten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 422
+create_47
+Length of all lemmas: 368
+Length of singleton lemmas: 340
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 340
+global
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([8, 7, 2, 4, 4, 5, 1])
+sum of wordFormDict.values() 31
+wirtschaftlich
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+verzeichnen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weltweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+positiv
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+beitragen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+privat
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([4, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 9
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+divers
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([8, 7, 2, 4, 4, 5, 1])
+sum of wordFormDict.values() 31
+wirtschaftlich
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+verzeichnen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weltweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+positiv
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+beitragen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+privat
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([4, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 9
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+divers
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2

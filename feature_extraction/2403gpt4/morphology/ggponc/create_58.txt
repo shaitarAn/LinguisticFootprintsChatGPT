@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 372
+create_58
+Length of all lemmas: 301
+Length of singleton lemmas: 268
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 268
+ein
+dict_values([3, 3, 7, 2, 3])
+sum of wordFormDict.values() 18
+sein
+dict_values([2, 2, 2, 3, 7, 3, 2])
+sum of wordFormDict.values() 21
+unser
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([16, 4, 11, 5, 5, 3])
+sum of wordFormDict.values() 44
+werden
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+erfordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+depressiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+enorm
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sozial
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+er
+dict_values([2, 4, 3])
+sum of wordFormDict.values() 9
+physikalisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+psychoonkologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 3, 7, 2, 3])
+sum of wordFormDict.values() 18
+sein
+dict_values([2, 2, 2, 3, 7, 3, 2])
+sum of wordFormDict.values() 21
+unser
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([16, 4, 11, 5, 5, 3])
+sum of wordFormDict.values() 44
+werden
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+erfordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+depressiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+enorm
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sozial
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+er
+dict_values([2, 4, 3])
+sum of wordFormDict.values() 9
+physikalisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+psychoonkologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,175 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 529
+continue_36
+Length of all lemmas: 460
+Length of singleton lemmas: 424
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 424
+der
+dict_values([11, 15, 6, 4, 6, 5, 1])
+sum of wordFormDict.values() 48
+dies
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+ein
+dict_values([1, 2, 7, 2, 1, 2])
+sum of wordFormDict.values() 15
+werden
+dict_values([1, 1, 6])
+sum of wordFormDict.values() 8
+können
+dict_values([6, 3, 1])
+sum of wordFormDict.values() 10
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+kardial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+klinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wertvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+helfen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+unterstützen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+gesund
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ermöglichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spezialisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+onkologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([11, 15, 6, 4, 6, 5, 1])
+sum of wordFormDict.values() 48
+dies
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+ein
+dict_values([1, 2, 7, 2, 1, 2])
+sum of wordFormDict.values() 15
+werden
+dict_values([1, 1, 6])
+sum of wordFormDict.values() 8
+können
+dict_values([6, 3, 1])
+sum of wordFormDict.values() 10
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+kardial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+klinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wertvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+helfen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+unterstützen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+gesund
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ermöglichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spezialisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+onkologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

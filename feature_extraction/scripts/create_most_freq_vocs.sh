@@ -2,15 +2,14 @@
 
 # bash create_most_freq_vocs.sh ~/switchdrive/IMAGINE_files/chatGPT/project_2/final_files_simple_prompt/{corpus}
 
-DATADIR="../../data/"
-dataset=$(basename "$DATADIR")
+DATADIR=$1
+OUTPUTDIR=$2
 
-GERMAN_CORPORA=("pubmed_de" "ggponc" "zora_de" "cs_de" "20min")
-
+source corpora_config.sh
 # iterate through directories named huamn, continue, explain, create
 
 # Iterate over the corpora
-for corpus_folder in $DATADIR*; do
+for corpus_folder in $DATADIR/*; do
     corpus=$(basename "$corpus_folder")
     
     # Check if the corpus is one of the specified names
@@ -24,7 +23,7 @@ for corpus_folder in $DATADIR*; do
 
             for file in ${system_folder}/*; do
                 # echo "Processing file: $file"
-                python3 most_frequent.py -f ${file} -c ${corpus}
+                python3 most_frequent.py -f ${file} -c ${corpus} -o $OUTPUTDIR
             done
         done
     else

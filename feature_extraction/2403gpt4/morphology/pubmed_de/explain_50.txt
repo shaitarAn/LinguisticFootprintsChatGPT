@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 407
+explain_50
+Length of all lemmas: 321
+Length of singleton lemmas: 292
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 292
+der
+dict_values([15, 10, 24, 10, 7, 5, 1])
+sum of wordFormDict.values() 72
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+antiviral
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 4, 1, 2, 2])
+sum of wordFormDict.values() 12
+ein
+dict_values([5, 2, 5, 9, 8, 3])
+sum of wordFormDict.values() 32
+können
+dict_values([4, 3, 2])
+sum of wordFormDict.values() 9
+präventiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 4, 1, 1])
+sum of wordFormDict.values() 9
+hochwirksam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 7, 1, 1, 2])
+sum of wordFormDict.values() 16
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+infiziert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chronisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+schwierig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erreichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erneut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([15, 10, 24, 10, 7, 5, 1])
+sum of wordFormDict.values() 72
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+antiviral
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 4, 1, 2, 2])
+sum of wordFormDict.values() 12
+ein
+dict_values([5, 2, 5, 9, 8, 3])
+sum of wordFormDict.values() 32
+können
+dict_values([4, 3, 2])
+sum of wordFormDict.values() 9
+präventiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 4, 1, 1])
+sum of wordFormDict.values() 9
+hochwirksam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 7, 1, 1, 2])
+sum of wordFormDict.values() 16
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+infiziert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chronisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+schwierig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erreichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erneut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

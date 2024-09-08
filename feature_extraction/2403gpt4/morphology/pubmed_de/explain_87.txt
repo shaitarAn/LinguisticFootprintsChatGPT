@@ -1,0 +1,103 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 294
+explain_87
+Length of all lemmas: 246
+Length of singleton lemmas: 225
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 225
+der
+dict_values([22, 13, 6, 4, 2, 6, 8])
+sum of wordFormDict.values() 61
+ein
+dict_values([1, 2, 1, 2, 1, 1])
+sum of wordFormDict.values() 8
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konzentrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([2, 3, 5])
+sum of wordFormDict.values() 10
+somatisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 1, 2, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([2, 6])
+sum of wordFormDict.values() 8
+werden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liegen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+methodologisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verdeutlichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([22, 13, 6, 4, 2, 6, 8])
+sum of wordFormDict.values() 61
+ein
+dict_values([1, 2, 1, 2, 1, 1])
+sum of wordFormDict.values() 8
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konzentrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([2, 3, 5])
+sum of wordFormDict.values() 10
+somatisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 1, 2, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([2, 6])
+sum of wordFormDict.values() 8
+werden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liegen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+methodologisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+verdeutlichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,163 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 474
+human_19
+Length of all lemmas: 406
+Length of singleton lemmas: 376
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 376
+der
+dict_values([19, 12, 1, 25, 8, 11])
+sum of wordFormDict.values() 76
+werden
+dict_values([6, 1, 2, 1, 1])
+sum of wordFormDict.values() 11
+sein
+dict_values([6, 3, 1, 4, 1, 1, 1])
+sum of wordFormDict.values() 17
+beliebig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dreidimensional
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 2, 1, 3])
+sum of wordFormDict.values() 8
+können
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 2, 7, 3])
+sum of wordFormDict.values() 15
+eigentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+unser
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+nah
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 2, 1, 2])
+sum of wordFormDict.values() 6
+genannt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 12, 1, 25, 8, 11])
+sum of wordFormDict.values() 76
+werden
+dict_values([6, 1, 2, 1, 1])
+sum of wordFormDict.values() 11
+sein
+dict_values([6, 3, 1, 4, 1, 1, 1])
+sum of wordFormDict.values() 17
+beliebig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dreidimensional
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 2, 1, 3])
+sum of wordFormDict.values() 8
+können
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 2, 7, 3])
+sum of wordFormDict.values() 15
+eigentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+unser
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+nah
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 2, 1, 2])
+sum of wordFormDict.values() 6
+genannt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

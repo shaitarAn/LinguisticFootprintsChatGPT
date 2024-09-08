@@ -1,0 +1,187 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 395
+create_45
+Length of all lemmas: 328
+Length of singleton lemmas: 293
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 293
+der
+dict_values([17, 7, 7, 24, 9, 5, 1])
+sum of wordFormDict.values() 70
+neuartig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+ein
+dict_values([8, 2, 2])
+sum of wordFormDict.values() 12
+werden
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+dies
+dict_values([4, 9, 2, 1, 1])
+sum of wordFormDict.values() 17
+geeignet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pandemisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2, 2, 1, 4])
+sum of wordFormDict.values() 11
+umfassend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+künftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöht
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+global
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+qualitativ
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+beitragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kritisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+zukünftig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+durchführen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 7, 7, 24, 9, 5, 1])
+sum of wordFormDict.values() 70
+neuartig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+ein
+dict_values([8, 2, 2])
+sum of wordFormDict.values() 12
+werden
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+dies
+dict_values([4, 9, 2, 1, 1])
+sum of wordFormDict.values() 17
+geeignet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pandemisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2, 2, 1, 4])
+sum of wordFormDict.values() 11
+umfassend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+künftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöht
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+global
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+qualitativ
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+beitragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kritisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+zukünftig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+durchführen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 333
+explain_95
+Length of all lemmas: 278
+Length of singleton lemmas: 254
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 254
+der
+dict_values([18, 18, 13, 5, 4, 4, 10])
+sum of wordFormDict.values() 72
+ein
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+dies
+dict_values([7, 4])
+sum of wordFormDict.values() 11
+zielen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+potentiell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 6])
+sum of wordFormDict.values() 8
+resistent
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([4, 1, 5])
+sum of wordFormDict.values() 10
+direkt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+pathogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antimikrobiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prüfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vorhanden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+enthalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([18, 18, 13, 5, 4, 4, 10])
+sum of wordFormDict.values() 72
+ein
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+dies
+dict_values([7, 4])
+sum of wordFormDict.values() 11
+zielen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+potentiell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 6])
+sum of wordFormDict.values() 8
+resistent
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([4, 1, 5])
+sum of wordFormDict.values() 10
+direkt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+pathogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antimikrobiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prüfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vorhanden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+enthalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2

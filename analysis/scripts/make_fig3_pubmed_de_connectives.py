@@ -9,8 +9,10 @@ from matplotlib.colors import TwoSlopeNorm
 # # produces Figure 1
 # ##############################################################################
 
+data_run = '2309gpt3'
+
 # Read the data from the CSV file into a DataFrame
-df = pd.read_csv("../../feature_extraction/results/connectives/connectives_all_pubmed_de.csv")
+df = pd.read_csv(f"../../feature_extraction/{data_run}/results/connectives/connectives_all_pubmed_de.csv")
 
 # Sort the DataFrame based on the 'human_upper' column in descending order and select the top 30 rows
 df_sorted = df.sort_values(by='human_upper', ascending=False)
@@ -26,15 +28,23 @@ df_sorted['EX-CR'] = df_sorted['create_upper'] - df_sorted['explain_upper']
 # Select only the required columns
 df_final = df_sorted[['connective', 'human_upper', 'HU-CO', 'HU-EX', 'HU-CR', 'CO-EX', 'CO-CR', 'EX-CR']]
 
+# drop the rows with NaN values
+df_final = df_final.dropna()
+# convert HU-CR 3', 'HU-CO 4', 'HU-EX 4', 'HU-CR 4' to integers
+df_final['HU-CO'] = df_final['HU-CO'].astype(int)
+df_final['HU-EX'] = df_final['HU-EX'].astype(int)
+df_final['HU-CR'] = df_final['HU-CR'].astype(int)
 # ##############################################################################
 # # make a heatmap with Matplotlib
 # ##############################################################################
 
 data = df_final.iloc[:30]
 
+print(data)
+
 # Prepare the data for imshow
 human_data = data[['human_upper']].values.flatten()  # 'Human' row data
-heatmap_data = data[['HU-CO', 'HU-EX', 'HU-CR']].values.T  # 'HU-CO', 'HU-EX', 'HU-CR' rows data
+heatmap_data = data[['HU-CO', 'HU-EX', 'HU-CR']].values.T  
 
 # Define the connectives (x-axis labels)
 connectives = data['connective'].values
@@ -92,7 +102,7 @@ ax.spines['left'].set_visible(False)
 plt.tight_layout()
 
 # Save the plot
-plt.savefig('../../viz/for_paper/connectives_cap_pubmed_de_heatmap.pdf', format='pdf', bbox_inches='tight')
+# plt.savefig(f'../../viz/for_paper/connectives_cap_pubmed_de_{data_run}.pdf', format='pdf', bbox_inches='tight')
 
 # Show the plot
 plt.show()

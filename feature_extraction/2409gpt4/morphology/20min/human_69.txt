@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 503
+human_69
+Length of all lemmas: 439
+Length of singleton lemmas: 413
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 413
+er
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+sein
+dict_values([10, 1, 9, 3, 5, 1])
+sum of wordFormDict.values() 29
+der
+dict_values([34, 35, 10, 10, 4])
+sum of wordFormDict.values() 93
+für
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+italienisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 2, 5, 3, 2, 1])
+sum of wordFormDict.values() 15
+haben
+dict_values([2, 8, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([2, 2, 3])
+sum of wordFormDict.values() 7
+erst
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+vergangen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dürfen
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+kommen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+überzeugend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dänisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+sein
+dict_values([10, 1, 9, 3, 5, 1])
+sum of wordFormDict.values() 29
+der
+dict_values([34, 35, 10, 10, 4])
+sum of wordFormDict.values() 93
+für
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+italienisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 2, 5, 3, 2, 1])
+sum of wordFormDict.values() 15
+haben
+dict_values([2, 8, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([2, 2, 3])
+sum of wordFormDict.values() 7
+erst
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+vergangen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dürfen
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+kommen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+überzeugend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dänisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

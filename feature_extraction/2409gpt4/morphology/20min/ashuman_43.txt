@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 412
+ashuman_43
+Length of all lemmas: 336
+Length of singleton lemmas: 306
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 306
+dies
+dict_values([4, 1, 2, 2])
+sum of wordFormDict.values() 9
+der
+dict_values([15, 14, 5, 7, 6, 2])
+sum of wordFormDict.values() 49
+sollen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+betroffen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([11, 3, 1])
+sum of wordFormDict.values() 15
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wenig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 6, 2, 2])
+sum of wordFormDict.values() 13
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 6, 4, 2, 1])
+sum of wordFormDict.values() 15
+können
+dict_values([3, 3, 3, 2])
+sum of wordFormDict.values() 11
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktualisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 1, 2, 2])
+sum of wordFormDict.values() 9
+der
+dict_values([15, 14, 5, 7, 6, 2])
+sum of wordFormDict.values() 49
+sollen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+betroffen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([11, 3, 1])
+sum of wordFormDict.values() 15
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wenig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 6, 2, 2])
+sum of wordFormDict.values() 13
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 6, 4, 2, 1])
+sum of wordFormDict.values() 15
+können
+dict_values([3, 3, 3, 2])
+sum of wordFormDict.values() 11
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktualisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2

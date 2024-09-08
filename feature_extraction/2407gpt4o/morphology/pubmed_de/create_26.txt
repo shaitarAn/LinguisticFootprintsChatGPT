@@ -1,0 +1,223 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 566
+create_26
+Length of all lemmas: 488
+Length of singleton lemmas: 443
+Length of matched lemmas: 36
+Length of singleton maching lemmas: 443
+der
+dict_values([13, 11, 15, 6, 4, 1, 1])
+sum of wordFormDict.values() 51
+ein
+dict_values([7, 3, 4, 1, 1, 1])
+sum of wordFormDict.values() 17
+führen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([4, 2, 2, 1])
+sum of wordFormDict.values() 9
+dies
+dict_values([3, 3, 5, 4])
+sum of wordFormDict.values() 15
+hoch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+empfohlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abdominal
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gelten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+thorakal
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strukturell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+elektiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weniger
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rein
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sekundär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+qualitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+evidenzbasiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+integrativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dezentralisiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([13, 11, 15, 6, 4, 1, 1])
+sum of wordFormDict.values() 51
+ein
+dict_values([7, 3, 4, 1, 1, 1])
+sum of wordFormDict.values() 17
+führen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([4, 2, 2, 1])
+sum of wordFormDict.values() 9
+dies
+dict_values([3, 3, 5, 4])
+sum of wordFormDict.values() 15
+hoch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+empfohlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abdominal
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gelten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+thorakal
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strukturell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+elektiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weniger
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rein
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sekundär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+qualitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+evidenzbasiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+integrativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dezentralisiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

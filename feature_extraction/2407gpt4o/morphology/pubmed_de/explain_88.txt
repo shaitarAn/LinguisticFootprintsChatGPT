@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 550
+explain_88
+Length of all lemmas: 486
+Length of singleton lemmas: 454
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 454
+der
+dict_values([7, 8, 25, 16, 4, 4, 1])
+sum of wordFormDict.values() 65
+ihr
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([1, 2, 2, 2])
+sum of wordFormDict.values() 7
+werden
+dict_values([1, 3, 3, 5])
+sum of wordFormDict.values() 12
+ein
+dict_values([6, 3, 3, 2, 5])
+sum of wordFormDict.values() 19
+klinisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ander
+dict_values([2, 1, 4])
+sum of wordFormDict.values() 7
+dies
+dict_values([6, 4, 1, 2])
+sum of wordFormDict.values() 13
+auftreten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+typisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktualisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+begrenzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+relevant
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+veröffentlichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+final
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+beteiligen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 8, 25, 16, 4, 4, 1])
+sum of wordFormDict.values() 65
+ihr
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([1, 2, 2, 2])
+sum of wordFormDict.values() 7
+werden
+dict_values([1, 3, 3, 5])
+sum of wordFormDict.values() 12
+ein
+dict_values([6, 3, 3, 2, 5])
+sum of wordFormDict.values() 19
+klinisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ander
+dict_values([2, 1, 4])
+sum of wordFormDict.values() 7
+dies
+dict_values([6, 4, 1, 2])
+sum of wordFormDict.values() 13
+auftreten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+typisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktualisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+begrenzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+relevant
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+veröffentlichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+final
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+beteiligen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

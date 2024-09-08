@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 499
+create_64
+Length of all lemmas: 448
+Length of singleton lemmas: 424
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 424
+der
+dict_values([9, 6, 8, 4, 4, 2])
+sum of wordFormDict.values() 33
+ein
+dict_values([3, 6, 2, 1])
+sum of wordFormDict.values() 12
+sein
+dict_values([2, 2, 1, 1, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 3])
+sum of wordFormDict.values() 6
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([9, 6, 8, 4, 4, 2])
+sum of wordFormDict.values() 33
+ein
+dict_values([3, 6, 2, 1])
+sum of wordFormDict.values() 12
+sein
+dict_values([2, 2, 1, 1, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 3])
+sum of wordFormDict.values() 6
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,187 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 502
+explain_99
+Length of all lemmas: 410
+Length of singleton lemmas: 374
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 374
+der
+dict_values([18, 13, 4, 4, 2, 10, 1])
+sum of wordFormDict.values() 52
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 4, 2, 1, 2, 1])
+sum of wordFormDict.values() 11
+technologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 3, 1, 1])
+sum of wordFormDict.values() 6
+dies
+dict_values([7, 3, 1, 1, 1, 1])
+sum of wordFormDict.values() 14
+werden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 3, 1, 1, 1])
+sum of wordFormDict.values() 9
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+reagieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effizient
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+verfolgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+traditionell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kostengeplagt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+voll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([18, 13, 4, 4, 2, 10, 1])
+sum of wordFormDict.values() 52
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 4, 2, 1, 2, 1])
+sum of wordFormDict.values() 11
+technologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 3, 1, 1])
+sum of wordFormDict.values() 6
+dies
+dict_values([7, 3, 1, 1, 1, 1])
+sum of wordFormDict.values() 14
+werden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 3, 1, 1, 1])
+sum of wordFormDict.values() 9
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+reagieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effizient
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+verfolgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+traditionell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kostengeplagt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+voll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2

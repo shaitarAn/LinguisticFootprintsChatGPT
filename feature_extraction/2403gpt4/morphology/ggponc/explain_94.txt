@@ -1,0 +1,103 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 340
+explain_94
+Length of all lemmas: 281
+Length of singleton lemmas: 260
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 260
+der
+dict_values([12, 7, 17, 3, 5, 10])
+sum of wordFormDict.values() 54
+ein
+dict_values([8, 7, 3, 1])
+sum of wordFormDict.values() 19
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+auftreten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 7, 1])
+sum of wordFormDict.values() 12
+treten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([6, 6, 1])
+sum of wordFormDict.values() 13
+dies
+dict_values([5, 7, 2, 1, 1])
+sum of wordFormDict.values() 16
+werden
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+nennen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entzündlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sekundär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([12, 7, 17, 3, 5, 10])
+sum of wordFormDict.values() 54
+ein
+dict_values([8, 7, 3, 1])
+sum of wordFormDict.values() 19
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+auftreten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 7, 1])
+sum of wordFormDict.values() 12
+treten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([6, 6, 1])
+sum of wordFormDict.values() 13
+dies
+dict_values([5, 7, 2, 1, 1])
+sum of wordFormDict.values() 16
+werden
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+nennen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entzündlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sekundär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,169 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 439
+ashuman_55
+Length of all lemmas: 353
+Length of singleton lemmas: 321
+Length of matched lemmas: 27
+Length of singleton maching lemmas: 321
+sein
+dict_values([8, 11, 2, 3, 7, 2, 1, 1, 3, 1])
+sum of wordFormDict.values() 39
+ein
+dict_values([8, 11, 6, 2])
+sum of wordFormDict.values() 27
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 14, 5, 5, 4, 6])
+sum of wordFormDict.values() 48
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+rechtsextrem
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+alle
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+jung
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+er
+dict_values([2, 17, 1])
+sum of wordFormDict.values() 20
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+glauben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([7, 6])
+sum of wordFormDict.values() 13
+haben
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+persönlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+früh
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spät
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Jugendliche
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betonen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ändern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([8, 11, 2, 3, 7, 2, 1, 1, 3, 1])
+sum of wordFormDict.values() 39
+ein
+dict_values([8, 11, 6, 2])
+sum of wordFormDict.values() 27
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 14, 5, 5, 4, 6])
+sum of wordFormDict.values() 48
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+rechtsextrem
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+alle
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+jung
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+er
+dict_values([2, 17, 1])
+sum of wordFormDict.values() 20
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+glauben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([7, 6])
+sum of wordFormDict.values() 13
+haben
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+persönlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+früh
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spät
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Jugendliche
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betonen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ändern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3

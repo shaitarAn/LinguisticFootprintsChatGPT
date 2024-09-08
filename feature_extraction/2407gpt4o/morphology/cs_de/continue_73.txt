@@ -1,0 +1,217 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 580
+continue_73
+Length of all lemmas: 490
+Length of singleton lemmas: 442
+Length of matched lemmas: 35
+Length of singleton maching lemmas: 442
+ein
+dict_values([8, 5, 2, 5, 2])
+sum of wordFormDict.values() 22
+sein
+dict_values([5, 1, 2])
+sum of wordFormDict.values() 8
+der
+dict_values([12, 5, 14, 3, 7, 8, 1])
+sum of wordFormDict.values() 50
+vermögend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+generationsübergreifend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+philanthropisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+unterstützend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+nachhaltig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+finanziell
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+strategisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 6])
+sum of wordFormDict.values() 9
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewährleisten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rechtlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zukünftig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+erfolgreich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+versiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+arbeiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([8, 5, 2, 5, 2])
+sum of wordFormDict.values() 22
+sein
+dict_values([5, 1, 2])
+sum of wordFormDict.values() 8
+der
+dict_values([12, 5, 14, 3, 7, 8, 1])
+sum of wordFormDict.values() 50
+vermögend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+generationsübergreifend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+philanthropisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+unterstützend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+nachhaltig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+finanziell
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+strategisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 6])
+sum of wordFormDict.values() 9
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewährleisten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rechtlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zukünftig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+erfolgreich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+versiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+arbeiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

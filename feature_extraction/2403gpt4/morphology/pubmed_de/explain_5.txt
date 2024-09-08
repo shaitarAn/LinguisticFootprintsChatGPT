@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 394
+explain_5
+Length of all lemmas: 325
+Length of singleton lemmas: 301
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 301
+der
+dict_values([17, 7, 2, 20, 5, 6, 1, 1])
+sum of wordFormDict.values() 59
+sein
+dict_values([9, 3, 1])
+sum of wordFormDict.values() 13
+ein
+dict_values([8, 3, 3, 2, 1])
+sum of wordFormDict.values() 17
+häufig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+betroffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([6, 4, 1, 2, 1])
+sum of wordFormDict.values() 14
+können
+dict_values([4, 3, 5])
+sum of wordFormDict.values() 12
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beeinträchtigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+belegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+niedrig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+moderat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neuartig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 7, 2, 20, 5, 6, 1, 1])
+sum of wordFormDict.values() 59
+sein
+dict_values([9, 3, 1])
+sum of wordFormDict.values() 13
+ein
+dict_values([8, 3, 3, 2, 1])
+sum of wordFormDict.values() 17
+häufig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+betroffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([6, 4, 1, 2, 1])
+sum of wordFormDict.values() 14
+können
+dict_values([4, 3, 5])
+sum of wordFormDict.values() 12
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beeinträchtigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+belegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+niedrig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+moderat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neuartig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 402
+create_42
+Length of all lemmas: 336
+Length of singleton lemmas: 313
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 313
+der
+dict_values([21, 8, 5, 14, 9, 3, 1])
+sum of wordFormDict.values() 61
+sein
+dict_values([2, 2, 4, 1])
+sum of wordFormDict.values() 9
+präventiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 4, 2, 1, 2])
+sum of wordFormDict.values() 13
+sozial
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 4, 2])
+sum of wordFormDict.values() 10
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+symptomatisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+unser
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([21, 8, 5, 14, 9, 3, 1])
+sum of wordFormDict.values() 61
+sein
+dict_values([2, 2, 4, 1])
+sum of wordFormDict.values() 9
+präventiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 4, 2, 1, 2])
+sum of wordFormDict.values() 13
+sozial
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 4, 2])
+sum of wordFormDict.values() 10
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+symptomatisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+unser
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3

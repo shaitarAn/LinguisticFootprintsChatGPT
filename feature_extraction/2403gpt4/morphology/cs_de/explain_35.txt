@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 329
+explain_35
+Length of all lemmas: 254
+Length of singleton lemmas: 223
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 223
+ein
+dict_values([5, 7, 3, 2, 1])
+sum of wordFormDict.values() 18
+innovativ
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([11, 7, 15, 5, 2, 4])
+sum of wordFormDict.values() 44
+chilenisch
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+neu
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+global
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lokal
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+unterstützen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([7, 2, 1, 1])
+sum of wordFormDict.values() 11
+dies
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+sie
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+voll
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([4, 3, 1, 1, 1])
+sum of wordFormDict.values() 10
+haben
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+international
+dict_values([2, 1, 2, 1])
+sum of wordFormDict.values() 6
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 7, 3, 2, 1])
+sum of wordFormDict.values() 18
+innovativ
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([11, 7, 15, 5, 2, 4])
+sum of wordFormDict.values() 44
+chilenisch
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+neu
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+global
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lokal
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+unterstützen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([7, 2, 1, 1])
+sum of wordFormDict.values() 11
+dies
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+sie
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+voll
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([4, 3, 1, 1, 1])
+sum of wordFormDict.values() 10
+haben
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+international
+dict_values([2, 1, 2, 1])
+sum of wordFormDict.values() 6
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2

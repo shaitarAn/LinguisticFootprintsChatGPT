@@ -1,0 +1,175 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 416
+continue_8
+Length of all lemmas: 334
+Length of singleton lemmas: 296
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 296
+der
+dict_values([19, 17, 10, 9, 7, 8])
+sum of wordFormDict.values() 70
+sein
+dict_values([5, 6, 7, 2, 1, 1, 3, 2])
+sum of wordFormDict.values() 27
+ein
+dict_values([5, 10, 4, 3, 4, 1])
+sum of wordFormDict.values() 27
+haben
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deutsch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 4, 3, 1])
+sum of wordFormDict.values() 9
+übersetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sprachlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lateinisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+er
+dict_values([8, 2, 1])
+sum of wordFormDict.values() 11
+philologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schaffen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+rhetorisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gelingen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kulturell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+didaktisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+christlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ethisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+entsprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kritisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+einzigartig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 17, 10, 9, 7, 8])
+sum of wordFormDict.values() 70
+sein
+dict_values([5, 6, 7, 2, 1, 1, 3, 2])
+sum of wordFormDict.values() 27
+ein
+dict_values([5, 10, 4, 3, 4, 1])
+sum of wordFormDict.values() 27
+haben
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deutsch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 4, 3, 1])
+sum of wordFormDict.values() 9
+übersetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sprachlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lateinisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+er
+dict_values([8, 2, 1])
+sum of wordFormDict.values() 11
+philologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schaffen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+rhetorisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gelingen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kulturell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+didaktisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+christlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ethisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+entsprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kritisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+einzigartig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2

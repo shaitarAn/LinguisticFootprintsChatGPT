@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 413
+continue_46
+Length of all lemmas: 344
+Length of singleton lemmas: 323
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 323
+sein
+dict_values([8, 2, 4, 3, 1, 5])
+sum of wordFormDict.values() 23
+ein
+dict_values([4, 4, 1, 1, 1, 1])
+sum of wordFormDict.values() 12
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([12, 4, 8, 16, 8, 4, 2])
+sum of wordFormDict.values() 54
+haben
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+werden
+dict_values([2, 8, 2])
+sum of wordFormDict.values() 12
+können
+dict_values([1, 4, 2, 2])
+sum of wordFormDict.values() 9
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entzündungshemmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beliebt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spirituell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entdecken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([8, 2, 4, 3, 1, 5])
+sum of wordFormDict.values() 23
+ein
+dict_values([4, 4, 1, 1, 1, 1])
+sum of wordFormDict.values() 12
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([12, 4, 8, 16, 8, 4, 2])
+sum of wordFormDict.values() 54
+haben
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+werden
+dict_values([2, 8, 2])
+sum of wordFormDict.values() 12
+können
+dict_values([1, 4, 2, 2])
+sum of wordFormDict.values() 9
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entzündungshemmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beliebt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spirituell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entdecken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2

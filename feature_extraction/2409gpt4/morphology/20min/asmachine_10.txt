@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 389
+asmachine_10
+Length of all lemmas: 318
+Length of singleton lemmas: 293
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 293
+der
+dict_values([8, 9, 14, 5, 11, 3, 1])
+sum of wordFormDict.values() 51
+neu
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([3, 5, 8, 1, 2, 2])
+sum of wordFormDict.values() 21
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1, 2, 2])
+sum of wordFormDict.values() 6
+werden
+dict_values([7, 5, 1])
+sum of wordFormDict.values() 13
+dies
+dict_values([3, 1, 1, 2])
+sum of wordFormDict.values() 7
+sein
+dict_values([2, 4, 3, 2, 1, 1, 1])
+sum of wordFormDict.values() 14
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kanadisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 2, 2, 1])
+sum of wordFormDict.values() 7
+separat
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+trilateral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([8, 9, 14, 5, 11, 3, 1])
+sum of wordFormDict.values() 51
+neu
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([3, 5, 8, 1, 2, 2])
+sum of wordFormDict.values() 21
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1, 2, 2])
+sum of wordFormDict.values() 6
+werden
+dict_values([7, 5, 1])
+sum of wordFormDict.values() 13
+dies
+dict_values([3, 1, 1, 2])
+sum of wordFormDict.values() 7
+sein
+dict_values([2, 4, 3, 2, 1, 1, 1])
+sum of wordFormDict.values() 14
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kanadisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 2, 2, 1])
+sum of wordFormDict.values() 7
+separat
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+trilateral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3

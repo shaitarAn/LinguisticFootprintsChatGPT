@@ -1,0 +1,73 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 318
+human_24
+Length of all lemmas: 286
+Length of singleton lemmas: 271
+Length of matched lemmas: 11
+Length of singleton maching lemmas: 271
+der
+dict_values([22, 10, 12, 19, 4])
+sum of wordFormDict.values() 67
+alle
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+schließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+breit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+schwach
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+laufend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 2, 2, 3])
+sum of wordFormDict.values() 8
+tauchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([22, 10, 12, 19, 4])
+sum of wordFormDict.values() 67
+alle
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+schließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+breit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+schwach
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+laufend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 2, 2, 3])
+sum of wordFormDict.values() 8
+tauchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

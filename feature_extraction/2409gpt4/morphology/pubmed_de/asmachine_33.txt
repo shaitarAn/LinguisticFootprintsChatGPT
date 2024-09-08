@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 342
+asmachine_33
+Length of all lemmas: 289
+Length of singleton lemmas: 267
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 267
+der
+dict_values([12, 19, 8, 10, 6, 6, 1])
+sum of wordFormDict.values() 62
+sein
+dict_values([4, 5])
+sum of wordFormDict.values() 9
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 7, 1, 4, 1])
+sum of wordFormDict.values() 17
+werden
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([3, 3, 1, 3])
+sum of wordFormDict.values() 10
+künstlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+nutzen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+national
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([12, 19, 8, 10, 6, 6, 1])
+sum of wordFormDict.values() 62
+sein
+dict_values([4, 5])
+sum of wordFormDict.values() 9
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 7, 1, 4, 1])
+sum of wordFormDict.values() 17
+werden
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([3, 3, 1, 3])
+sum of wordFormDict.values() 10
+künstlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+nutzen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+national
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,199 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 430
+ashuman_38
+Length of all lemmas: 348
+Length of singleton lemmas: 310
+Length of matched lemmas: 32
+Length of singleton maching lemmas: 310
+der
+dict_values([6, 7, 23, 6, 17, 5, 1])
+sum of wordFormDict.values() 65
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+differenzieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 8])
+sum of wordFormDict.values() 11
+dies
+dict_values([7, 5, 2, 1])
+sum of wordFormDict.values() 15
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([8, 4, 7, 4, 1])
+sum of wordFormDict.values() 24
+zweistufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+subjektiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ethisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+geschlechtlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 4, 3])
+sum of wordFormDict.values() 10
+biologisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dass
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+repräsentativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+mehrere
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sensibel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+respektvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+fördern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+inklusiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([6, 7, 23, 6, 17, 5, 1])
+sum of wordFormDict.values() 65
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+differenzieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 8])
+sum of wordFormDict.values() 11
+dies
+dict_values([7, 5, 2, 1])
+sum of wordFormDict.values() 15
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([8, 4, 7, 4, 1])
+sum of wordFormDict.values() 24
+zweistufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+subjektiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ethisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+geschlechtlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 4, 3])
+sum of wordFormDict.values() 10
+biologisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dass
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+repräsentativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+mehrere
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sensibel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+respektvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+fördern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+inklusiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -63,7 +63,7 @@ def main():
         if not os.path.exists(args.outfile) or os.path.getsize(args.outfile) == 0:
             writer.writerow(["system", "file", "TTR", "Yules", "MTLD"])
         for syst in sentences:
-            writer.writerow([persona, syst, round(scores['TTR'][syst]*100,2), round(scores['Yules'][syst]*100,2), round(scores['MTLD'][syst],2)])
+            writer.writerow([persona, syst, scores['TTR'][syst]*100, scores['Yules'][syst]*100, scores['MTLD'][syst]])
 
         # print('{},{},{},{}'.format(syst,round(scores['TTR'][syst]*100,2),round(scores['Yules'][syst]*100,2),round(scores['MTLD'][syst],2)), file=sys.stdout)
 

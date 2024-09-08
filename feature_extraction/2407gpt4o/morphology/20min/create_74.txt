@@ -1,0 +1,271 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 596
+create_74
+Length of all lemmas: 469
+Length of singleton lemmas: 416
+Length of matched lemmas: 44
+Length of singleton maching lemmas: 416
+ein
+dict_values([8, 5, 4, 3, 2, 2])
+sum of wordFormDict.values() 24
+hell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([15, 6, 9, 14, 9, 12])
+sum of wordFormDict.values() 65
+haben
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+mehrere
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+groß
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sorgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berichten
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([3, 4, 3, 2, 2, 1])
+sum of wordFormDict.values() 15
+beeindruckend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sehen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2, 1, 2])
+sum of wordFormDict.values() 9
+handeln
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verglühen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+viel
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wir
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([1, 2, 2, 1])
+sum of wordFormDict.values() 6
+wahrscheinlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachleuchtend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erklären
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+langanhaltend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+flüchtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+außergewöhnlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spektakulär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zufällig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([8, 5, 4, 3, 2, 2])
+sum of wordFormDict.values() 24
+hell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([15, 6, 9, 14, 9, 12])
+sum of wordFormDict.values() 65
+haben
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+mehrere
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+groß
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sorgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berichten
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([3, 4, 3, 2, 2, 1])
+sum of wordFormDict.values() 15
+beeindruckend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sehen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2, 1, 2])
+sum of wordFormDict.values() 9
+handeln
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verglühen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+viel
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wir
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([1, 2, 2, 1])
+sum of wordFormDict.values() 6
+wahrscheinlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachleuchtend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erklären
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+langanhaltend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+flüchtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+außergewöhnlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spektakulär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zufällig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

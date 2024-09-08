@@ -1,0 +1,175 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 741
+create_10
+Length of all lemmas: 691
+Length of singleton lemmas: 652
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 652
+alt
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([10, 2, 2, 3, 4, 3])
+sum of wordFormDict.values() 24
+der
+dict_values([11, 8, 20, 5, 2, 2, 2])
+sum of wordFormDict.values() 50
+postmenopausal
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 5, 1, 1])
+sum of wordFormDict.values() 9
+Ihr|ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 5, 3])
+sum of wordFormDict.values() 11
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klimakterisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+geeignet
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+adäquat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konjugiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+equin
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+täglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+explizit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jährlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entscheiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alt
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([10, 2, 2, 3, 4, 3])
+sum of wordFormDict.values() 24
+der
+dict_values([11, 8, 20, 5, 2, 2, 2])
+sum of wordFormDict.values() 50
+postmenopausal
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 5, 1, 1])
+sum of wordFormDict.values() 9
+Ihr|ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 5, 3])
+sum of wordFormDict.values() 11
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klimakterisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+geeignet
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+adäquat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konjugiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+equin
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+täglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+explizit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jährlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entscheiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

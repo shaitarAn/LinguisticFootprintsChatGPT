@@ -1,0 +1,181 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 442
+explain_88
+Length of all lemmas: 344
+Length of singleton lemmas: 306
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 306
+der
+dict_values([16, 3, 8, 13, 5, 4, 2, 1])
+sum of wordFormDict.values() 52
+adjuvant
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([5, 7, 3, 5, 2])
+sum of wordFormDict.values() 22
+retrospektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([5, 3, 2, 3])
+sum of wordFormDict.values() 13
+zeigen
+dict_values([2, 3, 4])
+sum of wordFormDict.values() 9
+signifikant
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kombinieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([3, 4, 2])
+sum of wordFormDict.values() 9
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+zusätzlich
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+jung
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+günstig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neoadjuvant
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+eindeutig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+klassisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+individuell
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+empfehlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 3, 8, 13, 5, 4, 2, 1])
+sum of wordFormDict.values() 52
+adjuvant
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([5, 7, 3, 5, 2])
+sum of wordFormDict.values() 22
+retrospektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([5, 3, 2, 3])
+sum of wordFormDict.values() 13
+zeigen
+dict_values([2, 3, 4])
+sum of wordFormDict.values() 9
+signifikant
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kombinieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([3, 4, 2])
+sum of wordFormDict.values() 9
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+zusätzlich
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+jung
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+günstig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neoadjuvant
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+eindeutig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+klassisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+individuell
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+empfehlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 748
+create_52
+Length of all lemmas: 696
+Length of singleton lemmas: 668
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 668
+klinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 10, 5, 11, 6, 2])
+sum of wordFormDict.values() 50
+ein
+dict_values([9, 3, 3, 2, 7, 2])
+sum of wordFormDict.values() 26
+sein
+dict_values([3, 2, 2, 1])
+sum of wordFormDict.values() 8
+beruflich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([6, 1, 2, 1, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([1, 7, 5, 1])
+sum of wordFormDict.values() 14
+pulmonal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mediastinal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+multidisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+präoperativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+detaillieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+emotional
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+neoadjuvant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 10, 5, 11, 6, 2])
+sum of wordFormDict.values() 50
+ein
+dict_values([9, 3, 3, 2, 7, 2])
+sum of wordFormDict.values() 26
+sein
+dict_values([3, 2, 2, 1])
+sum of wordFormDict.values() 8
+beruflich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([6, 1, 2, 1, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([1, 7, 5, 1])
+sum of wordFormDict.values() 14
+pulmonal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mediastinal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+multidisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+präoperativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+detaillieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+emotional
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+neoadjuvant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2

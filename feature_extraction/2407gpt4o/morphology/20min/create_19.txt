@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 440
+create_19
+Length of all lemmas: 391
+Length of singleton lemmas: 365
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 365
+ein
+dict_values([4, 2, 1, 1, 1])
+sum of wordFormDict.values() 9
+inspirierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wertvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([6, 5, 3, 4, 2, 2])
+sum of wordFormDict.values() 22
+haben
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+ihr
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 2, 2, 1, 2, 1])
+sum of wordFormDict.values() 9
+zahlreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abschließend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 2, 1, 1, 1])
+sum of wordFormDict.values() 9
+inspirierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wertvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([6, 5, 3, 4, 2, 2])
+sum of wordFormDict.values() 22
+haben
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+ihr
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 2, 2, 1, 2, 1])
+sum of wordFormDict.values() 9
+zahlreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abschließend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

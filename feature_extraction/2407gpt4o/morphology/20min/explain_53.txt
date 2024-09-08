@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 445
+explain_53
+Length of all lemmas: 376
+Length of singleton lemmas: 347
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 347
+der
+dict_values([10, 6, 1, 6, 4, 4, 1])
+sum of wordFormDict.values() 32
+berichten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([3, 2, 5, 3, 4, 1])
+sum of wordFormDict.values() 18
+werden
+dict_values([2, 3, 2, 1, 1])
+sum of wordFormDict.values() 9
+Jugendliche
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([4, 1, 1, 1, 1, 3])
+sum of wordFormDict.values() 11
+er
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ähnlich
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stammen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+solch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+menschlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([10, 6, 1, 6, 4, 4, 1])
+sum of wordFormDict.values() 32
+berichten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([3, 2, 5, 3, 4, 1])
+sum of wordFormDict.values() 18
+werden
+dict_values([2, 3, 2, 1, 1])
+sum of wordFormDict.values() 9
+Jugendliche
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([4, 1, 1, 1, 1, 3])
+sum of wordFormDict.values() 11
+er
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ähnlich
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stammen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+solch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+menschlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

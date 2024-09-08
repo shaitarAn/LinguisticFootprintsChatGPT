@@ -1,0 +1,91 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 468
+create_7
+Length of all lemmas: 447
+Length of singleton lemmas: 428
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 428
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prätherapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 4, 2, 6])
+sum of wordFormDict.values() 15
+der
+dict_values([8, 8, 3, 1, 4, 1])
+sum of wordFormDict.values() 25
+bestehend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+prophylaktisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+structuer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prätherapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 4, 2, 6])
+sum of wordFormDict.values() 15
+der
+dict_values([8, 8, 3, 1, 4, 1])
+sum of wordFormDict.values() 25
+bestehend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+prophylaktisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+structuer
+dict_values([1, 1])
+sum of wordFormDict.values() 2

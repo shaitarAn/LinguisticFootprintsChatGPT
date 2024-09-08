@@ -6,7 +6,9 @@ This repository contains the code and data supporting the research paper "Tracin
 
 ## Usage
 
-### Text generation: text_generation/
+### Text generation 
+
+`cd text_generation`
 
 The script `generate.py` sends requests to the OpenAI-API. As input it takes a JSON file in the following form:
 ```json
@@ -44,42 +46,19 @@ with the flag `--outfolder`, for more info on the optional arguments see `genera
 
 `prompts.json` contains all the prompts and personas
 
-### Feature extraction: feature_extraction/scripts/
+### Feature extraction
 
-The metrics for Sophistication, Lexical and Morphological richness are calcualted using [BiasMT](https://github.com/dimitarsh1/BiasMT/) tool.
+First make sure to update the lists of corpora and tasks in the `config.py`.
 
-#### **Sophistication**
+`cd feature_extraction/scripts/`
 
-**Step 1** `bash concatenate_files.sh`
-  - Input: `../../generated_data/`
-  - Output: `../concatenated_data/`
-  - Function: Concatenates all corpus files into one txt file in the data folder
+`bash run_feature_extraction.sh` runs two bash scripts:
 
-**Step 2** `bash sophistication.sh`
-  - Output: `../results/sophistication/sophistication_scores.csv`
+#### script 1: 
+`bash run_extract_BiasMT_features.sh` extracts metrics for Sophistication, Lexical and Morphological richness using the [BiasMT tool](https://github.com/dimitarsh1/BiasMT/).
 
-#### **Lexical richness**
-
-`bash lxr_scores.sh`
-  - Input: `../../generated_data/`
-  - Output: `../results/lexical_richness`
-
-#### **Morphology** for the German corpora
-
-**Step 1** `bash create_most_freq_vocs.sh`
-  - Input: `../../generated_data/`
-  - Output: `freq_voc/`, `lemmas/`
-  - Function: Extracts vocabulary of most frequent words
-
-**Step 2** `bash mrph_all.sh`
-  - Language: `de`
-  - Input: `../../generated_data/`
-  - Output: `../results/morphology/${corpus_name}`
-  - Function: Measure the surprisal levels within the inflectional paradigms of the German lemmas and Produces Shannon entropy and Simpson diversity metrics 
-
-#### **Extract Features with TextDescriptives**
-
-Link to the [TextDescriptives library](https://hlasse.github.io/TextDescriptives/descriptivestats.html)
+#### script 2:
+`bash run_extract_other_features.sh` extracts other features using the [TextDescriptives library](https://hlasse.github.io/TextDescriptives/descriptivestats.html), also reorganizes results, and transforms dataframes for further analysis.
 
 `features_list.py` contains several dictionnaries with feature names:
 
@@ -88,34 +67,9 @@ Link to the [TextDescriptives library](https://hlasse.github.io/TextDescriptives
 - features_to_visualize_dict is a dictionnary with feature names used by textDescriptives and throughout the project as keys and modified feature names as values
 - features_raw_counts is a list of features that are measured in raw counts
 
+### Analysis 
 
-**Extract features and sort results by feature, language and domain**
-
-**Main Script**: `bash run_extract_features.sh`
-  - **Description**: Executes three Python scripts to extract linguistic features, reorganize results, and transform dataframes for further analysis.
-  - **Executes**:
-    1. `extract_features.py --corpus $corpus`
-        - Function: Iterates through all specified corpora to extract features using the TextDescriptives library, including a custom formula for German Flesch Reading Ease.
-
-    2. `combine_results_per_lang_domain.py`
-        - Function: Restructures data into a more accessible format, sorting by individual features, language, and domain.
-        - Iterates through: `../results/per_corpus/{corpus}`
-        - Output Directories:
-          - Per Feature: `../results/per_feature/{feature_to_extract}/{corpus}.csv`
-          - Per Language: `../results/per_language/{language}/{feature}.csv`
-          - Per Domain: `../results/per_domain/news/{language}/{feature}.csv`
-
-    3. `transform_dataframe.py -f $feature_type`
-        - Function: Pools together and formats results for morphological and lexical features.
-        - Inputs:
-          - Morphological Features: `../results/morphology/{corpus}.csv`
-          - Lexical Features: `../results/lexical_richness/{corpus}.csv`
-        - Output Directories:
-          - Per Feature: `../results/per_feature/{feature_to_extract}/{corpus}.csv`
-          - Per Language: `../results/per_language/{language}/{feature}.csv`
-          - Per Domain: `../results/per_domain/news/{language}/{feature}.csv`
-
-### Analysis: analysis/scripts/
+`cd analysis/scripts/`
 
 `bash run_analysis.sh`
   - **Parameters**:

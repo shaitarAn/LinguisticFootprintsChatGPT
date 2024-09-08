@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 413
+create_38
+Length of all lemmas: 340
+Length of singleton lemmas: 308
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 308
+der
+dict_values([16, 7, 13, 4, 2, 11, 5, 1])
+sum of wordFormDict.values() 59
+sein
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([7, 5, 4, 2, 3, 2])
+sum of wordFormDict.values() 23
+werden
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+binär
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([12, 2])
+sum of wordFormDict.values() 14
+dies
+dict_values([4, 4, 5, 2])
+sum of wordFormDict.values() 15
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+wachsend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+repräsentativ
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+widmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vorliegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+inklusiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestehend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kritisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+adäquat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 7, 13, 4, 2, 11, 5, 1])
+sum of wordFormDict.values() 59
+sein
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([7, 5, 4, 2, 3, 2])
+sum of wordFormDict.values() 23
+werden
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+binär
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([12, 2])
+sum of wordFormDict.values() 14
+dies
+dict_values([4, 4, 5, 2])
+sum of wordFormDict.values() 15
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+wachsend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+repräsentativ
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+widmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vorliegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+inklusiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestehend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kritisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+adäquat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

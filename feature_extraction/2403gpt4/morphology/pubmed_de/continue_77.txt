@@ -1,0 +1,181 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 378
+continue_77
+Length of all lemmas: 319
+Length of singleton lemmas: 286
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 286
+der
+dict_values([18, 8, 22, 8, 6, 4])
+sum of wordFormDict.values() 66
+revolutionieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+können
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+selten
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([4, 2, 4, 1])
+sum of wordFormDict.values() 11
+eröffnen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+digitalisiert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+neu
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bieten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ergeben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 2, 2, 1])
+sum of wordFormDict.values() 7
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewährleisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ermöglichen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([18, 8, 22, 8, 6, 4])
+sum of wordFormDict.values() 66
+revolutionieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+können
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+selten
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([4, 2, 4, 1])
+sum of wordFormDict.values() 11
+eröffnen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+digitalisiert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+neu
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bieten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ergeben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 2, 2, 1])
+sum of wordFormDict.values() 7
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewährleisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ermöglichen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3

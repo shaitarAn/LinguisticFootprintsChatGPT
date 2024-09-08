@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 429
+asmachine_12
+Length of all lemmas: 339
+Length of singleton lemmas: 310
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 310
+sein
+dict_values([8, 5, 9, 3, 2, 4, 7, 4])
+sum of wordFormDict.values() 42
+der
+dict_values([20, 10, 15, 8, 1, 4, 4])
+sum of wordFormDict.values() 62
+er
+dict_values([15, 3, 1])
+sum of wordFormDict.values() 19
+werden
+dict_values([1, 7])
+sum of wordFormDict.values() 8
+dies
+dict_values([3, 2, 3, 3])
+sum of wordFormDict.values() 11
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 7, 2, 5, 6, 2])
+sum of wordFormDict.values() 25
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 1, 1, 2])
+sum of wordFormDict.values() 7
+gewinnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+arbeiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([8, 5, 9, 3, 2, 4, 7, 4])
+sum of wordFormDict.values() 42
+der
+dict_values([20, 10, 15, 8, 1, 4, 4])
+sum of wordFormDict.values() 62
+er
+dict_values([15, 3, 1])
+sum of wordFormDict.values() 19
+werden
+dict_values([1, 7])
+sum of wordFormDict.values() 8
+dies
+dict_values([3, 2, 3, 3])
+sum of wordFormDict.values() 11
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 7, 2, 5, 6, 2])
+sum of wordFormDict.values() 25
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 1, 1, 2])
+sum of wordFormDict.values() 7
+gewinnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+arbeiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

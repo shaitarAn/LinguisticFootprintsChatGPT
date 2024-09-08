@@ -1,0 +1,217 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 577
+continue_8
+Length of all lemmas: 492
+Length of singleton lemmas: 448
+Length of matched lemmas: 35
+Length of singleton maching lemmas: 448
+ein
+dict_values([2, 6, 4, 2, 1])
+sum of wordFormDict.values() 15
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([11, 11, 8, 7, 3, 1, 1, 5])
+sum of wordFormDict.values() 47
+deutsch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+klassisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+er
+dict_values([1, 7])
+sum of wordFormDict.values() 8
+sollen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 5, 5, 2, 2, 1])
+sum of wordFormDict.values() 18
+lateinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+spät
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+modern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zugänglich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+verständlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+werden
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+didaktisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+historisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pädagogisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+humanistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+adaptiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+integrativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+transkulturell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+literarisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 6, 4, 2, 1])
+sum of wordFormDict.values() 15
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([11, 11, 8, 7, 3, 1, 1, 5])
+sum of wordFormDict.values() 47
+deutsch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+klassisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+er
+dict_values([1, 7])
+sum of wordFormDict.values() 8
+sollen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 5, 5, 2, 2, 1])
+sum of wordFormDict.values() 18
+lateinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+spät
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+modern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zugänglich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+verständlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+werden
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+didaktisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+historisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pädagogisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+humanistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+adaptiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+integrativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+transkulturell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+literarisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

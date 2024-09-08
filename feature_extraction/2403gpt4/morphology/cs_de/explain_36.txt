@@ -1,0 +1,91 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 357
+explain_36
+Length of all lemmas: 301
+Length of singleton lemmas: 279
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 279
+der
+dict_values([16, 5, 8, 12, 6, 11, 1])
+sum of wordFormDict.values() 59
+chinesisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([8, 5, 6, 3, 2, 1])
+sum of wordFormDict.values() 25
+ein
+dict_values([4, 5, 6, 2, 2])
+sum of wordFormDict.values() 19
+technologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+persönlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 5, 8, 12, 6, 11, 1])
+sum of wordFormDict.values() 59
+chinesisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([8, 5, 6, 3, 2, 1])
+sum of wordFormDict.values() 25
+ein
+dict_values([4, 5, 6, 2, 2])
+sum of wordFormDict.values() 19
+technologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+persönlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2

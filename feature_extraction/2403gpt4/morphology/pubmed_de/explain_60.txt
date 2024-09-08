@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 342
+explain_60
+Length of all lemmas: 264
+Length of singleton lemmas: 231
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 231
+der
+dict_values([2, 12, 15, 16, 6, 3])
+sum of wordFormDict.values() 54
+dies
+dict_values([4, 2, 1, 2])
+sum of wordFormDict.values() 9
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reagieren
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 5, 4, 2, 2, 1, 1])
+sum of wordFormDict.values() 17
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 4, 4, 1])
+sum of wordFormDict.values() 15
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+modern
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+konzentrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umweltbezogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kohärent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zivilgesellschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([2, 12, 15, 16, 6, 3])
+sum of wordFormDict.values() 54
+dies
+dict_values([4, 2, 1, 2])
+sum of wordFormDict.values() 9
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reagieren
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 5, 4, 2, 2, 1, 1])
+sum of wordFormDict.values() 17
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 4, 4, 1])
+sum of wordFormDict.values() 15
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+modern
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+konzentrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umweltbezogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kohärent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zivilgesellschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

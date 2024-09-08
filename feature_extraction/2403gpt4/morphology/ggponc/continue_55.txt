@@ -1,0 +1,175 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 427
+continue_55
+Length of all lemmas: 354
+Length of singleton lemmas: 322
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 322
+der
+dict_values([18, 15, 11, 7, 13, 6])
+sum of wordFormDict.values() 70
+können
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 2, 3, 4, 1])
+sum of wordFormDict.values() 17
+stellen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zahlreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wenig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schwerwiegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([7, 1, 1, 1])
+sum of wordFormDict.values() 10
+medizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+onkologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 2, 2, 1, 1])
+sum of wordFormDict.values() 7
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jeweilig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([18, 15, 11, 7, 13, 6])
+sum of wordFormDict.values() 70
+können
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 2, 3, 4, 1])
+sum of wordFormDict.values() 17
+stellen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zahlreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([7, 3])
+sum of wordFormDict.values() 10
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wenig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schwerwiegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([7, 1, 1, 1])
+sum of wordFormDict.values() 10
+medizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+onkologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 2, 2, 1, 1])
+sum of wordFormDict.values() 7
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jeweilig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([1, 1])
+sum of wordFormDict.values() 2

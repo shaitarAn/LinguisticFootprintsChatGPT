@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 367
+create_1
+Length of all lemmas: 299
+Length of singleton lemmas: 271
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 271
+werden
+dict_values([4, 3, 2, 1])
+sum of wordFormDict.values() 10
+ein
+dict_values([2, 2, 12, 1, 1])
+sum of wordFormDict.values() 18
+der
+dict_values([7, 6, 7, 12, 15, 4, 1])
+sum of wordFormDict.values() 52
+sein
+dict_values([4, 6, 1, 1, 2, 4, 2, 1, 1])
+sum of wordFormDict.values() 22
+adult
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 5, 3, 1, 1])
+sum of wordFormDict.values() 12
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+mehrere
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erneut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nehmen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([11, 5])
+sum of wordFormDict.values() 16
+deutsch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+variieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entscheiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([4, 3, 2, 1])
+sum of wordFormDict.values() 10
+ein
+dict_values([2, 2, 12, 1, 1])
+sum of wordFormDict.values() 18
+der
+dict_values([7, 6, 7, 12, 15, 4, 1])
+sum of wordFormDict.values() 52
+sein
+dict_values([4, 6, 1, 1, 2, 4, 2, 1, 1])
+sum of wordFormDict.values() 22
+adult
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 5, 3, 1, 1])
+sum of wordFormDict.values() 12
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+mehrere
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erneut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nehmen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([11, 5])
+sum of wordFormDict.values() 16
+deutsch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+variieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entscheiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6

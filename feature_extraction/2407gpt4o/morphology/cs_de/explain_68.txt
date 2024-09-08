@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 426
+explain_68
+Length of all lemmas: 362
+Length of singleton lemmas: 342
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 342
+der
+dict_values([12, 9, 13, 5, 5, 5, 2])
+sum of wordFormDict.values() 51
+digital
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+sein
+dict_values([1, 5, 1, 2, 4, 1])
+sum of wordFormDict.values() 14
+ein
+dict_values([1, 1, 7])
+sum of wordFormDict.values() 9
+können
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+dies
+dict_values([5, 4, 2])
+sum of wordFormDict.values() 11
+werden
+dict_values([6, 5, 2])
+sum of wordFormDict.values() 13
+vollständig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wer
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+löschen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+negativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+gesetzlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gestalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([12, 9, 13, 5, 5, 5, 2])
+sum of wordFormDict.values() 51
+digital
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+sein
+dict_values([1, 5, 1, 2, 4, 1])
+sum of wordFormDict.values() 14
+ein
+dict_values([1, 1, 7])
+sum of wordFormDict.values() 9
+können
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+dies
+dict_values([5, 4, 2])
+sum of wordFormDict.values() 11
+werden
+dict_values([6, 5, 2])
+sum of wordFormDict.values() 13
+vollständig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wer
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+löschen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+negativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+gesetzlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gestalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2

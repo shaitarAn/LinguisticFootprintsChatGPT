@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 421
+explain_1
+Length of all lemmas: 349
+Length of singleton lemmas: 319
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 319
+der
+dict_values([14, 6, 6, 10, 8, 3])
+sum of wordFormDict.values() 47
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 2, 2, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([10, 8, 3, 1, 2, 1])
+sum of wordFormDict.values() 25
+werden
+dict_values([3, 4, 4])
+sum of wordFormDict.values() 11
+können
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+signifikant
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+moderat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ergeben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deutlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 6, 6, 10, 8, 3])
+sum of wordFormDict.values() 47
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 2, 2, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([10, 8, 3, 1, 2, 1])
+sum of wordFormDict.values() 25
+werden
+dict_values([3, 4, 4])
+sum of wordFormDict.values() 11
+können
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+signifikant
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+moderat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ergeben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deutlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

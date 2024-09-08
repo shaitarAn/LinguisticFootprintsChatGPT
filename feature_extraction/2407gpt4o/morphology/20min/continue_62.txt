@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 592
+continue_62
+Length of all lemmas: 545
+Length of singleton lemmas: 519
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 519
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([15, 6, 5, 9, 12, 6, 1])
+sum of wordFormDict.values() 54
+dunkel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 4, 3])
+sum of wordFormDict.values() 10
+ein
+dict_values([7, 3, 4, 6, 1])
+sum of wordFormDict.values() 21
+packend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+leuchtend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+düster
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fesselnd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+vergangen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+orchestriert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+steigern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([15, 6, 5, 9, 12, 6, 1])
+sum of wordFormDict.values() 54
+dunkel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 4, 3])
+sum of wordFormDict.values() 10
+ein
+dict_values([7, 3, 4, 6, 1])
+sum of wordFormDict.values() 21
+packend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+leuchtend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+düster
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fesselnd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+vergangen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+orchestriert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+steigern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 400
+continue_85
+Length of all lemmas: 327
+Length of singleton lemmas: 294
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 294
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([2, 4, 10, 8, 3, 2, 1, 1])
+sum of wordFormDict.values() 31
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 2, 1, 1, 2])
+sum of wordFormDict.values() 7
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+neu
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ich
+dict_values([5, 3, 2])
+sum of wordFormDict.values() 10
+unser
+dict_values([1, 1, 2, 2])
+sum of wordFormDict.values() 6
+dies
+dict_values([1, 3, 2, 1])
+sum of wordFormDict.values() 7
+regelmäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+erwarten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mein
+dict_values([2, 1, 1, 1, 1])
+sum of wordFormDict.values() 6
+entstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+beschäftigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effizient
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+technisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([2, 4, 10, 8, 3, 2, 1, 1])
+sum of wordFormDict.values() 31
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 2, 1, 1, 2])
+sum of wordFormDict.values() 7
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+neu
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ich
+dict_values([5, 3, 2])
+sum of wordFormDict.values() 10
+unser
+dict_values([1, 1, 2, 2])
+sum of wordFormDict.values() 6
+dies
+dict_values([1, 3, 2, 1])
+sum of wordFormDict.values() 7
+regelmäßig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+erwarten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mein
+dict_values([2, 1, 1, 1, 1])
+sum of wordFormDict.values() 6
+entstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+beschäftigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effizient
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+technisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

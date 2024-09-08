@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 326
+explain_2
+Length of all lemmas: 251
+Length of singleton lemmas: 225
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 225
+dies
+dict_values([4, 1, 1, 2, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([12, 19, 2, 6, 8, 6, 1])
+sum of wordFormDict.values() 54
+sein
+dict_values([5, 2, 1, 4, 1])
+sum of wordFormDict.values() 13
+ein
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+funktionell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erheblich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+körperlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+psychisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+werden
+dict_values([7, 4, 1])
+sum of wordFormDict.values() 12
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+behandeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+physisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+arbeitsfähig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+funktionsbezogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+positiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 1, 1, 2, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([12, 19, 2, 6, 8, 6, 1])
+sum of wordFormDict.values() 54
+sein
+dict_values([5, 2, 1, 4, 1])
+sum of wordFormDict.values() 13
+ein
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+funktionell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erheblich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+körperlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+psychisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+werden
+dict_values([7, 4, 1])
+sum of wordFormDict.values() 12
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+behandeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+physisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+arbeitsfähig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+funktionsbezogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+positiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

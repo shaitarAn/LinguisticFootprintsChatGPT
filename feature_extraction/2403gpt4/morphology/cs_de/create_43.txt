@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 438
+create_43
+Length of all lemmas: 381
+Length of singleton lemmas: 358
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 358
+der
+dict_values([20, 13, 14, 8, 4, 6])
+sum of wordFormDict.values() 65
+sein
+dict_values([6, 2, 4, 4, 1])
+sum of wordFormDict.values() 17
+ein
+dict_values([8, 4, 1, 4, 4])
+sum of wordFormDict.values() 21
+schützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erfordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([20, 13, 14, 8, 4, 6])
+sum of wordFormDict.values() 65
+sein
+dict_values([6, 2, 4, 4, 1])
+sum of wordFormDict.values() 17
+ein
+dict_values([8, 4, 1, 4, 4])
+sum of wordFormDict.values() 21
+schützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erfordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2

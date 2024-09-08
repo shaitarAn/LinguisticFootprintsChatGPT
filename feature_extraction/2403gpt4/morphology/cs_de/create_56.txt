@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 452
+create_56
+Length of all lemmas: 374
+Length of singleton lemmas: 341
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 341
+der
+dict_values([15, 8, 9, 15, 10, 8])
+sum of wordFormDict.values() 65
+ihr
+dict_values([2, 5, 5, 2, 1])
+sum of wordFormDict.values() 15
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 2, 1, 1, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wir
+dict_values([6, 5])
+sum of wordFormDict.values() 11
+künstlerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([10, 5, 4, 4, 1, 2])
+sum of wordFormDict.values() 26
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([7, 2, 1])
+sum of wordFormDict.values() 10
+Ihr|ihr
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+unser
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+brechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+euphorisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kreativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nah
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 8, 9, 15, 10, 8])
+sum of wordFormDict.values() 65
+ihr
+dict_values([2, 5, 5, 2, 1])
+sum of wordFormDict.values() 15
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 2, 1, 1, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wir
+dict_values([6, 5])
+sum of wordFormDict.values() 11
+künstlerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([10, 5, 4, 4, 1, 2])
+sum of wordFormDict.values() 26
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([7, 2, 1])
+sum of wordFormDict.values() 10
+Ihr|ihr
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+unser
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+brechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+euphorisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kreativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nah
+dict_values([1, 1])
+sum of wordFormDict.values() 2

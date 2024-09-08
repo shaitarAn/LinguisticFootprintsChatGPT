@@ -1,0 +1,163 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 384
+explain_77
+Length of all lemmas: 302
+Length of singleton lemmas: 265
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 265
+dies
+dict_values([2, 4, 6, 2, 1, 1])
+sum of wordFormDict.values() 16
+der
+dict_values([15, 9, 6, 7, 18, 4])
+sum of wordFormDict.values() 59
+ein
+dict_values([6, 1, 2, 9, 1, 7])
+sum of wordFormDict.values() 26
+sein
+dict_values([4, 3, 2, 3, 1, 1])
+sum of wordFormDict.values() 14
+haben
+dict_values([7, 1, 6])
+sum of wordFormDict.values() 14
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([4, 6, 1])
+sum of wordFormDict.values() 11
+äußern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+weich
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+berichten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erklären
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöhen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 5, 2])
+sum of wordFormDict.values() 9
+schwach
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+individualisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zurückführen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 4, 6, 2, 1, 1])
+sum of wordFormDict.values() 16
+der
+dict_values([15, 9, 6, 7, 18, 4])
+sum of wordFormDict.values() 59
+ein
+dict_values([6, 1, 2, 9, 1, 7])
+sum of wordFormDict.values() 26
+sein
+dict_values([4, 3, 2, 3, 1, 1])
+sum of wordFormDict.values() 14
+haben
+dict_values([7, 1, 6])
+sum of wordFormDict.values() 14
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([4, 6, 1])
+sum of wordFormDict.values() 11
+äußern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+weich
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+berichten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erklären
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöhen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 5, 2])
+sum of wordFormDict.values() 9
+schwach
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+individualisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zurückführen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2

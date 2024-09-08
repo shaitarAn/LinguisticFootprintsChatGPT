@@ -1,0 +1,157 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 409
+continue_55
+Length of all lemmas: 326
+Length of singleton lemmas: 292
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 292
+ein
+dict_values([2, 7, 11, 3, 3, 2])
+sum of wordFormDict.values() 28
+sein
+dict_values([7, 1, 1, 1, 3, 3, 1])
+sum of wordFormDict.values() 17
+der
+dict_values([12, 9, 17, 9, 9, 8, 1, 1])
+sum of wordFormDict.values() 66
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesetzlich
+dict_values([1, 8, 1])
+sum of wordFormDict.values() 10
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 2, 5])
+sum of wordFormDict.values() 10
+dies
+dict_values([1, 2, 2, 1])
+sum of wordFormDict.values() 6
+sozial
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+negativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gering
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+diskutieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 7, 11, 3, 3, 2])
+sum of wordFormDict.values() 28
+sein
+dict_values([7, 1, 1, 1, 3, 3, 1])
+sum of wordFormDict.values() 17
+der
+dict_values([12, 9, 17, 9, 9, 8, 1, 1])
+sum of wordFormDict.values() 66
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesetzlich
+dict_values([1, 8, 1])
+sum of wordFormDict.values() 10
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 2, 5])
+sum of wordFormDict.values() 10
+dies
+dict_values([1, 2, 2, 1])
+sum of wordFormDict.values() 6
+sozial
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+negativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gering
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+diskutieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

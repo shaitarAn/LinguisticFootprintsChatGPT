@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 445
+create_72
+Length of all lemmas: 395
+Length of singleton lemmas: 371
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 371
+der
+dict_values([10, 2, 9, 8, 2, 3])
+sum of wordFormDict.values() 34
+digital
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 1, 3, 1, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([2, 2, 4, 1])
+sum of wordFormDict.values() 9
+still
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([5, 2, 1, 1])
+sum of wordFormDict.values() 9
+ermöglichen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+steuern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gelten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+revolutionär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 2, 2, 1])
+sum of wordFormDict.values() 6
+nach
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([10, 2, 9, 8, 2, 3])
+sum of wordFormDict.values() 34
+digital
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 1, 3, 1, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([2, 2, 4, 1])
+sum of wordFormDict.values() 9
+still
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([5, 2, 1, 1])
+sum of wordFormDict.values() 9
+ermöglichen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+steuern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gelten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+revolutionär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 2, 2, 1])
+sum of wordFormDict.values() 6
+nach
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2

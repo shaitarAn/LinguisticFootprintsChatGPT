@@ -8,8 +8,6 @@ import sys
 import csv
 from nltk.probability import FreqDist
 
-vocs = "freq_voc/"
-
 
 def main():
     ''' main function '''
@@ -19,12 +17,17 @@ def main():
                         help='the files to read (min 1).', nargs='+')
     parser.add_argument('-c', '--corpus', required=True,
                         help='the corpus name')
+    parser.add_argument('-o', '--output_dir', required=True)
 
     args = parser.parse_args()
 
     sentences = {}
 
     system2 = ""
+
+    vocs = f"{args.output_dir}/morphology/freq_voc/"
+    if not os.path.exists(vocs):
+        os.makedirs(vocs)
 
     metrics_bs = {}
 

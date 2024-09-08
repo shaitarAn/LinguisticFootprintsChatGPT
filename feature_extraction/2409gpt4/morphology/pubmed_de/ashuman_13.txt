@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 362
+ashuman_13
+Length of all lemmas: 305
+Length of singleton lemmas: 280
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 280
+der
+dict_values([18, 9, 22, 7, 13, 4])
+sum of wordFormDict.values() 73
+sein
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([4, 1, 1, 1, 2])
+sum of wordFormDict.values() 9
+partizipativ
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+ihr
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+wissenschaftlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesellschaftlich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stärken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([18, 9, 22, 7, 13, 4])
+sum of wordFormDict.values() 73
+sein
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([4, 1, 1, 1, 2])
+sum of wordFormDict.values() 9
+partizipativ
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+ihr
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+wissenschaftlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesellschaftlich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stärken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2

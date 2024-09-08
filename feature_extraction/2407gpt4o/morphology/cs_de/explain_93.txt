@@ -1,0 +1,193 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 465
+explain_93
+Length of all lemmas: 365
+Length of singleton lemmas: 328
+Length of matched lemmas: 31
+Length of singleton maching lemmas: 328
+der
+dict_values([18, 14, 14, 4, 4, 3, 1])
+sum of wordFormDict.values() 58
+sogenannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([5, 5, 3, 1])
+sum of wordFormDict.values() 14
+sein
+dict_values([7, 3, 6])
+sum of wordFormDict.values() 16
+global
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+führend
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 3, 2, 1])
+sum of wordFormDict.values() 7
+groß
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([6, 4, 3, 1, 5])
+sum of wordFormDict.values() 19
+klein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+industriell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+folgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([3, 1, 1, 1, 3])
+sum of wordFormDict.values() 9
+traditionell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+mittelgroß
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([3, 1, 2, 1])
+sum of wordFormDict.values() 7
+sie
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erwirtschaften
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weltweit
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+technologisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([18, 14, 14, 4, 4, 3, 1])
+sum of wordFormDict.values() 58
+sogenannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([5, 5, 3, 1])
+sum of wordFormDict.values() 14
+sein
+dict_values([7, 3, 6])
+sum of wordFormDict.values() 16
+global
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+führend
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 3, 2, 1])
+sum of wordFormDict.values() 7
+groß
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([6, 4, 3, 1, 5])
+sum of wordFormDict.values() 19
+klein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+industriell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+folgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([3, 1, 1, 1, 3])
+sum of wordFormDict.values() 9
+traditionell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+mittelgroß
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([3, 1, 2, 1])
+sum of wordFormDict.values() 7
+sie
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erwirtschaften
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weltweit
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+technologisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2

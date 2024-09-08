@@ -1,0 +1,181 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 560
+continue_36
+Length of all lemmas: 483
+Length of singleton lemmas: 443
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 443
+der
+dict_values([11, 4, 5, 17, 18, 6])
+sum of wordFormDict.values() 61
+ein
+dict_values([3, 2, 5, 3, 1])
+sum of wordFormDict.values() 14
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 4, 3, 1, 1])
+sum of wordFormDict.values() 12
+sollen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+verwenden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([8, 2, 1, 1])
+sum of wordFormDict.values() 12
+ökonomisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanzieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([1, 5, 1])
+sum of wordFormDict.values() 7
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+direkt
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+technisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+national
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wirtschaftlich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+regional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+öffentlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+migrationsrechtlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([11, 4, 5, 17, 18, 6])
+sum of wordFormDict.values() 61
+ein
+dict_values([3, 2, 5, 3, 1])
+sum of wordFormDict.values() 14
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 4, 3, 1, 1])
+sum of wordFormDict.values() 12
+sollen
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+verwenden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([8, 2, 1, 1])
+sum of wordFormDict.values() 12
+ökonomisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanzieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([1, 5, 1])
+sum of wordFormDict.values() 7
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+direkt
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+technisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+national
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wirtschaftlich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+regional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+öffentlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+migrationsrechtlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

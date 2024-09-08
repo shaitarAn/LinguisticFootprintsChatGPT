@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 489
+create_92
+Length of all lemmas: 460
+Length of singleton lemmas: 442
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 442
+der
+dict_values([3, 7, 4, 10, 9, 3, 2, 1])
+sum of wordFormDict.values() 39
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+stationär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 1, 1, 3])
+sum of wordFormDict.values() 8
+dies
+dict_values([1, 1, 2, 3, 1])
+sum of wordFormDict.values() 8
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ethisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+professionell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beruflich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konkret
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strategisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+work
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([3, 7, 4, 10, 9, 3, 2, 1])
+sum of wordFormDict.values() 39
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+stationär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 1, 1, 3])
+sum of wordFormDict.values() 8
+dies
+dict_values([1, 1, 2, 3, 1])
+sum of wordFormDict.values() 8
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ethisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+professionell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beruflich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konkret
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strategisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+work
+dict_values([1, 1])
+sum of wordFormDict.values() 2

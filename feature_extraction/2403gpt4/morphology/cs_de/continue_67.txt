@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 349
+continue_67
+Length of all lemmas: 286
+Length of singleton lemmas: 260
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 260
+wir
+dict_values([11, 1])
+sum of wordFormDict.values() 12
+der
+dict_values([14, 12, 6, 6, 2, 2])
+sum of wordFormDict.values() 42
+sein
+dict_values([8, 3, 6])
+sum of wordFormDict.values() 17
+müssen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+gehen
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([7, 2, 2])
+sum of wordFormDict.values() 11
+entscheidend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dürfen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sozial
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+unser
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+finanziell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+mein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tragfähig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesellschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([11, 1])
+sum of wordFormDict.values() 12
+der
+dict_values([14, 12, 6, 6, 2, 2])
+sum of wordFormDict.values() 42
+sein
+dict_values([8, 3, 6])
+sum of wordFormDict.values() 17
+müssen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+gehen
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([7, 2, 2])
+sum of wordFormDict.values() 11
+entscheidend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dürfen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sozial
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+unser
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+finanziell
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+mein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tragfähig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesellschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

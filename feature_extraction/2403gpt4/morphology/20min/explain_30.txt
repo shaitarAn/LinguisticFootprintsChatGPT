@@ -1,0 +1,103 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 311
+explain_30
+Length of all lemmas: 249
+Length of singleton lemmas: 229
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 229
+ein
+dict_values([4, 3, 1, 1, 1])
+sum of wordFormDict.values() 10
+der
+dict_values([11, 17, 8, 2, 14, 5, 2])
+sum of wordFormDict.values() 59
+werden
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+angeblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 2, 2, 3, 1, 1])
+sum of wordFormDict.values() 11
+ihr
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ausgeblieben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+behaupten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 2, 1, 2])
+sum of wordFormDict.values() 9
+rechtlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 3, 1, 1, 1])
+sum of wordFormDict.values() 10
+der
+dict_values([11, 17, 8, 2, 14, 5, 2])
+sum of wordFormDict.values() 59
+werden
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+angeblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 2, 2, 3, 1, 1])
+sum of wordFormDict.values() 11
+ihr
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ausgeblieben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+behaupten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 2, 1, 2])
+sum of wordFormDict.values() 9
+rechtlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2

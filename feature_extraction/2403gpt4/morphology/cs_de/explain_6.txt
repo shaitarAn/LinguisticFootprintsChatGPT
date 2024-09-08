@@ -1,0 +1,181 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 336
+explain_6
+Length of all lemmas: 254
+Length of singleton lemmas: 215
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 215
+der
+dict_values([17, 12, 7, 8, 4, 2, 9])
+sum of wordFormDict.values() 59
+wirtschaftlich
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 3, 2, 2, 1, 4, 1, 1])
+sum of wordFormDict.values() 15
+ein
+dict_values([8, 7, 2, 1, 4, 1])
+sum of wordFormDict.values() 23
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+brasilianisch
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+bedeutend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gerechter
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+arbeitsrechtlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stabil
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+niedrig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+tätigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jährlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+groß
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+weltweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+konkurrenzfähig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+regional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beeindruckend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+strukturell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beitragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 12, 7, 8, 4, 2, 9])
+sum of wordFormDict.values() 59
+wirtschaftlich
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 3, 2, 2, 1, 4, 1, 1])
+sum of wordFormDict.values() 15
+ein
+dict_values([8, 7, 2, 1, 4, 1])
+sum of wordFormDict.values() 23
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+brasilianisch
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+bedeutend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gerechter
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+arbeitsrechtlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stabil
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+niedrig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+tätigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jährlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+groß
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+weltweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+konkurrenzfähig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+regional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beeindruckend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+strukturell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beitragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

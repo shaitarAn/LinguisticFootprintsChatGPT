@@ -1,0 +1,97 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 600
+create_67
+Length of all lemmas: 561
+Length of singleton lemmas: 540
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 540
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([4, 8, 2, 1, 7, 4])
+sum of wordFormDict.values() 26
+ein
+dict_values([4, 1, 2, 1, 1, 1])
+sum of wordFormDict.values() 10
+haben
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+palästinensisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+betroffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+israelisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+formal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([4, 8, 2, 1, 7, 4])
+sum of wordFormDict.values() 26
+ein
+dict_values([4, 1, 2, 1, 1, 1])
+sum of wordFormDict.values() 10
+haben
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+palästinensisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+betroffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+israelisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+formal
+dict_values([1, 1])
+sum of wordFormDict.values() 2

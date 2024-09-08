@@ -1,0 +1,91 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 357
+explain_62
+Length of all lemmas: 285
+Length of singleton lemmas: 263
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 263
+dies
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+der
+dict_values([9, 13, 8, 21, 1, 8, 2, 7])
+sum of wordFormDict.values() 69
+werden
+dict_values([7, 7])
+sum of wordFormDict.values() 14
+ein
+dict_values([4, 7, 13, 2, 6, 1])
+sum of wordFormDict.values() 33
+signifikant
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ander
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+erhöhen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([9, 1, 1, 1])
+sum of wordFormDict.values() 12
+stereotaktisch
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([4, 1, 2, 1])
+sum of wordFormDict.values() 8
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wirksam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+der
+dict_values([9, 13, 8, 21, 1, 8, 2, 7])
+sum of wordFormDict.values() 69
+werden
+dict_values([7, 7])
+sum of wordFormDict.values() 14
+ein
+dict_values([4, 7, 13, 2, 6, 1])
+sum of wordFormDict.values() 33
+signifikant
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+ander
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+erhöhen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([9, 1, 1, 1])
+sum of wordFormDict.values() 12
+stereotaktisch
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([4, 1, 2, 1])
+sum of wordFormDict.values() 8
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wirksam
+dict_values([1, 1])
+sum of wordFormDict.values() 2

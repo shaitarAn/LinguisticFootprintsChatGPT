@@ -102,9 +102,9 @@ def main():
             with open(f"{args.output_dir}/morphology/per_lemma/{args.dataset}/{syst}.csv", "w") as outf2:
                 print(syst)
                                 
-                score = compute_gram_diversity(sentences[syst], args.dataset, lang, syst, freq_dict)
+                score = compute_gram_diversity(sentences[syst], args.dataset, args.output_dir, lang, syst, freq_dict)
                 # Shannon entropy, (removed invSimpDiv from output ) , Simpson's diversity
-                writer1.writerow([author, rest, round(score[2]*100, 2), round(score[0]*100, 2)])
+                writer1.writerow([author, rest, score[2]*100, score[0]*100])
 
                 # file containing shannon scores per lemma 
                 writer2 = csv.writer(outf2, delimiter=',')

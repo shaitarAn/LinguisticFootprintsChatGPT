@@ -12,7 +12,8 @@ from generate import OpenAiModels
 # ############################################
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
-openai.organization = os.getenv("OPENAI_ORG")
+print(openai.api_key)
+# openai.organization = os.getenv("OPENAI_ORG")
 
 # ############################################
 
@@ -26,6 +27,7 @@ parser.add_argument("--corpus", "-c", type=str, required=True, help="Corpus name
 parser.add_argument("--inputdir", "-i", type=str, required=True, help="Input directory")
 parser.add_argument("--outputdir", "-o", type=str, required=True, help="Output directory")
 parser.add_argument("--min_len", type=int, default=500, help="minimum length of the generated texts")
+parser.add_argument("-p", "--prompts", type=str, required=False, help="Prompt file to use for text generation")
 
 args = parser.parse_args()
 
@@ -44,7 +46,7 @@ min_len = args.min_len
 
 # ############################################
 
-model = OpenAiModels(model_name, openai.api_key, openai.organization)
+model = OpenAiModels(model_name, openai.api_key)
 
 @backoff.on_exception(backoff.expo, openai.APIError)
 @backoff.on_exception(backoff.expo, openai.error.RateLimitError)
@@ -61,7 +63,7 @@ def call_openai(prompt):
 human_texts = os.path.expanduser(inputdir)
 
 # JSON file with prompts and personas
-with open('prompts.json', 'r') as json_file:
+with open(args.prompts, 'r') as json_file:
     json_prompts = json.load(json_file)
 
 if not os.path.exists(f"{outputdir}/{corpus}"):
@@ -92,26 +94,32 @@ with open(f"{human_texts}{corpus}.json", 'r') as f:
 
       # ############################################
 
-      for task in ["continue", "create", "explain"]:
+      # for task in ["continue", "create", "explain"]:
+      for task in ["ashuman", "asmachine"]:
         
         if not os.path.exists(f"{outputdir}/{corpus}/{task}"):
           os.makedirs(f"{outputdir}/{corpus}/{task}")
 
-        json_prompt_before_intext = json_prompts[corpus][task][1]["content"].split(" {intext}")[0]
-        json_prompt_after_intext = json_prompts[corpus][task][1]["content"].split(" {intext}")[1]
+        # json_prompt_before_intext = json_prompts[corpus][task][1]["content"].split(" {intext}")[0]
+        # json_prompt_after_intext = json_prompts[corpus][task][1]["content"].split(" {intext}")[1]
         # print(json_prompt_before_intext)
+        json_prompt_before_intext = json_prompts[task][1]["content"].split(" {intext}")[0]
+        json_prompt_after_intext = json_prompts[task][1]["content"].split(" {intext}")[1]
            
         if task == "explain":
           user_content = json_prompts[corpus][task][1]["content"].format(intext=main_text)
 
         else:
-          user_content = json_prompts[corpus][task][1]["content"].format(intext=title)
+          # user_content = json_prompts[corpus][task][1]["content"].format(intext=title)
+          user_content = json_prompts[task][1]["content"].format(intext=title)
         
         with open(f"{outputdir}/{corpus}/human/{file_counter}.txt", "w") as f:
              f.write(main_text)
 
-        system_content = json_prompts[corpus][task][0]["content"]
-        continue_content = json_prompts[corpus][task][2]["content"]
+        # system_content = json_prompts[corpus][task][0]["content"]
+        # continue_content = json_prompts[corpus][task][2]["content"]
+        system_content = json_prompts[task][0]["content"]
+        continue_content = json_prompts[task][2]["content"]
 
         # ############################################
 

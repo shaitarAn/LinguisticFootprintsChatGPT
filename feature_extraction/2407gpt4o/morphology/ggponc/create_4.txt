@@ -1,0 +1,97 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 510
+create_4
+Length of all lemmas: 485
+Length of singleton lemmas: 467
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 467
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Herr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 2, 8, 2, 1])
+sum of wordFormDict.values() 15
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([4, 11, 7, 5, 2, 2])
+sum of wordFormDict.values() 31
+recht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+neoadjuvant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Herr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 2, 8, 2, 1])
+sum of wordFormDict.values() 15
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([4, 11, 7, 5, 2, 2])
+sum of wordFormDict.values() 31
+recht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+neoadjuvant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

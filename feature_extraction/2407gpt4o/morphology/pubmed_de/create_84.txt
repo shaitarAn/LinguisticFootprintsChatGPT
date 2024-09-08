@@ -1,0 +1,235 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 558
+create_84
+Length of all lemmas: 463
+Length of singleton lemmas: 419
+Length of matched lemmas: 38
+Length of singleton maching lemmas: 419
+der
+dict_values([16, 5, 16, 6, 3, 4, 1, 1])
+sum of wordFormDict.values() 52
+global
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 5, 1, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([4, 4, 3, 7])
+sum of wordFormDict.values() 18
+medizinisch
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([3, 4, 4, 1])
+sum of wordFormDict.values() 12
+zentral
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+heterogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+technologisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([6, 3, 2, 1])
+sum of wordFormDict.values() 12
+neu
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+greifen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sicherstellen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+interoperabel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([6, 1, 1, 1])
+sum of wordFormDict.values() 9
+technisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+langfristig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+nachhaltig
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+kontinuierlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+solch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lang
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gesetzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+essenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+universitär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 5, 16, 6, 3, 4, 1, 1])
+sum of wordFormDict.values() 52
+global
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 5, 1, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([4, 4, 3, 7])
+sum of wordFormDict.values() 18
+medizinisch
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([3, 4, 4, 1])
+sum of wordFormDict.values() 12
+zentral
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+heterogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+technologisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([6, 3, 2, 1])
+sum of wordFormDict.values() 12
+neu
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+greifen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sicherstellen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+interoperabel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([6, 1, 1, 1])
+sum of wordFormDict.values() 9
+technisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+langfristig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+nachhaltig
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+kontinuierlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+solch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lang
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gesetzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+essenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+universitär
+dict_values([1, 1])
+sum of wordFormDict.values() 2

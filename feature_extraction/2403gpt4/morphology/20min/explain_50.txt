@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 335
+explain_50
+Length of all lemmas: 272
+Length of singleton lemmas: 249
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 249
+der
+dict_values([20, 6, 18, 8, 9, 9, 3])
+sum of wordFormDict.values() 73
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ein
+dict_values([5, 5, 2, 1])
+sum of wordFormDict.values() 13
+haben
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([2, 5, 3, 1])
+sum of wordFormDict.values() 11
+sein
+dict_values([4, 2, 3, 2, 1])
+sum of wordFormDict.values() 12
+weltweit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 3, 2])
+sum of wordFormDict.values() 9
+bestehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 3, 2, 1])
+sum of wordFormDict.values() 7
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+global
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betreffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([20, 6, 18, 8, 9, 9, 3])
+sum of wordFormDict.values() 73
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ein
+dict_values([5, 5, 2, 1])
+sum of wordFormDict.values() 13
+haben
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([2, 5, 3, 1])
+sum of wordFormDict.values() 11
+sein
+dict_values([4, 2, 3, 2, 1])
+sum of wordFormDict.values() 12
+weltweit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 3, 2])
+sum of wordFormDict.values() 9
+bestehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 3, 2, 1])
+sum of wordFormDict.values() 7
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+global
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+betreffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

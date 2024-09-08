@@ -1,0 +1,157 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 402
+continue_13
+Length of all lemmas: 334
+Length of singleton lemmas: 303
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 303
+der
+dict_values([18, 8, 22, 6, 9, 4])
+sum of wordFormDict.values() 67
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+er
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+ein
+dict_values([1, 7, 2, 2, 3])
+sum of wordFormDict.values() 15
+helfen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+effektiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 1, 1, 2, 2, 1])
+sum of wordFormDict.values() 12
+bieten
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+diagnostisch
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+schnell
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1, 3, 1])
+sum of wordFormDict.values() 7
+einsetzen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+genetisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+behandeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gut
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+frühzeitig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([18, 8, 22, 6, 9, 4])
+sum of wordFormDict.values() 67
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+er
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+ein
+dict_values([1, 7, 2, 2, 3])
+sum of wordFormDict.values() 15
+helfen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+effektiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 1, 1, 2, 2, 1])
+sum of wordFormDict.values() 12
+bieten
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+diagnostisch
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+schnell
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1, 3, 1])
+sum of wordFormDict.values() 7
+einsetzen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+genetisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+behandeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gut
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+frühzeitig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

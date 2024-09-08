@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 359
+explain_60
+Length of all lemmas: 294
+Length of singleton lemmas: 265
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 265
+der
+dict_values([16, 8, 3, 23, 3, 7])
+sum of wordFormDict.values() 60
+sein
+dict_values([7, 5, 2])
+sum of wordFormDict.values() 14
+ein
+dict_values([7, 6, 3])
+sum of wordFormDict.values() 16
+individuell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 6])
+sum of wordFormDict.values() 11
+werden
+dict_values([5, 5, 1])
+sum of wordFormDict.values() 11
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+erfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einfach
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterscheiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dass
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 8, 3, 23, 3, 7])
+sum of wordFormDict.values() 60
+sein
+dict_values([7, 5, 2])
+sum of wordFormDict.values() 14
+ein
+dict_values([7, 6, 3])
+sum of wordFormDict.values() 16
+individuell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 6])
+sum of wordFormDict.values() 11
+werden
+dict_values([5, 5, 1])
+sum of wordFormDict.values() 11
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+erfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einfach
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterscheiden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dass
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

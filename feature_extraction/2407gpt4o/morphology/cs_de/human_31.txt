@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 374
+human_31
+Length of all lemmas: 323
+Length of singleton lemmas: 302
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 302
+der
+dict_values([27, 1, 33, 11, 5, 3])
+sum of wordFormDict.values() 80
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+werden
+dict_values([1, 2, 4, 1, 1])
+sum of wordFormDict.values() 9
+können
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+geplant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 3, 7, 1, 1])
+sum of wordFormDict.values() 14
+ihr
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+schwierig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+umsetzen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 1, 1, 4, 1, 1, 1])
+sum of wordFormDict.values() 14
+er
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+durchsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dürfen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([27, 1, 33, 11, 5, 3])
+sum of wordFormDict.values() 80
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+werden
+dict_values([1, 2, 4, 1, 1])
+sum of wordFormDict.values() 9
+können
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+geplant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 3, 7, 1, 1])
+sum of wordFormDict.values() 14
+ihr
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+schwierig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+umsetzen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 1, 1, 4, 1, 1, 1])
+sum of wordFormDict.values() 14
+er
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+durchsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dürfen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

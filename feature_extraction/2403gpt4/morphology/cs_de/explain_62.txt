@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 315
+explain_62
+Length of all lemmas: 250
+Length of singleton lemmas: 226
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 226
+ein
+dict_values([2, 9, 4, 2])
+sum of wordFormDict.values() 17
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([14, 14, 3, 5, 7, 3])
+sum of wordFormDict.values() 46
+können
+dict_values([2, 2, 3, 2])
+sum of wordFormDict.values() 9
+dies
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+werden
+dict_values([1, 2, 2, 2])
+sum of wordFormDict.values() 7
+menschlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 1, 1, 2, 3])
+sum of wordFormDict.values() 9
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pränatal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+messen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 9, 4, 2])
+sum of wordFormDict.values() 17
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([14, 14, 3, 5, 7, 3])
+sum of wordFormDict.values() 46
+können
+dict_values([2, 2, 3, 2])
+sum of wordFormDict.values() 9
+dies
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+werden
+dict_values([1, 2, 2, 2])
+sum of wordFormDict.values() 7
+menschlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 1, 1, 2, 3])
+sum of wordFormDict.values() 9
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pränatal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+messen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3

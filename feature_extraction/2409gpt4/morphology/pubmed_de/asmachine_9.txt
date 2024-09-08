@@ -1,0 +1,103 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 350
+asmachine_9
+Length of all lemmas: 280
+Length of singleton lemmas: 253
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 253
+der
+dict_values([16, 14, 4, 5, 3, 4, 1])
+sum of wordFormDict.values() 47
+sein
+dict_values([5, 3, 2])
+sum of wordFormDict.values() 10
+allergisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1, 2, 2])
+sum of wordFormDict.values() 6
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([8, 2, 1, 4])
+sum of wordFormDict.values() 15
+spezifisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+selten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 14, 4, 5, 3, 4, 1])
+sum of wordFormDict.values() 47
+sein
+dict_values([5, 3, 2])
+sum of wordFormDict.values() 10
+allergisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1, 2, 2])
+sum of wordFormDict.values() 6
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([8, 2, 1, 4])
+sum of wordFormDict.values() 15
+spezifisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+selten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

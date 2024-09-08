@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 469
+explain_51
+Length of all lemmas: 410
+Length of singleton lemmas: 382
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 382
+der
+dict_values([14, 6, 8, 5, 10, 10, 2])
+sum of wordFormDict.values() 55
+werden
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+kein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([2, 2, 3, 2])
+sum of wordFormDict.values() 9
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 2, 6, 4, 3])
+sum of wordFormDict.values() 19
+können
+dict_values([1, 2, 5, 2])
+sum of wordFormDict.values() 10
+haben
+dict_values([1, 3, 1, 1, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([1, 4, 1, 1, 1])
+sum of wordFormDict.values() 8
+optimistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berichten
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+früh
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+regelmäßig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 6, 8, 5, 10, 10, 2])
+sum of wordFormDict.values() 55
+werden
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+kein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([2, 2, 3, 2])
+sum of wordFormDict.values() 9
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 2, 6, 4, 3])
+sum of wordFormDict.values() 19
+können
+dict_values([1, 2, 5, 2])
+sum of wordFormDict.values() 10
+haben
+dict_values([1, 3, 1, 1, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([1, 4, 1, 1, 1])
+sum of wordFormDict.values() 8
+optimistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berichten
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+früh
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+regelmäßig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2

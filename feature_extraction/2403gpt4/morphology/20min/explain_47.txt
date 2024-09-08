@@ -1,0 +1,103 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 327
+explain_47
+Length of all lemmas: 268
+Length of singleton lemmas: 246
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 246
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([5, 21, 12, 14, 8, 7])
+sum of wordFormDict.values() 67
+erzielen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([12, 5, 4, 3, 1, 3])
+sum of wordFormDict.values() 28
+ihr
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 1, 2, 1, 2, 1, 1])
+sum of wordFormDict.values() 9
+haben
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+feiern
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+spielen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ausführlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([5, 21, 12, 14, 8, 7])
+sum of wordFormDict.values() 67
+erzielen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([12, 5, 4, 3, 1, 3])
+sum of wordFormDict.values() 28
+ihr
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 1, 2, 1, 2, 1, 1])
+sum of wordFormDict.values() 9
+haben
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+feiern
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+spielen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ausführlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

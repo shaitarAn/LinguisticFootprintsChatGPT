@@ -1,0 +1,169 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 490
+create_50
+Length of all lemmas: 408
+Length of singleton lemmas: 376
+Length of matched lemmas: 27
+Length of singleton maching lemmas: 376
+der
+dict_values([11, 17, 7, 9, 14, 18])
+sum of wordFormDict.values() 76
+wirtschaftlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+dies
+dict_values([1, 4, 1, 1, 1])
+sum of wordFormDict.values() 8
+europäisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 7, 2, 2, 2])
+sum of wordFormDict.values() 19
+sein
+dict_values([6, 2, 8, 3, 1, 2, 1])
+sum of wordFormDict.values() 23
+können
+dict_values([1, 4, 2])
+sum of wordFormDict.values() 7
+international
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+irisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([2, 1, 3])
+sum of wordFormDict.values() 6
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+verringern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sagen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gesund
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unsich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([11, 17, 7, 9, 14, 18])
+sum of wordFormDict.values() 76
+wirtschaftlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+dies
+dict_values([1, 4, 1, 1, 1])
+sum of wordFormDict.values() 8
+europäisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 7, 2, 2, 2])
+sum of wordFormDict.values() 19
+sein
+dict_values([6, 2, 8, 3, 1, 2, 1])
+sum of wordFormDict.values() 23
+können
+dict_values([1, 4, 2])
+sum of wordFormDict.values() 7
+international
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+irisch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([2, 1, 3])
+sum of wordFormDict.values() 6
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+verringern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sagen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gesund
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unsich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

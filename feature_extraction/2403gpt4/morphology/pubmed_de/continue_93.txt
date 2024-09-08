@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 390
+continue_93
+Length of all lemmas: 325
+Length of singleton lemmas: 302
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 302
+sein
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([20, 8, 6, 2, 14, 6, 1])
+sum of wordFormDict.values() 57
+dies
+dict_values([2, 5, 5, 1])
+sum of wordFormDict.values() 13
+können
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 2, 5, 1, 1])
+sum of wordFormDict.values() 15
+bakteriell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zoonotisch
+dict_values([2, 2, 4])
+sum of wordFormDict.values() 8
+menschlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([20, 8, 6, 2, 14, 6, 1])
+sum of wordFormDict.values() 57
+dies
+dict_values([2, 5, 5, 1])
+sum of wordFormDict.values() 13
+können
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 2, 5, 1, 1])
+sum of wordFormDict.values() 15
+bakteriell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zoonotisch
+dict_values([2, 2, 4])
+sum of wordFormDict.values() 8
+menschlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2

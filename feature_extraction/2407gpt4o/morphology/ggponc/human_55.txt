@@ -1,0 +1,103 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 342
+human_55
+Length of all lemmas: 290
+Length of singleton lemmas: 269
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 269
+der
+dict_values([19, 17, 12, 3, 1, 3])
+sum of wordFormDict.values() 55
+werden
+dict_values([6, 1, 2, 4, 1])
+sum of wordFormDict.values() 14
+ein
+dict_values([4, 13, 9])
+sum of wordFormDict.values() 26
+sein
+dict_values([4, 4, 1, 2])
+sum of wordFormDict.values() 11
+zeigen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+skandinavisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+günstig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+carboplatinhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+cisplatinhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+lassen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alternierend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+simultan
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+der
+dict_values([19, 17, 12, 3, 1, 3])
+sum of wordFormDict.values() 55
+werden
+dict_values([6, 1, 2, 4, 1])
+sum of wordFormDict.values() 14
+ein
+dict_values([4, 13, 9])
+sum of wordFormDict.values() 26
+sein
+dict_values([4, 4, 1, 2])
+sum of wordFormDict.values() 11
+zeigen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+skandinavisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+günstig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+carboplatinhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+cisplatinhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+lassen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+alternierend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+simultan
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7

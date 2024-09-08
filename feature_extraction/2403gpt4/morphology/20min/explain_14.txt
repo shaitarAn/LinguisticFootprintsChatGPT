@@ -1,0 +1,97 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 311
+explain_14
+Length of all lemmas: 244
+Length of singleton lemmas: 220
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 220
+der
+dict_values([14, 12, 9, 6, 7, 4, 1])
+sum of wordFormDict.values() 53
+sein
+dict_values([2, 7, 6, 5, 2, 2, 1])
+sum of wordFormDict.values() 25
+klein
+dict_values([9, 1, 2, 1])
+sum of wordFormDict.values() 13
+ein
+dict_values([4, 6, 4, 1])
+sum of wordFormDict.values() 15
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([13, 4, 1])
+sum of wordFormDict.values() 18
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kurz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+stehen
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([2, 5, 1, 2])
+sum of wordFormDict.values() 10
+dies
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+wollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+planen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 12, 9, 6, 7, 4, 1])
+sum of wordFormDict.values() 53
+sein
+dict_values([2, 7, 6, 5, 2, 2, 1])
+sum of wordFormDict.values() 25
+klein
+dict_values([9, 1, 2, 1])
+sum of wordFormDict.values() 13
+ein
+dict_values([4, 6, 4, 1])
+sum of wordFormDict.values() 15
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([13, 4, 1])
+sum of wordFormDict.values() 18
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kurz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+stehen
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([2, 5, 1, 2])
+sum of wordFormDict.values() 10
+dies
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+wollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+planen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2

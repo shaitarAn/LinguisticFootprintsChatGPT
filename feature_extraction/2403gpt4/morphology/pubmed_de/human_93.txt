@@ -1,0 +1,79 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 273
+human_93
+Length of all lemmas: 245
+Length of singleton lemmas: 224
+Length of matched lemmas: 12
+Length of singleton maching lemmas: 224
+sein
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+klassisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 9, 9, 5, 4, 3])
+sum of wordFormDict.values() 46
+ein
+dict_values([8, 2, 2])
+sum of wordFormDict.values() 12
+öffentlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bakteriell
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+landwirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zoonotisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+meldepflichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+klassisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 9, 9, 5, 4, 3])
+sum of wordFormDict.values() 46
+ein
+dict_values([8, 2, 2])
+sum of wordFormDict.values() 12
+öffentlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bakteriell
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+landwirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zoonotisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+meldepflichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

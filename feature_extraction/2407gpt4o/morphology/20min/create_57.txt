@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 540
+create_57
+Length of all lemmas: 479
+Length of singleton lemmas: 450
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 450
+kein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([9, 7, 11, 3, 3, 2])
+sum of wordFormDict.values() 35
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+planen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+nah
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 3, 1, 1, 1])
+sum of wordFormDict.values() 10
+ein
+dict_values([4, 1, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+meist
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+starten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erklären
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erkennen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([9, 7, 11, 3, 3, 2])
+sum of wordFormDict.values() 35
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+planen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+nah
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 3, 1, 1, 1])
+sum of wordFormDict.values() 10
+ein
+dict_values([4, 1, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+meist
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+starten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erklären
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erkennen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
