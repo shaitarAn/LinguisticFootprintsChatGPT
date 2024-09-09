@@ -9,7 +9,7 @@ INPUTDIR="~/switchdrive/AItextDetect/data_${DATA}/"
 OUTPUTDIR="../${DATA}"
 mkdir -p $OUTPUTDIR
 
-CONFIG=config.yaml
+CONFIG=../../config/config.yaml
 
 python3 generate_bash_config.py $CONFIG
 

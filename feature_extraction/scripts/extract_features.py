@@ -22,7 +22,6 @@ def load_config(config_path):
     return config
 # ########################################################################
 parser = argparse.ArgumentParser()
-# parser.add_argument("prompt", type=str, help="Prompt to use for text generation")
 parser.add_argument('-o', '--output_dir', required=True, help="Directory where all results and outputs will go.")
 parser.add_argument('-i', '--input_dir', required=True, help="Directory with generated data.")
 parser.add_argument('-c', '--config', required=True, help="Path to the configuration file.")
@@ -30,10 +29,10 @@ parser.add_argument('-c', '--config', required=True, help="Path to the configura
 args = parser.parse_args()
 
 config = load_config(args.config)
-
 tasks = config['tasks']
 GERMAN_CORPORA = config['corpora']['german']
 ENGLISH_CORPORA = config['corpora']['english']
+# ########################################################################
 
 spacy_udpipe.download("en")
 spacy_udpipe.download("de")

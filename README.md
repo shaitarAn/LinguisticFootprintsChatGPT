@@ -6,51 +6,66 @@ This repository contains the code and data supporting the research paper "Tracin
 
 ## Usage
 
+Update the lists of corpora, domains, and tasks in `config/config.yaml`
+
 ### Text generation 
 
-`cd text_generation`
+- `cd text_generation`
 
-The script `generate.py` sends requests to the OpenAI-API. As input it takes a JSON file in the following form:
-```json
-{
-  "file1": {
-    "title": "very interesting and engaging topic",
-    "prompt": "part of the text to use for the prompt",
-    "text": "the rest of the text"
-  },
-  "file2": {
-    
+- Set up your OpenAI API key in the environment so that it can be imported as `openai.api_key = os.getenv("OPENAI_API_KEY")`
+
+- Update prompts, tasks, and personas in `prompts.json`
+
+- Create an input JSON file for each corpus. See `make_json.py` for an example. The JSON file format should be as follows:
+  ```json
+  {
+    "corpus_file1": {
+      "title": "very interesting and engaging topic",
+      "prompt": "part of the text to use for the prompt",
+      "text": "the rest of the text"
+    },
+    "corpus_file2": {
+      
+    }
   }
-}
-```
-The `make_json.py` script can be used to create such a file from a collection of txt files (see below). 
-From the input for every file in the JSON the API is called to generate a text of more than 500 tokens.
-After making sure that both the remainder of the human text (without the pompt) and the machine generated text are of the same length
-by truncating the shorter one, it saves them in two separate folders called `human` and `machine`.  An example call looks like this:
+  ```
 
-`generate.py gpt-3.5-turbo path_to_input_file.json de`
-
-In this example the model gpt-3.5-turbo is used. Additional positional arguments are the path to the input and the language of the document (needed for the tokenizer).
-This will create an output folder in the directory from which the script is run with two subfolders `human` and `machine`. Optionally the output directory can be specified
-with the flag `--outfolder`, for more info on the optional arguments see `generate.py --help`.
-
-**Generate personas**:
-
-`bash call_generate_personas.sh`
-  - **Parameters**: 
-    - model: `gpt-4`, `gpt-3.5-turbo-16k`
-    - outfolder: `../generated_data` in this folder subfolders task/corpus/system will be created
-    - infolder: `../data_collection/100_files_json/` all the JSON for generation
-  - **Calls python script**: `generate_personas.py`
-  - **Output file structure**: `f"{outputdir}/{corpus}/{task}/{file_counter}.txt"`
-
-`prompts.json` contains all the prompts and personas
+- `bash call_generate_personas.sh`
+  - model: `gpt-4` specify you rOpenAI model
+  - infolder: `../data_collection/100_files_json/` human texts for prompting and analysis
+  - outfolder: `../generated_data` see the directory tree representation below 
+  - config: `../config/config.yaml`
+  - calls  `generate_personas.py`
+  
+  ```
+  generated_data/
+  ├── corpus1/
+  │   ├── task1/
+  │   │   ├── system1/
+  │   │   │   ├── 0.txt
+  │   │   │   ├── 1.txt
+  │   │   │   └── ...
+  │   │   └── system2/
+  │   │       ├── 0.txt
+  │   │       ├── 1.txt
+  │   │       └── ...
+  │   └── task2/
+  │       ├── system1/
+  │       │   ├── 0.txt
+  │       │   ├── 1.txt
+  │       │   └── ...
+  │       └── system2/
+  │           ├── 0.txt
+  │           ├── 1.txt
+  │           └── ...
+  └── corpus2/
+      ├── task1/
+      │   ├── system1/
+  ```
 
 ### Feature extraction
 
 `cd feature_extraction/scripts/`
-
-Update the lists of corpora, domains, and tasks in the `config.py`.
 
 Specify your input data and output directories in `bash run_experiments.sh`, which executes two bash scripts:
 

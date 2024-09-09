@@ -2,13 +2,11 @@ import pandas as pd
 import csv
 import os
 import argparse
-# from config import GERMAN_CORPORA, ENGLISH_CORPORA, SCIENCE_CORPORA, NEWS_CORPORA, CLINICAL_CORPORA
 import yaml
 
 def load_config(config_path):
     with open(config_path, 'r') as file:
         return yaml.safe_load(file)
-
 
 # make list of arguments
 parser = argparse.ArgumentParser()
