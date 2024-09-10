@@ -1,0 +1,97 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 392
+continue_60
+Length of all lemmas: 327
+Length of singleton lemmas: 302
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 302
+der
+dict_values([11, 14, 19, 3, 8, 4, 1, 2])
+sum of wordFormDict.values() 62
+sein
+dict_values([4, 3, 4, 1])
+sum of wordFormDict.values() 12
+ihr
+dict_values([1, 1, 3])
+sum of wordFormDict.values() 5
+können
+dict_values([9, 4])
+sum of wordFormDict.values() 13
+sozial
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sollen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+malign
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([9, 4, 2, 2, 1])
+sum of wordFormDict.values() 18
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+methodisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([11, 14, 19, 3, 8, 4, 1, 2])
+sum of wordFormDict.values() 62
+sein
+dict_values([4, 3, 4, 1])
+sum of wordFormDict.values() 12
+ihr
+dict_values([1, 1, 3])
+sum of wordFormDict.values() 5
+können
+dict_values([9, 4])
+sum of wordFormDict.values() 13
+sozial
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sollen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+malign
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([9, 4, 2, 2, 1])
+sum of wordFormDict.values() 18
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+methodisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2

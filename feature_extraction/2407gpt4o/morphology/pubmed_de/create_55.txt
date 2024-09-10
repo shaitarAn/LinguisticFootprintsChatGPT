@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 617
+create_55
+Length of all lemmas: 575
+Length of singleton lemmas: 550
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 550
+der
+dict_values([8, 6, 9, 5, 3])
+sum of wordFormDict.values() 31
+wissenschaftlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+ein
+dict_values([4, 1, 4, 1, 1, 1])
+sum of wordFormDict.values() 12
+herausfordernd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zentral
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1, 3, 1])
+sum of wordFormDict.values() 9
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sozial
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+dynamisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommunizieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([8, 6, 9, 5, 3])
+sum of wordFormDict.values() 31
+wissenschaftlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+ein
+dict_values([4, 1, 4, 1, 1, 1])
+sum of wordFormDict.values() 12
+herausfordernd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zentral
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1, 3, 1])
+sum of wordFormDict.values() 9
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sozial
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+dynamisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommunizieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2

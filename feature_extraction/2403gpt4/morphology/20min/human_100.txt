@@ -1,0 +1,103 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 312
+human_100
+Length of all lemmas: 248
+Length of singleton lemmas: 229
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 229
+der
+dict_values([18, 25, 20, 7, 2, 3])
+sum of wordFormDict.values() 75
+ihr
+dict_values([3, 4, 2, 1])
+sum of wordFormDict.values() 10
+sagen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([7, 1, 4, 2])
+sum of wordFormDict.values() 14
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([8, 2, 1, 2])
+sum of wordFormDict.values() 13
+werden
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([3, 2, 1, 1, 2, 1])
+sum of wordFormDict.values() 10
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ich
+dict_values([8, 1, 1])
+sum of wordFormDict.values() 10
+mein
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+wissen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([18, 25, 20, 7, 2, 3])
+sum of wordFormDict.values() 75
+ihr
+dict_values([3, 4, 2, 1])
+sum of wordFormDict.values() 10
+sagen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([7, 1, 4, 2])
+sum of wordFormDict.values() 14
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([8, 2, 1, 2])
+sum of wordFormDict.values() 13
+werden
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([3, 2, 1, 1, 2, 1])
+sum of wordFormDict.values() 10
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ich
+dict_values([8, 1, 1])
+sum of wordFormDict.values() 10
+mein
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+wissen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2

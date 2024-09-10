@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 388
+continue_15
+Length of all lemmas: 315
+Length of singleton lemmas: 287
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 287
+flexibel
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 1, 6, 1, 1])
+sum of wordFormDict.values() 11
+der
+dict_values([12, 18, 9, 10, 7, 3, 1])
+sum of wordFormDict.values() 60
+jed
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([3, 1, 1, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([4, 8, 1, 1])
+sum of wordFormDict.values() 14
+grün
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+fördern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+groß
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+spielen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 2, 3])
+sum of wordFormDict.values() 7
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+physisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effizient
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+künstlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesund
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+flexibel
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([2, 1, 6, 1, 1])
+sum of wordFormDict.values() 11
+der
+dict_values([12, 18, 9, 10, 7, 3, 1])
+sum of wordFormDict.values() 60
+jed
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([3, 1, 1, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([4, 8, 1, 1])
+sum of wordFormDict.values() 14
+grün
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+fördern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+groß
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+spielen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 2, 3])
+sum of wordFormDict.values() 7
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+physisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effizient
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+künstlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesund
+dict_values([1, 1])
+sum of wordFormDict.values() 2

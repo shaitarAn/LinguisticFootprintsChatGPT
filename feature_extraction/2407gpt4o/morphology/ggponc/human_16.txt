@@ -1,0 +1,205 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 591
+human_16
+Length of all lemmas: 469
+Length of singleton lemmas: 424
+Length of matched lemmas: 33
+Length of singleton maching lemmas: 424
+prospektiv
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+randomisiert
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([45, 96, 4, 21, 7, 10, 2])
+sum of wordFormDict.values() 185
+offen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([3, 4, 7, 9, 2, 6])
+sum of wordFormDict.values() 31
+vergleichen
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 4, 2, 1, 1])
+sum of wordFormDict.values() 12
+onkologisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 4, 8, 6])
+sum of wordFormDict.values() 21
+berichten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liegen
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+kein
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+radikal
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 1, 2, 1, 3])
+sum of wordFormDict.values() 9
+retrospektiv
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+können
+dict_values([1, 9])
+sum of wordFormDict.values() 10
+entfernt
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+systematisch
+dict_values([9, 2, 1])
+sum of wordFormDict.values() 12
+identifizieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+einschließen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+komparativ
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+alle
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+finden
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+maximal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+positiv
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+entsprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prospektiv
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+randomisiert
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([45, 96, 4, 21, 7, 10, 2])
+sum of wordFormDict.values() 185
+offen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([3, 4, 7, 9, 2, 6])
+sum of wordFormDict.values() 31
+vergleichen
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 4, 2, 1, 1])
+sum of wordFormDict.values() 12
+onkologisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 4, 8, 6])
+sum of wordFormDict.values() 21
+berichten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liegen
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+kein
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+radikal
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 1, 2, 1, 3])
+sum of wordFormDict.values() 9
+retrospektiv
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+können
+dict_values([1, 9])
+sum of wordFormDict.values() 10
+entfernt
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+systematisch
+dict_values([9, 2, 1])
+sum of wordFormDict.values() 12
+identifizieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+einschließen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+komparativ
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+alle
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+finden
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+maximal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+positiv
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+entsprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2

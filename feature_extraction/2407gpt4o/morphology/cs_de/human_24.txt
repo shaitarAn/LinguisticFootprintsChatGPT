@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 419
+human_24
+Length of all lemmas: 371
+Length of singleton lemmas: 346
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 346
+sein
+dict_values([4, 9, 2, 1])
+sum of wordFormDict.values() 16
+der
+dict_values([9, 37, 26, 4, 11, 4])
+sum of wordFormDict.values() 91
+ein
+dict_values([1, 6, 2, 5, 2])
+sum of wordFormDict.values() 16
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+gut
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+wir
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+nordisch
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+beide
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schneiden
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+liegen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weiblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+europäisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+relativ
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 9, 2, 1])
+sum of wordFormDict.values() 16
+der
+dict_values([9, 37, 26, 4, 11, 4])
+sum of wordFormDict.values() 91
+ein
+dict_values([1, 6, 2, 5, 2])
+sum of wordFormDict.values() 16
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+gut
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+wir
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+nordisch
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+beide
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schneiden
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+liegen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weiblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+europäisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+relativ
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

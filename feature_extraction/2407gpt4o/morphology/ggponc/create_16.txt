@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 719
+create_16
+Length of all lemmas: 694
+Length of singleton lemmas: 669
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 669
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+muskelinvasiv
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([3, 7, 1, 2, 3, 2, 1])
+sum of wordFormDict.values() 19
+der
+dict_values([17, 10, 8, 6, 3, 1])
+sum of wordFormDict.values() 45
+sein
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 5, 2])
+sum of wordFormDict.values() 8
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+radikal
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+pelvin
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+umfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gleichzeitig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+postoperativ
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+unmittelbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+muskelinvasiv
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([3, 7, 1, 2, 3, 2, 1])
+sum of wordFormDict.values() 19
+der
+dict_values([17, 10, 8, 6, 3, 1])
+sum of wordFormDict.values() 45
+sein
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 5, 2])
+sum of wordFormDict.values() 8
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+radikal
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+pelvin
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+umfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gleichzeitig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+postoperativ
+dict_values([2, 4])
+sum of wordFormDict.values() 6
+unmittelbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

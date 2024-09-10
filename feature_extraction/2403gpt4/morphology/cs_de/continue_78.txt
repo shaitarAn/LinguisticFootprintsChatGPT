@@ -1,0 +1,181 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 445
+continue_78
+Length of all lemmas: 351
+Length of singleton lemmas: 312
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 312
+erst
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([14, 5, 9, 11, 10, 17, 1])
+sum of wordFormDict.values() 67
+ein
+dict_values([9, 4, 1, 7, 1])
+sum of wordFormDict.values() 22
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 4, 3, 1])
+sum of wordFormDict.values() 12
+voll
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+jed
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([2, 1, 2, 3, 4, 1, 1])
+sum of wordFormDict.values() 14
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+harmonisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leidenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+musikalisch
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+perfekt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ihr
+dict_values([3, 4, 1, 2, 1])
+sum of wordFormDict.values() 11
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jung
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+inspirierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sichern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+Ihr|ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+technisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([14, 5, 9, 11, 10, 17, 1])
+sum of wordFormDict.values() 67
+ein
+dict_values([9, 4, 1, 7, 1])
+sum of wordFormDict.values() 22
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 4, 3, 1])
+sum of wordFormDict.values() 12
+voll
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+jed
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([2, 1, 2, 3, 4, 1, 1])
+sum of wordFormDict.values() 14
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+harmonisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leidenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+musikalisch
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+perfekt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+ihr
+dict_values([3, 4, 1, 2, 1])
+sum of wordFormDict.values() 11
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jung
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+inspirierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sichern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+Ihr|ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+technisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3

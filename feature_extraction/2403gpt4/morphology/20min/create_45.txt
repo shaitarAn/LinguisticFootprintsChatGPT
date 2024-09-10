@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 436
+create_45
+Length of all lemmas: 350
+Length of singleton lemmas: 318
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 318
+der
+dict_values([18, 15, 10, 9, 3, 8, 1])
+sum of wordFormDict.values() 64
+machen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([5, 2, 3, 6, 1])
+sum of wordFormDict.values() 17
+sensibel
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betroffen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([4, 1, 4, 2, 1, 1])
+sum of wordFormDict.values() 13
+werden
+dict_values([2, 3, 4, 3, 1, 1])
+sum of wordFormDict.values() 14
+können
+dict_values([3, 1, 1, 3])
+sum of wordFormDict.values() 8
+betreffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 2, 3, 2, 2])
+sum of wordFormDict.values() 10
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+digital
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ihr
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wer
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+persönlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([18, 15, 10, 9, 3, 8, 1])
+sum of wordFormDict.values() 64
+machen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([5, 2, 3, 6, 1])
+sum of wordFormDict.values() 17
+sensibel
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betroffen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([4, 1, 4, 2, 1, 1])
+sum of wordFormDict.values() 13
+werden
+dict_values([2, 3, 4, 3, 1, 1])
+sum of wordFormDict.values() 14
+können
+dict_values([3, 1, 1, 3])
+sum of wordFormDict.values() 8
+betreffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 2, 3, 2, 2])
+sum of wordFormDict.values() 10
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+digital
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ihr
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wer
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+persönlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2

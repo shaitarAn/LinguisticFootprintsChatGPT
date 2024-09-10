@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 357
+create_88
+Length of all lemmas: 303
+Length of singleton lemmas: 282
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 282
+der
+dict_values([18, 10, 4, 9, 13, 6])
+sum of wordFormDict.values() 60
+werden
+dict_values([9, 2, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([5, 12, 6, 3, 1, 1])
+sum of wordFormDict.values() 28
+ergeben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+klinisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+inguinal
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+geben
+dict_values([1, 1, 3])
+sum of wordFormDict.values() 5
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjuvant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+radikal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+inguinopelvin
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([18, 10, 4, 9, 13, 6])
+sum of wordFormDict.values() 60
+werden
+dict_values([9, 2, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([5, 12, 6, 3, 1, 1])
+sum of wordFormDict.values() 28
+ergeben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+klinisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+inguinal
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+geben
+dict_values([1, 1, 3])
+sum of wordFormDict.values() 5
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjuvant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+radikal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+inguinopelvin
+dict_values([1, 1])
+sum of wordFormDict.values() 2

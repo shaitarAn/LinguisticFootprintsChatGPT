@@ -1,0 +1,271 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 707
+continue_7
+Length of all lemmas: 604
+Length of singleton lemmas: 550
+Length of matched lemmas: 44
+Length of singleton maching lemmas: 550
+der
+dict_values([11, 6, 6, 9, 3, 3, 1])
+sum of wordFormDict.values() 39
+prophylaktisch
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([5, 2, 1, 2])
+sum of wordFormDict.values() 10
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([11, 4, 3, 2, 2])
+sum of wordFormDict.values() 22
+therapeutisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 6, 1])
+sum of wordFormDict.values() 8
+kontrolliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+prätherapeutisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verursachen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 3, 1, 3, 4])
+sum of wordFormDict.values() 13
+untersuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehend
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+psychosozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+etablieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+theoretisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vermeintlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+human
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+narrativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([11, 6, 6, 9, 3, 3, 1])
+sum of wordFormDict.values() 39
+prophylaktisch
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([5, 2, 1, 2])
+sum of wordFormDict.values() 10
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([11, 4, 3, 2, 2])
+sum of wordFormDict.values() 22
+therapeutisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 6, 1])
+sum of wordFormDict.values() 8
+kontrolliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+prätherapeutisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verursachen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 3, 1, 3, 4])
+sum of wordFormDict.values() 13
+untersuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehend
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+psychosozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+etablieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+theoretisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vermeintlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+human
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+narrativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

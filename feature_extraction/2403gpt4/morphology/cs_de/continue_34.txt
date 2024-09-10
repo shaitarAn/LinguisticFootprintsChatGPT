@@ -1,0 +1,163 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 456
+continue_34
+Length of all lemmas: 360
+Length of singleton lemmas: 320
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 320
+der
+dict_values([15, 13, 10, 10, 14, 8, 1])
+sum of wordFormDict.values() 71
+sein
+dict_values([8, 2, 1, 1, 2, 1, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([2, 3, 7, 9, 2, 2])
+sum of wordFormDict.values() 25
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+suchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterbewertet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+können
+dict_values([6, 4])
+sum of wordFormDict.values() 10
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 4, 1, 1])
+sum of wordFormDict.values() 7
+hoch
+dict_values([1, 1, 1, 1, 1])
+sum of wordFormDict.values() 5
+bewerten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+wirtschaftlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+viel
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 13, 10, 10, 14, 8, 1])
+sum of wordFormDict.values() 71
+sein
+dict_values([8, 2, 1, 1, 2, 1, 1])
+sum of wordFormDict.values() 16
+ein
+dict_values([2, 3, 7, 9, 2, 2])
+sum of wordFormDict.values() 25
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+suchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterbewertet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+können
+dict_values([6, 4])
+sum of wordFormDict.values() 10
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 4, 1, 1])
+sum of wordFormDict.values() 7
+hoch
+dict_values([1, 1, 1, 1, 1])
+sum of wordFormDict.values() 5
+bewerten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+wirtschaftlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+viel
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2

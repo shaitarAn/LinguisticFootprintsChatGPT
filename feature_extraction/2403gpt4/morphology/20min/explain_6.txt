@@ -1,0 +1,97 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 291
+explain_6
+Length of all lemmas: 221
+Length of singleton lemmas: 198
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 198
+der
+dict_values([17, 13, 5, 13, 4, 8])
+sum of wordFormDict.values() 60
+ein
+dict_values([7, 3, 1, 1, 1])
+sum of wordFormDict.values() 13
+haben
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([2, 3, 1, 2, 1])
+sum of wordFormDict.values() 9
+neunt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stehen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 2, 2, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([4, 2, 3])
+sum of wordFormDict.values() 9
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nah
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beide
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 13, 5, 13, 4, 8])
+sum of wordFormDict.values() 60
+ein
+dict_values([7, 3, 1, 1, 1])
+sum of wordFormDict.values() 13
+haben
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([2, 3, 1, 2, 1])
+sum of wordFormDict.values() 9
+neunt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stehen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 2, 2, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([4, 2, 3])
+sum of wordFormDict.values() 9
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nah
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beide
+dict_values([1, 1])
+sum of wordFormDict.values() 2

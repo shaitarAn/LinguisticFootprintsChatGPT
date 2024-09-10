@@ -1,0 +1,163 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 592
+explain_81
+Length of all lemmas: 512
+Length of singleton lemmas: 482
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 482
+der
+dict_values([13, 7, 18, 5, 4, 1, 1])
+sum of wordFormDict.values() 49
+ein
+dict_values([9, 3, 3, 2, 1])
+sum of wordFormDict.values() 18
+früh
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1, 2, 1])
+sum of wordFormDict.values() 8
+er
+dict_values([12, 2, 2])
+sum of wordFormDict.values() 16
+sein
+dict_values([2, 3, 4, 1, 4, 2, 2, 2])
+sum of wordFormDict.values() 20
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 4, 4])
+sum of wordFormDict.values() 10
+werden
+dict_values([1, 2, 1, 2])
+sum of wordFormDict.values() 6
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1, 1, 1, 2])
+sum of wordFormDict.values() 7
+neunt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prägend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Figur
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geregelt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ruhig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hektisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+glücklich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ehemalig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beruflich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+persönlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([13, 7, 18, 5, 4, 1, 1])
+sum of wordFormDict.values() 49
+ein
+dict_values([9, 3, 3, 2, 1])
+sum of wordFormDict.values() 18
+früh
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1, 2, 1])
+sum of wordFormDict.values() 8
+er
+dict_values([12, 2, 2])
+sum of wordFormDict.values() 16
+sein
+dict_values([2, 3, 4, 1, 4, 2, 2, 2])
+sum of wordFormDict.values() 20
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 4, 4])
+sum of wordFormDict.values() 10
+werden
+dict_values([1, 2, 1, 2])
+sum of wordFormDict.values() 6
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 1, 1, 1, 2])
+sum of wordFormDict.values() 7
+neunt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prägend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Figur
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geregelt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ruhig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hektisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+glücklich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ehemalig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beruflich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+persönlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3

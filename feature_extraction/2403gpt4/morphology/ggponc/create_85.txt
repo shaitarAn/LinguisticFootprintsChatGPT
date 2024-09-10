@@ -1,0 +1,85 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 406
+create_85
+Length of all lemmas: 352
+Length of singleton lemmas: 330
+Length of matched lemmas: 13
+Length of singleton maching lemmas: 330
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 4, 3, 4, 1])
+sum of wordFormDict.values() 17
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 6, 4, 1])
+sum of wordFormDict.values() 18
+der
+dict_values([14, 13, 8, 4, 5, 2])
+sum of wordFormDict.values() 46
+halten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 6, 2, 1, 1, 2, 1, 1, 1])
+sum of wordFormDict.values() 17
+dies
+dict_values([2, 5, 2, 1])
+sum of wordFormDict.values() 10
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verursachen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pharmakologisch
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 4, 3, 4, 1])
+sum of wordFormDict.values() 17
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 6, 4, 1])
+sum of wordFormDict.values() 18
+der
+dict_values([14, 13, 8, 4, 5, 2])
+sum of wordFormDict.values() 46
+halten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 6, 2, 1, 1, 2, 1, 1, 1])
+sum of wordFormDict.values() 17
+dies
+dict_values([2, 5, 2, 1])
+sum of wordFormDict.values() 10
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verursachen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pharmakologisch
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

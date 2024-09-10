@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 480
+continue_96
+Length of all lemmas: 381
+Length of singleton lemmas: 354
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 354
+der
+dict_values([15, 17, 6, 3, 17, 3, 4, 1])
+sum of wordFormDict.values() 66
+er
+dict_values([13, 2])
+sum of wordFormDict.values() 15
+sein
+dict_values([7, 5, 10, 1, 4, 1, 2, 7, 1])
+sum of wordFormDict.values() 38
+ein
+dict_values([5, 3, 9, 2, 1])
+sum of wordFormDict.values() 20
+sagen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1, 1, 2, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([1, 1, 1, 2, 1])
+sum of wordFormDict.values() 6
+persönlich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fahren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ukrainisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 3, 1])
+sum of wordFormDict.values() 7
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unermüdlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+unser
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([15, 17, 6, 3, 17, 3, 4, 1])
+sum of wordFormDict.values() 66
+er
+dict_values([13, 2])
+sum of wordFormDict.values() 15
+sein
+dict_values([7, 5, 10, 1, 4, 1, 2, 7, 1])
+sum of wordFormDict.values() 38
+ein
+dict_values([5, 3, 9, 2, 1])
+sum of wordFormDict.values() 20
+sagen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1, 1, 2, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([1, 1, 1, 2, 1])
+sum of wordFormDict.values() 6
+persönlich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fahren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ukrainisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 3, 1])
+sum of wordFormDict.values() 7
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unermüdlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+unser
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

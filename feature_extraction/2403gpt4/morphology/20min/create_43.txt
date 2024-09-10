@@ -1,0 +1,163 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 387
+create_43
+Length of all lemmas: 318
+Length of singleton lemmas: 287
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 287
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+der
+dict_values([17, 10, 6, 8, 5, 2, 1])
+sum of wordFormDict.values() 49
+sein
+dict_values([4, 1, 1, 3, 1])
+sum of wordFormDict.values() 10
+müssen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verschärfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 5, 3, 3, 2])
+sum of wordFormDict.values() 20
+sicher
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+betroffen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+fordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spanisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+versuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+scheinen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+der
+dict_values([17, 10, 6, 8, 5, 2, 1])
+sum of wordFormDict.values() 49
+sein
+dict_values([4, 1, 1, 3, 1])
+sum of wordFormDict.values() 10
+müssen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verschärfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 5, 3, 3, 2])
+sum of wordFormDict.values() 20
+sicher
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+betroffen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+fordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spanisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+versuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+scheinen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2

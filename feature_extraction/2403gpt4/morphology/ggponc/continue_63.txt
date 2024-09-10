@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 380
+continue_63
+Length of all lemmas: 312
+Length of singleton lemmas: 285
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 285
+der
+dict_values([19, 19, 9, 8, 6, 6, 3, 1, 1])
+sum of wordFormDict.values() 72
+ein
+dict_values([3, 9, 1, 4])
+sum of wordFormDict.values() 17
+endokrin
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([6, 1, 2, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([11, 4, 1, 1])
+sum of wordFormDict.values() 17
+dies
+dict_values([5, 3, 1, 2])
+sum of wordFormDict.values() 11
+sein
+dict_values([9, 3, 1, 2])
+sum of wordFormDict.values() 15
+blockieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wirksam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+systemisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+metastasiert
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geeignet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 19, 9, 8, 6, 6, 3, 1, 1])
+sum of wordFormDict.values() 72
+ein
+dict_values([3, 9, 1, 4])
+sum of wordFormDict.values() 17
+endokrin
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([6, 1, 2, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([11, 4, 1, 1])
+sum of wordFormDict.values() 17
+dies
+dict_values([5, 3, 1, 2])
+sum of wordFormDict.values() 11
+sein
+dict_values([9, 3, 1, 2])
+sum of wordFormDict.values() 15
+blockieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wirksam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+systemisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+metastasiert
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geeignet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 403
+create_17
+Length of all lemmas: 331
+Length of singleton lemmas: 299
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 299
+ein
+dict_values([2, 3, 3])
+sum of wordFormDict.values() 8
+sein
+dict_values([5, 4, 1])
+sum of wordFormDict.values() 10
+der
+dict_values([14, 10, 17, 3, 9, 1, 5])
+sum of wordFormDict.values() 59
+evidenzbasiert
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 3, 3])
+sum of wordFormDict.values() 7
+verschieden
+dict_values([1, 7, 2])
+sum of wordFormDict.values() 10
+dies
+dict_values([3, 2, 3, 4, 1, 1])
+sum of wordFormDict.values() 14
+tiefergehend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+beitragen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+interpretieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+konzentrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+herausfinden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wir
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+unser
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+effektiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+praktisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 3, 3])
+sum of wordFormDict.values() 8
+sein
+dict_values([5, 4, 1])
+sum of wordFormDict.values() 10
+der
+dict_values([14, 10, 17, 3, 9, 1, 5])
+sum of wordFormDict.values() 59
+evidenzbasiert
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 3, 3])
+sum of wordFormDict.values() 7
+verschieden
+dict_values([1, 7, 2])
+sum of wordFormDict.values() 10
+dies
+dict_values([3, 2, 3, 4, 1, 1])
+sum of wordFormDict.values() 14
+tiefergehend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+beitragen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+interpretieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+konzentrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+herausfinden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wir
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+unser
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+effektiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+praktisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,205 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 652
+human_87
+Length of all lemmas: 521
+Length of singleton lemmas: 471
+Length of matched lemmas: 33
+Length of singleton maching lemmas: 471
+der
+dict_values([7, 12, 25, 55, 67, 16, 1])
+sum of wordFormDict.values() 183
+liegen
+dict_values([1, 4, 3])
+sum of wordFormDict.values() 8
+randomisiert
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+adjuvant
+dict_values([1, 17, 7])
+sum of wordFormDict.values() 25
+alleinig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 11, 9, 1, 1])
+sum of wordFormDict.values() 23
+gering
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+treten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([13, 2])
+sum of wordFormDict.values() 15
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([7, 4, 9, 1])
+sum of wordFormDict.values() 21
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weiter
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimal
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 14, 21, 6, 5, 3])
+sum of wordFormDict.values() 54
+generell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einschließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 3, 1, 3])
+sum of wordFormDict.values() 9
+geben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+beide
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 7, 1, 1, 1])
+sum of wordFormDict.values() 11
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lang
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+additiv
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sicher
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+derartig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([7, 12, 25, 55, 67, 16, 1])
+sum of wordFormDict.values() 183
+liegen
+dict_values([1, 4, 3])
+sum of wordFormDict.values() 8
+randomisiert
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+adjuvant
+dict_values([1, 17, 7])
+sum of wordFormDict.values() 25
+alleinig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([1, 11, 9, 1, 1])
+sum of wordFormDict.values() 23
+gering
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+treten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([13, 2])
+sum of wordFormDict.values() 15
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([7, 4, 9, 1])
+sum of wordFormDict.values() 21
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weiter
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimal
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 14, 21, 6, 5, 3])
+sum of wordFormDict.values() 54
+generell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einschließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 3, 1, 3])
+sum of wordFormDict.values() 9
+geben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+beide
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 7, 1, 1, 1])
+sum of wordFormDict.values() 11
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lang
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+additiv
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sicher
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+derartig
+dict_values([2, 1])
+sum of wordFormDict.values() 3

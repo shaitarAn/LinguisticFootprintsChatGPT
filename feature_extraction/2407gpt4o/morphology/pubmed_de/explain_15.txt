@@ -1,0 +1,163 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 550
+explain_15
+Length of all lemmas: 480
+Length of singleton lemmas: 446
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 446
+der
+dict_values([17, 6, 6, 25, 4, 1])
+sum of wordFormDict.values() 59
+dies
+dict_values([3, 4, 1, 1, 2])
+sum of wordFormDict.values() 11
+sein
+dict_values([4, 1, 4, 1])
+sum of wordFormDict.values() 10
+zentral
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+präzis
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 4, 3, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([2, 3, 4, 1, 1])
+sum of wordFormDict.values() 11
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dienen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+akut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+genau
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+klinisch
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+nutzen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommunikativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unmittelbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konzentrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 6, 6, 25, 4, 1])
+sum of wordFormDict.values() 59
+dies
+dict_values([3, 4, 1, 1, 2])
+sum of wordFormDict.values() 11
+sein
+dict_values([4, 1, 4, 1])
+sum of wordFormDict.values() 10
+zentral
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+präzis
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 4, 3, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([2, 3, 4, 1, 1])
+sum of wordFormDict.values() 11
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dienen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+akut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+genau
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+klinisch
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+nutzen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommunikativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unmittelbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konzentrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2

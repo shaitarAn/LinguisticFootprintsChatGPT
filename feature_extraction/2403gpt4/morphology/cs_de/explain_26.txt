@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 337
+explain_26
+Length of all lemmas: 281
+Length of singleton lemmas: 261
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 261
+der
+dict_values([16, 9, 18, 2, 8, 5, 5])
+sum of wordFormDict.values() 63
+ein
+dict_values([7, 4, 3, 1, 1])
+sum of wordFormDict.values() 16
+neu
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+starten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+persönlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([8, 5, 2, 1])
+sum of wordFormDict.values() 16
+sein
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+helfen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wir
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+renommiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 9, 18, 2, 8, 5, 5])
+sum of wordFormDict.values() 63
+ein
+dict_values([7, 4, 3, 1, 1])
+sum of wordFormDict.values() 16
+neu
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+starten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+persönlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([8, 5, 2, 1])
+sum of wordFormDict.values() 16
+sein
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+helfen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wir
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+renommiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

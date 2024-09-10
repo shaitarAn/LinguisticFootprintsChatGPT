@@ -1,0 +1,247 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 619
+human_81
+Length of all lemmas: 481
+Length of singleton lemmas: 426
+Length of matched lemmas: 40
+Length of singleton maching lemmas: 426
+international
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+der
+dict_values([15, 48, 41, 20, 5, 4])
+sum of wordFormDict.values() 133
+bestehen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([20, 2, 13, 1, 12, 6])
+sum of wordFormDict.values() 54
+beschreiben
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+von
+dict_values([23, 1])
+sum of wordFormDict.values() 24
+ambulant
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+palliativmedizinisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+primär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezialisiert
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 8, 2, 2])
+sum of wordFormDict.values() 15
+sein
+dict_values([11, 1, 1, 3, 1])
+sum of wordFormDict.values() 17
+zeigen
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+einzeln
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 2, 7, 3, 2])
+sum of wordFormDict.values() 17
+multidisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+sektorenübergreifend
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ambulanen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stationär
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+deutsch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+untersuchen
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+meist
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sogenannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+einschließen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+statistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+übergeordnet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+methodologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+häuslich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jeweilig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+der
+dict_values([15, 48, 41, 20, 5, 4])
+sum of wordFormDict.values() 133
+bestehen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([20, 2, 13, 1, 12, 6])
+sum of wordFormDict.values() 54
+beschreiben
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+von
+dict_values([23, 1])
+sum of wordFormDict.values() 24
+ambulant
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+palliativmedizinisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+primär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezialisiert
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 8, 2, 2])
+sum of wordFormDict.values() 15
+sein
+dict_values([11, 1, 1, 3, 1])
+sum of wordFormDict.values() 17
+zeigen
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+einzeln
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 2, 7, 3, 2])
+sum of wordFormDict.values() 17
+multidisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+sektorenübergreifend
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ambulanen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stationär
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+gut
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+deutsch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+untersuchen
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+meist
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sogenannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+einschließen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+statistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+übergeordnet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+methodologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+häuslich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jeweilig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,259 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 567
+create_36
+Length of all lemmas: 475
+Length of singleton lemmas: 421
+Length of matched lemmas: 42
+Length of singleton maching lemmas: 421
+sozial
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+sein
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([2, 12, 15, 8, 6, 7])
+sum of wordFormDict.values() 50
+ein
+dict_values([1, 1, 4, 6, 3, 1])
+sum of wordFormDict.values() 16
+werden
+dict_values([1, 2, 5, 1])
+sum of wordFormDict.values() 9
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+verschieden
+dict_values([5, 1, 3])
+sum of wordFormDict.values() 9
+dies
+dict_values([4, 5, 6, 3, 1])
+sum of wordFormDict.values() 19
+sexuell
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+reproduktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+bieten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+breit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+bestimmt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+demografisch
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+fundiert
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erfordern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+praxisevaluierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verständlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesundheitspolitisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+richtleitgebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+detailliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+sein
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([2, 12, 15, 8, 6, 7])
+sum of wordFormDict.values() 50
+ein
+dict_values([1, 1, 4, 6, 3, 1])
+sum of wordFormDict.values() 16
+werden
+dict_values([1, 2, 5, 1])
+sum of wordFormDict.values() 9
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+verschieden
+dict_values([5, 1, 3])
+sum of wordFormDict.values() 9
+dies
+dict_values([4, 5, 6, 3, 1])
+sum of wordFormDict.values() 19
+sexuell
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+reproduktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+bieten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+breit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+bestimmt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+demografisch
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+fundiert
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erfordern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+praxisevaluierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verständlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesundheitspolitisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+richtleitgebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+detailliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

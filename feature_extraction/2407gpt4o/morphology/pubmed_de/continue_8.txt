@@ -1,0 +1,283 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 699
+continue_8
+Length of all lemmas: 595
+Length of singleton lemmas: 536
+Length of matched lemmas: 46
+Length of singleton maching lemmas: 536
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 2, 1, 2, 1, 1])
+sum of wordFormDict.values() 14
+erheblich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([15, 4, 13, 4, 5, 2, 3])
+sum of wordFormDict.values() 46
+sein
+dict_values([4, 1, 4])
+sum of wordFormDict.values() 9
+werden
+dict_values([4, 2, 2, 1, 1])
+sum of wordFormDict.values() 10
+natürlich
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([5, 3, 1, 3])
+sum of wordFormDict.values() 12
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 1, 1, 1])
+sum of wordFormDict.values() 8
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+allergen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allergisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+Perspektive
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+hypoallergen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gezielt
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vermindert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+synthetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Sie|sie
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+testen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Patient
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+akut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deutlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+plausibel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vielversprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+patientenspezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 2, 1, 2, 1, 1])
+sum of wordFormDict.values() 14
+erheblich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([15, 4, 13, 4, 5, 2, 3])
+sum of wordFormDict.values() 46
+sein
+dict_values([4, 1, 4])
+sum of wordFormDict.values() 9
+werden
+dict_values([4, 2, 2, 1, 1])
+sum of wordFormDict.values() 10
+natürlich
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([5, 3, 1, 3])
+sum of wordFormDict.values() 12
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 1, 1, 1])
+sum of wordFormDict.values() 8
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+allergen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allergisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+Perspektive
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+hypoallergen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gezielt
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vermindert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+synthetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Sie|sie
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+klinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+testen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Patient
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+akut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deutlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+plausibel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vielversprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+patientenspezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

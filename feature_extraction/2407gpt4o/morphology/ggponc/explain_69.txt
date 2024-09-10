@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 478
+explain_69
+Length of all lemmas: 443
+Length of singleton lemmas: 421
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 421
+der
+dict_values([7, 2, 6, 1, 4, 1])
+sum of wordFormDict.values() 21
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gutartig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2, 4])
+sum of wordFormDict.values() 7
+dies
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+klein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+apokrin
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([4, 3, 1, 1])
+sum of wordFormDict.values() 9
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterscheiden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+begleiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sklerosierend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intakt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 2, 6, 1, 4, 1])
+sum of wordFormDict.values() 21
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gutartig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2, 4])
+sum of wordFormDict.values() 7
+dies
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+klein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+apokrin
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([4, 3, 1, 1])
+sum of wordFormDict.values() 9
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterscheiden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+begleiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sklerosierend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intakt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2

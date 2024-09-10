@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 484
+create_47
+Length of all lemmas: 434
+Length of singleton lemmas: 409
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 409
+neu
+dict_values([1, 2, 4])
+sum of wordFormDict.values() 7
+ein
+dict_values([3, 2, 1, 2])
+sum of wordFormDict.values() 8
+der
+dict_values([7, 6, 7, 4, 5, 4])
+sum of wordFormDict.values() 33
+werden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 2, 1, 1])
+sum of wordFormDict.values() 7
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unser
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 2, 4])
+sum of wordFormDict.values() 7
+ein
+dict_values([3, 2, 1, 2])
+sum of wordFormDict.values() 8
+der
+dict_values([7, 6, 7, 4, 5, 4])
+sum of wordFormDict.values() 33
+werden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 2, 1, 1])
+sum of wordFormDict.values() 7
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unser
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

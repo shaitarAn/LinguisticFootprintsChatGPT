@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 462
+explain_40
+Length of all lemmas: 412
+Length of singleton lemmas: 384
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 384
+der
+dict_values([3, 11, 9, 2, 4, 9])
+sum of wordFormDict.values() 38
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 1, 5, 2])
+sum of wordFormDict.values() 10
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([5, 1, 2, 2, 2])
+sum of wordFormDict.values() 12
+sein
+dict_values([3, 1, 2, 1, 1])
+sum of wordFormDict.values() 8
+jung
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+qualitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 1, 1, 1, 1])
+sum of wordFormDict.values() 5
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+folgend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unmittelbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([3, 11, 9, 2, 4, 9])
+sum of wordFormDict.values() 38
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 1, 5, 2])
+sum of wordFormDict.values() 10
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([5, 1, 2, 2, 2])
+sum of wordFormDict.values() 12
+sein
+dict_values([3, 1, 2, 1, 1])
+sum of wordFormDict.values() 8
+jung
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+qualitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 1, 1, 1, 1])
+sum of wordFormDict.values() 5
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+folgend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unmittelbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,205 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 628
+continue_1
+Length of all lemmas: 531
+Length of singleton lemmas: 483
+Length of matched lemmas: 33
+Length of singleton maching lemmas: 483
+der
+dict_values([12, 17, 13, 5, 6, 6])
+sum of wordFormDict.values() 59
+werden
+dict_values([4, 1, 1, 3])
+sum of wordFormDict.values() 9
+sein
+dict_values([2, 4, 1, 5, 1, 1])
+sum of wordFormDict.values() 14
+vergangen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([3, 2, 2, 2, 1])
+sum of wordFormDict.values() 10
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([7, 1, 6, 1, 1])
+sum of wordFormDict.values() 16
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sozial
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+gegenwärtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wissenschaftlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([6, 1, 2])
+sum of wordFormDict.values() 9
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+beeinflussen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+heutig
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spannend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kurz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liefern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wertvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+laufend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([12, 17, 13, 5, 6, 6])
+sum of wordFormDict.values() 59
+werden
+dict_values([4, 1, 1, 3])
+sum of wordFormDict.values() 9
+sein
+dict_values([2, 4, 1, 5, 1, 1])
+sum of wordFormDict.values() 14
+vergangen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([3, 2, 2, 2, 1])
+sum of wordFormDict.values() 10
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([7, 1, 6, 1, 1])
+sum of wordFormDict.values() 16
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sozial
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+gegenwärtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wissenschaftlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([6, 1, 2])
+sum of wordFormDict.values() 9
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+beeinflussen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+heutig
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spannend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kurz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liefern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wertvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+laufend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 1])
+sum of wordFormDict.values() 2

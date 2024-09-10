@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 492
+create_10
+Length of all lemmas: 413
+Length of singleton lemmas: 386
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 386
+der
+dict_values([10, 4, 15, 18, 14, 7])
+sum of wordFormDict.values() 68
+grün
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+ein
+dict_values([10, 8, 5, 8, 2])
+sum of wordFormDict.values() 33
+werden
+dict_values([1, 6, 1, 1])
+sum of wordFormDict.values() 9
+wir
+dict_values([10, 2])
+sum of wordFormDict.values() 12
+sein
+dict_values([11, 6, 3, 1])
+sum of wordFormDict.values() 21
+unser
+dict_values([4, 2, 3])
+sum of wordFormDict.values() 9
+nachhaltig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+umweltfreundlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 1, 4, 1])
+sum of wordFormDict.values() 10
+ihr
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+investieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+richtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+innovativ
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([10, 4, 15, 18, 14, 7])
+sum of wordFormDict.values() 68
+grün
+dict_values([6, 3])
+sum of wordFormDict.values() 9
+ein
+dict_values([10, 8, 5, 8, 2])
+sum of wordFormDict.values() 33
+werden
+dict_values([1, 6, 1, 1])
+sum of wordFormDict.values() 9
+wir
+dict_values([10, 2])
+sum of wordFormDict.values() 12
+sein
+dict_values([11, 6, 3, 1])
+sum of wordFormDict.values() 21
+unser
+dict_values([4, 2, 3])
+sum of wordFormDict.values() 9
+nachhaltig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+umweltfreundlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 1, 4, 1])
+sum of wordFormDict.values() 10
+ihr
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+investieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+richtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+innovativ
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

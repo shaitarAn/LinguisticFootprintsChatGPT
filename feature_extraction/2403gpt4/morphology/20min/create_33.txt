@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 458
+create_33
+Length of all lemmas: 376
+Length of singleton lemmas: 349
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 349
+werden
+dict_values([1, 1, 1, 2, 1, 1])
+sum of wordFormDict.values() 7
+der
+dict_values([8, 22, 6, 12, 10, 2])
+sum of wordFormDict.values() 60
+ein
+dict_values([1, 8, 4, 2, 1])
+sum of wordFormDict.values() 16
+spontan
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+plötzlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stattfinden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einfach
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([5, 4, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 15
+musikalisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 3, 4, 1])
+sum of wordFormDict.values() 10
+ganz
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schön
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 1, 2, 1, 1])
+sum of wordFormDict.values() 7
+der
+dict_values([8, 22, 6, 12, 10, 2])
+sum of wordFormDict.values() 60
+ein
+dict_values([1, 8, 4, 2, 1])
+sum of wordFormDict.values() 16
+spontan
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+plötzlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stattfinden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einfach
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([5, 4, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 15
+musikalisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 3, 4, 1])
+sum of wordFormDict.values() 10
+ganz
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schön
+dict_values([1, 1])
+sum of wordFormDict.values() 2

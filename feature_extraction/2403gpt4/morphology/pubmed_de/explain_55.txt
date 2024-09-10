@@ -1,0 +1,157 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 372
+explain_55
+Length of all lemmas: 307
+Length of singleton lemmas: 278
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 278
+dies
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+der
+dict_values([2, 16, 1, 8, 12, 11, 1, 5])
+sum of wordFormDict.values() 56
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([9, 1, 6, 1])
+sum of wordFormDict.values() 17
+sein
+dict_values([4, 1, 1, 5, 4])
+sum of wordFormDict.values() 15
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+öffentlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erhöhen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 7, 2, 1])
+sum of wordFormDict.values() 11
+effektiv
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+kommunizieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mehrere
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+funktionieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+der
+dict_values([2, 16, 1, 8, 12, 11, 1, 5])
+sum of wordFormDict.values() 56
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([9, 1, 6, 1])
+sum of wordFormDict.values() 17
+sein
+dict_values([4, 1, 1, 5, 4])
+sum of wordFormDict.values() 15
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+öffentlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erhöhen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 7, 2, 1])
+sum of wordFormDict.values() 11
+effektiv
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+kommunizieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mehrere
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+funktionieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

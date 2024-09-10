@@ -1,0 +1,241 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 559
+explain_32
+Length of all lemmas: 463
+Length of singleton lemmas: 414
+Length of matched lemmas: 39
+Length of singleton maching lemmas: 414
+der
+dict_values([4, 16, 20, 7, 5, 5, 1, 1])
+sum of wordFormDict.values() 59
+traditionell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 7, 6, 1])
+sum of wordFormDict.values() 15
+ein
+dict_values([6, 1, 3, 9, 2, 2])
+sum of wordFormDict.values() 23
+bekannt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 1, 1, 5])
+sum of wordFormDict.values() 10
+klinisch
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+starr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 1, 2])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+modern
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+umfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kultivierbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ribosomal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unbekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+darstellen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+solch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+menschlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+steril
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antibiotisch
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gesund
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betroffen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+probiotisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+systematisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+personalisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+etabliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+anstreben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+üblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessert
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wiederkehrend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([4, 16, 20, 7, 5, 5, 1, 1])
+sum of wordFormDict.values() 59
+traditionell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 7, 6, 1])
+sum of wordFormDict.values() 15
+ein
+dict_values([6, 1, 3, 9, 2, 2])
+sum of wordFormDict.values() 23
+bekannt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 1, 1, 5])
+sum of wordFormDict.values() 10
+klinisch
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+starr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 1, 2])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+modern
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+umfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kultivierbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ribosomal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unbekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+darstellen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+solch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+menschlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+steril
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antibiotisch
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gesund
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betroffen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+probiotisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+systematisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+personalisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+etabliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+anstreben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+üblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessert
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wiederkehrend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

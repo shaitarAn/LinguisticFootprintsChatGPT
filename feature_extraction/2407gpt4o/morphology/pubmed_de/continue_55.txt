@@ -1,0 +1,205 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 654
+continue_55
+Length of all lemmas: 552
+Length of singleton lemmas: 508
+Length of matched lemmas: 33
+Length of singleton maching lemmas: 508
+1
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 8, 7, 2])
+sum of wordFormDict.values() 21
+der
+dict_values([15, 7, 15, 8, 3, 5, 1])
+sum of wordFormDict.values() 54
+wissenschaftlich
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([2, 2, 1, 1, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+lassen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+verständlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([10, 1])
+sum of wordFormDict.values() 11
+stehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regulierungswissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sozial
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 1, 1, 2, 1, 1])
+sum of wordFormDict.values() 9
+können
+dict_values([5, 1, 5])
+sum of wordFormDict.values() 11
+visuell
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abstrakt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+2
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wirksam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+proaktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+institutionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+überwinden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+1
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 8, 7, 2])
+sum of wordFormDict.values() 21
+der
+dict_values([15, 7, 15, 8, 3, 5, 1])
+sum of wordFormDict.values() 54
+wissenschaftlich
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([2, 2, 1, 1, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+lassen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+verständlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([10, 1])
+sum of wordFormDict.values() 11
+stehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regulierungswissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sozial
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 1, 1, 2, 1, 1])
+sum of wordFormDict.values() 9
+können
+dict_values([5, 1, 5])
+sum of wordFormDict.values() 11
+visuell
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abstrakt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+2
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wirksam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+proaktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+institutionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+überwinden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

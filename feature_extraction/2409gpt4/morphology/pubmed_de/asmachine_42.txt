@@ -1,0 +1,163 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 431
+asmachine_42
+Length of all lemmas: 352
+Length of singleton lemmas: 321
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 321
+der
+dict_values([17, 5, 8, 6, 20, 1, 8])
+sum of wordFormDict.values() 65
+dies
+dict_values([1, 4, 1, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([7, 4, 7])
+sum of wordFormDict.values() 18
+ein
+dict_values([6, 5, 1, 1, 1])
+sum of wordFormDict.values() 14
+relativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vorhanden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 3, 3, 1])
+sum of wordFormDict.values() 10
+erwerben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wir
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([1, 11])
+sum of wordFormDict.values() 12
+öffnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+negativ
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fehlend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([17, 5, 8, 6, 20, 1, 8])
+sum of wordFormDict.values() 65
+dies
+dict_values([1, 4, 1, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([7, 4, 7])
+sum of wordFormDict.values() 18
+ein
+dict_values([6, 5, 1, 1, 1])
+sum of wordFormDict.values() 14
+relativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vorhanden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 3, 3, 1])
+sum of wordFormDict.values() 10
+erwerben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wir
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([1, 11])
+sum of wordFormDict.values() 12
+öffnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+negativ
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fehlend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([4, 1])
+sum of wordFormDict.values() 5

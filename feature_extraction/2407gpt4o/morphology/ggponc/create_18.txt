@@ -1,0 +1,85 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 462
+create_18
+Length of all lemmas: 447
+Length of singleton lemmas: 432
+Length of matched lemmas: 13
+Length of singleton maching lemmas: 432
+ein
+dict_values([3, 7, 1, 4, 3])
+sum of wordFormDict.values() 18
+der
+dict_values([10, 9, 5, 5, 1, 3, 2])
+sum of wordFormDict.values() 35
+urologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+erfolgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+muskelinvasiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prophylaktisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+longitudinal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 7, 1, 4, 3])
+sum of wordFormDict.values() 18
+der
+dict_values([10, 9, 5, 5, 1, 3, 2])
+sum of wordFormDict.values() 35
+urologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([4, 1, 1, 1])
+sum of wordFormDict.values() 7
+erfolgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+muskelinvasiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prophylaktisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+longitudinal
+dict_values([1, 1])
+sum of wordFormDict.values() 2

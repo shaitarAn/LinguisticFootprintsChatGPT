@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 512
+explain_74
+Length of all lemmas: 448
+Length of singleton lemmas: 417
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 417
+ein
+dict_values([3, 5, 1, 4, 2, 1])
+sum of wordFormDict.values() 16
+aufschlussreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([20, 1, 13, 13, 5, 2, 5])
+sum of wordFormDict.values() 59
+ihr
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([5, 2, 2])
+sum of wordFormDict.values() 9
+besuchen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+monatlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+integrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sogenannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+notwendig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vorschulisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weiter
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+motivierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 5, 1, 4, 2, 1])
+sum of wordFormDict.values() 16
+aufschlussreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([20, 1, 13, 13, 5, 2, 5])
+sum of wordFormDict.values() 59
+ihr
+dict_values([3, 2, 1, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([5, 2, 2])
+sum of wordFormDict.values() 9
+besuchen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+sein
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+monatlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+integrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sogenannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+notwendig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vorschulisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weiter
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+motivierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

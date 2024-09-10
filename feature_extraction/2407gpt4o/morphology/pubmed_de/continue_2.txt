@@ -1,0 +1,217 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 560
+continue_2
+Length of all lemmas: 465
+Length of singleton lemmas: 418
+Length of matched lemmas: 35
+Length of singleton maching lemmas: 418
+der
+dict_values([13, 5, 4, 5, 15, 5, 1])
+sum of wordFormDict.values() 48
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+chirurgisch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([4, 1, 4])
+sum of wordFormDict.values() 9
+gutartig
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([6, 2, 1])
+sum of wordFormDict.values() 9
+können
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+ein
+dict_values([2, 5, 8, 1, 1, 2])
+sum of wordFormDict.values() 19
+modern
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 6, 1])
+sum of wordFormDict.values() 9
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erfordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewebeschonend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+total
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bösartig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+umfassend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+autonom
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gewährleisten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+maximal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([13, 5, 4, 5, 15, 5, 1])
+sum of wordFormDict.values() 48
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+chirurgisch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([4, 1, 4])
+sum of wordFormDict.values() 9
+gutartig
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([6, 2, 1])
+sum of wordFormDict.values() 9
+können
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+ein
+dict_values([2, 5, 8, 1, 1, 2])
+sum of wordFormDict.values() 19
+modern
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 6, 1])
+sum of wordFormDict.values() 9
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erfordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewebeschonend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+total
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bösartig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+umfassend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+autonom
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gewährleisten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+maximal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2

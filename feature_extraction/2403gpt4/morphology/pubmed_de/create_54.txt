@@ -1,0 +1,193 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 409
+create_54
+Length of all lemmas: 333
+Length of singleton lemmas: 296
+Length of matched lemmas: 31
+Length of singleton maching lemmas: 296
+sein
+dict_values([3, 6, 1])
+sum of wordFormDict.values() 10
+ein
+dict_values([5, 10, 3, 1])
+sum of wordFormDict.values() 19
+der
+dict_values([11, 19, 15, 7, 9, 5, 1])
+sum of wordFormDict.values() 67
+individuell
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([10, 1, 3, 1])
+sum of wordFormDict.values() 15
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+steigern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reduzieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([6, 4, 1, 1])
+sum of wordFormDict.values() 12
+berücksichtigen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+bisherig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+quantitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+analysieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([10, 1])
+sum of wordFormDict.values() 11
+qualitativ
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+darstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gestalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 6, 1])
+sum of wordFormDict.values() 10
+ein
+dict_values([5, 10, 3, 1])
+sum of wordFormDict.values() 19
+der
+dict_values([11, 19, 15, 7, 9, 5, 1])
+sum of wordFormDict.values() 67
+individuell
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([10, 1, 3, 1])
+sum of wordFormDict.values() 15
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+steigern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reduzieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([6, 4, 1, 1])
+sum of wordFormDict.values() 12
+berücksichtigen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+bisherig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+quantitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+analysieren
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([10, 1])
+sum of wordFormDict.values() 11
+qualitativ
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+darstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gestalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2

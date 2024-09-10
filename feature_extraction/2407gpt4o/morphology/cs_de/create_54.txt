@@ -1,0 +1,205 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 579
+create_54
+Length of all lemmas: 484
+Length of singleton lemmas: 441
+Length of matched lemmas: 33
+Length of singleton maching lemmas: 441
+binden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([7, 2, 8, 3])
+sum of wordFormDict.values() 20
+für
+dict_values([1, 7])
+sum of wordFormDict.values() 8
+der
+dict_values([12, 5, 6, 11, 9, 12, 1])
+sum of wordFormDict.values() 56
+bieten
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+sein
+dict_values([5, 6, 1])
+sum of wordFormDict.values() 12
+können
+dict_values([2, 2, 2, 1])
+sum of wordFormDict.values() 7
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([8, 5, 1])
+sum of wordFormDict.values() 14
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 4, 2, 1, 1])
+sum of wordFormDict.values() 10
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+extern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unterschätzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beruflich
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+dürfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verbringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tendieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prüfen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erweitern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+binden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([7, 2, 8, 3])
+sum of wordFormDict.values() 20
+für
+dict_values([1, 7])
+sum of wordFormDict.values() 8
+der
+dict_values([12, 5, 6, 11, 9, 12, 1])
+sum of wordFormDict.values() 56
+bieten
+dict_values([5, 3])
+sum of wordFormDict.values() 8
+sein
+dict_values([5, 6, 1])
+sum of wordFormDict.values() 12
+können
+dict_values([2, 2, 2, 1])
+sum of wordFormDict.values() 7
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([8, 5, 1])
+sum of wordFormDict.values() 14
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 4, 2, 1, 1])
+sum of wordFormDict.values() 10
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+extern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unterschätzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beruflich
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+dürfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verbringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tendieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prüfen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erweitern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

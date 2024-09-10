@@ -1,0 +1,205 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 435
+create_93
+Length of all lemmas: 345
+Length of singleton lemmas: 305
+Length of matched lemmas: 33
+Length of singleton maching lemmas: 305
+der
+dict_values([7, 16, 15, 16, 10, 7])
+sum of wordFormDict.values() 71
+ein
+dict_values([5, 4, 5, 6, 1])
+sum of wordFormDict.values() 21
+er
+dict_values([8, 2])
+sum of wordFormDict.values() 10
+infiziert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 4, 1, 2])
+sum of wordFormDict.values() 10
+sein
+dict_values([3, 1, 7, 4, 5, 2, 1, 1])
+sum of wordFormDict.values() 24
+lassen
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([1, 1, 3, 1])
+sum of wordFormDict.values() 6
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+impfen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+beweisen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 4, 3])
+sum of wordFormDict.values() 9
+hart
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+begeistert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+grau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tanzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+können
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+freuen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kulturell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+strahlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+Ihr|ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 16, 15, 16, 10, 7])
+sum of wordFormDict.values() 71
+ein
+dict_values([5, 4, 5, 6, 1])
+sum of wordFormDict.values() 21
+er
+dict_values([8, 2])
+sum of wordFormDict.values() 10
+infiziert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 4, 1, 2])
+sum of wordFormDict.values() 10
+sein
+dict_values([3, 1, 7, 4, 5, 2, 1, 1])
+sum of wordFormDict.values() 24
+lassen
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([1, 1, 3, 1])
+sum of wordFormDict.values() 6
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+impfen
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+beweisen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 4, 3])
+sum of wordFormDict.values() 9
+hart
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+begeistert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+grau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tanzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+können
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+freuen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kulturell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+strahlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+Ihr|ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

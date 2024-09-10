@@ -1,0 +1,157 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 403
+asmachine_59
+Length of all lemmas: 317
+Length of singleton lemmas: 284
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 284
+werden
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+der
+dict_values([14, 8, 7, 4, 5, 4])
+sum of wordFormDict.values() 42
+alle
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+verwenden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 6, 4, 3])
+sum of wordFormDict.values() 18
+ich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 8, 3, 2, 1, 1])
+sum of wordFormDict.values() 16
+unser
+dict_values([5, 6, 2, 1])
+sum of wordFormDict.values() 14
+gut
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sogenannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+wir
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+betonen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 3, 1, 1])
+sum of wordFormDict.values() 6
+geschlechtsneutral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bewußt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abschließend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+inklusiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+der
+dict_values([14, 8, 7, 4, 5, 4])
+sum of wordFormDict.values() 42
+alle
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+verwenden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 6, 4, 3])
+sum of wordFormDict.values() 18
+ich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 8, 3, 2, 1, 1])
+sum of wordFormDict.values() 16
+unser
+dict_values([5, 6, 2, 1])
+sum of wordFormDict.values() 14
+gut
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sogenannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+wir
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+sollen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+betonen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 3, 1, 1])
+sum of wordFormDict.values() 6
+geschlechtsneutral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bewußt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abschließend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+inklusiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3

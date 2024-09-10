@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 389
+create_16
+Length of all lemmas: 324
+Length of singleton lemmas: 299
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 299
+der
+dict_values([5, 17, 16, 7, 6, 5])
+sum of wordFormDict.values() 56
+ein
+dict_values([2, 7, 8, 5, 3, 1])
+sum of wordFormDict.values() 26
+sein
+dict_values([2, 3, 4, 3, 2, 1, 1, 1])
+sum of wordFormDict.values() 17
+werden
+dict_values([7, 4, 1, 2, 1])
+sum of wordFormDict.values() 15
+dies
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+muskelinvasiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lymphogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hämatogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+radikal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entfernen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+normal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([5, 17, 16, 7, 6, 5])
+sum of wordFormDict.values() 56
+ein
+dict_values([2, 7, 8, 5, 3, 1])
+sum of wordFormDict.values() 26
+sein
+dict_values([2, 3, 4, 3, 2, 1, 1, 1])
+sum of wordFormDict.values() 17
+werden
+dict_values([7, 4, 1, 2, 1])
+sum of wordFormDict.values() 15
+dies
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+muskelinvasiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+lymphogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hämatogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+radikal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entfernen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+normal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2

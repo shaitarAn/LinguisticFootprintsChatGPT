@@ -1,0 +1,223 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 687
+continue_36
+Length of all lemmas: 598
+Length of singleton lemmas: 547
+Length of matched lemmas: 36
+Length of singleton maching lemmas: 547
+ein
+dict_values([2, 3, 4, 4, 1])
+sum of wordFormDict.values() 14
+der
+dict_values([11, 9, 8, 5, 1, 5, 5, 1])
+sum of wordFormDict.values() 45
+werden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+klassisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 3, 5, 3, 3, 1])
+sum of wordFormDict.values() 18
+dies
+dict_values([3, 7, 2])
+sum of wordFormDict.values() 12
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+voll
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verstärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+perfektionieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ästhetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bemerkenswert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berauschend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+visuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stilistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erzählerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+thematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+linear
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+evolutionär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dystopisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neugierig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+morastig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kathartisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hyperreal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+audiovisuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+socioflex
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+epochal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spekulativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+affektgeladen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontemplativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nonverbal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 3, 4, 4, 1])
+sum of wordFormDict.values() 14
+der
+dict_values([11, 9, 8, 5, 1, 5, 5, 1])
+sum of wordFormDict.values() 45
+werden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+klassisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 3, 5, 3, 3, 1])
+sum of wordFormDict.values() 18
+dies
+dict_values([3, 7, 2])
+sum of wordFormDict.values() 12
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+voll
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verstärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+perfektionieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ästhetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bemerkenswert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berauschend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+visuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stilistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erzählerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+thematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+linear
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+evolutionär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dystopisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neugierig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+morastig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kathartisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hyperreal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+audiovisuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+socioflex
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+epochal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spekulativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+affektgeladen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontemplativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nonverbal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2

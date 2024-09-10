@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 384
+create_46
+Length of all lemmas: 314
+Length of singleton lemmas: 282
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 282
+der
+dict_values([16, 14, 5, 6, 4, 4])
+sum of wordFormDict.values() 49
+treten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 4, 1, 1, 1])
+sum of wordFormDict.values() 10
+gelegentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 7, 2, 1, 1])
+sum of wordFormDict.values() 13
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 5, 8, 4, 1])
+sum of wordFormDict.values() 21
+entzündlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([8, 1, 1])
+sum of wordFormDict.values() 10
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+konventionell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zusätzlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+fiktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 14, 5, 6, 4, 4])
+sum of wordFormDict.values() 49
+treten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 4, 1, 1, 1])
+sum of wordFormDict.values() 10
+gelegentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 7, 2, 1, 1])
+sum of wordFormDict.values() 13
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 5, 8, 4, 1])
+sum of wordFormDict.values() 21
+entzündlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([8, 1, 1])
+sum of wordFormDict.values() 10
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+konventionell
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zeigen
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zusätzlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+fiktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestmöglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2

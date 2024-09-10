@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 487
+explain_68
+Length of all lemmas: 441
+Length of singleton lemmas: 418
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 418
+der
+dict_values([7, 13, 7, 1, 1, 1, 3])
+sum of wordFormDict.values() 33
+sein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([3, 3, 2, 1, 1, 1])
+sum of wordFormDict.values() 11
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 3, 4])
+sum of wordFormDict.values() 9
+messen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+werden
+dict_values([3, 2, 3, 1, 1])
+sum of wordFormDict.values() 10
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+final
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+formal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 13, 7, 1, 1, 1, 3])
+sum of wordFormDict.values() 33
+sein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([3, 3, 2, 1, 1, 1])
+sum of wordFormDict.values() 11
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 3, 4])
+sum of wordFormDict.values() 9
+messen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+werden
+dict_values([3, 2, 3, 1, 1])
+sum of wordFormDict.values() 10
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+final
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+formal
+dict_values([1, 1])
+sum of wordFormDict.values() 2

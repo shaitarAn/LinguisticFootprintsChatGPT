@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 586
+create_27
+Length of all lemmas: 540
+Length of singleton lemmas: 517
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 517
+der
+dict_values([9, 9, 3, 3, 1, 2])
+sum of wordFormDict.values() 27
+ein
+dict_values([4, 3, 2])
+sum of wordFormDict.values() 9
+zahnmedizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 3, 1, 2, 1])
+sum of wordFormDict.values() 9
+erheblich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intensiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+allgemein
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betroffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+subjektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+final
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+decision
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([9, 9, 3, 3, 1, 2])
+sum of wordFormDict.values() 27
+ein
+dict_values([4, 3, 2])
+sum of wordFormDict.values() 9
+zahnmedizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 3, 1, 2, 1])
+sum of wordFormDict.values() 9
+erheblich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intensiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+allgemein
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betroffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+subjektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+final
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+decision
+dict_values([2, 1])
+sum of wordFormDict.values() 3

@@ -1,0 +1,211 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 545
+continue_9
+Length of all lemmas: 456
+Length of singleton lemmas: 416
+Length of matched lemmas: 34
+Length of singleton maching lemmas: 416
+der
+dict_values([7, 11, 5, 6, 9, 2])
+sum of wordFormDict.values() 40
+global
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+ihr
+dict_values([1, 3, 6, 2, 1, 1])
+sum of wordFormDict.values() 14
+sein
+dict_values([3, 3, 1, 2, 1])
+sum of wordFormDict.values() 10
+verkörpern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 3, 8, 3, 3])
+sum of wordFormDict.values() 22
+vereinen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+täglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+machen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sichtbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+jung
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1, 1, 1, 1])
+sum of wordFormDict.values() 5
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+unterstreichen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bewußt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+urban
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+nachhaltig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verbinden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prägend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+qualitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 11, 5, 6, 9, 2])
+sum of wordFormDict.values() 40
+global
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+ihr
+dict_values([1, 3, 6, 2, 1, 1])
+sum of wordFormDict.values() 14
+sein
+dict_values([3, 3, 1, 2, 1])
+sum of wordFormDict.values() 10
+verkörpern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 3, 8, 3, 3])
+sum of wordFormDict.values() 22
+vereinen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+täglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+machen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sichtbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+jung
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1, 1, 1, 1])
+sum of wordFormDict.values() 5
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+unterstreichen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bewußt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+urban
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+nachhaltig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verbinden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prägend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+qualitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2

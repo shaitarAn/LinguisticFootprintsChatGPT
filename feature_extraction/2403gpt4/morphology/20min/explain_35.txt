@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 319
+explain_35
+Length of all lemmas: 244
+Length of singleton lemmas: 214
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 214
+haben
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+sein
+dict_values([1, 3, 5, 4, 1, 1, 1])
+sum of wordFormDict.values() 16
+der
+dict_values([4, 20, 10, 10, 1, 3])
+sum of wordFormDict.values() 48
+sorgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+äußern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+öffentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([7, 2, 1, 1])
+sum of wordFormDict.values() 11
+neu
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 2, 2, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([3, 5, 1, 3])
+sum of wordFormDict.values() 12
+können
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 2, 4])
+sum of wordFormDict.values() 7
+verschärft
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reagieren
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+löschen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+versichern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unser
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erklären
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+sein
+dict_values([1, 3, 5, 4, 1, 1, 1])
+sum of wordFormDict.values() 16
+der
+dict_values([4, 20, 10, 10, 1, 3])
+sum of wordFormDict.values() 48
+sorgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+äußern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+öffentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([7, 2, 1, 1])
+sum of wordFormDict.values() 11
+neu
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 2, 2, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([3, 5, 1, 3])
+sum of wordFormDict.values() 12
+können
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 2, 4])
+sum of wordFormDict.values() 7
+verschärft
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reagieren
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+löschen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+versichern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unser
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erklären
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2

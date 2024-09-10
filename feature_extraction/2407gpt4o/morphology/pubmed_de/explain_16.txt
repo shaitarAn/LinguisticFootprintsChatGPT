@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 586
+explain_16
+Length of all lemmas: 563
+Length of singleton lemmas: 540
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 540
+Evidenzbasiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([5, 11, 13, 3, 2, 9, 1])
+sum of wordFormDict.values() 44
+untersuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+umfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 4, 2, 1, 1])
+sum of wordFormDict.values() 9
+werden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+evidenzbasiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+orientativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Evidenzbasiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([5, 11, 13, 3, 2, 9, 1])
+sum of wordFormDict.values() 44
+untersuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+umfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 4, 2, 1, 1])
+sum of wordFormDict.values() 9
+werden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+evidenzbasiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+orientativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2

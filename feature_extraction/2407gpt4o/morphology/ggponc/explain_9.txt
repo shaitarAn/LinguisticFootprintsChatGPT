@@ -1,0 +1,187 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 498
+explain_9
+Length of all lemmas: 422
+Length of singleton lemmas: 383
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 383
+sein
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+ein
+dict_values([7, 5, 1, 2, 1, 1])
+sum of wordFormDict.values() 17
+der
+dict_values([9, 5, 9, 3, 2, 4])
+sum of wordFormDict.values() 32
+kolorektal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 4, 1])
+sum of wordFormDict.values() 7
+sollen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+auffällig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([5, 5, 1, 2, 1, 1])
+sum of wordFormDict.values() 15
+genetisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hinweisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+hoch
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+molekularpathologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+früh
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+familiär
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+falsch-negativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+universell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+politisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+optimiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusammenfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hochwertig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 3, 1])
+sum of wordFormDict.values() 8
+ein
+dict_values([7, 5, 1, 2, 1, 1])
+sum of wordFormDict.values() 17
+der
+dict_values([9, 5, 9, 3, 2, 4])
+sum of wordFormDict.values() 32
+kolorektal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 4, 1])
+sum of wordFormDict.values() 7
+sollen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+auffällig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([5, 5, 1, 2, 1, 1])
+sum of wordFormDict.values() 15
+genetisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hinweisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+hoch
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+molekularpathologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+früh
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+familiär
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+falsch-negativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+universell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+politisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+optimiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusammenfassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hochwertig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

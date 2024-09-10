@@ -1,0 +1,229 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 599
+continue_38
+Length of all lemmas: 530
+Length of singleton lemmas: 488
+Length of matched lemmas: 37
+Length of singleton maching lemmas: 488
+der
+dict_values([17, 5, 9, 16, 3, 6])
+sum of wordFormDict.values() 56
+sozialwissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 7, 1, 1])
+sum of wordFormDict.values() 12
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 5, 7, 1])
+sum of wordFormDict.values() 16
+binär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 1, 1, 1])
+sum of wordFormDict.values() 6
+differenziert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zweistufig
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+verbessert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+subjektiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+demographisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+biologisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesellschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eingetragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+qualitativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 5, 9, 16, 3, 6])
+sum of wordFormDict.values() 56
+sozialwissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+zentral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 7, 1, 1])
+sum of wordFormDict.values() 12
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 5, 7, 1])
+sum of wordFormDict.values() 16
+binär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 1, 1, 1])
+sum of wordFormDict.values() 6
+differenziert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zweistufig
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+verbessert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+subjektiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+demographisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+biologisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesellschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eingetragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+qualitativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

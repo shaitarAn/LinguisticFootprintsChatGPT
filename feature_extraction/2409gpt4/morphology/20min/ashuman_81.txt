@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 432
+ashuman_81
+Length of all lemmas: 361
+Length of singleton lemmas: 333
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 333
+dies
+dict_values([3, 3, 1, 4])
+sum of wordFormDict.values() 11
+der
+dict_values([25, 9, 8, 19, 7, 7])
+sum of wordFormDict.values() 75
+neu
+dict_values([6, 2, 2, 1, 1])
+sum of wordFormDict.values() 12
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([8, 8, 2, 2, 2, 1])
+sum of wordFormDict.values() 23
+werden
+dict_values([9, 7, 1, 1])
+sum of wordFormDict.values() 18
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 6, 4, 3, 1])
+sum of wordFormDict.values() 17
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+hinter
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+versprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spannend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+anpassen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+mögen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 3, 1, 4])
+sum of wordFormDict.values() 11
+der
+dict_values([25, 9, 8, 19, 7, 7])
+sum of wordFormDict.values() 75
+neu
+dict_values([6, 2, 2, 1, 1])
+sum of wordFormDict.values() 12
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([8, 8, 2, 2, 2, 1])
+sum of wordFormDict.values() 23
+werden
+dict_values([9, 7, 1, 1])
+sum of wordFormDict.values() 18
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 6, 4, 3, 1])
+sum of wordFormDict.values() 17
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+hinter
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+versprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spannend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+anpassen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+mögen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 510
+create_90
+Length of all lemmas: 463
+Length of singleton lemmas: 443
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 443
+klinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+radikal
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([6, 2, 2, 3, 1])
+sum of wordFormDict.values() 14
+ehemalig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([8, 2, 6, 7, 2, 3])
+sum of wordFormDict.values() 28
+werden
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+nachweisbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokoregional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deuten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+radikal
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([6, 2, 2, 3, 1])
+sum of wordFormDict.values() 14
+ehemalig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([8, 2, 6, 7, 2, 3])
+sum of wordFormDict.values() 28
+werden
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+nachweisbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokoregional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deuten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2

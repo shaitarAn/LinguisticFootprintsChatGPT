@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 456
+create_26
+Length of all lemmas: 386
+Length of singleton lemmas: 359
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 359
+der
+dict_values([6, 19, 17, 7, 8, 7])
+sum of wordFormDict.values() 64
+ein
+dict_values([5, 3, 2, 5, 3, 2])
+sum of wordFormDict.values() 20
+ihr
+dict_values([4, 2, 5, 1, 1, 2])
+sum of wordFormDict.values() 15
+neu
+dict_values([2, 1, 1, 1, 1])
+sum of wordFormDict.values() 6
+kreativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 2, 2, 4])
+sum of wordFormDict.values() 10
+glauben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 2, 2, 1])
+sum of wordFormDict.values() 7
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 7, 1])
+sum of wordFormDict.values() 9
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+recycelt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+Ihr|ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mutig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([6, 19, 17, 7, 8, 7])
+sum of wordFormDict.values() 64
+ein
+dict_values([5, 3, 2, 5, 3, 2])
+sum of wordFormDict.values() 20
+ihr
+dict_values([4, 2, 5, 1, 1, 2])
+sum of wordFormDict.values() 15
+neu
+dict_values([2, 1, 1, 1, 1])
+sum of wordFormDict.values() 6
+kreativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 2, 2, 4])
+sum of wordFormDict.values() 10
+glauben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 2, 2, 1])
+sum of wordFormDict.values() 7
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 7, 1])
+sum of wordFormDict.values() 9
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+recycelt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+Ihr|ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mutig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

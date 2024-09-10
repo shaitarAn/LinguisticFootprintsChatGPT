@@ -1,0 +1,163 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 706
+create_26
+Length of all lemmas: 647
+Length of singleton lemmas: 613
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 613
+der
+dict_values([11, 11, 8, 8, 1, 5, 9, 1])
+sum of wordFormDict.values() 54
+jen
+dict_values([2, 3, 1, 1, 1])
+sum of wordFormDict.values() 8
+neu
+dict_values([2, 2, 1, 1, 1])
+sum of wordFormDict.values() 7
+ihr
+dict_values([1, 2, 2, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([2, 1, 8, 1, 7, 2])
+sum of wordFormDict.values() 21
+eigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verkörpern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+glitzernd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+lassen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+jed
+dict_values([1, 1, 3, 3])
+sum of wordFormDict.values() 8
+fluid-dynamisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+parallel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+inspirieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verleihen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([11, 11, 8, 8, 1, 5, 9, 1])
+sum of wordFormDict.values() 54
+jen
+dict_values([2, 3, 1, 1, 1])
+sum of wordFormDict.values() 8
+neu
+dict_values([2, 2, 1, 1, 1])
+sum of wordFormDict.values() 7
+ihr
+dict_values([1, 2, 2, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([2, 1, 8, 1, 7, 2])
+sum of wordFormDict.values() 21
+eigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verkörpern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+modisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+glitzernd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+lassen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+jed
+dict_values([1, 1, 3, 3])
+sum of wordFormDict.values() 8
+fluid-dynamisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+parallel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+inspirieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+setzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verleihen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 500
+explain_13
+Length of all lemmas: 415
+Length of singleton lemmas: 382
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 382
+der
+dict_values([16, 16, 18, 4, 6, 3])
+sum of wordFormDict.values() 63
+ein
+dict_values([9, 6, 3, 2, 7, 2])
+sum of wordFormDict.values() 29
+luxuriös
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([2, 4, 1, 1, 1])
+sum of wordFormDict.values() 9
+umfassend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1, 1, 1, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([4, 6, 1])
+sum of wordFormDict.values() 11
+genießen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+fehlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+letzt
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+entdecken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unvergesslich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+außergewöhnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intensiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+transparent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommerziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hochwertig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 16, 18, 4, 6, 3])
+sum of wordFormDict.values() 63
+ein
+dict_values([9, 6, 3, 2, 7, 2])
+sum of wordFormDict.values() 29
+luxuriös
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([2, 4, 1, 1, 1])
+sum of wordFormDict.values() 9
+umfassend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1, 1, 1, 1])
+sum of wordFormDict.values() 7
+dies
+dict_values([4, 6, 1])
+sum of wordFormDict.values() 11
+genießen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+fehlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+letzt
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+entdecken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unvergesslich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+außergewöhnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intensiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+transparent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommerziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hochwertig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

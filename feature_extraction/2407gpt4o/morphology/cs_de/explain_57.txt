@@ -1,0 +1,181 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 552
+explain_57
+Length of all lemmas: 467
+Length of singleton lemmas: 429
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 429
+dies
+dict_values([3, 4, 1, 1, 1])
+sum of wordFormDict.values() 10
+der
+dict_values([9, 12, 4, 16, 3, 1, 7, 1])
+sum of wordFormDict.values() 53
+entwickeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 7, 3, 5])
+sum of wordFormDict.values() 17
+nachhaltig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([6, 1, 1, 1])
+sum of wordFormDict.values() 9
+ein
+dict_values([10, 6, 1, 2])
+sum of wordFormDict.values() 19
+sollen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verändern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lebensnah
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+priorisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+praktisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+messen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+qualitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+aufgebaut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 4, 1, 1, 1])
+sum of wordFormDict.values() 10
+der
+dict_values([9, 12, 4, 16, 3, 1, 7, 1])
+sum of wordFormDict.values() 53
+entwickeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 7, 3, 5])
+sum of wordFormDict.values() 17
+nachhaltig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([6, 1, 1, 1])
+sum of wordFormDict.values() 9
+ein
+dict_values([10, 6, 1, 2])
+sum of wordFormDict.values() 19
+sollen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verändern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lebensnah
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+priorisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+praktisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+messen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+qualitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+aufgebaut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2

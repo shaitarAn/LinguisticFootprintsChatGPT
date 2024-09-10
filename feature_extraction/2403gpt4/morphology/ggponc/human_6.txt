@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 434
+human_6
+Length of all lemmas: 367
+Length of singleton lemmas: 341
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 341
+werden
+dict_values([6, 2, 5, 1])
+sum of wordFormDict.values() 14
+der
+dict_values([25, 35, 23, 5, 1, 2, 4, 1])
+sum of wordFormDict.values() 96
+intraepidermal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([10, 4, 1, 1, 2, 1])
+sum of wordFormDict.values() 19
+spät
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prognostisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+zeigen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+histologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+retrospektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+systematisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([6, 2, 5, 1])
+sum of wordFormDict.values() 14
+der
+dict_values([25, 35, 23, 5, 1, 2, 4, 1])
+sum of wordFormDict.values() 96
+intraepidermal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+entwickeln
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([10, 4, 1, 1, 2, 1])
+sum of wordFormDict.values() 19
+spät
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prognostisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 1, 1])
+sum of wordFormDict.values() 7
+zeigen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+histologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+retrospektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+systematisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3

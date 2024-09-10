@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 402
+explain_44
+Length of all lemmas: 321
+Length of singleton lemmas: 289
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 289
+dies
+dict_values([8, 7, 1, 3, 1])
+sum of wordFormDict.values() 20
+der
+dict_values([18, 20, 1, 13, 6, 6, 11])
+sum of wordFormDict.values() 75
+ihr
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 2, 4, 2, 2])
+sum of wordFormDict.values() 12
+individuell
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([6, 6, 3, 1])
+sum of wordFormDict.values() 16
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wahrnehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verstehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 3, 3, 1, 2])
+sum of wordFormDict.values() 10
+ausgeprägt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kognitiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+personenzentriert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+konzentrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([8, 7, 1, 3, 1])
+sum of wordFormDict.values() 20
+der
+dict_values([18, 20, 1, 13, 6, 6, 11])
+sum of wordFormDict.values() 75
+ihr
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 2, 4, 2, 2])
+sum of wordFormDict.values() 12
+individuell
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([6, 6, 3, 1])
+sum of wordFormDict.values() 16
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wahrnehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verstehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 3, 3, 1, 2])
+sum of wordFormDict.values() 10
+ausgeprägt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kognitiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+personenzentriert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+konzentrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beschreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2

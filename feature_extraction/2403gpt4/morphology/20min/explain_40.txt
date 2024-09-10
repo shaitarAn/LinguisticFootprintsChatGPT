@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 382
+explain_40
+Length of all lemmas: 307
+Length of singleton lemmas: 277
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 277
+dies
+dict_values([2, 4, 2])
+sum of wordFormDict.values() 8
+der
+dict_values([10, 9, 13, 3, 22, 11, 1])
+sum of wordFormDict.values() 69
+erst
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([5, 8, 2, 1, 2])
+sum of wordFormDict.values() 18
+können
+dict_values([5, 5, 1, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([5, 12, 1, 2, 1, 1])
+sum of wordFormDict.values() 22
+werden
+dict_values([6, 5])
+sum of wordFormDict.values() 11
+müssen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kosten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+zusätzlich
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ökologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ökonomisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vielversprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+darstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 4, 2])
+sum of wordFormDict.values() 8
+der
+dict_values([10, 9, 13, 3, 22, 11, 1])
+sum of wordFormDict.values() 69
+erst
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([5, 8, 2, 1, 2])
+sum of wordFormDict.values() 18
+können
+dict_values([5, 5, 1, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([5, 12, 1, 2, 1, 1])
+sum of wordFormDict.values() 22
+werden
+dict_values([6, 5])
+sum of wordFormDict.values() 11
+müssen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kosten
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+zusätzlich
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ökologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ökonomisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vielversprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+darstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 695
+create_22
+Length of all lemmas: 660
+Length of singleton lemmas: 634
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 634
+dermatologisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 6, 3, 5, 1, 1])
+sum of wordFormDict.values() 18
+ihr
+dict_values([2, 1, 2, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([1, 2, 3, 1])
+sum of wordFormDict.values() 7
+regelmäßig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([7, 5, 7, 12, 9, 5])
+sum of wordFormDict.values() 45
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mehrere
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+benutzen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([4, 6, 2, 3])
+sum of wordFormDict.values() 15
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verwenden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+intensiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+präventiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dermatologisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 6, 3, 5, 1, 1])
+sum of wordFormDict.values() 18
+ihr
+dict_values([2, 1, 2, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([1, 2, 3, 1])
+sum of wordFormDict.values() 7
+regelmäßig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([7, 5, 7, 12, 9, 5])
+sum of wordFormDict.values() 45
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mehrere
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+benutzen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([4, 6, 2, 3])
+sum of wordFormDict.values() 15
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verwenden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+niedrig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+intensiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+präventiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

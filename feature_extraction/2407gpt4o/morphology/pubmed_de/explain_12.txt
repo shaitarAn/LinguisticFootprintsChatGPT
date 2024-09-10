@@ -1,0 +1,241 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 554
+explain_12
+Length of all lemmas: 479
+Length of singleton lemmas: 428
+Length of matched lemmas: 39
+Length of singleton maching lemmas: 428
+der
+dict_values([13, 3, 4, 19, 1, 6, 4, 1])
+sum of wordFormDict.values() 51
+ein
+dict_values([5, 4, 2, 1])
+sum of wordFormDict.values() 12
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 1, 4])
+sum of wordFormDict.values() 9
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+dies
+dict_values([3, 1, 5, 1])
+sum of wordFormDict.values() 10
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+Erwachsene
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+empfohlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+national
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+politisch
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konkret
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+theoretisch
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+methodisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umweltbezogen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+partizipativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+resultierend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+involviert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+praxisfokussiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gestützt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dokumentativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+orientieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([13, 3, 4, 19, 1, 6, 4, 1])
+sum of wordFormDict.values() 51
+ein
+dict_values([5, 4, 2, 1])
+sum of wordFormDict.values() 12
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 1, 4])
+sum of wordFormDict.values() 9
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+dies
+dict_values([3, 1, 5, 1])
+sum of wordFormDict.values() 10
+zeigen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+Erwachsene
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+empfohlen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+national
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+politisch
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konkret
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+theoretisch
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+methodisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umweltbezogen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+partizipativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+resultierend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+involviert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+praxisfokussiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gestützt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dokumentativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+orientieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2

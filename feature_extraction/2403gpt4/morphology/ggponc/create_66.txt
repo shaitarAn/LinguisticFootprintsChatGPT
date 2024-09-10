@@ -1,0 +1,91 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 341
+create_66
+Length of all lemmas: 292
+Length of singleton lemmas: 270
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 270
+sein
+dict_values([2, 1, 5, 1])
+sum of wordFormDict.values() 9
+ein
+dict_values([9, 3, 1])
+sum of wordFormDict.values() 13
+der
+dict_values([10, 3, 18, 8, 1, 2])
+sum of wordFormDict.values() 42
+werden
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+haben
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychosozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([10, 3, 5, 1, 3, 3])
+sum of wordFormDict.values() 25
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+beeinträchtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Ihr|ihr
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+behandelnd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 1, 5, 1])
+sum of wordFormDict.values() 9
+ein
+dict_values([9, 3, 1])
+sum of wordFormDict.values() 13
+der
+dict_values([10, 3, 18, 8, 1, 2])
+sum of wordFormDict.values() 42
+werden
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+haben
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychosozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([10, 3, 5, 1, 3, 3])
+sum of wordFormDict.values() 25
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+beeinträchtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Ihr|ihr
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+behandelnd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2

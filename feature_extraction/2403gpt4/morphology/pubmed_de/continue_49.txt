@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 340
+continue_49
+Length of all lemmas: 267
+Length of singleton lemmas: 236
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 236
+sein
+dict_values([6, 3, 1, 1])
+sum of wordFormDict.values() 11
+ein
+dict_values([3, 5, 1, 2, 2])
+sum of wordFormDict.values() 13
+der
+dict_values([10, 6, 20, 5, 7, 6, 1])
+sum of wordFormDict.values() 55
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 4, 2, 1])
+sum of wordFormDict.values() 9
+proaktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([7, 2, 1])
+sum of wordFormDict.values() 10
+medizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+präoperativ
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+neurobiologisch
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+konzentrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+feststellen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 3, 2])
+sum of wordFormDict.values() 9
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eingängig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+funktionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 3, 1, 1])
+sum of wordFormDict.values() 11
+ein
+dict_values([3, 5, 1, 2, 2])
+sum of wordFormDict.values() 13
+der
+dict_values([10, 6, 20, 5, 7, 6, 1])
+sum of wordFormDict.values() 55
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 4, 2, 1])
+sum of wordFormDict.values() 9
+proaktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([7, 2, 1])
+sum of wordFormDict.values() 10
+medizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+präoperativ
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+neurobiologisch
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+konzentrieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+feststellen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 3, 2])
+sum of wordFormDict.values() 9
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eingängig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+funktionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2

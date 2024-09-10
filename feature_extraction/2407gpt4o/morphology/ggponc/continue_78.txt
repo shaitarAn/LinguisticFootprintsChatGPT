@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 522
+continue_78
+Length of all lemmas: 471
+Length of singleton lemmas: 446
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 446
+der
+dict_values([14, 9, 5, 1, 7, 3, 1])
+sum of wordFormDict.values() 40
+dies
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+ein
+dict_values([2, 2, 3, 1])
+sum of wordFormDict.values() 8
+geben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+sollen
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+wirksam
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+stimulierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([6, 1, 2, 2])
+sum of wordFormDict.values() 11
+ihr
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+multipl
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+an
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+pharmakologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirken
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([14, 9, 5, 1, 7, 3, 1])
+sum of wordFormDict.values() 40
+dies
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+ein
+dict_values([2, 2, 3, 1])
+sum of wordFormDict.values() 8
+geben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+sollen
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+wirksam
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+stimulierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([6, 1, 2, 2])
+sum of wordFormDict.values() 11
+ihr
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+multipl
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+an
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+pharmakologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirken
+dict_values([1, 2])
+sum of wordFormDict.values() 3

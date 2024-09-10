@@ -1,0 +1,91 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 288
+human_34
+Length of all lemmas: 248
+Length of singleton lemmas: 230
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 230
+werden
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+konventionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+randomisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 15, 6, 2])
+sum of wordFormDict.values() 30
+ein
+dict_values([1, 3, 3, 4])
+sum of wordFormDict.values() 11
+sein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+randomisiert
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+prüfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+primär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+folgend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+konventionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+randomisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 15, 6, 2])
+sum of wordFormDict.values() 30
+ein
+dict_values([1, 3, 3, 4])
+sum of wordFormDict.values() 11
+sein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+randomisiert
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+prüfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+primär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+folgend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 352
+ashuman_43
+Length of all lemmas: 287
+Length of singleton lemmas: 261
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 261
+der
+dict_values([17, 6, 17, 5, 5, 3])
+sum of wordFormDict.values() 53
+atopisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+ein
+dict_values([10, 1, 4, 1])
+sum of wordFormDict.values() 16
+kennzeichnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1, 4, 3])
+sum of wordFormDict.values() 10
+dies
+dict_values([6, 1, 2, 5, 2, 1])
+sum of wordFormDict.values() 17
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allergisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+etabliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+weit
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+beitragen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+offen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 6, 17, 5, 5, 3])
+sum of wordFormDict.values() 53
+atopisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+ein
+dict_values([10, 1, 4, 1])
+sum of wordFormDict.values() 16
+kennzeichnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1, 4, 3])
+sum of wordFormDict.values() 10
+dies
+dict_values([6, 1, 2, 5, 2, 1])
+sum of wordFormDict.values() 17
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allergisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+etabliert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+weit
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+beitragen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+offen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2

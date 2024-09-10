@@ -1,0 +1,199 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 533
+explain_98
+Length of all lemmas: 451
+Length of singleton lemmas: 410
+Length of matched lemmas: 32
+Length of singleton maching lemmas: 410
+der
+dict_values([15, 14, 5, 1, 12, 6, 5])
+sum of wordFormDict.values() 58
+sein
+dict_values([1, 7, 3])
+sum of wordFormDict.values() 11
+hoch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([8, 8, 1, 1])
+sum of wordFormDict.values() 18
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([4, 2, 2, 1, 1])
+sum of wordFormDict.values() 10
+zeigen
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+nodal
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+liefern
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verbessern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+klein
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+einzeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+neu
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+okkult
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+feingeweblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+initial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abgestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+histologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 14, 5, 1, 12, 6, 5])
+sum of wordFormDict.values() 58
+sein
+dict_values([1, 7, 3])
+sum of wordFormDict.values() 11
+hoch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([8, 8, 1, 1])
+sum of wordFormDict.values() 18
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([4, 2, 2, 1, 1])
+sum of wordFormDict.values() 10
+zeigen
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+nodal
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+liefern
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verbessern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+klein
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+einzeln
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+neu
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+okkult
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+feingeweblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+initial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abgestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+histologisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,103 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 492
+continue_35
+Length of all lemmas: 448
+Length of singleton lemmas: 429
+Length of matched lemmas: 16
+Length of singleton maching lemmas: 429
+sein
+dict_values([3, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([5, 8, 5, 5, 2, 2, 1])
+sum of wordFormDict.values() 28
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+ein
+dict_values([6, 1, 3])
+sum of wordFormDict.values() 10
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mögen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regenerativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([5, 8, 5, 5, 2, 2, 1])
+sum of wordFormDict.values() 28
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+ein
+dict_values([6, 1, 3])
+sum of wordFormDict.values() 10
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mögen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regenerativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2

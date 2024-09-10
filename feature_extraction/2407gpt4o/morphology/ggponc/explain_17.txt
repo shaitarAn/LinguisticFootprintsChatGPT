@@ -1,0 +1,205 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 505
+explain_17
+Length of all lemmas: 399
+Length of singleton lemmas: 347
+Length of matched lemmas: 33
+Length of singleton maching lemmas: 347
+der
+dict_values([10, 4, 17, 13, 6, 4, 1])
+sum of wordFormDict.values() 55
+aromatisch
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+beruflich
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 4, 2, 1, 1])
+sum of wordFormDict.values() 9
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 6, 3, 1, 2])
+sum of wordFormDict.values() 17
+dies
+dict_values([5, 6, 1, 3, 1])
+sum of wordFormDict.values() 16
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([6, 3, 2, 1, 1])
+sum of wordFormDict.values() 13
+werden
+dict_values([5, 6, 1, 1])
+sum of wordFormDict.values() 13
+relevant
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+bedingt
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+krebserregend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+erst
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+früh
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berufsbedingt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+karziogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liefern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([10, 4, 17, 13, 6, 4, 1])
+sum of wordFormDict.values() 55
+aromatisch
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+beruflich
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 4, 2, 1, 1])
+sum of wordFormDict.values() 9
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 6, 3, 1, 2])
+sum of wordFormDict.values() 17
+dies
+dict_values([5, 6, 1, 3, 1])
+sum of wordFormDict.values() 16
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([6, 3, 2, 1, 1])
+sum of wordFormDict.values() 13
+werden
+dict_values([5, 6, 1, 1])
+sum of wordFormDict.values() 13
+relevant
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+bedingt
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+krebserregend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+erst
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+früh
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+berufsbedingt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+karziogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liefern
+dict_values([1, 1])
+sum of wordFormDict.values() 2

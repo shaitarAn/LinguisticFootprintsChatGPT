@@ -1,0 +1,175 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 475
+create_67
+Length of all lemmas: 380
+Length of singleton lemmas: 346
+Length of matched lemmas: 28
+Length of singleton maching lemmas: 346
+archäologisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+der
+dict_values([13, 7, 21, 18, 9, 7])
+sum of wordFormDict.values() 75
+ein
+dict_values([11, 13, 1, 2, 6, 4])
+sum of wordFormDict.values() 37
+haben
+dict_values([2, 6])
+sum of wordFormDict.values() 8
+dies
+dict_values([5, 8, 1])
+sum of wordFormDict.values() 14
+scheinen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+voll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antik
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gemeinsam
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+sie
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+beide
+dict_values([1, 2, 3])
+sum of wordFormDict.values() 6
+friedlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 2, 4, 1])
+sum of wordFormDict.values() 12
+können
+dict_values([3, 4, 2, 1])
+sum of wordFormDict.values() 10
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geteilt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+komplex
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 1, 1, 1])
+sum of wordFormDict.values() 9
+alle
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ziehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beitragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+archäologisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+der
+dict_values([13, 7, 21, 18, 9, 7])
+sum of wordFormDict.values() 75
+ein
+dict_values([11, 13, 1, 2, 6, 4])
+sum of wordFormDict.values() 37
+haben
+dict_values([2, 6])
+sum of wordFormDict.values() 8
+dies
+dict_values([5, 8, 1])
+sum of wordFormDict.values() 14
+scheinen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+voll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+antik
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gemeinsam
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+sie
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+beide
+dict_values([1, 2, 3])
+sum of wordFormDict.values() 6
+friedlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([5, 2, 4, 1])
+sum of wordFormDict.values() 12
+können
+dict_values([3, 4, 2, 1])
+sum of wordFormDict.values() 10
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geteilt
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+komplex
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 1, 1, 1])
+sum of wordFormDict.values() 9
+alle
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ziehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beitragen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

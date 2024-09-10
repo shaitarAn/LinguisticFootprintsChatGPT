@@ -1,0 +1,317 @@
+Patient: patient|1	patienten|1
+:: :|3
+Johanna: johanna|2
+Müller: müller|7	müllers|1
+,: ,|18
+52: 52|1
+Jahr: jahre|1
+alt: alt|1
+Deutschlehrerin: deutschlehrerin|1
+Frau: frau|7
+kommen: kam|1	kommt|1
+aufgrund: aufgrund|1
+anhaltend: anhaltender|1
+Kopfschmerz: kopfschmerzen|4
+und: und|18
+wiederholt: wiederholter|1
+Übelkeit: übelkeit|2
+in: in|15
+der: die|18	der|21	das|4	dem|11	des|6	den|4
+Ambulanz: ambulanz|1
+.: .|34
+Initial: initial|1
+werden: wurde|4	wurden|4	werden|2
+ihr: ihre|2	ihrer|2	ihrem|2
+Beschwerde: beschwerden|2
+auf: auf|6
+Streß: stress|1
+zurückführen: zurückgeführt|1
+sie: sie|5
+erhalten: erhielt|2
+Analgetika: analgetika|1
+gegen: gegen|2
+nachdem: nachdem|1
+kein: keine|3
+Verbesserung: verbesserung|2
+Symptom: symptome|2
+eintreten: eintrat|1
+zusätzlich: zusätzlich|2
+episodisch: episodische|1
+Verwirrtheit: verwirrtheit|1
+hinzukam: hinzukam|1
+zu: zu|15
+weit: weiteren|1	weiterer|1
+Diagnostik: diagnostik|2
+Krankenhaus: krankenhaus|1
+überweisen: überwiesen|1
+Patientin: patientin|3
+berichten: berichtete|1
+über: über|3
+fast: fast|1
+täglich: tägliche|1
+intensiv: intensive|2	intensiver|1
+begleiten: begleitet|1
+von: von|6
+sporadisch: sporadischem|1
+Erbrechen: erbrechen|1
+unter: unter|2
+körperlicher: körperlicher|1
+Untersuchung: untersuchung|2
+klagen: klagte|1
+ebenfalls: ebenfalls|2
+Sensibilitätsverlust: sensibilitätsverlust|1
+recht: rechten|1
+Körperhälfte: körperhälfte|1
+zudem: zudem|1
+stellen: stellten|1
+wir: wir|1
+während: während|1
+mehrere: mehrere|2	mehreren|1
+Krampfanfall: krampfanfälle|1
+fest: fest|1
+ein: ein|3	eine|10	einer|3	eines|1
+Ganzkörperscan: ganzkörperscan|1
+offenbaren: offenbarte|1
+groß: große|1
+Masse: masse|1
+link: linken|1
+Parietallappe: parietallappen|1
+Gehirn: gehirns|1	gehirn|3
+verdächtig: verdächtige|1
+Läsion: läsionen|2
+Haut: haut|1
+an: an|3
+Rücken: rücken|3
+Biopsie: biopsie|1
+bestätigen: bestätigte|1
+Verdacht: verdacht|1
+malign: malignes|2
+Melanom: melanom|2	melanoms|1
+mit: mit|4
+Hirnmetastasierung: hirnmetastasierung|1
+sein: war|4	sein|1
+Ursach: ursache|1
+gemäß: gemäß|1
+RPA: rpa|2
+-: -|6
+Prognosefaktor: prognosefaktoren|1
+(: (|5
+„: „|1
+recursive: recursive|1
+partitioning: partitioning|1
+analysis: analysis|1
+“: “|1
+): )|5
+erfolgen: erfolgte|1
+Einteilung: einteilung|1
+Klasse: klasse|2
+II: ii|2
+da: da|1
+neurologisch: neurologische|1
+zeigen: zeigte|2	zeigten|1	zeigt|1
+Hemisymptomatik: hemisymptomatik|1
+er|es|sie: sich|4
+ansonsten: ansonsten|1
+jedoch: jedoch|1
+gut: gutem|1
+Allgemeinzustand: allgemeinzustand|1	allgemeinzustandes|1
+befinden: befand|1
+Karnofsky: karnofsky|1
+Index: index|1
+>70%: >70%|1
+weiter: weiteren|1
+innerhalb: innerhalb|1
+Körper: körpers|2
+verteilt: verteilten|1
+Metastasen: metastasen|1
+vorlagen: vorlagen|1
+außer: außer|1
+zentral: zentralen|1
+Nervensystem: nervensystem|1
+nach: nach|8
+umfassend: umfassender|1	umfassenden|1
+Aufklärung: aufklärung|1
+Diagnose: diagnose|2
+Prognose: prognose|1
+Behandlungsmöglichkeit: behandlungsmöglichkeiten|1
+entscheiden: entschied|1
+für: für|1
+Kombination: kombination|1
+aus: aus|2
+Chirurgie: chirurgie|1
+Strahlentherapie: strahlentherapie|2
+erfolgreich: erfolgreicher|1
+Resektion: resektion|2
+Hirnmetastase: hirnmetastase|2
+beginnen: begann|2
+Stereotaktischen: stereotaktischen|1
+Hochpräzisionsbestrahlung: hochpräzisionsbestrahlung|1
+SABR: sabr|2
+Hautläsion: hautläsionen|2
+chirurgisch: chirurgisch|2	chirurgischen|1
+entfernen: entfernt|1
+Nachbehandlung: nachbehandlung|1
+bestehen: bestand|1
+Immuntherapie: immuntherapie|2
+regelmäßig: regelmäßigen|1
+MRT: mrt|1
+Scans: scans|1
+Beurteilung: beurteilung|1
+Therapieerfolg: therapieerfolgs|1
+trotz: trotz|2
+Therapie: therapie|3
+2: 2|1
+Monat: monaten|2	monate|3
+Progression: progression|2
+maligen: malignen|3
+Erkrankung: erkrankung|2
+Grundlage: grundlage|1
+bekannt: bekannten|1
+retrospektiv: retrospektiven|1
+Analyse: analysen|1
+mediane: mediane|1
+Überleben: überleben|1
+etwa: etwa|1
+5: 5|1
+Zustand: zustand|1
+verschlechtern: verschlechterte|1
+stetig: stetig|1
+versterben: verstarb|1
+schließlich: schließlich|2
+vier: vier|2
+Diagnosestellung: diagnosestellung|2
+dies: dieser|2	diese|1	dies|1
+Fall: fall|2
+unterstreechen: unterstreicht|2
+aggressiv: aggressive|1	aggressiven|1	aggressiv|1
+Natur: natur|1
+metastasiert: metastasierten|2
+insbesondere: insbesondere|1
+wenn: wenn|1
+es: es|5
+Hirnmetastasen: hirnmetastasen|1
+verdeutlichen: verdeutlicht|1
+auch: auch|3
+Wichtigkeit: wichtigkeit|1
+frühzeitig: frühzeitiger|1	frühzeitige|1
+sowie: sowie|2
+eingehend: eingehender|1
+Patientenaufklärung: patientenaufklärung|1
+hinsichtlich: hinsichtlich|1
+Therapiemodalität: therapiemodalitäten|1
+bei: bei|1
+solch: solchen|1
+fortschreitend: fortschreitenden|1
+Krankheitsbild: krankheitsbildern|1
+Folgende: folgenden|1
+sollen: soll|1	sollten|1
+tiefgehend: tiefgehender|1
+Behandlungsmethode: behandlungsmethoden|1
+Krankheitsverlauf: krankheitsverlauf|1
+eingehen: eingegangen|1
+unmittelbar: unmittelbar|1	unmittelbaren|1
+Ärzteteam: ärzteteam|1
+Voruntersuchung: voruntersuchung|1
+präzise: präzisen|1
+Planung: planung|1
+wichtig: wichtig|1
+möglich: mögliche|1
+Risiko: risiken|1
+minimieren: minimieren|1
+vollständig: vollständige|1	vollständig|1
+Entfernung: entfernung|1
+erreichen: erreichen|1
+Operation: operation|2
+verlaufen: verlief|1
+ohne: ohne|1
+Komplikation: komplikationen|2
+Tumor: tumor|1
+können: konnte|1	kann|1
+entfernt: entfernt|1
+treten: traten|1
+postoperativ: postoperativen|1	postoperativ|1
+direkt: direkt|1
+Anschluß: anschluss|1
+Erholungsphase: erholungsphase|1
+einleiten: eingeleitet|1
+Sitzunge: sitzungen|1
+hochpräzis: hochpräzise|1
+Bestrahlung: bestrahlungen|1
+um: um|1
+nicht: nicht|2
+nur: nur|1
+etwaig: etwaige|1
+residual: residuale|1
+Tumorzelle: tumorzellen|1
+eliminieren: eliminieren|1
+sondern: sondern|1
+erneut: erneute|1
+Krebszelleinwanderung: krebszelleinwanderung|1
+verhindern: verhindern|1
+versorgen: versorgt|1
+sowohl: sowohl|1
+Vermeidung: vermeidung|1
+unberechenbar: unberechenbarer|1
+Schmerz: schmerzen|1
+als: als|1
+Verhinderung: verhinderung|1
+Metastasierung: metastasierung|1
+Stärkung: stärkung|1
+Immunsystem: immunsystems|1	immunsystem|1
+Unterstützung: unterstützung|1
+Kampf: kampf|1
+Krebs: krebs|1
+durchführen: durchgeführt|1
+beinhalten: beinhaltete|1
+speziell: speziell|1
+zugeschnitten: zugeschnittene|1
+Medikament: medikamente|1
+welch: welche|1
+dabei: dabei|1
+helfen: helfen|1
+bestehend: bestehende|1	bestehender|1
+Krebszelle: krebszellen|2
+aktiv: aktiv|1
+bekämpfen: bekämpfen|1
+lassen: lassen|1
+leider: leider|1
+Kontroll: kontroll|1
+MRTs: mrts|1
+multimodal: multimodal|1
+aggressiven: aggressiven|1
+zwei: zwei|1
+neu: neue|1	neuer|1
+klein: kleine|1
+finden: gefunden|1
+vermutlich: vermutlich|1
+durch: durch|1
+erratisch: erratische|1
+verursachen: verursacht|1
+resultieren: resultierte|1
+deutlich: deutlichen|1
+Verschlechterung: verschlechterung|1
+Sie|sie: sie|1
+leiten: litt|1
+stark: starken|1
+zunehmend: zunehmend|1
+benommen: benommen|1
+Krankheitsprogreß: krankheitsprogress|1
+aggressive: aggressive|1
+Behandlung: behandlung|1
+führen: führten|1	führen|1
+Tod: tod|1
+Geschichte: geschichte|1
+eindringlich: eindringlich|1
+wie: wie|1
+dass: dass|1
+selbst: selbst|1
+Erkennung: erkennung|1
+immer: immer|1
+erhofft: erhofften|1
+Erfolg: erfolg|1
+Ihr|ihr: ihr|1
+Notwendigkeit: notwendigkeit|1
+fortlaufend: fortlaufender|1
+Forschungsanstrengung: forschungsanstrengungen|1
+Entwicklung: entwicklung|1
+Therapiestrategie: therapiestrategien|1

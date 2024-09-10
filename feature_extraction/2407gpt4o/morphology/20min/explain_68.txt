@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 399
+explain_68
+Length of all lemmas: 361
+Length of singleton lemmas: 338
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 338
+der
+dict_values([9, 6, 12, 3, 3, 1])
+sum of wordFormDict.values() 34
+ein
+dict_values([2, 4, 3, 2, 3])
+sum of wordFormDict.values() 14
+aufstrebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 4, 2, 2, 1, 2, 1, 1, 1])
+sum of wordFormDict.values() 15
+ihr
+dict_values([1, 2, 3, 2, 1])
+sum of wordFormDict.values() 9
+erlangen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+groß
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+übernehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+früh
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bekannt
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+jung
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([9, 6, 12, 3, 3, 1])
+sum of wordFormDict.values() 34
+ein
+dict_values([2, 4, 3, 2, 3])
+sum of wordFormDict.values() 14
+aufstrebend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([1, 4, 2, 2, 1, 2, 1, 1, 1])
+sum of wordFormDict.values() 15
+ihr
+dict_values([1, 2, 3, 2, 1])
+sum of wordFormDict.values() 9
+erlangen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+groß
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+übernehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+früh
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bekannt
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+jung
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2

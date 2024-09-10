@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 426
+create_74
+Length of all lemmas: 354
+Length of singleton lemmas: 326
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 326
+der
+dict_values([17, 23, 14, 7, 2, 8])
+sum of wordFormDict.values() 71
+ihr
+dict_values([8, 2, 1, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([7, 3, 3, 5, 2, 1])
+sum of wordFormDict.values() 21
+neu
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([8, 2, 1, 1, 2])
+sum of wordFormDict.values() 14
+dies
+dict_values([5, 2, 1, 1])
+sum of wordFormDict.values() 9
+fördern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sehen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bemerkenswert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 23, 14, 7, 2, 8])
+sum of wordFormDict.values() 71
+ihr
+dict_values([8, 2, 1, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([7, 3, 3, 5, 2, 1])
+sum of wordFormDict.values() 21
+neu
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([8, 2, 1, 1, 2])
+sum of wordFormDict.values() 14
+dies
+dict_values([5, 2, 1, 1])
+sum of wordFormDict.values() 9
+fördern
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sehen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 5])
+sum of wordFormDict.values() 6
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+bemerkenswert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2

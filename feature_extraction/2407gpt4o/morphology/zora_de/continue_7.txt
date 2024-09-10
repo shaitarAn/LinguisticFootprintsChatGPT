@@ -1,0 +1,61 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 583
+continue_7
+Length of all lemmas: 575
+Length of singleton lemmas: 564
+Length of matched lemmas: 9
+Length of singleton maching lemmas: 564
+der
+dict_values([6, 3, 8, 2, 3, 4])
+sum of wordFormDict.values() 26
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 1, 3, 1, 1, 2])
+sum of wordFormDict.values() 11
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+inform
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+recogniz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([6, 3, 8, 2, 3, 4])
+sum of wordFormDict.values() 26
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 1, 3, 1, 1, 2])
+sum of wordFormDict.values() 11
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+er
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+inform
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+recogniz
+dict_values([1, 1])
+sum of wordFormDict.values() 2

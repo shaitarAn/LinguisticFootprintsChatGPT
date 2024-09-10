@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 368
+ashuman_17
+Length of all lemmas: 305
+Length of singleton lemmas: 276
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 276
+der
+dict_values([20, 8, 4, 14, 6, 4, 1, 1])
+sum of wordFormDict.values() 58
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesundheitspolitisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+öffentlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+sollen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 6, 4])
+sum of wordFormDict.values() 12
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 1, 2, 1, 1])
+sum of wordFormDict.values() 11
+relevant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+evidenzbasiert
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+darstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([20, 8, 4, 14, 6, 4, 1, 1])
+sum of wordFormDict.values() 58
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesundheitspolitisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+öffentlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+sollen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 6, 4])
+sum of wordFormDict.values() 12
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 1, 2, 1, 1])
+sum of wordFormDict.values() 11
+relevant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+evidenzbasiert
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+darstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

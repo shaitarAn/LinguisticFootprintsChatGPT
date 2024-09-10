@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 479
+explain_47
+Length of all lemmas: 409
+Length of singleton lemmas: 386
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 386
+der
+dict_values([18, 5, 18, 14, 6, 7])
+sum of wordFormDict.values() 68
+ein
+dict_values([4, 5, 3, 2])
+sum of wordFormDict.values() 14
+jung
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+statistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([2, 4, 2, 1, 1, 1])
+sum of wordFormDict.values() 11
+dies
+dict_values([2, 2, 2, 1, 1])
+sum of wordFormDict.values() 8
+weiter
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deutsch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adäquat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erwachsen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+scheinen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([18, 5, 18, 14, 6, 7])
+sum of wordFormDict.values() 68
+ein
+dict_values([4, 5, 3, 2])
+sum of wordFormDict.values() 14
+jung
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+statistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([2, 4, 2, 1, 1, 1])
+sum of wordFormDict.values() 11
+dies
+dict_values([2, 2, 2, 1, 1])
+sum of wordFormDict.values() 8
+weiter
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+deutsch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adäquat
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erwachsen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+scheinen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,157 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 427
+create_1
+Length of all lemmas: 354
+Length of singleton lemmas: 319
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 319
+der
+dict_values([20, 6, 5, 14, 9, 8, 1])
+sum of wordFormDict.values() 63
+digital
+dict_values([7, 8, 3])
+sum of wordFormDict.values() 18
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+technologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 4, 4, 4])
+sum of wordFormDict.values() 15
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([8, 3, 4, 1, 2, 1])
+sum of wordFormDict.values() 19
+können
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+gesundheitlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zugänglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+benachteiligen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([7, 5, 1])
+sum of wordFormDict.values() 13
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konstruktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([20, 6, 5, 14, 9, 8, 1])
+sum of wordFormDict.values() 63
+digital
+dict_values([7, 8, 3])
+sum of wordFormDict.values() 18
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+technologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 4, 4, 4])
+sum of wordFormDict.values() 15
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([8, 3, 4, 1, 2, 1])
+sum of wordFormDict.values() 19
+können
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+gesundheitlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zugänglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+benachteiligen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([7, 5, 1])
+sum of wordFormDict.values() 13
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konstruktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+breit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2

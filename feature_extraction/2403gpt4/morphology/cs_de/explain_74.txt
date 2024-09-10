@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 327
+explain_74
+Length of all lemmas: 252
+Length of singleton lemmas: 225
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 225
+dies
+dict_values([2, 2, 1, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([5, 5, 2, 3, 1])
+sum of wordFormDict.values() 16
+der
+dict_values([24, 18, 8, 10, 4, 5, 1, 1])
+sum of wordFormDict.values() 71
+werden
+dict_values([1, 6, 5, 2])
+sum of wordFormDict.values() 14
+haben
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([5, 1, 2])
+sum of wordFormDict.values() 8
+legen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+entlegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abgelegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unschön
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+profitieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vorschulpflichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unternehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([2, 2, 1, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([5, 5, 2, 3, 1])
+sum of wordFormDict.values() 16
+der
+dict_values([24, 18, 8, 10, 4, 5, 1, 1])
+sum of wordFormDict.values() 71
+werden
+dict_values([1, 6, 5, 2])
+sum of wordFormDict.values() 14
+haben
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([5, 1, 2])
+sum of wordFormDict.values() 8
+legen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+entlegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abgelegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unschön
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+profitieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vorschulpflichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unternehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

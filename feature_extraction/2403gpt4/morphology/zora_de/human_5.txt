@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 357
+human_5
+Length of all lemmas: 281
+Length of singleton lemmas: 255
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 255
+der
+dict_values([21, 18, 14, 10, 5, 3, 1])
+sum of wordFormDict.values() 72
+haben
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+dies
+dict_values([2, 5, 2, 1, 1])
+sum of wordFormDict.values() 11
+ein
+dict_values([2, 2, 1, 4, 2, 1])
+sum of wordFormDict.values() 12
+halten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 5, 4])
+sum of wordFormDict.values() 12
+sein
+dict_values([2, 5, 1, 4, 2, 1, 1])
+sum of wordFormDict.values() 16
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entstehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1, 4, 1])
+sum of wordFormDict.values() 7
+früh
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kurz
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+existieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bezeugt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([21, 18, 14, 10, 5, 3, 1])
+sum of wordFormDict.values() 72
+haben
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+dies
+dict_values([2, 5, 2, 1, 1])
+sum of wordFormDict.values() 11
+ein
+dict_values([2, 2, 1, 4, 2, 1])
+sum of wordFormDict.values() 12
+halten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 5, 4])
+sum of wordFormDict.values() 12
+sein
+dict_values([2, 5, 1, 4, 2, 1, 1])
+sum of wordFormDict.values() 16
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entstehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1, 4, 1])
+sum of wordFormDict.values() 7
+früh
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kurz
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+existieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bezeugt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2

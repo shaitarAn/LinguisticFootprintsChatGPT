@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 411
+continue_97
+Length of all lemmas: 335
+Length of singleton lemmas: 300
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 300
+der
+dict_values([21, 24, 11, 10, 3, 1, 5])
+sum of wordFormDict.values() 75
+grün
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 3, 4, 7, 2])
+sum of wordFormDict.values() 18
+dies
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+werden
+dict_values([1, 1, 4, 3, 1])
+sum of wordFormDict.values() 10
+sein
+dict_values([10, 3, 4])
+sum of wordFormDict.values() 17
+beschließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+teuer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dürfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sauber
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([21, 24, 11, 10, 3, 1, 5])
+sum of wordFormDict.values() 75
+grün
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+betonen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 3, 4, 7, 2])
+sum of wordFormDict.values() 18
+dies
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+werden
+dict_values([1, 1, 4, 3, 1])
+sum of wordFormDict.values() 10
+sein
+dict_values([10, 3, 4])
+sum of wordFormDict.values() 17
+beschließen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+teuer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dürfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sauber
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2

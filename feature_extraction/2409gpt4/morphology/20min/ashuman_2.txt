@@ -1,0 +1,163 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 382
+ashuman_2
+Length of all lemmas: 298
+Length of singleton lemmas: 261
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 261
+sein
+dict_values([6, 2, 1, 1, 5, 2, 1, 3])
+sum of wordFormDict.values() 21
+ein
+dict_values([6, 4, 3, 4, 1, 2])
+sum of wordFormDict.values() 20
+atemberaubend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([8, 10, 11, 14, 9, 9, 1, 1])
+sum of wordFormDict.values() 63
+werden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+sie
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+gewinnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+ihr
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+nutzen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 1, 3, 3, 2, 1])
+sum of wordFormDict.values() 11
+zeigen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unerwartet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Gewinn
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+außerordentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+intensiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+heben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 2, 1, 1, 5, 2, 1, 3])
+sum of wordFormDict.values() 21
+ein
+dict_values([6, 4, 3, 4, 1, 2])
+sum of wordFormDict.values() 20
+atemberaubend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([8, 10, 11, 14, 9, 9, 1, 1])
+sum of wordFormDict.values() 63
+werden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+sie
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+gewinnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+ihr
+dict_values([3, 4, 1])
+sum of wordFormDict.values() 8
+nutzen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 1, 3, 3, 2, 1])
+sum of wordFormDict.values() 11
+zeigen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unerwartet
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Gewinn
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+außerordentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+intensiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+heben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

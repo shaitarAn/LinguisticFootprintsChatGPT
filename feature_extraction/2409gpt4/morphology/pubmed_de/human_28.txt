@@ -1,0 +1,301 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 789
+human_28
+Length of all lemmas: 628
+Length of singleton lemmas: 562
+Length of matched lemmas: 49
+Length of singleton maching lemmas: 562
+der
+dict_values([50, 59, 11, 25, 16, 12])
+sum of wordFormDict.values() 173
+bestehen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([3, 14, 5, 24, 3])
+sum of wordFormDict.values() 49
+von
+dict_values([27, 1])
+sum of wordFormDict.values() 28
+oral
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+geben
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+betreffen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([5, 7, 1, 1])
+sum of wordFormDict.values() 14
+haben
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+nehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+meist
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+leicht
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+moderat
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+schwer
+dict_values([3, 2, 2, 1])
+sum of wordFormDict.values() 8
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 10, 5, 1])
+sum of wordFormDict.values() 19
+deutsch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+legen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([11, 11, 2, 3])
+sum of wordFormDict.values() 27
+jährlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 3, 4, 3])
+sum of wordFormDict.values() 12
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unzureichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+histologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bakteriell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beeinflussen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+parodontal
+dict_values([2, 2, 3])
+sum of wordFormDict.values() 7
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+induzieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+deutlich
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zahnärztlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+theoretisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([50, 59, 11, 25, 16, 12])
+sum of wordFormDict.values() 173
+bestehen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([3, 14, 5, 24, 3])
+sum of wordFormDict.values() 49
+von
+dict_values([27, 1])
+sum of wordFormDict.values() 28
+oral
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+geben
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+betreffen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([5, 7, 1, 1])
+sum of wordFormDict.values() 14
+haben
+dict_values([6, 2])
+sum of wordFormDict.values() 8
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+nehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+meist
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+leicht
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+moderat
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+schwer
+dict_values([3, 2, 2, 1])
+sum of wordFormDict.values() 8
+alle
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([3, 10, 5, 1])
+sum of wordFormDict.values() 19
+deutsch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+legen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([11, 11, 2, 3])
+sum of wordFormDict.values() 27
+jährlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 3, 4, 3])
+sum of wordFormDict.values() 12
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unzureichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+histologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bakteriell
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beeinflussen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+parodontal
+dict_values([2, 2, 3])
+sum of wordFormDict.values() 7
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+induzieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ander
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+deutlich
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+zahnärztlich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+theoretisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+behandeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2

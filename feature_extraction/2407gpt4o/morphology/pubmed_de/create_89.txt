@@ -1,0 +1,265 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 704
+create_89
+Length of all lemmas: 620
+Length of singleton lemmas: 572
+Length of matched lemmas: 43
+Length of singleton maching lemmas: 572
+der
+dict_values([15, 2, 12, 7, 2, 5, 1, 1])
+sum of wordFormDict.values() 45
+ein
+dict_values([2, 4, 8, 3, 1, 2])
+sum of wordFormDict.values() 20
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 4, 2, 1, 1])
+sum of wordFormDict.values() 9
+erzielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 2, 4])
+sum of wordFormDict.values() 12
+dies
+dict_values([3, 2, 6, 1])
+sum of wordFormDict.values() 12
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stationär
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+digital
+dict_values([3, 1, 2, 1])
+sum of wordFormDict.values() 7
+gesundheitsfördernd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 2, 2, 1])
+sum of wordFormDict.values() 11
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+physisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+früh
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+elektronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesundheitsförderlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+organisatorisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+fundiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+flexibel
+dict_values([1, 2, 4])
+sum of wordFormDict.values() 7
+flexibl
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+körperlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stabil
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+qualitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewährleisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 2, 12, 7, 2, 5, 1, 1])
+sum of wordFormDict.values() 45
+ein
+dict_values([2, 4, 8, 3, 1, 2])
+sum of wordFormDict.values() 20
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 4, 2, 1, 1])
+sum of wordFormDict.values() 9
+erzielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 2, 4])
+sum of wordFormDict.values() 12
+dies
+dict_values([3, 2, 6, 1])
+sum of wordFormDict.values() 12
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stationär
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+digital
+dict_values([3, 1, 2, 1])
+sum of wordFormDict.values() 7
+gesundheitsfördernd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 2, 2, 1])
+sum of wordFormDict.values() 11
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+physisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+früh
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+elektronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesundheitsförderlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+organisatorisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+fundiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zusätzlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+flexibel
+dict_values([1, 2, 4])
+sum of wordFormDict.values() 7
+flexibl
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+körperlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöhen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stabil
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+qualitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewährleisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,91 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 377
+create_34
+Length of all lemmas: 307
+Length of singleton lemmas: 283
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 283
+der
+dict_values([8, 11, 11, 4, 4, 5])
+sum of wordFormDict.values() 43
+unser
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ein
+dict_values([1, 5, 7, 3, 1, 4])
+sum of wordFormDict.values() 21
+gründlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konventionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 3, 3, 1, 1, 1, 2, 1, 1, 1])
+sum of wordFormDict.values() 16
+kein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+rezidiviert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([8, 11, 11, 4, 4, 5])
+sum of wordFormDict.values() 43
+unser
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ein
+dict_values([1, 5, 7, 3, 1, 4])
+sum of wordFormDict.values() 21
+gründlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 3, 2])
+sum of wordFormDict.values() 7
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konventionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 3, 3, 1, 1, 1, 2, 1, 1, 1])
+sum of wordFormDict.values() 16
+kein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+betrachten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+rezidiviert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

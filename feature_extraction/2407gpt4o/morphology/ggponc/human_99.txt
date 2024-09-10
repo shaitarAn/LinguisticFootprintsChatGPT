@@ -1,0 +1,229 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 711
+human_99
+Length of all lemmas: 587
+Length of singleton lemmas: 538
+Length of matched lemmas: 37
+Length of singleton maching lemmas: 538
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 3, 7, 14, 1])
+sum of wordFormDict.values() 30
+kein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+randomisiert
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([62, 31, 18, 39, 11, 3, 1])
+sum of wordFormDict.values() 165
+adjuvant
+dict_values([7, 7])
+sum of wordFormDict.values() 14
+ein
+dict_values([35, 9, 12, 6, 2, 3])
+sum of wordFormDict.values() 67
+postoperativ
+dict_values([4, 9, 5, 1])
+sum of wordFormDict.values() 19
+simultan
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alleinig
+dict_values([5, 4, 1])
+sum of wordFormDict.values() 10
+präoperativ
+dict_values([1, 4, 3, 1])
+sum of wordFormDict.values() 9
+zeigen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 1, 15, 4, 4, 1])
+sum of wordFormDict.values() 27
+dies
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+weisen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+perioperativ
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+erfolgen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([12, 1])
+sum of wordFormDict.values() 13
+durchführen
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+primär
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+durchführbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+symptomorientiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+körperlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leicht
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rehabilitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 3, 7, 14, 1])
+sum of wordFormDict.values() 30
+kein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+randomisiert
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([62, 31, 18, 39, 11, 3, 1])
+sum of wordFormDict.values() 165
+adjuvant
+dict_values([7, 7])
+sum of wordFormDict.values() 14
+ein
+dict_values([35, 9, 12, 6, 2, 3])
+sum of wordFormDict.values() 67
+postoperativ
+dict_values([4, 9, 5, 1])
+sum of wordFormDict.values() 19
+simultan
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alleinig
+dict_values([5, 4, 1])
+sum of wordFormDict.values() 10
+präoperativ
+dict_values([1, 4, 3, 1])
+sum of wordFormDict.values() 9
+zeigen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 1, 15, 4, 4, 1])
+sum of wordFormDict.values() 27
+dies
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+weisen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+perioperativ
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+erfolgen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+können
+dict_values([12, 1])
+sum of wordFormDict.values() 13
+durchführen
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+primär
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+durchführbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+symptomorientiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+körperlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+leicht
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rehabilitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2

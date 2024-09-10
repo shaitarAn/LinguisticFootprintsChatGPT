@@ -1,0 +1,223 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 465
+continue_54
+Length of all lemmas: 367
+Length of singleton lemmas: 325
+Length of matched lemmas: 36
+Length of singleton maching lemmas: 325
+ein
+dict_values([4, 5, 4, 7, 2, 1])
+sum of wordFormDict.values() 23
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 6, 4, 5, 4, 1, 1])
+sum of wordFormDict.values() 22
+er
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+führen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+nehmen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 2, 5])
+sum of wordFormDict.values() 9
+der
+dict_values([8, 2, 11, 3, 6, 10, 1])
+sum of wordFormDict.values() 41
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+rassistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewalttätig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 5, 1, 1, 1])
+sum of wordFormDict.values() 9
+solch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tragisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mental
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+psychisch
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+jed
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+krank
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verstärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 5, 4, 7, 2, 1])
+sum of wordFormDict.values() 23
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([3, 1, 2])
+sum of wordFormDict.values() 6
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 6, 4, 5, 4, 1, 1])
+sum of wordFormDict.values() 22
+er
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+führen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+nehmen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 2, 5])
+sum of wordFormDict.values() 9
+der
+dict_values([8, 2, 11, 3, 6, 10, 1])
+sum of wordFormDict.values() 41
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+rassistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewalttätig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 5, 1, 1, 1])
+sum of wordFormDict.values() 9
+solch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tragisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mental
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+psychisch
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+jed
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+krank
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verstärken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entsprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2

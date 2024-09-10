@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 409
+ashuman_48
+Length of all lemmas: 338
+Length of singleton lemmas: 315
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 315
+der
+dict_values([16, 14, 3, 7, 8, 2])
+sum of wordFormDict.values() 50
+ein
+dict_values([5, 6, 6, 2, 2])
+sum of wordFormDict.values() 21
+sein
+dict_values([5, 7, 3, 8, 3, 12, 4, 3, 1, 1])
+sum of wordFormDict.values() 47
+innovativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 6, 1, 1])
+sum of wordFormDict.values() 9
+zahlreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verlassen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+er
+dict_values([12, 3, 1])
+sum of wordFormDict.values() 16
+ich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 2, 1, 2, 4, 1])
+sum of wordFormDict.values() 13
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([16, 14, 3, 7, 8, 2])
+sum of wordFormDict.values() 50
+ein
+dict_values([5, 6, 6, 2, 2])
+sum of wordFormDict.values() 21
+sein
+dict_values([5, 7, 3, 8, 3, 12, 4, 3, 1, 1])
+sum of wordFormDict.values() 47
+innovativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 6, 1, 1])
+sum of wordFormDict.values() 9
+zahlreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verlassen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+er
+dict_values([12, 3, 1])
+sum of wordFormDict.values() 16
+ich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+tief
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 2, 1, 2, 4, 1])
+sum of wordFormDict.values() 13
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4

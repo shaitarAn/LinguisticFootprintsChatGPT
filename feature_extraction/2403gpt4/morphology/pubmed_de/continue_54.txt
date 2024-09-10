@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 371
+continue_54
+Length of all lemmas: 310
+Length of singleton lemmas: 285
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 285
+sein
+dict_values([5, 5, 1, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([8, 3, 1, 1, 6, 2])
+sum of wordFormDict.values() 21
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([12, 21, 8, 8, 9, 6, 2])
+sum of wordFormDict.values() 66
+chronisch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 6, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bestehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beitragen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([5, 5, 1, 1])
+sum of wordFormDict.values() 12
+ein
+dict_values([8, 3, 1, 1, 6, 2])
+sum of wordFormDict.values() 21
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([12, 21, 8, 8, 9, 6, 2])
+sum of wordFormDict.values() 66
+chronisch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterstützen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 6, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bestehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beitragen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4

@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 388
+continue_57
+Length of all lemmas: 322
+Length of singleton lemmas: 295
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 295
+sozial
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([10, 19, 14, 14, 5, 19])
+sum of wordFormDict.values() 81
+werden
+dict_values([4, 7, 1, 1])
+sum of wordFormDict.values() 13
+ihr
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+lokal
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 8, 5])
+sum of wordFormDict.values() 15
+sein
+dict_values([10, 1, 2, 1, 1])
+sum of wordFormDict.values() 15
+dies
+dict_values([3, 2, 2, 1])
+sum of wordFormDict.values() 8
+unterhaltsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+direkt
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+diskutieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesellschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ansprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([10, 19, 14, 14, 5, 19])
+sum of wordFormDict.values() 81
+werden
+dict_values([4, 7, 1, 1])
+sum of wordFormDict.values() 13
+ihr
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+lokal
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 8, 5])
+sum of wordFormDict.values() 15
+sein
+dict_values([10, 1, 2, 1, 1])
+sum of wordFormDict.values() 15
+dies
+dict_values([3, 2, 2, 1])
+sum of wordFormDict.values() 8
+unterhaltsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+direkt
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+diskutieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesellschaftlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+deutlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ansprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2

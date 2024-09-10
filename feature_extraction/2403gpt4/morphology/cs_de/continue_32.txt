@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 416
+continue_32
+Length of all lemmas: 351
+Length of singleton lemmas: 323
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 323
+sein
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+dies
+dict_values([6, 2, 1, 5])
+sum of wordFormDict.values() 14
+neu
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+der
+dict_values([10, 20, 19, 4, 6, 5])
+sum of wordFormDict.values() 64
+ein
+dict_values([4, 8, 6, 6, 1, 1])
+sum of wordFormDict.values() 26
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 4, 5, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([5, 5, 1])
+sum of wordFormDict.values() 11
+erstklassig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+strategisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfordern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erhöhen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 3, 5, 1])
+sum of wordFormDict.values() 13
+sicher
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+operationell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+dies
+dict_values([6, 2, 1, 5])
+sum of wordFormDict.values() 14
+neu
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+der
+dict_values([10, 20, 19, 4, 6, 5])
+sum of wordFormDict.values() 64
+ein
+dict_values([4, 8, 6, 6, 1, 1])
+sum of wordFormDict.values() 26
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgfältig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 4, 5, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([5, 5, 1])
+sum of wordFormDict.values() 11
+erstklassig
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+strategisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfordern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erhöhen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([4, 3, 5, 1])
+sum of wordFormDict.values() 13
+sicher
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ander
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+operationell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

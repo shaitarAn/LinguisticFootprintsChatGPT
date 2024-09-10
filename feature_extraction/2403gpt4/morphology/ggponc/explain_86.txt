@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 320
+explain_86
+Length of all lemmas: 247
+Length of singleton lemmas: 219
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 219
+der
+dict_values([13, 1, 14, 11, 9, 3, 2, 4])
+sum of wordFormDict.values() 57
+vorausschauend
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([5, 1, 5, 2, 3, 1, 1])
+sum of wordFormDict.values() 18
+ein
+dict_values([6, 1, 2, 3])
+sum of wordFormDict.values() 12
+medizinisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 4, 10])
+sum of wordFormDict.values() 15
+dies
+dict_values([3, 5, 1, 2])
+sum of wordFormDict.values() 11
+können
+dict_values([7, 4, 1])
+sum of wordFormDict.values() 12
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hypothetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+reflektieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reduzieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([13, 1, 14, 11, 9, 3, 2, 4])
+sum of wordFormDict.values() 57
+vorausschauend
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([5, 1, 5, 2, 3, 1, 1])
+sum of wordFormDict.values() 18
+ein
+dict_values([6, 1, 2, 3])
+sum of wordFormDict.values() 12
+medizinisch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([1, 4, 10])
+sum of wordFormDict.values() 15
+dies
+dict_values([3, 5, 1, 2])
+sum of wordFormDict.values() 11
+können
+dict_values([7, 4, 1])
+sum of wordFormDict.values() 12
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hypothetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+solch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+reflektieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reduzieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 609
+create_94
+Length of all lemmas: 563
+Length of singleton lemmas: 532
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 532
+der
+dict_values([7, 3, 4, 11, 9, 5])
+sum of wordFormDict.values() 39
+Digital
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1, 3, 1])
+sum of wordFormDict.values() 8
+ein
+dict_values([3, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 9
+erklären
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+unser
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Feedback
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+wollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+persönlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mobil
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+User
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intuitiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stabil
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strukturieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([7, 3, 4, 11, 9, 5])
+sum of wordFormDict.values() 39
+Digital
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 1, 3, 1])
+sum of wordFormDict.values() 8
+ein
+dict_values([3, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 9
+erklären
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+sagen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+unser
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Feedback
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+wollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+persönlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umsetzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mobil
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+User
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+intuitiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stabil
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strukturieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3

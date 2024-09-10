@@ -1,0 +1,217 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 524
+create_35
+Length of all lemmas: 424
+Length of singleton lemmas: 380
+Length of matched lemmas: 35
+Length of singleton maching lemmas: 380
+begeistert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 16, 13, 9, 6, 5, 1])
+sum of wordFormDict.values() 57
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([8, 4, 2, 1, 1, 1])
+sum of wordFormDict.values() 17
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([4, 4, 4, 1, 1, 2, 1, 1])
+sum of wordFormDict.values() 18
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fantastisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+verschieden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sagen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1, 2, 2, 1])
+sum of wordFormDict.values() 7
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+organisieren
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+arbeiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+präsentieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+begeistert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 16, 13, 9, 6, 5, 1])
+sum of wordFormDict.values() 57
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([8, 4, 2, 1, 1, 1])
+sum of wordFormDict.values() 17
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([2, 2, 1, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([4, 4, 4, 1, 1, 2, 1, 1])
+sum of wordFormDict.values() 18
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fantastisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+verschieden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sagen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1, 2, 2, 1])
+sum of wordFormDict.values() 7
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+jung
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+organisieren
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+arbeiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+präsentieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

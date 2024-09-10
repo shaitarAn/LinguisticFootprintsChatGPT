@@ -1,0 +1,157 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 504
+explain_97
+Length of all lemmas: 424
+Length of singleton lemmas: 389
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 389
+der
+dict_values([15, 13, 15, 5, 4, 3, 1])
+sum of wordFormDict.values() 56
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sekundär
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+regional
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+künftig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 2, 2, 2, 2, 2])
+sum of wordFormDict.values() 15
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 1, 4, 3, 1])
+sum of wordFormDict.values() 10
+können
+dict_values([1, 2, 1, 1, 1])
+sum of wordFormDict.values() 6
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 2, 3, 2, 1])
+sum of wordFormDict.values() 10
+alle
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+restlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verzeichnen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strategisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 13, 15, 5, 4, 3, 1])
+sum of wordFormDict.values() 56
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sekundär
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+regional
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+künftig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([5, 2, 2, 2, 2, 2])
+sum of wordFormDict.values() 15
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 1, 4, 3, 1])
+sum of wordFormDict.values() 10
+können
+dict_values([1, 2, 1, 1, 1])
+sum of wordFormDict.values() 6
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 2, 3, 2, 1])
+sum of wordFormDict.values() 10
+alle
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+restlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verzeichnen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+positiv
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strategisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2

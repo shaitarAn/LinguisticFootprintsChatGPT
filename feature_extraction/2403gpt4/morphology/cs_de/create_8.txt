@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 462
+create_8
+Length of all lemmas: 399
+Length of singleton lemmas: 374
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 374
+der
+dict_values([18, 16, 5, 8, 8, 8])
+sum of wordFormDict.values() 63
+global
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+neu
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+westlich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([7, 2, 1])
+sum of wordFormDict.values() 10
+nah
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([4, 3, 2])
+sum of wordFormDict.values() 9
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 5, 3, 2, 3, 1, 1])
+sum of wordFormDict.values() 22
+chinesisch
+dict_values([4, 6])
+sum of wordFormDict.values() 10
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 5, 1, 1, 2, 1, 4])
+sum of wordFormDict.values() 16
+haben
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+national
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weltweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([18, 16, 5, 8, 8, 8])
+sum of wordFormDict.values() 63
+global
+dict_values([3, 3])
+sum of wordFormDict.values() 6
+neu
+dict_values([2, 3, 1])
+sum of wordFormDict.values() 6
+westlich
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([7, 2, 1])
+sum of wordFormDict.values() 10
+nah
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([4, 3, 2])
+sum of wordFormDict.values() 9
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 5, 3, 2, 3, 1, 1])
+sum of wordFormDict.values() 22
+chinesisch
+dict_values([4, 6])
+sum of wordFormDict.values() 10
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 5, 1, 1, 2, 1, 4])
+sum of wordFormDict.values() 16
+haben
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+national
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weltweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2

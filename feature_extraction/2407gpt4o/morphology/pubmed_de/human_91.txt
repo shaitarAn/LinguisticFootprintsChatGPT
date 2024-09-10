@@ -1,0 +1,79 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 301
+human_91
+Length of all lemmas: 275
+Length of singleton lemmas: 261
+Length of matched lemmas: 12
+Length of singleton maching lemmas: 261
+der
+dict_values([14, 2, 6, 14, 1, 1])
+sum of wordFormDict.values() 38
+weltweit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verursachen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([4, 2, 5, 5, 1])
+sum of wordFormDict.values() 17
+sein
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfangreich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychosozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beeinträchtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 2, 6, 14, 1, 1])
+sum of wordFormDict.values() 38
+weltweit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+verursachen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ein
+dict_values([4, 2, 5, 5, 1])
+sum of wordFormDict.values() 17
+sein
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfangreich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychosozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beeinträchtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

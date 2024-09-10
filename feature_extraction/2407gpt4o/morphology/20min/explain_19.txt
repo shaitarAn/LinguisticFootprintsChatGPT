@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 458
+explain_19
+Length of all lemmas: 409
+Length of singleton lemmas: 384
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 384
+der
+dict_values([7, 5, 4, 5, 3, 4])
+sum of wordFormDict.values() 28
+ein
+dict_values([5, 2, 3, 1, 1])
+sum of wordFormDict.values() 12
+ihr
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+mögen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+richtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+persönlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+strategisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 5, 4, 5, 3, 4])
+sum of wordFormDict.values() 28
+ein
+dict_values([5, 2, 3, 1, 1])
+sum of wordFormDict.values() 12
+ihr
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sie
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+mögen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+richtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+persönlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+strategisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2

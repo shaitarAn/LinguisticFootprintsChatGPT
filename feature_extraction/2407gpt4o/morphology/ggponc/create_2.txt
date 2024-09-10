@@ -1,0 +1,187 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 605
+create_2
+Length of all lemmas: 554
+Length of singleton lemmas: 517
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 517
+der
+dict_values([14, 11, 4, 6, 9, 6, 1])
+sum of wordFormDict.values() 51
+medizinisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([5, 1, 2])
+sum of wordFormDict.values() 8
+ein
+dict_values([3, 9, 3, 6, 2])
+sum of wordFormDict.values() 23
+sein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([6, 5, 1, 2])
+sum of wordFormDict.values() 14
+folgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+multimodal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 3])
+sum of wordFormDict.values() 5
+physisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unter
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+2
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beruflich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+3
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+aufbauen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+qualitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+garantieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 11, 4, 6, 9, 6, 1])
+sum of wordFormDict.values() 51
+medizinisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([5, 1, 2])
+sum of wordFormDict.values() 8
+ein
+dict_values([3, 9, 3, 6, 2])
+sum of wordFormDict.values() 23
+sein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([6, 5, 1, 2])
+sum of wordFormDict.values() 14
+folgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+multimodal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+allgemein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 3])
+sum of wordFormDict.values() 5
+physisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unter
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+2
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beruflich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+3
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+aufbauen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gezielt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+qualitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+garantieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2

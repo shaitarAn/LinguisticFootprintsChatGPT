@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 405
+continue_5
+Length of all lemmas: 372
+Length of singleton lemmas: 349
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 349
+der
+dict_values([5, 4, 4, 7, 1, 1, 1])
+sum of wordFormDict.values() 23
+machen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+aggressiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 2, 2, 1])
+sum of wordFormDict.values() 8
+hoch
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([5, 3, 3, 4, 2])
+sum of wordFormDict.values() 17
+dies
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+extrem
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+steigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reagieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gereizt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+warm
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klimatisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([5, 4, 4, 7, 1, 1, 1])
+sum of wordFormDict.values() 23
+machen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+aggressiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 2, 2, 1])
+sum of wordFormDict.values() 8
+hoch
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([5, 3, 3, 4, 2])
+sum of wordFormDict.values() 17
+dies
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+extrem
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+steigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reagieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gereizt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+warm
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klimatisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2

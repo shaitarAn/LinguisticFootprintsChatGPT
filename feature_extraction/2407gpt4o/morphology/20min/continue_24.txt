@@ -1,0 +1,163 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 550
+continue_24
+Length of all lemmas: 491
+Length of singleton lemmas: 458
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 458
+der
+dict_values([9, 17, 16, 7, 12])
+sum of wordFormDict.values() 61
+ein
+dict_values([2, 2, 7, 3, 1])
+sum of wordFormDict.values() 15
+weltweit
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+schwach
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+vereinigt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+belasten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 1, 1, 1, 2])
+sum of wordFormDict.values() 8
+invertiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+international
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+senken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reagieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([9, 17, 16, 7, 12])
+sum of wordFormDict.values() 61
+ein
+dict_values([2, 2, 7, 3, 1])
+sum of wordFormDict.values() 15
+weltweit
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+schwach
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+vereinigt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+belasten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 1, 1, 1, 2])
+sum of wordFormDict.values() 8
+invertiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+international
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+senken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reagieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 500
+explain_39
+Length of all lemmas: 451
+Length of singleton lemmas: 428
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 428
+der
+dict_values([9, 4, 3, 5, 2, 2])
+sum of wordFormDict.values() 25
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 3, 1, 2, 3, 1, 1])
+sum of wordFormDict.values() 14
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erst
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+hart
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bemerkenswert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+profitieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+inspirierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dynamisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([9, 4, 3, 5, 2, 2])
+sum of wordFormDict.values() 25
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fördern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 2, 3, 1, 2, 3, 1, 1])
+sum of wordFormDict.values() 14
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erst
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+hart
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bemerkenswert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+profitieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gemeinsam
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+inspirierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dynamisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

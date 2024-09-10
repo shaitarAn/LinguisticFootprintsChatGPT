@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 360
+create_13
+Length of all lemmas: 303
+Length of singleton lemmas: 278
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 278
+ein
+dict_values([5, 11, 4, 4, 2])
+sum of wordFormDict.values() 26
+der
+dict_values([16, 5, 13, 3, 6, 11, 1])
+sum of wordFormDict.values() 55
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langjährig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+werden
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+zellgebunden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestätigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+mikroskopisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 5, 1, 1, 2, 1])
+sum of wordFormDict.values() 12
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zystoskopisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+papillär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+histopathologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 11, 4, 4, 2])
+sum of wordFormDict.values() 26
+der
+dict_values([16, 5, 13, 3, 6, 11, 1])
+sum of wordFormDict.values() 55
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langjährig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+werden
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+zellgebunden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestätigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+mikroskopisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 5, 1, 1, 2, 1])
+sum of wordFormDict.values() 12
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zystoskopisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+papillär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+histopathologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

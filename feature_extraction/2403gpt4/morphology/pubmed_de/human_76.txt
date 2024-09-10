@@ -1,0 +1,247 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 793
+human_76
+Length of all lemmas: 642
+Length of singleton lemmas: 584
+Length of matched lemmas: 40
+Length of singleton maching lemmas: 584
+der
+dict_values([14, 64, 26, 57, 11, 10])
+sum of wordFormDict.values() 182
+werden
+dict_values([3, 9, 12, 1])
+sum of wordFormDict.values() 25
+psychotherapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([8, 3, 1, 4, 1])
+sum of wordFormDict.values() 17
+finden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 4, 8, 4, 3, 1])
+sum of wordFormDict.values() 21
+Österreichische
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gelten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zentral
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([23, 9, 2, 1])
+sum of wordFormDict.values() 35
+enthalten
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+von
+dict_values([19, 1])
+sum of wordFormDict.values() 20
+sollen
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+entsprechend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+haben
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+fachlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ökonomisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sehen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ambulant
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+enger
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+sogenannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1, 4])
+sum of wordFormDict.values() 7
+unterschiedlich
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+einige
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+psychiatrisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+der
+dict_values([14, 64, 26, 57, 11, 10])
+sum of wordFormDict.values() 182
+werden
+dict_values([3, 9, 12, 1])
+sum of wordFormDict.values() 25
+psychotherapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([8, 3, 1, 4, 1])
+sum of wordFormDict.values() 17
+finden
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+erst
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 4, 8, 4, 3, 1])
+sum of wordFormDict.values() 21
+Österreichische
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gelten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zentral
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([23, 9, 2, 1])
+sum of wordFormDict.values() 35
+enthalten
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+von
+dict_values([19, 1])
+sum of wordFormDict.values() 20
+sollen
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+entsprechend
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+medizinisch
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+haben
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+fachlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ökonomisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sehen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ambulant
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+enger
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+sogenannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1, 4])
+sum of wordFormDict.values() 7
+unterschiedlich
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+einige
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+psychiatrisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+weisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([2, 2])
+sum of wordFormDict.values() 4

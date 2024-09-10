@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 373
+continue_64
+Length of all lemmas: 321
+Length of singleton lemmas: 299
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 299
+der
+dict_values([3, 5, 2, 14, 19, 2])
+sum of wordFormDict.values() 45
+neu
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 1, 3, 1])
+sum of wordFormDict.values() 10
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 3, 2, 1])
+sum of wordFormDict.values() 7
+effektiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+telemedizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+technisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([7, 3, 1, 1])
+sum of wordFormDict.values() 12
+sollen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+einhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([3, 5, 2, 14, 19, 2])
+sum of wordFormDict.values() 45
+neu
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([5, 1, 3, 1])
+sum of wordFormDict.values() 10
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 3, 2, 1])
+sum of wordFormDict.values() 7
+effektiv
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+telemedizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+technisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([7, 3, 1, 1])
+sum of wordFormDict.values() 12
+sollen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+einhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3

@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 514
+explain_28
+Length of all lemmas: 431
+Length of singleton lemmas: 401
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 401
+der
+dict_values([16, 15, 5, 5, 5, 5, 1])
+sum of wordFormDict.values() 52
+stehen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+global
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 2, 1, 1, 1, 2, 1])
+sum of wordFormDict.values() 11
+er
+dict_values([7, 1, 1])
+sum of wordFormDict.values() 9
+ein
+dict_values([2, 4, 1, 2, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([1, 4, 1, 1, 1])
+sum of wordFormDict.values() 8
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+international
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+gehören
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+militärisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erzwungen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mächtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fehlerhaft
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sensationslüstern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([16, 15, 5, 5, 5, 5, 1])
+sum of wordFormDict.values() 52
+stehen
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+global
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([3, 2, 1, 1, 1, 2, 1])
+sum of wordFormDict.values() 11
+er
+dict_values([7, 1, 1])
+sum of wordFormDict.values() 9
+ein
+dict_values([2, 4, 1, 2, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([1, 4, 1, 1, 1])
+sum of wordFormDict.values() 8
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+international
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+gehören
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+militärisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erzwungen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mächtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fehlerhaft
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sensationslüstern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+betreiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2

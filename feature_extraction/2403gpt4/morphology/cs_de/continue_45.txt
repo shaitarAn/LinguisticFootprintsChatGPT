@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 539
+continue_45
+Length of all lemmas: 475
+Length of singleton lemmas: 449
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 449
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([3, 4, 6, 1, 2])
+sum of wordFormDict.values() 16
+der
+dict_values([6, 8, 1, 7, 3, 5, 5])
+sum of wordFormDict.values() 35
+können
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([3, 2, 1, 1, 1])
+sum of wordFormDict.values() 8
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+ein
+dict_values([5, 1, 5, 2, 1, 1])
+sum of wordFormDict.values() 15
+viel
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+fingen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+busineß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+A
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dream
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+du
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([3, 4, 6, 1, 2])
+sum of wordFormDict.values() 16
+der
+dict_values([6, 8, 1, 7, 3, 5, 5])
+sum of wordFormDict.values() 35
+können
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+ihr
+dict_values([3, 2, 1, 1, 1])
+sum of wordFormDict.values() 8
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+ein
+dict_values([5, 1, 5, 2, 1, 1])
+sum of wordFormDict.values() 15
+viel
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+fingen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+busineß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+A
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dream
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+du
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+global
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2

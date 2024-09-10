@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 452
+create_48
+Length of all lemmas: 360
+Length of singleton lemmas: 329
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 329
+der
+dict_values([15, 7, 13, 16, 11, 2, 1])
+sum of wordFormDict.values() 65
+sein
+dict_values([3, 7, 5, 9, 1, 1, 4, 1, 1])
+sum of wordFormDict.values() 32
+ein
+dict_values([4, 7, 2, 8])
+sum of wordFormDict.values() 21
+neu
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+kulinarisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+bekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sonnenverwöhnt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+kalifornisch
+dict_values([1, 1, 2, 3])
+sum of wordFormDict.values() 7
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+erleben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+außergewöhnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bringen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+köstlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 7, 13, 16, 11, 2, 1])
+sum of wordFormDict.values() 65
+sein
+dict_values([3, 7, 5, 9, 1, 1, 4, 1, 1])
+sum of wordFormDict.values() 32
+ein
+dict_values([4, 7, 2, 8])
+sum of wordFormDict.values() 21
+neu
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+kulinarisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+werden
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+alle
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+bekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sonnenverwöhnt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+kalifornisch
+dict_values([1, 1, 2, 3])
+sum of wordFormDict.values() 7
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sprechen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ich
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+erleben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+außergewöhnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bringen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+köstlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

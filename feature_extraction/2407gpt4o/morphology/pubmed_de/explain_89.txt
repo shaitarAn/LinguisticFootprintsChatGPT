@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 410
+explain_89
+Length of all lemmas: 361
+Length of singleton lemmas: 341
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 341
+der
+dict_values([9, 3, 11, 12, 1, 4, 1])
+sum of wordFormDict.values() 41
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 3, 3, 1])
+sum of wordFormDict.values() 9
+dies
+dict_values([2, 2, 2, 1])
+sum of wordFormDict.values() 7
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pflegerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([9, 3, 11, 12, 1, 4, 1])
+sum of wordFormDict.values() 41
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 3, 3, 1])
+sum of wordFormDict.values() 9
+dies
+dict_values([2, 2, 2, 1])
+sum of wordFormDict.values() 7
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+pflegerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 3])
+sum of wordFormDict.values() 4
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bleiben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2

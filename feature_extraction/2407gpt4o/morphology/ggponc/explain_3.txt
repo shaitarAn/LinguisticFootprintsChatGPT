@@ -1,0 +1,199 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 560
+explain_3
+Length of all lemmas: 473
+Length of singleton lemmas: 428
+Length of matched lemmas: 32
+Length of singleton maching lemmas: 428
+der
+dict_values([14, 13, 12, 3, 4, 2])
+sum of wordFormDict.values() 48
+ein
+dict_values([6, 13, 3, 4])
+sum of wordFormDict.values() 26
+werden
+dict_values([1, 5, 14, 1])
+sum of wordFormDict.values() 21
+sicherstellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 3, 2, 4])
+sum of wordFormDict.values() 12
+solch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sicher
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 5, 1, 1])
+sum of wordFormDict.values() 9
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Sie|sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([1, 5, 2])
+sum of wordFormDict.values() 8
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rekonstruktiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gestielt
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+frei
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+eignen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+funktionell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+liegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hervorragend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+allschichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+begünstigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mikrovaskulär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+topographisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+handhaben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+evaluieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 13, 12, 3, 4, 2])
+sum of wordFormDict.values() 48
+ein
+dict_values([6, 13, 3, 4])
+sum of wordFormDict.values() 26
+werden
+dict_values([1, 5, 14, 1])
+sum of wordFormDict.values() 21
+sicherstellen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 3, 2, 4])
+sum of wordFormDict.values() 12
+solch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sicher
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 5, 1, 1])
+sum of wordFormDict.values() 9
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Sie|sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([1, 5, 2])
+sum of wordFormDict.values() 8
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rekonstruktiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gestielt
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+frei
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+eignen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+funktionell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+liegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hervorragend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+allschichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+postoperativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+begünstigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mikrovaskulär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+topographisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+handhaben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+evaluieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2

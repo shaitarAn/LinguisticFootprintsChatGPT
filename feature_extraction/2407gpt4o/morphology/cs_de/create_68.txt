@@ -1,0 +1,91 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 486
+create_68
+Length of all lemmas: 452
+Length of singleton lemmas: 431
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 431
+der
+dict_values([8, 7, 8, 1, 1, 3])
+sum of wordFormDict.values() 28
+digital
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([1, 4, 2, 1, 1, 1])
+sum of wordFormDict.values() 10
+jed
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Digital
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+speichern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([8, 7, 8, 1, 1, 3])
+sum of wordFormDict.values() 28
+digital
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([1, 4, 2, 1, 1, 1])
+sum of wordFormDict.values() 10
+jed
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Digital
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+speichern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2

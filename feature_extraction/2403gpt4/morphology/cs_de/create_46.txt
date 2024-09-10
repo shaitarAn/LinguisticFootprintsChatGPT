@@ -1,0 +1,97 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 414
+create_46
+Length of all lemmas: 356
+Length of singleton lemmas: 330
+Length of matched lemmas: 15
+Length of singleton maching lemmas: 330
+der
+dict_values([23, 19, 7, 9, 9, 6])
+sum of wordFormDict.values() 73
+ein
+dict_values([2, 4, 2, 4, 2, 2])
+sum of wordFormDict.values() 16
+ihr
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+neu
+dict_values([2, 1, 2, 1, 1])
+sum of wordFormDict.values() 7
+kreativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+werden
+dict_values([2, 5, 4])
+sum of wordFormDict.values() 11
+dies
+dict_values([9, 1, 2, 1])
+sum of wordFormDict.values() 13
+beeindruckend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 4, 1, 1])
+sum of wordFormDict.values() 8
+virtuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+technologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([23, 19, 7, 9, 9, 6])
+sum of wordFormDict.values() 73
+ein
+dict_values([2, 4, 2, 4, 2, 2])
+sum of wordFormDict.values() 16
+ihr
+dict_values([4, 2, 2])
+sum of wordFormDict.values() 8
+neu
+dict_values([2, 1, 2, 1, 1])
+sum of wordFormDict.values() 7
+kreativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 1])
+sum of wordFormDict.values() 7
+werden
+dict_values([2, 5, 4])
+sum of wordFormDict.values() 11
+dies
+dict_values([9, 1, 2, 1])
+sum of wordFormDict.values() 13
+beeindruckend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 4, 1, 1])
+sum of wordFormDict.values() 8
+virtuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+technologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

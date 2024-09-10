@@ -1,0 +1,85 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 480
+create_29
+Length of all lemmas: 471
+Length of singleton lemmas: 450
+Length of matched lemmas: 13
+Length of singleton maching lemmas: 450
+algorithmisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 9, 3, 2, 2, 3])
+sum of wordFormDict.values() 26
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([2, 2, 2, 2])
+sum of wordFormDict.values() 8
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+herkömmlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fundiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+algorithmisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 9, 3, 2, 2, 3])
+sum of wordFormDict.values() 26
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ein
+dict_values([2, 2, 2, 2])
+sum of wordFormDict.values() 8
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+herkömmlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+fundiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2

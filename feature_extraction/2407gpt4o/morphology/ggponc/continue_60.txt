@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 480
+continue_60
+Length of all lemmas: 438
+Length of singleton lemmas: 416
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 416
+der
+dict_values([7, 9, 3, 2, 4, 3, 1])
+sum of wordFormDict.values() 29
+ein
+dict_values([2, 3, 4, 1])
+sum of wordFormDict.values() 10
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 3, 2, 1, 1])
+sum of wordFormDict.values() 8
+validiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+physisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+standardisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 9, 3, 2, 4, 3, 1])
+sum of wordFormDict.values() 29
+ein
+dict_values([2, 3, 4, 1])
+sum of wordFormDict.values() 10
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 3, 2, 1, 1])
+sum of wordFormDict.values() 8
+validiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+physisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sozial
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+häufig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+standardisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+speziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 450
+create_98
+Length of all lemmas: 408
+Length of singleton lemmas: 387
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 387
+der
+dict_values([6, 11, 7, 2, 3, 1, 1])
+sum of wordFormDict.values() 31
+ein
+dict_values([2, 6, 4, 1])
+sum of wordFormDict.values() 13
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([7, 2, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 15
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prägen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommunistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unternehmerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+kapitalistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+er
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([6, 11, 7, 2, 3, 1, 1])
+sum of wordFormDict.values() 31
+ein
+dict_values([2, 6, 4, 1])
+sum of wordFormDict.values() 13
+stehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([7, 2, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 15
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prägen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommunistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unternehmerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+kapitalistisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+er
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vollständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 366
+ashuman_80
+Length of all lemmas: 307
+Length of singleton lemmas: 282
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 282
+der
+dict_values([19, 5, 17, 7, 6, 6])
+sum of wordFormDict.values() 60
+sein
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([9, 5, 2, 2, 1])
+sum of wordFormDict.values() 19
+erfordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 4, 1, 1])
+sum of wordFormDict.values() 9
+mehrere
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+klinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 5, 17, 7, 6, 6])
+sum of wordFormDict.values() 60
+sein
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+ein
+dict_values([9, 5, 2, 2, 1])
+sum of wordFormDict.values() 19
+erfordern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 4])
+sum of wordFormDict.values() 8
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 4, 1, 1])
+sum of wordFormDict.values() 9
+mehrere
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+individuell
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+klinisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2

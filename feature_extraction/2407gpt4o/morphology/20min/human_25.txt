@@ -1,0 +1,85 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 369
+human_25
+Length of all lemmas: 302
+Length of singleton lemmas: 279
+Length of matched lemmas: 13
+Length of singleton maching lemmas: 279
+der
+dict_values([15, 22, 12, 26, 3, 3])
+sum of wordFormDict.values() 81
+israelisch
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+international
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([1, 5, 2, 2, 1, 1])
+sum of wordFormDict.values() 12
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lehnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 22, 12, 26, 3, 3])
+sum of wordFormDict.values() 81
+israelisch
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+sein
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+international
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([1, 5, 2, 2, 1, 1])
+sum of wordFormDict.values() 12
+dies
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lehnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2

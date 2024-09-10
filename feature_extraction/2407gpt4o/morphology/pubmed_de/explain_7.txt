@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 492
+explain_7
+Length of all lemmas: 451
+Length of singleton lemmas: 426
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 426
+der
+dict_values([14, 5, 8, 5, 3, 4])
+sum of wordFormDict.values() 39
+deutsch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([5, 2, 1, 1, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([4, 5, 1, 2, 3])
+sum of wordFormDict.values() 15
+gleichzeitig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erheblich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unzureichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wachsend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+pflegesensitiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 5, 8, 5, 3, 4])
+sum of wordFormDict.values() 39
+deutsch
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([5, 2, 1, 1, 1])
+sum of wordFormDict.values() 10
+werden
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([4, 5, 1, 2, 3])
+sum of wordFormDict.values() 15
+gleichzeitig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erheblich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unzureichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wachsend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+pflegesensitiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2

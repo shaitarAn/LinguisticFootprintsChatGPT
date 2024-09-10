@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 389
+explain_79
+Length of all lemmas: 308
+Length of singleton lemmas: 277
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 277
+ein
+dict_values([6, 4, 9, 2, 4])
+sum of wordFormDict.values() 25
+haben
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([8, 11, 11, 18, 1, 5, 3])
+sum of wordFormDict.values() 57
+sein
+dict_values([6, 3, 1, 1, 1, 1])
+sum of wordFormDict.values() 13
+dies
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+aromatisiert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+traditionell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bekannt
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+aromatisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+expandieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eröffnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2, 2, 2, 1])
+sum of wordFormDict.values() 8
+ihr
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 4, 9, 2, 4])
+sum of wordFormDict.values() 25
+haben
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([8, 11, 11, 18, 1, 5, 3])
+sum of wordFormDict.values() 57
+sein
+dict_values([6, 3, 1, 1, 1, 1])
+sum of wordFormDict.values() 13
+dies
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+geben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ander
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+aromatisiert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ähnlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gering
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+traditionell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bekannt
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+aromatisieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+expandieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+eröffnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 2, 2, 2, 1])
+sum of wordFormDict.values() 8
+ihr
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2

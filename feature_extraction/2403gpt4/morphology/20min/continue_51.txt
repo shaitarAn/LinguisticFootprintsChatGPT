@@ -1,0 +1,157 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 437
+continue_51
+Length of all lemmas: 356
+Length of singleton lemmas: 326
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 326
+der
+dict_values([23, 20, 11, 7, 7, 6, 1])
+sum of wordFormDict.values() 75
+positiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([9, 6, 4, 7, 1, 3, 3, 1, 1])
+sum of wordFormDict.values() 35
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 4, 6, 3, 1])
+sum of wordFormDict.values() 20
+können
+dict_values([9, 3, 1])
+sum of wordFormDict.values() 13
+öffentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+persönlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+amerikanisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 1, 7, 2])
+sum of wordFormDict.values() 16
+dies
+dict_values([6, 2, 4, 1, 1])
+sum of wordFormDict.values() 14
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+darstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+negativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwerwiegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+auswirken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([23, 20, 11, 7, 7, 6, 1])
+sum of wordFormDict.values() 75
+positiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([9, 6, 4, 7, 1, 3, 3, 1, 1])
+sum of wordFormDict.values() 35
+schwer
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 4, 6, 3, 1])
+sum of wordFormDict.values() 20
+können
+dict_values([9, 3, 1])
+sum of wordFormDict.values() 13
+öffentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+persönlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+amerikanisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 1, 7, 2])
+sum of wordFormDict.values() 16
+dies
+dict_values([6, 2, 4, 1, 1])
+sum of wordFormDict.values() 14
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+darstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+negativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwerwiegend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+auswirken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3

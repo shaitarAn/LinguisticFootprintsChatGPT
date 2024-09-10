@@ -1,0 +1,127 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 624
+continue_33
+Length of all lemmas: 628
+Length of singleton lemmas: 603
+Length of matched lemmas: 20
+Length of singleton maching lemmas: 603
+der
+dict_values([12, 4, 6, 16, 4, 1, 6])
+sum of wordFormDict.values() 49
+ein
+dict_values([3, 5, 4, 3, 2])
+sum of wordFormDict.values() 17
+sein
+dict_values([5, 3, 2])
+sum of wordFormDict.values() 10
+dies
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+benötigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([2, 7])
+sum of wordFormDict.values() 9
+histologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+notwendig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reibungslos
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effizient
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+informieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([12, 4, 6, 16, 4, 1, 6])
+sum of wordFormDict.values() 49
+ein
+dict_values([3, 5, 4, 3, 2])
+sum of wordFormDict.values() 17
+sein
+dict_values([5, 3, 2])
+sum of wordFormDict.values() 10
+dies
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+genau
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+benötigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 1, 1, 1])
+sum of wordFormDict.values() 6
+werden
+dict_values([2, 7])
+sum of wordFormDict.values() 9
+histologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+notwendig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+reibungslos
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effizient
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+informieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2

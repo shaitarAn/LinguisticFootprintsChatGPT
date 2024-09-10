@@ -1,0 +1,187 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 420
+continue_5
+Length of all lemmas: 331
+Length of singleton lemmas: 293
+Length of matched lemmas: 30
+Length of singleton maching lemmas: 293
+der
+dict_values([22, 18, 8, 6, 3, 8])
+sum of wordFormDict.values() 65
+werden
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+müssen
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+intern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehend
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([5, 11, 1, 5, 3])
+sum of wordFormDict.values() 25
+weit
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([7, 6, 2, 1, 1, 1])
+sum of wordFormDict.values() 18
+wirtschaftlich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+neu
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+europäisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+anstreben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 2, 3])
+sum of wordFormDict.values() 8
+dies
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fördern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+aktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+extern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+flexibel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([22, 18, 8, 6, 3, 8])
+sum of wordFormDict.values() 65
+werden
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+müssen
+dict_values([7, 1])
+sum of wordFormDict.values() 8
+intern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehend
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+ein
+dict_values([5, 11, 1, 5, 3])
+sum of wordFormDict.values() 25
+weit
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([7, 6, 2, 1, 1, 1])
+sum of wordFormDict.values() 18
+wirtschaftlich
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+neu
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+europäisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+anstreben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 2, 3])
+sum of wordFormDict.values() 8
+dies
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+politisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+fördern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+berücksichtigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+aktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+extern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+flexibel
+dict_values([1, 1])
+sum of wordFormDict.values() 2

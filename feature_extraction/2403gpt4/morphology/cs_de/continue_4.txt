@@ -1,0 +1,169 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 456
+continue_4
+Length of all lemmas: 376
+Length of singleton lemmas: 340
+Length of matched lemmas: 27
+Length of singleton maching lemmas: 340
+der
+dict_values([8, 25, 12, 13, 18, 11])
+sum of wordFormDict.values() 87
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+ein
+dict_values([7, 4, 3, 5, 1])
+sum of wordFormDict.values() 20
+maximal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dienen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([12, 1, 1, 1])
+sum of wordFormDict.values() 15
+dies
+dict_values([6, 1, 1, 1])
+sum of wordFormDict.values() 9
+überwachen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 5, 6, 1])
+sum of wordFormDict.values() 14
+haben
+dict_values([8, 1, 2])
+sum of wordFormDict.values() 11
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erfüllen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beeinflussen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+direkt
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mächtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stabil
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+richtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gesund
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([8, 25, 12, 13, 18, 11])
+sum of wordFormDict.values() 87
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 3, 1])
+sum of wordFormDict.values() 9
+ein
+dict_values([7, 4, 3, 5, 1])
+sum of wordFormDict.values() 20
+maximal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dienen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([12, 1, 1, 1])
+sum of wordFormDict.values() 15
+dies
+dict_values([6, 1, 1, 1])
+sum of wordFormDict.values() 9
+überwachen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([2, 5, 6, 1])
+sum of wordFormDict.values() 14
+haben
+dict_values([8, 1, 2])
+sum of wordFormDict.values() 11
+wesentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+erfüllen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beeinflussen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+direkt
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mächtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stabil
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schaffen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+richtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gesund
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sorgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

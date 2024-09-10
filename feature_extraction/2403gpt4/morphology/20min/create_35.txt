@@ -1,0 +1,91 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 381
+create_35
+Length of all lemmas: 320
+Length of singleton lemmas: 300
+Length of matched lemmas: 14
+Length of singleton maching lemmas: 300
+der
+dict_values([9, 6, 13, 8, 3, 1])
+sum of wordFormDict.values() 40
+ein
+dict_values([4, 6, 1, 1, 1, 1])
+sum of wordFormDict.values() 14
+ihr
+dict_values([3, 1, 2, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([6, 1, 1, 2, 3, 1, 1, 1])
+sum of wordFormDict.values() 16
+verdächtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+versuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+können
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 2, 3])
+sum of wordFormDict.values() 6
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([9, 6, 13, 8, 3, 1])
+sum of wordFormDict.values() 40
+ein
+dict_values([4, 6, 1, 1, 1, 1])
+sum of wordFormDict.values() 14
+ihr
+dict_values([3, 1, 2, 1])
+sum of wordFormDict.values() 7
+sein
+dict_values([6, 1, 1, 2, 3, 1, 1, 1])
+sum of wordFormDict.values() 16
+verdächtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+versuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([4, 1, 2])
+sum of wordFormDict.values() 7
+können
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+alle
+dict_values([1, 2, 3])
+sum of wordFormDict.values() 6
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

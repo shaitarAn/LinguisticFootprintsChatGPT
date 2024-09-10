@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 461
+create_88
+Length of all lemmas: 380
+Length of singleton lemmas: 347
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 347
+der
+dict_values([20, 13, 18, 11, 4, 1, 6, 1])
+sum of wordFormDict.values() 74
+global
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([2, 6, 10, 5, 2])
+sum of wordFormDict.values() 25
+dies
+dict_values([2, 2, 4, 1])
+sum of wordFormDict.values() 9
+sein
+dict_values([8, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 14
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 1, 5])
+sum of wordFormDict.values() 9
+schnell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+rasant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wachsend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+grün
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([20, 13, 18, 11, 4, 1, 6, 1])
+sum of wordFormDict.values() 74
+global
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+haben
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+ein
+dict_values([2, 6, 10, 5, 2])
+sum of wordFormDict.values() 25
+dies
+dict_values([2, 2, 4, 1])
+sum of wordFormDict.values() 9
+sein
+dict_values([8, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 14
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 1, 5])
+sum of wordFormDict.values() 9
+schnell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+rasant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+traditionell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+gehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wachsend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lokal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+grün
+dict_values([1, 1])
+sum of wordFormDict.values() 2

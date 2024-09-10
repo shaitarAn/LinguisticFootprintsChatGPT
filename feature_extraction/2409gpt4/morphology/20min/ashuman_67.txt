@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 436
+ashuman_67
+Length of all lemmas: 362
+Length of singleton lemmas: 324
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 324
+der
+dict_values([15, 8, 23, 24, 10, 7])
+sum of wordFormDict.values() 87
+fortwährend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([5, 8, 1])
+sum of wordFormDict.values() 14
+historisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beide
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 1, 2, 2, 2])
+sum of wordFormDict.values() 8
+palästinensisch
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+politisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([6, 1, 5, 1, 1, 1])
+sum of wordFormDict.values() 15
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+jüdisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+arabisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([15, 8, 23, 24, 10, 7])
+sum of wordFormDict.values() 87
+fortwährend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+sein
+dict_values([5, 8, 1])
+sum of wordFormDict.values() 14
+historisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beide
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([1, 1, 2, 2, 2])
+sum of wordFormDict.values() 8
+palästinensisch
+dict_values([2, 2, 2])
+sum of wordFormDict.values() 6
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 4])
+sum of wordFormDict.values() 7
+politisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([6, 1, 5, 1, 1, 1])
+sum of wordFormDict.values() 15
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+werden
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+jüdisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+arabisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+liegen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([3, 1])
+sum of wordFormDict.values() 4

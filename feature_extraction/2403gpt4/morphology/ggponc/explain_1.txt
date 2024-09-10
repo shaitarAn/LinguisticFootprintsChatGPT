@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 369
+explain_1
+Length of all lemmas: 304
+Length of singleton lemmas: 280
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 280
+dies
+dict_values([5, 3, 2, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+klinisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([13, 7, 13, 7, 9, 4])
+sum of wordFormDict.values() 53
+ein
+dict_values([5, 10, 1, 5, 3, 1])
+sum of wordFormDict.values() 25
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2, 3, 4, 1, 1])
+sum of wordFormDict.values() 13
+stark
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 2, 5, 2])
+sum of wordFormDict.values() 10
+feststellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+dies
+dict_values([5, 3, 2, 1])
+sum of wordFormDict.values() 11
+werden
+dict_values([4, 5, 1])
+sum of wordFormDict.values() 10
+klinisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([13, 7, 13, 7, 9, 4])
+sum of wordFormDict.values() 53
+ein
+dict_values([5, 10, 1, 5, 3, 1])
+sum of wordFormDict.values() 25
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+signifikant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2, 3, 4, 1, 1])
+sum of wordFormDict.values() 13
+stark
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([1, 2, 5, 2])
+sum of wordFormDict.values() 10
+feststellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhalten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verbessern
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5

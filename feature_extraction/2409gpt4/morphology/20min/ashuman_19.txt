@@ -1,0 +1,151 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 434
+ashuman_19
+Length of all lemmas: 345
+Length of singleton lemmas: 316
+Length of matched lemmas: 24
+Length of singleton maching lemmas: 316
+viel
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+bloß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lernen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([15, 2, 8, 12, 5, 2, 11, 1])
+sum of wordFormDict.values() 56
+unser
+dict_values([6, 2, 6, 7, 2, 4])
+sum of wordFormDict.values() 27
+Leben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+beeinflussen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([8, 7])
+sum of wordFormDict.values() 15
+wir
+dict_values([8, 16])
+sum of wordFormDict.values() 24
+physisch
+dict_values([2, 1, 3])
+sum of wordFormDict.values() 6
+ein
+dict_values([11, 1, 10, 1, 2, 1])
+sum of wordFormDict.values() 26
+sein
+dict_values([10, 2, 2, 2, 1])
+sum of wordFormDict.values() 17
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 1, 1, 1])
+sum of wordFormDict.values() 6
+bringen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+inner
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+äußer
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unaufgeräumt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+frei
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+bloß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lernen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([15, 2, 8, 12, 5, 2, 11, 1])
+sum of wordFormDict.values() 56
+unser
+dict_values([6, 2, 6, 7, 2, 4])
+sum of wordFormDict.values() 27
+Leben
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+beeinflussen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([8, 7])
+sum of wordFormDict.values() 15
+wir
+dict_values([8, 16])
+sum of wordFormDict.values() 24
+physisch
+dict_values([2, 1, 3])
+sum of wordFormDict.values() 6
+ein
+dict_values([11, 1, 10, 1, 2, 1])
+sum of wordFormDict.values() 26
+sein
+dict_values([10, 2, 2, 2, 1])
+sum of wordFormDict.values() 17
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 1, 1, 1])
+sum of wordFormDict.values() 6
+bringen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+inner
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+äußer
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unaufgeräumt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jed
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+frei
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+helfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 371
+asmachine_74
+Length of all lemmas: 301
+Length of singleton lemmas: 275
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 275
+dies
+dict_values([1, 4, 1, 4, 2, 3])
+sum of wordFormDict.values() 15
+sein
+dict_values([7, 3, 1, 4])
+sum of wordFormDict.values() 15
+der
+dict_values([19, 6, 9, 12, 4, 3, 1])
+sum of wordFormDict.values() 54
+ein
+dict_values([5, 7, 1, 2])
+sum of wordFormDict.values() 15
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mild
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 3, 2, 2])
+sum of wordFormDict.values() 10
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beeinflussen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 4, 1, 4, 2, 3])
+sum of wordFormDict.values() 15
+sein
+dict_values([7, 3, 1, 4])
+sum of wordFormDict.values() 15
+der
+dict_values([19, 6, 9, 12, 4, 3, 1])
+sum of wordFormDict.values() 54
+ein
+dict_values([5, 7, 1, 2])
+sum of wordFormDict.values() 15
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+mild
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 3, 2, 2])
+sum of wordFormDict.values() 10
+haben
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beeinflussen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

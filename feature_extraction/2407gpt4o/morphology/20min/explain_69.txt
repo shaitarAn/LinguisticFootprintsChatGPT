@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 399
+explain_69
+Length of all lemmas: 336
+Length of singleton lemmas: 307
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 307
+der
+dict_values([11, 4, 3, 3, 3, 10])
+sum of wordFormDict.values() 34
+ein
+dict_values([2, 2, 2, 2, 2, 2, 1])
+sum of wordFormDict.values() 13
+herausragend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2, 3, 1, 2, 1, 1, 1])
+sum of wordFormDict.values() 13
+spielen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([6, 2, 2])
+sum of wordFormDict.values() 10
+stark
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+beeindruckend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erst
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ziehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Club
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+bekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dürfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+massiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kurz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+club
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([11, 4, 3, 3, 3, 10])
+sum of wordFormDict.values() 34
+ein
+dict_values([2, 2, 2, 2, 2, 2, 1])
+sum of wordFormDict.values() 13
+herausragend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([2, 2, 3, 1, 2, 1, 1, 1])
+sum of wordFormDict.values() 13
+spielen
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+haben
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+einige
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+er
+dict_values([6, 2, 2])
+sum of wordFormDict.values() 10
+stark
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+beeindruckend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erst
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ziehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Club
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+bekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dürfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+massiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kurz
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+club
+dict_values([1, 1])
+sum of wordFormDict.values() 2

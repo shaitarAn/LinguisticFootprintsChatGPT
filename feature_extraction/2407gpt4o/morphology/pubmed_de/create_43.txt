@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 454
+create_43
+Length of all lemmas: 416
+Length of singleton lemmas: 396
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 396
+ein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([5, 9, 1, 4, 2, 3, 4])
+sum of wordFormDict.values() 28
+sein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spielen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+atopisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([5, 9, 1, 4, 2, 3, 4])
+sum of wordFormDict.values() 28
+sein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+spielen
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+atopisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aktuell
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+untersuchen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wissenschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

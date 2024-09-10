@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 362
+create_44
+Length of all lemmas: 295
+Length of singleton lemmas: 265
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 265
+der
+dict_values([17, 15, 11, 6, 2, 5, 1, 1])
+sum of wordFormDict.values() 58
+individuell
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([3, 3, 3, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([5, 1, 5, 1, 1])
+sum of wordFormDict.values() 13
+werden
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+beeinflussen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kognitiv
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+motivational
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+unser
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wir
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+sie
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+wahrgenommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+schulisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lerntheoretisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 15, 11, 6, 2, 5, 1, 1])
+sum of wordFormDict.values() 58
+individuell
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+ein
+dict_values([3, 3, 3, 1])
+sum of wordFormDict.values() 10
+dies
+dict_values([5, 1, 5, 1, 1])
+sum of wordFormDict.values() 13
+werden
+dict_values([3, 5])
+sum of wordFormDict.values() 8
+beeinflussen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([3, 3, 2])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kognitiv
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+motivational
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+unser
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wir
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+sie
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+wahrgenommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+schulisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lerntheoretisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

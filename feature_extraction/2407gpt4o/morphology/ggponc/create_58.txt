@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 691
+create_58
+Length of all lemmas: 647
+Length of singleton lemmas: 619
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 619
+ein
+dict_values([2, 3, 3, 2, 6])
+sum of wordFormDict.values() 16
+werden
+dict_values([2, 2, 1, 2])
+sum of wordFormDict.values() 7
+der
+dict_values([6, 20, 11, 8, 7, 6])
+sum of wordFormDict.values() 58
+folgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 3, 3, 3])
+sum of wordFormDict.values() 12
+emotional
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sozial
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+beruflich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+physisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+täglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wöchentlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+progressiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 3, 3, 2, 6])
+sum of wordFormDict.values() 16
+werden
+dict_values([2, 2, 1, 2])
+sum of wordFormDict.values() 7
+der
+dict_values([6, 20, 11, 8, 7, 6])
+sum of wordFormDict.values() 58
+folgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([3, 3, 3, 3])
+sum of wordFormDict.values() 12
+emotional
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sozial
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+beruflich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+physisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chronisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+täglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wöchentlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+progressiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+langfristig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

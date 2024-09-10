@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 423
+create_50
+Length of all lemmas: 350
+Length of singleton lemmas: 324
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 324
+ein
+dict_values([2, 3, 2, 5, 2, 6])
+sum of wordFormDict.values() 20
+sein
+dict_values([5, 3, 5, 10, 7, 3, 6, 2, 1])
+sum of wordFormDict.values() 42
+werden
+dict_values([1, 3, 2, 2])
+sum of wordFormDict.values() 8
+der
+dict_values([14, 4, 18, 5, 6, 1, 5])
+sum of wordFormDict.values() 53
+erklären
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+postoperativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([5, 7, 2])
+sum of wordFormDict.values() 14
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 3, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+fortlaufend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+arbeiten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 3, 2, 5, 2, 6])
+sum of wordFormDict.values() 20
+sein
+dict_values([5, 3, 5, 10, 7, 3, 6, 2, 1])
+sum of wordFormDict.values() 42
+werden
+dict_values([1, 3, 2, 2])
+sum of wordFormDict.values() 8
+der
+dict_values([14, 4, 18, 5, 6, 1, 5])
+sum of wordFormDict.values() 53
+erklären
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+postoperativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([5, 7, 2])
+sum of wordFormDict.values() 14
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1, 3, 2])
+sum of wordFormDict.values() 8
+dies
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+führen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+emotional
+dict_values([1, 1, 2])
+sum of wordFormDict.values() 4
+fortlaufend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erst
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+arbeiten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2

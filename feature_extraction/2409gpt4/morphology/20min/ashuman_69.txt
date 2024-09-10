@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 412
+ashuman_69
+Length of all lemmas: 330
+Length of singleton lemmas: 299
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 299
+haben
+dict_values([7, 5, 1])
+sum of wordFormDict.values() 13
+dies
+dict_values([3, 5, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([15, 7, 12, 6, 14, 4, 1])
+sum of wordFormDict.values() 59
+sein
+dict_values([4, 5, 3, 5, 2, 4, 1, 4, 1, 3])
+sum of wordFormDict.values() 32
+beweisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 5, 2, 1, 1])
+sum of wordFormDict.values() 13
+brillant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beeindruckend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([1, 5, 1])
+sum of wordFormDict.values() 7
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+defensiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([7, 5, 1])
+sum of wordFormDict.values() 13
+dies
+dict_values([3, 5, 1])
+sum of wordFormDict.values() 9
+der
+dict_values([15, 7, 12, 6, 14, 4, 1])
+sum of wordFormDict.values() 59
+sein
+dict_values([4, 5, 3, 5, 2, 4, 1, 4, 1, 3])
+sum of wordFormDict.values() 32
+beweisen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 5, 2, 1, 1])
+sum of wordFormDict.values() 13
+brillant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+beeindruckend
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+er
+dict_values([1, 5, 1])
+sum of wordFormDict.values() 7
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+defensiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+einzeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2

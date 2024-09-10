@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 365
+explain_59
+Length of all lemmas: 298
+Length of singleton lemmas: 270
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 270
+dies
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([13, 9, 6, 18, 8, 4, 1])
+sum of wordFormDict.values() 59
+Jugendliche
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+riskant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 2, 3, 1, 1])
+sum of wordFormDict.values() 8
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 1, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 10
+ihr
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+konsumieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+trinken
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 7, 1])
+sum of wordFormDict.values() 11
+präventiv
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+jugendlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 2, 1, 2])
+sum of wordFormDict.values() 8
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([13, 9, 6, 18, 8, 4, 1])
+sum of wordFormDict.values() 59
+Jugendliche
+dict_values([5, 2, 1])
+sum of wordFormDict.values() 8
+riskant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 2, 3, 1, 1])
+sum of wordFormDict.values() 8
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 1, 1, 1, 1, 1, 1])
+sum of wordFormDict.values() 10
+ihr
+dict_values([1, 2, 1, 1])
+sum of wordFormDict.values() 5
+konsumieren
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+trinken
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 7, 1])
+sum of wordFormDict.values() 11
+präventiv
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+jugendlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+effektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([3, 2, 1, 2])
+sum of wordFormDict.values() 8
+innovativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2

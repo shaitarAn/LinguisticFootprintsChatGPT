@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 367
+ashuman_55
+Length of all lemmas: 301
+Length of singleton lemmas: 274
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 274
+der
+dict_values([12, 12, 6, 6, 6, 2, 2])
+sum of wordFormDict.values() 46
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 6, 1, 2, 1])
+sum of wordFormDict.values() 13
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 6])
+sum of wordFormDict.values() 11
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+öffentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 1, 4, 2])
+sum of wordFormDict.values() 12
+dies
+dict_values([1, 4, 2, 2])
+sum of wordFormDict.values() 9
+sein
+dict_values([1, 4, 1, 1, 1])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesellschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strategisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+transparent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aufbauen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([12, 12, 6, 6, 6, 2, 2])
+sum of wordFormDict.values() 46
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 6, 1, 2, 1])
+sum of wordFormDict.values() 13
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 6])
+sum of wordFormDict.values() 11
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+öffentlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 1, 4, 2])
+sum of wordFormDict.values() 12
+dies
+dict_values([1, 4, 2, 2])
+sum of wordFormDict.values() 9
+sein
+dict_values([1, 4, 1, 1, 1])
+sum of wordFormDict.values() 8
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesellschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strategisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zukünftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+transparent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+offen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+aufbauen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1])
+sum of wordFormDict.values() 2

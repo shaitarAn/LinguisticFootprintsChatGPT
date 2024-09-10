@@ -1,0 +1,181 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 587
+create_96
+Length of all lemmas: 506
+Length of singleton lemmas: 467
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 467
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 17, 6, 6, 6, 3, 1])
+sum of wordFormDict.values() 58
+ein
+dict_values([5, 3, 2, 2, 3])
+sum of wordFormDict.values() 15
+sein
+dict_values([2, 2, 4, 1, 1, 1, 1, 2, 1, 1])
+sum of wordFormDict.values() 16
+neu
+dict_values([1, 1, 2, 4])
+sum of wordFormDict.values() 8
+können
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+werden
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+intensiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+herkömmlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+nachhaltig
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+vielversprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+revolutionär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+tiefgreifend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+technologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+final
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wachsend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 17, 6, 6, 6, 3, 1])
+sum of wordFormDict.values() 58
+ein
+dict_values([5, 3, 2, 2, 3])
+sum of wordFormDict.values() 15
+sein
+dict_values([2, 2, 4, 1, 1, 1, 1, 2, 1, 1])
+sum of wordFormDict.values() 16
+neu
+dict_values([1, 1, 2, 4])
+sum of wordFormDict.values() 8
+können
+dict_values([4, 4, 1])
+sum of wordFormDict.values() 9
+werden
+dict_values([2, 3, 1, 1])
+sum of wordFormDict.values() 7
+intensiv
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+herkömmlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+nachhaltig
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+besonder
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([3, 2, 1])
+sum of wordFormDict.values() 6
+vielversprechend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+revolutionär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+viel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+tiefgreifend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+technologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+final
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bleiben
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wachsend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

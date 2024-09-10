@@ -1,0 +1,229 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 604
+continue_3
+Length of all lemmas: 527
+Length of singleton lemmas: 481
+Length of matched lemmas: 37
+Length of singleton maching lemmas: 481
+rekonstruktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([12, 20, 6, 3, 4, 5, 2])
+sum of wordFormDict.values() 52
+ein
+dict_values([4, 9, 6, 3, 2])
+sum of wordFormDict.values() 24
+individuell
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+können
+dict_values([2, 2, 2, 2])
+sum of wordFormDict.values() 8
+funktionell
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+kurativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+palliativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+besonder
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+benötigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rekonstruiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 2, 2, 1, 1])
+sum of wordFormDict.values() 7
+postoperativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+regenerierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+patient
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dienen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjuvant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+notwendig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konsistent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unverzichtbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adaptiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+maximal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+flexibel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abgestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rekonstruktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([12, 20, 6, 3, 4, 5, 2])
+sum of wordFormDict.values() 52
+ein
+dict_values([4, 9, 6, 3, 2])
+sum of wordFormDict.values() 24
+individuell
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+können
+dict_values([2, 2, 2, 2])
+sum of wordFormDict.values() 8
+funktionell
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([5, 2])
+sum of wordFormDict.values() 7
+kurativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+palliativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+besonder
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+spezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+benötigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+rekonstruiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 2, 2, 1, 1])
+sum of wordFormDict.values() 7
+postoperativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+möglich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+regenerierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+patient
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dienen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjuvant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimal
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+notwendig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+konsistent
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unverzichtbar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adaptiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+maximal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relevant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+flexibel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+abgestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+medizinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

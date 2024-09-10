@@ -1,0 +1,193 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 521
+create_83
+Length of all lemmas: 424
+Length of singleton lemmas: 384
+Length of matched lemmas: 31
+Length of singleton maching lemmas: 384
+der
+dict_values([17, 18, 24, 7, 10, 7])
+sum of wordFormDict.values() 83
+ein
+dict_values([3, 3, 7, 6, 2, 2])
+sum of wordFormDict.values() 23
+weltweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Weg
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([2, 3, 11, 3, 2, 3, 1])
+sum of wordFormDict.values() 25
+rasant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+groß
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 3, 1, 2, 1])
+sum of wordFormDict.values() 10
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 4, 1])
+sum of wordFormDict.values() 8
+lassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sauber
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+chinesisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+grün
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+stehen
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 18, 24, 7, 10, 7])
+sum of wordFormDict.values() 83
+ein
+dict_values([3, 3, 7, 6, 2, 2])
+sum of wordFormDict.values() 23
+weltweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zunehmend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+Weg
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+sein
+dict_values([2, 3, 11, 3, 2, 3, 1])
+sum of wordFormDict.values() 25
+rasant
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+groß
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([3, 3, 1, 2, 1])
+sum of wordFormDict.values() 10
+lang
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([2, 1, 4, 1])
+sum of wordFormDict.values() 8
+lassen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+beginnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sauber
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+chinesisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+grün
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+stehen
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 344
+asmachine_43
+Length of all lemmas: 279
+Length of singleton lemmas: 253
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 253
+der
+dict_values([21, 22, 4, 2, 7, 1, 2, 1])
+sum of wordFormDict.values() 60
+sein
+dict_values([6, 2, 2])
+sum of wordFormDict.values() 10
+ein
+dict_values([6, 4, 1, 2, 2])
+sum of wordFormDict.values() 15
+allergisch
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+viel
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+verstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 3, 1, 1, 1])
+sum of wordFormDict.values() 10
+meist
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vielversprechend
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+solch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wirken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+qualitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zukünftig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wertvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([21, 22, 4, 2, 7, 1, 2, 1])
+sum of wordFormDict.values() 60
+sein
+dict_values([6, 2, 2])
+sum of wordFormDict.values() 10
+ein
+dict_values([6, 4, 1, 2, 2])
+sum of wordFormDict.values() 15
+allergisch
+dict_values([4, 2])
+sum of wordFormDict.values() 6
+viel
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+verstehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 3, 1, 1, 1])
+sum of wordFormDict.values() 10
+meist
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+verbessern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+vielversprechend
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+groß
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+solch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+wirken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+qualitativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zukünftig
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+wertvoll
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zusätzlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2

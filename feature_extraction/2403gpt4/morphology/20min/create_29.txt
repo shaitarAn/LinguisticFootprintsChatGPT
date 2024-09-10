@@ -1,0 +1,157 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 435
+create_29
+Length of all lemmas: 348
+Length of singleton lemmas: 316
+Length of matched lemmas: 25
+Length of singleton maching lemmas: 316
+der
+dict_values([20, 16, 17, 7, 9, 8, 1])
+sum of wordFormDict.values() 78
+entdecken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 3, 1, 4, 1, 1])
+sum of wordFormDict.values() 14
+bedeuten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 2, 1, 1, 3, 1])
+sum of wordFormDict.values() 11
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+flüssig
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 5, 8, 2, 1])
+sum of wordFormDict.values() 20
+unser
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+Sie|sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 2, 2])
+sum of wordFormDict.values() 6
+können
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+wir
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+öffnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spannend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+dürfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vulkanisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([20, 16, 17, 7, 9, 8, 1])
+sum of wordFormDict.values() 78
+entdecken
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 3, 1, 4, 1, 1])
+sum of wordFormDict.values() 14
+bedeuten
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 2, 1, 1, 3, 1])
+sum of wordFormDict.values() 11
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+flüssig
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([4, 5, 8, 2, 1])
+sum of wordFormDict.values() 20
+unser
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+Sie|sie
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 2, 2])
+sum of wordFormDict.values() 6
+können
+dict_values([1, 3, 2])
+sum of wordFormDict.values() 6
+wir
+dict_values([5, 1])
+sum of wordFormDict.values() 6
+öffnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spannend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1, 2])
+sum of wordFormDict.values() 5
+dürfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+geben
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vulkanisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

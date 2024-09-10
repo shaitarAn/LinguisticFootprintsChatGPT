@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 406
+continue_41
+Length of all lemmas: 332
+Length of singleton lemmas: 302
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 302
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([12, 21, 15, 8, 6, 1, 1])
+sum of wordFormDict.values() 64
+erkennen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 4, 1, 1])
+sum of wordFormDict.values() 8
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 8, 1, 2, 1])
+sum of wordFormDict.values() 18
+nutzen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([6, 6, 1])
+sum of wordFormDict.values() 13
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 9, 5])
+sum of wordFormDict.values() 15
+sein
+dict_values([7, 2, 2])
+sum of wordFormDict.values() 11
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+kritisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spannend
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regulatorisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erreichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sie
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([12, 21, 15, 8, 6, 1, 1])
+sum of wordFormDict.values() 64
+erkennen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+dies
+dict_values([2, 4, 1, 1])
+sum of wordFormDict.values() 8
+bringen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([6, 8, 1, 2, 1])
+sum of wordFormDict.values() 18
+nutzen
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+können
+dict_values([6, 6, 1])
+sum of wordFormDict.values() 13
+gut
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([1, 9, 5])
+sum of wordFormDict.values() 15
+sein
+dict_values([7, 2, 2])
+sum of wordFormDict.values() 11
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ermöglichen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+effektiv
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+kritisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+modern
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spannend
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regulatorisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

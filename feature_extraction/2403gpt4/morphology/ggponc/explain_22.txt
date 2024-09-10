@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 351
+explain_22
+Length of all lemmas: 286
+Length of singleton lemmas: 260
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 260
+der
+dict_values([14, 20, 8, 9, 3, 4, 1])
+sum of wordFormDict.values() 59
+sein
+dict_values([6, 1, 2])
+sum of wordFormDict.values() 9
+essentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 6])
+sum of wordFormDict.values() 9
+ein
+dict_values([9, 2, 5, 3, 1, 2])
+sum of wordFormDict.values() 22
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 3, 1, 1, 2])
+sum of wordFormDict.values() 9
+geben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dosiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+diskutieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([14, 20, 8, 9, 3, 4, 1])
+sum of wordFormDict.values() 59
+sein
+dict_values([6, 1, 2])
+sum of wordFormDict.values() 9
+essentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 6])
+sum of wordFormDict.values() 9
+ein
+dict_values([9, 2, 5, 3, 1, 2])
+sum of wordFormDict.values() 22
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regelmäßig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+kein
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+signifikant
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([2, 3, 1, 1, 2])
+sum of wordFormDict.values() 9
+geben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+hoch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dosiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unterschiedlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+zeigen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+diskutieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2

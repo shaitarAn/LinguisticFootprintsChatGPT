@@ -1,0 +1,193 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 680
+create_56
+Length of all lemmas: 631
+Length of singleton lemmas: 592
+Length of matched lemmas: 31
+Length of singleton maching lemmas: 592
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 8, 3, 1, 8, 5])
+sum of wordFormDict.values() 27
+der
+dict_values([14, 11, 8, 5, 7, 3])
+sum of wordFormDict.values() 48
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unspezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+bekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 1, 2, 1])
+sum of wordFormDict.values() 10
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+histologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+durchführen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+folgend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strukturell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+primär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ausführlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+onkologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+flankierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 8, 3, 1, 8, 5])
+sum of wordFormDict.values() 27
+der
+dict_values([14, 11, 8, 5, 7, 3])
+sum of wordFormDict.values() 48
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+unser
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unspezifisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+bekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([6, 1, 2, 1])
+sum of wordFormDict.values() 10
+leicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+histologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+durchführen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ausreichend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+folgend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strukturell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+primär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+potentiell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+therapeutisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ausführlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+onkologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+flankierend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2

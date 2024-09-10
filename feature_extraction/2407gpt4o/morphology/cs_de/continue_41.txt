@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 571
+continue_41
+Length of all lemmas: 517
+Length of singleton lemmas: 488
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 488
+gewinnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 4, 2, 1])
+sum of wordFormDict.values() 11
+der
+dict_values([3, 4, 9, 15, 1, 11, 4])
+sum of wordFormDict.values() 47
+ermöglichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 5, 9, 1, 1])
+sum of wordFormDict.values() 18
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kontinuierlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+negativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([6, 4])
+sum of wordFormDict.values() 10
+werden
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+eröffnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+bleibend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+künftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewinnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schnell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 4, 2, 1])
+sum of wordFormDict.values() 11
+der
+dict_values([3, 4, 9, 15, 1, 11, 4])
+sum of wordFormDict.values() 47
+ermöglichen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ein
+dict_values([2, 5, 9, 1, 1])
+sum of wordFormDict.values() 18
+sie
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([4, 1, 1])
+sum of wordFormDict.values() 6
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kontinuierlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+negativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([6, 4])
+sum of wordFormDict.values() 10
+werden
+dict_values([9, 1])
+sum of wordFormDict.values() 10
+eröffnen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+bleibend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bieten
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+direkt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+künftig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

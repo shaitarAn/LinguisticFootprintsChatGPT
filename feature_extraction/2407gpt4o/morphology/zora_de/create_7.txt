@@ -1,0 +1,133 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 412
+create_7
+Length of all lemmas: 356
+Length of singleton lemmas: 329
+Length of matched lemmas: 21
+Length of singleton maching lemmas: 329
+der
+dict_values([6, 7, 9, 4, 3, 7])
+sum of wordFormDict.values() 36
+global
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+politisch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+kulturell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+literarisch
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+autoritär
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+soziopolitisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychoanalytisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([6, 7, 9, 4, 3, 7])
+sum of wordFormDict.values() 36
+global
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+politisch
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([1, 2, 2])
+sum of wordFormDict.values() 5
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([2, 3, 2, 1])
+sum of wordFormDict.values() 8
+kulturell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+literarisch
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+individuell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+autoritär
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unterschiedlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+soziopolitisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+systematisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+psychoanalytisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([2, 1])
+sum of wordFormDict.values() 3

@@ -1,0 +1,205 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 586
+explain_33
+Length of all lemmas: 483
+Length of singleton lemmas: 433
+Length of matched lemmas: 33
+Length of singleton maching lemmas: 433
+der
+dict_values([20, 15, 11, 10, 4, 4, 3])
+sum of wordFormDict.values() 67
+zentral
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([3, 5, 1, 1])
+sum of wordFormDict.values() 10
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([3, 1, 4, 2])
+sum of wordFormDict.values() 10
+ein
+dict_values([7, 6, 1, 4, 1])
+sum of wordFormDict.values() 19
+effizient
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 4, 2, 1, 1])
+sum of wordFormDict.values() 12
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+national
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 6])
+sum of wordFormDict.values() 10
+wichtig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+medizinisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+regulatorisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+bestehend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+interoperabel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digitalisiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vereinheitlicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ethisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+treibend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strategisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prüfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjustiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+real
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+echt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([20, 15, 11, 10, 4, 4, 3])
+sum of wordFormDict.values() 67
+zentral
+dict_values([2, 1, 2])
+sum of wordFormDict.values() 5
+werden
+dict_values([3, 5, 1, 1])
+sum of wordFormDict.values() 10
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([3, 1, 4, 2])
+sum of wordFormDict.values() 10
+ein
+dict_values([7, 6, 1, 4, 1])
+sum of wordFormDict.values() 19
+effizient
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+dies
+dict_values([4, 4, 2, 1, 1])
+sum of wordFormDict.values() 12
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gesundheitlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+national
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 6])
+sum of wordFormDict.values() 10
+wichtig
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+europäisch
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+medizinisch
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+regulatorisch
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+bestehend
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+interoperabel
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digitalisiert
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+vereinheitlicht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ethisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+treibend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ständig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+operativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+strategisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+optimieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nutzen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+prüfen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+international
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+adjustiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+real
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+echt
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,85 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 281
+human_13
+Length of all lemmas: 235
+Length of singleton lemmas: 218
+Length of matched lemmas: 13
+Length of singleton maching lemmas: 218
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([23, 8, 15, 5, 5])
+sum of wordFormDict.values() 56
+wirklich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([8, 4, 2, 1])
+sum of wordFormDict.values() 15
+liefern
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 7])
+sum of wordFormDict.values() 10
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 1, 1, 2, 1])
+sum of wordFormDict.values() 7
+wichtig
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 8, 1, 1])
+sum of wordFormDict.values() 13
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+der
+dict_values([23, 8, 15, 5, 5])
+sum of wordFormDict.values() 56
+wirklich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geben
+dict_values([2, 4, 1])
+sum of wordFormDict.values() 7
+ein
+dict_values([8, 4, 2, 1])
+sum of wordFormDict.values() 15
+liefern
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 7])
+sum of wordFormDict.values() 10
+wir
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+dies
+dict_values([2, 1, 1, 2, 1])
+sum of wordFormDict.values() 7
+wichtig
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sein
+dict_values([3, 8, 1, 1])
+sum of wordFormDict.values() 13
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2

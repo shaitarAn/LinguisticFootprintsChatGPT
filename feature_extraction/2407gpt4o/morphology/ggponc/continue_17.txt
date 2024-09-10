@@ -1,0 +1,181 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 530
+continue_17
+Length of all lemmas: 463
+Length of singleton lemmas: 423
+Length of matched lemmas: 29
+Length of singleton maching lemmas: 423
+unterschiedlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([9, 15, 13, 3, 3, 4, 3])
+sum of wordFormDict.values() 50
+ein
+dict_values([1, 2, 5, 4, 6, 1])
+sum of wordFormDict.values() 19
+sein
+dict_values([2, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 8
+aromatisch
+dict_values([6, 2, 1])
+sum of wordFormDict.values() 9
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 4, 2, 3, 1])
+sum of wordFormDict.values() 14
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 1, 1, 1, 1])
+sum of wordFormDict.values() 9
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+industriell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erfolgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+karzinogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chemisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewährleisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+biologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genetisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+unterschiedlich
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+der
+dict_values([9, 15, 13, 3, 3, 4, 3])
+sum of wordFormDict.values() 50
+ein
+dict_values([1, 2, 5, 4, 6, 1])
+sum of wordFormDict.values() 19
+sein
+dict_values([2, 2, 1, 1, 1, 1])
+sum of wordFormDict.values() 8
+aromatisch
+dict_values([6, 2, 1])
+sum of wordFormDict.values() 9
+weit
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+dies
+dict_values([4, 4, 2, 3, 1])
+sum of wordFormDict.values() 14
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([5, 1, 1, 1, 1])
+sum of wordFormDict.values() 9
+verschieden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+industriell
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+erfolgen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+karzinogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+erhöht
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wichtig
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+individuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erheblich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+chemisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+interdisziplinär
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+gewährleisten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+haben
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+biologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genetisch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3

@@ -1,0 +1,115 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 388
+explain_6
+Length of all lemmas: 319
+Length of singleton lemmas: 293
+Length of matched lemmas: 18
+Length of singleton maching lemmas: 293
+der
+dict_values([18, 13, 6, 9, 15, 4, 2])
+sum of wordFormDict.values() 67
+menschlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 6, 1, 1])
+sum of wordFormDict.values() 12
+arbeiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+ein
+dict_values([2, 1, 7])
+sum of wordFormDict.values() 10
+dies
+dict_values([1, 6, 4, 1, 1])
+sum of wordFormDict.values() 13
+können
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regulatorisch
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unterschiedlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+komplex
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+welch
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+der
+dict_values([18, 13, 6, 9, 15, 4, 2])
+sum of wordFormDict.values() 67
+menschlich
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+entscheidend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([4, 6, 1, 1])
+sum of wordFormDict.values() 12
+arbeiten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([5, 4])
+sum of wordFormDict.values() 9
+ein
+dict_values([2, 1, 7])
+sum of wordFormDict.values() 10
+dies
+dict_values([1, 6, 4, 1, 1])
+sum of wordFormDict.values() 13
+können
+dict_values([4, 2, 1, 1])
+sum of wordFormDict.values() 8
+bieten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+regulatorisch
+dict_values([1, 4, 1])
+sum of wordFormDict.values() 6
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spezifisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+unterschiedlich
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+komplex
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genau
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+welch
+dict_values([3, 1])
+sum of wordFormDict.values() 4

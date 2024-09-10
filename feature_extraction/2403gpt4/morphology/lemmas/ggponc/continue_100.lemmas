@@ -1,0 +1,354 @@
+für: für|9
+Patient: patienten|7	patient|5
+mit: mit|4
+positiv: positivem|1	positive|1
+HER2: her2|1
+-: -|8
+Status: status|1
+empfiehlen: empfiehlt|1
+er|es|sie: sich|5
+ein: eine|11	einem|1	ein|4	eines|2	einen|1
+Kombinationstherapie: kombinationstherapie|1	kombinationstherapien|1
+aus: aus|1
+Cisplatin: cisplatin|1
+,: ,|20
+Fluoropyrimidin: fluoropyrimidin|1
+und: und|24
+Trastuzumab: trastuzumab|2
+.: .|36
+in: in|14
+kompletter: kompletter|1
+Therapieliniensorgfalt: therapieliniensorgfalt|1
+werden: wird|1	werden|8	geworden|1
+viel: vielen|1	viele|1
+Fall|Fällen: fällen|1
+nach: nach|3
+der: dem|9	der|24	die|11	das|9	des|9	den|5
+Initialzyklus: initialzyklus|1
+auf: auf|8
+wöchentlich: wöchentliche|1
+Erhaltungstherapie: erhaltungstherapie|1
+einzeln: einzelnen|3
+Agent: agenten|1
+umstellen: umgestellt|1
+hierbei: hierbei|2
+haben: hat|2	haben|5
+Wechsel: wechsel|1
+zu: zu|17
+Taxan: taxan|1
+als: als|4
+effektiv: effektiv|1	effektive|1
+erweisen: erwiesen|2	erweisen|1
+da: da|2
+es: es|3
+Tumorproliferation: tumorproliferation|1
+hemmen: hemmt|1
+somit: somit|1
+verlängert: verlängerte|1
+Krankheitskontrolle: krankheitskontrolle|1
+bieten: bietet|1	bieten|2
+[: [|12
+REF: ref|12
+]: ]|12
+bei: bei|6
+Intoleranz: intoleranz|1
+können: kann|5	können|7	könnten|1
+Irinotecan: irinotecan|3
+oder: oder|8
+auch: auch|5
+Capecitabin: capecitabin|1
+verwenden: verwendet|1
+zweit: zweite|1	zweiten|1
+Linientherapie: linientherapie|5
+:: :|3
+Studie|Studium: studien|4
+zeigen: gezeigt|3	zeigen|1	zeigt|1
+dass: dass|4
+sowohl: sowohl|1
+Docetaxel: docetaxel|2
+Überleben: überleben|4
+Vergleich: vergleich|1
+gut: bester|1	best|1	besser|1
+unterstützend: unterstützender|1
+Pflege: pflege|1
+signifikant: signifikant|1
+verbessern: verbessern|2
+angesichts: angesichts|2
+Hungerdeprivation: hungerdeprivation|1
+durch: durch|1
+Erkrankung: erkrankung|2
+sollen: sollte|3	sollten|1
+jedoch: jedoch|3
+Priorität: priorität|1
+darauf: darauf|1
+legen: gelegt|1	legen|1
+Lebensqualität: lebensqualität|5
+erhalten: erhalten|1
+Nebenwirkung: nebenwirkungen|2
+wie: wie|6
+Fatigue: fatigue|1
+Übelkeit: übelkeit|1
+Mundsoor: mundsoor|1
+so: so|2
+gering: gering|1
+möglich: möglich|1	mögliche|1
+halten: halten|1
+Reported: reported|1
+Outcomes: outcomes|1
+(: (|2
+pro: pro|1
+): )|2
+wertvoll: wertvolle|1
+Einblick: einblicke|1
+klinisch: klinische|2	klinischen|1
+Management: management|1
+jenseits: jenseits|1
+objektiv: objektiver|1
+Messung: messungen|1
+Tumoransprechen: tumoransprechen|1
+überleben: überleben|1
+Spektrum: spektrum|1
+symptomatisch: symptomatischen|1
+Therapiemöglichkeit: therapiemöglichkeiten|1
+umfassen: umfasst|1
+neben: neben|1
+medikamentösen: medikamentösen|1
+Ansätzen: ansätzen|1
+je: je|1
+Symptom: symptom|1
+Lokalisation: lokalisation|1
+radiotherapeutisch: radiotherapeutische|1
+Maßnahme: maßnahmen|2
+sowie: sowie|4
+interventionelle: interventionelle|1
+endoskopisch: endoskopische|1
+Technik: techniken|1
+Debulking: debulking|1
+von: von|8
+Tumor: tumoren|2
+dies: diese|3	dieser|4	dies|1	diesen|1
+unter: unter|2
+ander: anderem|1
+Linderung: linderung|1
+Schluckbeschwerde: schluckbeschwerden|1
+Verbesserung: verbesserung|3
+Nahrungsaufnahme: nahrungsaufnahme|1
+dienen: dienen|1
+besonder: besondere|1
+Aufmerksamkeit: aufmerksamkeit|1
+psychosozial: psychosozialen|1
+Betreuung: betreuung|1
+widmen: gewidmet|1
+um: um|4
+physisch: physische|1
+mental: mentale|1
+Belastung: belastungen|1
+minimieren: minimieren|1
+Optimierung: optimierung|1
+Therapieerfolg: therapieerfolges|1
+sein: ist|5	sind|4	sein|1	seines|1	seiner|1
+eng: enge|2
+Kooperation: kooperation|1
+zwischen: zwischen|4
+Onkologen: onkologen|1
+Gastroenterologen: gastroenterologen|1
+Chirurg: chirurgen|1
+Palliativmediziner: palliativmedizinern|1	palliativmediziner|1
+entscheidend: entscheidend|1
+multidisziplinär: multidisziplinäre|1
+Ansatz: ansatz|1	ansätze|2
+tragen: trägt|1
+dazu: dazu|2
+während: während|2
+ihr: ihrer|1	ihren|1
+gesamt: gesamten|2
+Behandlung: behandlung|5
+individuell: individuell|1	individuellen|2
+betreuen: betreuen|1
+Tumorstaging: tumorstaging|1
+über: über|1
+Erst-: erst-|1
+Zweitlinientherapie: zweitlinientherapie|1
+bis: bis|1
+hin: hin|1
+palliativ: palliativen|1	palliativer|2
+Versorgung: versorgung|2
+schlecht: schlechten|1
+Prognose: prognose|2
+Ösophaguskarzinom: ösophaguskarzinoms|1	ösophaguskarzinom|1
+müssen: muss|1	müssen|1
+ständig: ständiger|1
+Dialog: dialog|2
+behandelnd: behandelndem|1	behandelnden|1
+Arzt: arzt|2
+stattfinden: stattfinden|1
+Austausch: austausch|1
+ermöglichen: ermöglicht|1
+patientenzentriert: patientenzentrierte|1	patientenzentrierter|1
+Entscheidungsfindung: entscheidungsfindung|1
+basierend: basierend|1
+Wunsch: wünschen|1	wünsche|1
+Bedürfnis: bedürfnissen|1
+jed: jeden|2	jede|2
+betroffen: betroffenen|1
+zusammenfassend: zusammenfassend|1
+stellen: stellen|1
+Platin-: platin-|1
+Fluoropyrimidinkombinationstherapie: fluoropyrimidinkombinationstherapien|1
+wichtig: wichtigen|1
+Therapieoption: therapieoption|1	therapieoptionen|1
+dar: dar|1
+Standard: standard|1
+Erstlinienbehandlung: erstlinienbehandlung|1
+fortgeschritten: fortgeschrittenem|2	fortgeschrittenen|1
+Adenoösophaguskarzinom: adenoösophaguskarzinom|1
+HER2-: her2-|1
+Komponente: komponente|1
+Standardregime: standardregimes|1
+anerkennen: anerkannt|1
+wirksam: wirksam|1
+Bezug: bezug|1
+Einbindung: einbindung|1
+symptomorientiert: symptomorientierter|2
+essentiell: essentiell|2
+Patientengruppe: patientengruppe|1
+dritt: dritte|1	dritten|1
+geben: gibt|2
+noch: noch|3
+kein: keine|2
+klar: klaren|1
+Standardbehandlung: standardbehandlungen|1
+Therapiewahl: therapiewahl|1
+Grundlage: grundlage|1
+Patientenzustand: patientenzustands|1
+treffen|triefen: getroffen|1
+Option: optionen|1	option|1
+Immuntherapeutika: immuntherapeutika|1
+Pembrolizumab: pembrolizumab|2
+Nivolumab: nivolumab|1
+welch: welche|1
+gewiß: gewisse|1
+Wirksamkeit: wirksamkeit|1
+bestimmt: bestimmten|1
+Mutation: mutationen|1
+zielgerichtet: zielgerichtete|1
+Therapie: therapien|1
+EGFR: egfr|1
+mTOR: mtor|1
+PARP: parp|1
+Inhibitoren: inhibitoren|2
+ebenfalls: ebenfalls|1
+Betracht: betracht|1
+ziehen: gezogen|1
+vorrausgesetzen: vorrausgesetzt|1
+Medikament: medikamente|2
+tolerieren: toleriert|1
+nicht: nicht|1
+weit: weit|1
+fortschreiten: fortgeschritten|1
+sie: sie|1
+bedarf: bedarf|1
+übersteigen: übersteigt|1
+Immuntherapie: immuntherapie|1
+aufstrebend: aufstrebender|1
+Bereich: bereich|1
+Ösophaguskarzinomen: ösophaguskarzinomen|1
+Checkpoint: checkpoint|1
+Potenzial: potenzial|1
+Stadium: stadium|1
+Rückfallszenarie: rückfallszenarien|1
+erheblich: erheblich|1	erhebliche|1
+Umstand: umständen|1
+Verschlechterung: verschlechterung|1
+bedeuten: bedeuten|1
+viert: vierte|1
+darüber: darüber|1
+hinaus: hinaus|1
+Stufe: stufen|1
+zunehmend: zunehmend|1
+schwierig: schwieriger|1
+bereits: bereits|2
+schwerkrank: schwerkranken|1
+möglicherweise: möglicherweise|1
+mehrere: mehrere|2
+körperliche: körperliche|1
+Nebenerkrankung: nebenerkrankungen|1
+entwickeln: entwickelt|1
+Zusammenarbeit: zusammenarbeit|1
+Onkologe: onkologe|1
+Gastroenterologe: gastroenterologe|1
+helfen: helfen|1
+richtig: richtige|1
+Gleichgewicht: gleichgewicht|1
+Aggressivität: aggressivität|1
+Erhaltung: erhaltung|1
+herstellen: herzustellen|1
+Supportive: supportive|1
+Car: care|1
+BSC: bsc|1
+Phase: phase|1
+abschließend: abschließend|1
+aktuell: aktuelle|1
+Richtlinie: richtlinien|1
+Vielzahl: vielzahl|1
+verlängern: verlängern|1
+beizubehalten: beizubehalten|1
+Therapeutika: therapeutika|1
+Verfügung: verfügung|1
+stehen: stehen|1
+eigen: eigenen|1
+Risiko: risiken|1
+Vorteil: vorteilen|1
+sorgfältig: sorgfältige|1
+Patientenauswahl: patientenauswahl|1
+spezifisch: spezifische|1
+Basis: basis|1
+genomisch: genomischer|1
+Alteration: alterationen|1
+führend: führend|1
+personalisiert: personalisierte|1
+Kontext: kontext|1
+betrachten: betrachtet|1
+einschließlich: einschließlich|1
+Zustand: zustandes|1
+Präferenz: präferenzen|1
+potentiell: potentieller|1
+Nebeneffekt: nebeneffekte|1
+optimale: optimale|1
+therapeutisch: therapeutische|1
+Regime: regime|1
+sicherstellen: sicherzustellen|1
+bleiben: bleibt|1
+Prozeß: prozesses|1
+wesentlich: wesentlicher|1
+Faktor: faktor|1
+Verständnis: verständnis|1
+dafür: dafür|1
+was: was|1
+gesundheitlich: gesundheitlich|1
+erreichen: erreicht|1
+Blick: blick|1
+Qualität: qualität|1
+Vs: vs|1
+Länge: länge|1
+Leben: lebens|1
+groß: großer|1
+Bedeutung: bedeutung|1
+Entscheidung: entscheidungen|1
+bezüglich: bezüglich|1
+Behandlungsstrategie: behandlungsstrategie|1
+Zukünftig: zukünftige|1
+Schwerpunkt: schwerpunkt|1
+sicherlich: sicherlich|1
+neuartig: neuartige|1
+prädiktiv: prädiktive|1
+Biomarker: biomarker|1
+persönlich: persönliche|1
+ansprechen: ansprechen|1
+einschätzen: einschätzen|1
+wenn: wenn|1
+momentan: momentan|1
+kurativ: kurative|1
+doch: doch|1
+Potential: potential|1
+Fortschritte: fortschritte|1

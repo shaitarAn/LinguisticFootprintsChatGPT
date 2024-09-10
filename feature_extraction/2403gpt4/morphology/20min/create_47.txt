@@ -1,0 +1,145 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 381
+create_47
+Length of all lemmas: 311
+Length of singleton lemmas: 283
+Length of matched lemmas: 23
+Length of singleton maching lemmas: 283
+ökologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entdecken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([13, 6, 7, 8, 15, 6])
+sum of wordFormDict.values() 55
+ein
+dict_values([5, 3, 3, 3, 1, 1])
+sum of wordFormDict.values() 16
+dies
+dict_values([6, 1, 3, 1])
+sum of wordFormDict.values() 11
+sein
+dict_values([6, 2, 1, 1, 1, 2, 1, 1])
+sum of wordFormDict.values() 15
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+landesweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erklären
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganz
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erwarten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5
+ökologisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entdecken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+werden
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+der
+dict_values([13, 6, 7, 8, 15, 6])
+sum of wordFormDict.values() 55
+ein
+dict_values([5, 3, 3, 3, 1, 1])
+sum of wordFormDict.values() 16
+dies
+dict_values([6, 1, 3, 1])
+sum of wordFormDict.values() 11
+sein
+dict_values([6, 2, 1, 1, 1, 2, 1, 1])
+sum of wordFormDict.values() 15
+können
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+ihr
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+landesweit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stehen
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wenig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erklären
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ganz
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+unser
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erwarten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wir
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 2, 1])
+sum of wordFormDict.values() 5

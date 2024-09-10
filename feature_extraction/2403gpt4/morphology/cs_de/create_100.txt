@@ -1,0 +1,163 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 458
+create_100
+Length of all lemmas: 377
+Length of singleton lemmas: 342
+Length of matched lemmas: 26
+Length of singleton maching lemmas: 342
+ein
+dict_values([7, 4, 5, 2, 4, 1])
+sum of wordFormDict.values() 23
+harmonisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 12, 6, 7, 18, 4])
+sum of wordFormDict.values() 66
+ihr
+dict_values([4, 1, 3, 3, 3, 1])
+sum of wordFormDict.values() 15
+werden
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+golden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([8, 2])
+sum of wordFormDict.values() 10
+musikalisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kreativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wohlhabend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+mein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+künstlerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([7, 4, 5, 2, 4, 1])
+sum of wordFormDict.values() 23
+harmonisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([19, 12, 6, 7, 18, 4])
+sum of wordFormDict.values() 66
+ihr
+dict_values([4, 1, 3, 3, 3, 1])
+sum of wordFormDict.values() 15
+werden
+dict_values([3, 2])
+sum of wordFormDict.values() 5
+golden
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([8, 2])
+sum of wordFormDict.values() 10
+musikalisch
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+dies
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+kreativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+neu
+dict_values([2, 1, 1, 1])
+sum of wordFormDict.values() 5
+finanziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+können
+dict_values([4, 2, 1])
+sum of wordFormDict.values() 7
+sehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+innovativ
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+machen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+digital
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+wohlhabend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ich
+dict_values([1, 3, 1])
+sum of wordFormDict.values() 5
+mein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+künstlerisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2

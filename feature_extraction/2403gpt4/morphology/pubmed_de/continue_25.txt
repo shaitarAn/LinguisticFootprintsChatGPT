@@ -1,0 +1,139 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 423
+continue_25
+Length of all lemmas: 338
+Length of singleton lemmas: 305
+Length of matched lemmas: 22
+Length of singleton maching lemmas: 305
+der
+dict_values([12, 16, 6, 3, 3, 2, 1])
+sum of wordFormDict.values() 43
+jung
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([9, 4, 5])
+sum of wordFormDict.values() 18
+ein
+dict_values([10, 4, 7, 2, 1])
+sum of wordFormDict.values() 24
+dies
+dict_values([3, 1, 3, 3])
+sum of wordFormDict.values() 10
+wirksam
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([8, 2, 1, 3])
+sum of wordFormDict.values() 14
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+wissenschaftlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+evidenzbasiert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+spezifisch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kommunal
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([12, 16, 6, 3, 3, 2, 1])
+sum of wordFormDict.values() 43
+jung
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([9, 4, 5])
+sum of wordFormDict.values() 18
+ein
+dict_values([10, 4, 7, 2, 1])
+sum of wordFormDict.values() 24
+dies
+dict_values([3, 1, 3, 3])
+sum of wordFormDict.values() 10
+wirksam
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+werden
+dict_values([8, 2, 1, 3])
+sum of wordFormDict.values() 14
+sollen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([4, 1])
+sum of wordFormDict.values() 5
+wissenschaftlich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+evidenzbasiert
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+stellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+spezifisch
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+sozial
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wichtig
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+kommunal
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+können
+dict_values([3, 3, 1])
+sum of wordFormDict.values() 7
+kontinuierlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klar
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+politisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2

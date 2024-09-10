@@ -1,0 +1,169 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 437
+explain_96
+Length of all lemmas: 355
+Length of singleton lemmas: 321
+Length of matched lemmas: 27
+Length of singleton maching lemmas: 321
+der
+dict_values([15, 19, 3, 9, 6, 1])
+sum of wordFormDict.values() 53
+ein
+dict_values([2, 4, 2, 3])
+sum of wordFormDict.values() 11
+unternehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([8, 1, 2, 1, 2, 1, 2])
+sum of wordFormDict.values() 17
+russisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sie
+dict_values([3, 10])
+sum of wordFormDict.values() 13
+dies
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lang
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gründlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+es
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+er
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+leisten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+herausfordernd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+extrem
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([15, 19, 3, 9, 6, 1])
+sum of wordFormDict.values() 53
+ein
+dict_values([2, 4, 2, 3])
+sum of wordFormDict.values() 11
+unternehmen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([8, 1, 2, 1, 2, 1, 2])
+sum of wordFormDict.values() 17
+russisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+haben
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sie
+dict_values([3, 10])
+sum of wordFormDict.values() 13
+dies
+dict_values([3, 2, 2])
+sum of wordFormDict.values() 7
+ander
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lang
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([6, 1, 1])
+sum of wordFormDict.values() 8
+gut
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+gründlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+es
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+aktuell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+erfolgreich
+dict_values([1, 2])
+sum of wordFormDict.values() 3
+er
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+leisten
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+herausfordernd
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+extrem
+dict_values([1, 1])
+sum of wordFormDict.values() 2

@@ -1,0 +1,205 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 491
+explain_53
+Length of all lemmas: 396
+Length of singleton lemmas: 354
+Length of matched lemmas: 33
+Length of singleton maching lemmas: 354
+der
+dict_values([17, 14, 10, 1, 3, 8, 3])
+sum of wordFormDict.values() 56
+müssen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([4, 4, 1, 1])
+sum of wordFormDict.values() 10
+regulatorisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([5, 2, 2])
+sum of wordFormDict.values() 9
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+haben
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ein
+dict_values([2, 3, 2, 3, 1])
+sum of wordFormDict.values() 11
+gehoben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sinken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+eigen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+streng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 3, 1, 1, 1])
+sum of wordFormDict.values() 7
+restriktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geschätzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+decken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+regional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stabil
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+konjunkturell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+radikal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+objektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([17, 14, 10, 1, 3, 8, 3])
+sum of wordFormDict.values() 56
+müssen
+dict_values([3, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([4, 4, 1, 1])
+sum of wordFormDict.values() 10
+regulatorisch
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+ihr
+dict_values([5, 2, 2])
+sum of wordFormDict.values() 9
+stark
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sollen
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+sicherstellen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([4, 3])
+sum of wordFormDict.values() 7
+haben
+dict_values([1, 4])
+sum of wordFormDict.values() 5
+ein
+dict_values([2, 3, 2, 3, 1])
+sum of wordFormDict.values() 11
+gehoben
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+führen
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+sinken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+eigen
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+streng
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+finanziell
+dict_values([2, 3])
+sum of wordFormDict.values() 5
+sein
+dict_values([1, 3, 1, 1, 1])
+sum of wordFormDict.values() 7
+restriktiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+geschätzt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+tatsächlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+decken
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+regional
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sicher
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stabil
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+konjunkturell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+radikal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+objektiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+relativ
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verschieden
+dict_values([2, 1])
+sum of wordFormDict.values() 3
+wirtschaftlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

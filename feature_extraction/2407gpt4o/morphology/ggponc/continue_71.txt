@@ -1,0 +1,211 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 614
+continue_71
+Length of all lemmas: 550
+Length of singleton lemmas: 509
+Length of matched lemmas: 34
+Length of singleton maching lemmas: 509
+sein
+dict_values([6, 3, 4])
+sum of wordFormDict.values() 13
+ein
+dict_values([1, 2, 7, 8, 1])
+sum of wordFormDict.values() 19
+können
+dict_values([3, 5, 1, 1])
+sum of wordFormDict.values() 10
+der
+dict_values([11, 12, 4, 6, 1, 1])
+sum of wordFormDict.values() 35
+potentiell
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 4, 1, 1])
+sum of wordFormDict.values() 9
+potenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 4, 4])
+sum of wordFormDict.values() 10
+gezielt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genomisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+liefern
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+revolutionieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+individualisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+sein
+dict_values([6, 3, 4])
+sum of wordFormDict.values() 13
+ein
+dict_values([1, 2, 7, 8, 1])
+sum of wordFormDict.values() 19
+können
+dict_values([3, 5, 1, 1])
+sum of wordFormDict.values() 10
+der
+dict_values([11, 12, 4, 6, 1, 1])
+sum of wordFormDict.values() 35
+potentiell
+dict_values([1, 2, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 4, 1, 1])
+sum of wordFormDict.values() 9
+potenziell
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 4, 4])
+sum of wordFormDict.values() 10
+gezielt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+spielen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kein
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+groß
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+klinisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+zeigen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+positiv
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ihr
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genomisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+welch
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+liefern
+dict_values([2, 2])
+sum of wordFormDict.values() 4
+solch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+genetisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+revolutionieren
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+müssen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bedeutend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+individualisiert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+bestehen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+gut
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+lassen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2

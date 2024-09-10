@@ -1,0 +1,109 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 450
+create_26
+Length of all lemmas: 415
+Length of singleton lemmas: 392
+Length of matched lemmas: 17
+Length of singleton maching lemmas: 392
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 4, 4, 9, 6, 3, 1])
+sum of wordFormDict.values() 34
+bekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+treten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 2, 3, 1, 2])
+sum of wordFormDict.values() 11
+werden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([2, 4, 2])
+sum of wordFormDict.values() 8
+sein
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bemerkenswert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+neu
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+der
+dict_values([7, 4, 4, 9, 6, 3, 1])
+sum of wordFormDict.values() 34
+bekannt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+treten
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([3, 2, 3, 1, 2])
+sum of wordFormDict.values() 11
+werden
+dict_values([2, 1, 1])
+sum of wordFormDict.values() 4
+dies
+dict_values([3, 1, 1])
+sum of wordFormDict.values() 5
+ihr
+dict_values([2, 4, 2])
+sum of wordFormDict.values() 8
+sein
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+können
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+kommen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+historisch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+jen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+stark
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+bemerkenswert
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+weit
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sozial
+dict_values([1, 1])
+sum of wordFormDict.values() 2

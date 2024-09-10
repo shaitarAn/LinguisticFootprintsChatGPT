@@ -1,0 +1,121 @@
+Already downloaded a model for the 'de' language
+Frequency Dictionary size: 459
+explain_28
+Length of all lemmas: 409
+Length of singleton lemmas: 382
+Length of matched lemmas: 19
+Length of singleton maching lemmas: 382
+ein
+dict_values([1, 5, 2, 1, 2])
+sum of wordFormDict.values() 11
+der
+dict_values([8, 8, 6, 1, 2, 2])
+sum of wordFormDict.values() 27
+dies
+dict_values([2, 4, 2, 1, 1, 1])
+sum of wordFormDict.values() 11
+verschieden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+pathogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verursachen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+oral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwer
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zahnärztlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+parodontal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+ein
+dict_values([1, 5, 2, 1, 2])
+sum of wordFormDict.values() 11
+der
+dict_values([8, 8, 6, 1, 2, 2])
+sum of wordFormDict.values() 27
+dies
+dict_values([2, 4, 2, 1, 1, 1])
+sum of wordFormDict.values() 11
+verschieden
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+sein
+dict_values([2, 2, 1])
+sum of wordFormDict.values() 5
+pathogen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+verursachen
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+oral
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+alle
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+schwer
+dict_values([1, 1, 1])
+sum of wordFormDict.values() 3
+zahnärztlich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+umfassend
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+möglich
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+hoch
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+parodontal
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+entwickeln
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+werden
+dict_values([1, 1, 1, 1])
+sum of wordFormDict.values() 4
+bestimmt
+dict_values([1, 1])
+sum of wordFormDict.values() 2
+nachhaltig
+dict_values([1, 1])
+sum of wordFormDict.values() 2
