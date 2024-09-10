@@ -14,6 +14,7 @@ import yaml
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 # openai.organization = os.getenv("OPENAI_ORG")
+# print(openai.api_key)
 
 # ############################################
 
@@ -118,6 +119,9 @@ for corpus in CORPORA:
         # ############################################
 
         for task in TASKS:
+
+          if task == "human":
+             continue
           
           if not os.path.exists(f"{outputdir}/{corpus}/{task}"):
             os.makedirs(f"{outputdir}/{corpus}/{task}")

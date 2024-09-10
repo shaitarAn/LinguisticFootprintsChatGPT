@@ -2,7 +2,7 @@ import os
 import re
 import langdetect
 
-data_dir = os.path.expanduser("~/switchdrive/AItextDetect/data_2407_gpt4o/zora_de")
+data_dir = os.path.expanduser("~/switchdrive/AItextDetect/data_2409gpt4/cnn")
 
 # Define the word to search for
 word = "Darüber hinaus"
@@ -26,8 +26,8 @@ for task in os.listdir(data_dir):
                 except langdetect.lang_detect_exception.LangDetectException:
                     lang = None
                 languages.append(lang)
-                if lang != "de":
-                    print(f"File {file_path} is not in German") 
+                if lang == "de":
+                    print(f"File {file_path} is in German") 
 
                 # Initialize the count for this file
                 file_count = 0

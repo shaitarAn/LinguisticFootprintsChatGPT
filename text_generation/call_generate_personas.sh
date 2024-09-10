@@ -2,7 +2,7 @@
 
 model="gpt-4" #"gpt-4-turbo-2024-04-09" #gpt-3.5-turbo-16k, gpt-4o
 
-outfolder="../data_2409_gpt4" # in this folder subfolders task/corpus/system will be created
+outfolder="../data_2409gpt4" # in this folder subfolders task/corpus/system will be created
 
 # make sure the folder exists
 mkdir -p $outfolder

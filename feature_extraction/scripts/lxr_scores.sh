@@ -35,8 +35,6 @@ for corpus_folder in $DATADIR/*; do
         echo "system: $system"
 
         for file in "$system_folder"/*; do
-          # continue
-          # echo $file
 
           python lxr_calculate.py -f ${file} -sys ${system} -i 100 -o $OUTDIR/${corpus}.csv
 

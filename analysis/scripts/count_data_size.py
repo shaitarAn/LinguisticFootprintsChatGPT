@@ -2,12 +2,15 @@ import os
 import pandas as pd
 from collections import defaultdict
 
-# count the number of tokens in the English and German corpora
+generation = "data_2309gpt3"
+root = os.path.expanduser(f"~/switchdrive/AItextDetect/{generation}")
 
-#   # count the number of tokens in the English and German corpora
-#   # initialize a dictionnary that will hold the counts
-list_of_english_corpora = ["pubmed_en", "zora_en", "cnn", "cs_en", "e3c"]
-list_of_german_corpora = ["pubmed_de", "zora_de", "20min", "cs_de", "ggponc"]
+if generation in ["data_2309gpt3", "data_2403gpt4"]:
+    list_of_english_corpora = ["pubmed_en", "zora_en", "cnn", "cs_en", "e3c"]
+    list_of_german_corpora = ["pubmed_de", "zora_de", "20min", "cs_de", "ggponc"]
+elif generation in ["data_2409gpt4"]:
+    list_of_english_corpora = ["pubmed_en", "cnn"]
+    list_of_german_corpora = ["pubmed_de", "20min"]
 
 count_tokens = defaultdict(lambda: defaultdict(int))
 
@@ -15,11 +18,11 @@ def count_tokens_in_corpus(corpus):
 
     persona_dict = {}
     
-    for persona in os.listdir(f"../../data_2309_gpt3/{corpus}/"):
+    for persona in os.listdir(f"{root}/{corpus}/"):
         # check if the persona is a directory
-        if os.path.isdir(f"../../data_2309_gpt3/{corpus}/{persona}"):
-            for file in os.listdir(f"../../data_2309_gpt3/{corpus}/{persona}/"):
-                with open(f"../../data_2309_gpt3/{corpus}/{persona}/{file}", "r") as f:
+        if os.path.isdir(f"{root}/{corpus}/{persona}"):
+            for file in os.listdir(f"{root}/{corpus}/{persona}/"):
+                with open(f"{root}/{corpus}/{persona}/{file}", "r") as f:
                     for line in f:
                         # add the persona to the dictionnary
                         if persona not in persona_dict:

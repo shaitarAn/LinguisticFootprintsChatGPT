@@ -48,6 +48,12 @@ df_sorted['HU-EX 42'] = df_sorted['asmachine_upper'] - df_sorted['human_upper_gp
 # # Select only the required columns
 df_final = df_sorted[['connective', 'human_upper_gpt3', 'HU-CO 3', 'HU-EX 3', 'HU-CR 3', 'HU-CO 4', 'HU-EX 4', 'HU-CR 4', 'HU-CO 42', 'HU-EX 42']]
 
+# Group definitions by corpus
+groups = {
+    'GPT-3, 2023': ['HU-CO 3', 'HU-EX 3', 'HU-CR 3'],
+    'GPT-4, 2024': ['HU-CO 4', 'HU-EX 4', 'HU-CR 4'],
+}
+
 # drop the rows with NaN values
 df_final = df_final.dropna()
 
@@ -63,81 +69,75 @@ df_final['HU-EX 42'] = df_final['HU-EX 42'].astype(int)
 # # ##############################################################################
 # # # make a heatmap with Matplotlib
 # # ##############################################################################
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from matplotlib.colors import TwoSlopeNorm
 
-# select only the top 30 human connectives where system is gpt3 and gpt4
+# Assuming df_final has been properly formatted and calculated as previously detailed
+
+# Select only the top 30 entries
 data = df_final.iloc[:30]
-
 print(data)
 
-# Prepare the data for imshow
-human_data = data[['human_upper_gpt3']].values.flatten()  # 'Human' row data
-heatmap_data = data[['HU-CO 3', 'HU-EX 3', 'HU-CR 3', 'HU-CO 4', 'HU-EX 4', 'HU-CR 4', 'HU-CO 42', 'HU-EX 42']].values.T  
+# Data preparation for the heatmap
+human_data = data['human_upper_gpt3'].values.flatten()  # Human data for annotation
+heatmap_data = data[['HU-CO 3', 'HU-EX 3', 'HU-CR 3', 'HU-CO 4', 'HU-EX 4', 'HU-CR 4', 'HU-CO 42', 'HU-EX 42']].values.T
 
-# Define the connectives (x-axis labels)
+# Set the connectives and labels
 connectives = data['connective'].values
+row_labels = ['Continue', 'Explain', 'Create', 'Continue', 'Explain', 'Create', 'AsHuman', 'AsMachine']
 
-# Define row labels
-row_labels = ['Human', 'Continue', 'Explain', 'Create', 'Continue', 'Explain', 'Create', 'AsHuman', 'AsMachine']
-
-# Set the size of the plot
-fig, ax = plt.subplots(figsize=(16, 10))
-
-# Normalize colors with TwoSlopeNorm to center at zero
-vmin, vmax = heatmap_data.min(), heatmap_data.max()
-norm = TwoSlopeNorm(vmin=vmin, vcenter=0, vmax=vmax)
-
-# Create a heatmap for non-human rows only (rows 1 to 6)
+# Set up the figure and axes
+fig, ax = plt.subplots(figsize=(18, 10))
+norm = TwoSlopeNorm(vmin=heatmap_data.min(), vcenter=0, vmax=heatmap_data.max())
 cax = ax.imshow(heatmap_data, cmap='coolwarm', aspect='auto', norm=norm)
 
-# Add color bar for reference
-# plt.colorbar(cax)
-
-# Set the ticks and labels for the x and y axes
+# Configure tick labels
 ax.set_xticks(np.arange(len(connectives)))
-# make ticks invisible
-ax.tick_params(axis='x', which='both', bottom=False, top=False)
-ax.set_xticklabels(connectives, fontsize=20, rotation=45, ha='right') 
-# make ticks invisible
-ax.tick_params(axis='y', which='both', left=False, right=False)
-ax.set_yticks(np.arange(8))  # Only for the heatmap data (3 rows)
-ax.set_yticklabels(row_labels[1:], fontsize=20)
-# add one more tick and label for the 'Human' row
-# ax.set_yticks(np.arange(4)-0.5, minor=True)
-# ax.set_yticklabels(row_labels, fontsize=20, minor=True)
+ax.set_xticklabels(connectives, fontsize=20, rotation=45, ha='right')
+ax.set_yticks(np.arange(len(row_labels)))
+ax.set_yticklabels(row_labels, fontsize=18)
 
-# Overlay the 'Human' row values as text separately above the heatmap
+# Annotate the 'Human' row values separately above the heatmap
 for i in range(len(connectives)):
-    value = human_data[i]
-    ax.text(i, -0.8, f'{value:.0f}', ha='center', va='center', color='dimgray', fontsize=18)
+    ax.text(i, -0.8, f'{int(human_data[i]):d}', ha='center', va='center', color='dimgray', fontsize=18)
 
-# Annotate each cell with the numeric value for heatmap data
+# Annotate each cell with its numeric value
 for i in range(heatmap_data.shape[0]):
     for j in range(heatmap_data.shape[1]):
-        ax.text(j, i, '{:.0f}'.format(heatmap_data[i, j]), ha='center', va='center', color='black', fontsize=18)
+        text_color = 'white' if abs(heatmap_data[i, j]) > norm.vmax / 2 else 'black'
+        ax.text(j, i, f'{int(heatmap_data[i, j]):d}', ha='center', va='center', color=text_color, fontsize=18)
 
-# Adjust layout for better appearance
-plt.subplots_adjust(left=0.15, right=0.95, top=0.85, bottom=0.3)
-
-# Remove any unnecessary spines
+# Visual adjustments for axis visibility
 ax.spines['top'].set_visible(False)
 ax.spines['right'].set_visible(False)
-ax.spines['bottom'].set_visible(False)
-# extend the left spine up
-ax.spines['left'].set_bounds(-0.5, 2.5)
 ax.spines['left'].set_visible(False)
+ax.spines['bottom'].set_visible(False)
 
-# add black line between the two systems, between rows 3 and 4
-ax.axhline(y=2.5, color='black', linewidth=2)
-ax.axhline(y=5.5, color='black', linewidth=2)
+# Manually set the axes position
+# fig.subplots_adjust(left=0.27)  # Adjust this value as needed
+# ax.set_position([0.25, 0.1, 0.65, 0.8])  # [left, bottom, width, height] in figure coordinate
+
+# Add bold and vertical group labels further to the left
+group_labels = ['GPT-3', 'GPT-4']
+group_positions = [1, 5]  # Adjust these positions to match the middle of your groups
+for label, pos in zip(group_labels, group_positions):
+    ax.text(-3, pos, label, fontsize=18, ha='right', va='center', rotation=90, fontweight='bold')
 
 
+# Draw lines to separate the groups
+ax.axhline(y=2.5, color='black', linewidth=2)  # Between GPT-3 and GPT-4 groups
+ax.axhline(y=5.5, color='black', linewidth=2)  # Between GPT-4 and AsHuman groups
+
+# Improve layout to handle tight spacing and save the figure
 plt.tight_layout()
-
-# # Save the plot
 plt.savefig('../../viz/for_paper/connectives_cap_pubmed_de_heatmap_gpt34.pdf', format='pdf', bbox_inches='tight')
-
-# # Show the plot
 plt.show()
+
+
+
+
 
 # # merge the two dataframes on 'connective' and 'human_upper'
 # df = pd.merge(df3, df4, on=['connective'], suffixes=('_gpt3', '_gpt4'))
