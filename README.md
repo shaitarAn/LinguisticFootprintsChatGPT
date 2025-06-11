@@ -93,18 +93,21 @@ Specify your input data and output directories in `bash run_experiments.sh`, whi
     - alpha: `0.01`, `0.05`
     - method: `bon` (bonferroni), `bh` (benjamini-hochberg)
 
-## Cite this paper (to be updated)
+## Citation
 
-```
-@article{YourLastName2024,
+If you use this repository or build on this work, please cite:
+
+```bibtex
+@inproceedings{Shaitarova2024,
   title={Tracing Linguistic Footprints of ChatGPT Across Tasks, Domains and Personas in English and German},
-  author={Anastassia Shaitarova, Nikolaj Bauer, Jannis Vamvas, Martin Volk},
-  journal={Journal Name},
+  author={Shaitarova, Anastassia and Bauer, Nikolaj and Vamvas, Jannis and Volk, Martin},
+  booktitle={Proceedings of the 9th edition of the Swiss Text Analytics Conference},
+  pages={102--112},
   year={2024},
-  volume={xx},
-  pages={xxx-xxx}
+  address={Chur, Switzerland},
+  publisher={Association for Computational Linguistics}
 }
-```
+
 
 
 
