@@ -2,7 +2,7 @@
 
 ## Brief Description
 
-This repository contains the code and data supporting the research paper "Tracing Linguistic Footprints of ChatGPT Across Tasks, Domains and Personas in English and German." The project explores how the output of large language models like ChatGPT differs from human-generated text and analyzes the impact of task-specific prompting on linguistic features in both English and German texts.
+This repository contains the code and data supporting the research paper [Tracing Linguistic Footprints of ChatGPT Across Tasks, Domains and Personas in English and German.](https://aclanthology.org/2024.swisstext-1.9/) The project explores how the output of large language models like ChatGPT differs from human-generated text and analyzes the impact of task-specific prompting on linguistic features in both English and German texts.
 
 The code is generalizable to include any number of corpora, domains, and tasks by simply updating `config/config.yaml`
 
