@@ -5,6 +5,8 @@ import sys
 sys.path.append('../../feature_extraction/scripts/')
 from features_list import features_to_visualize_dict
 
+generation = '2403gpt4'
+
 # cmap = mpl.colormaps['GnBu']
 
 # def get_color(score: int):
@@ -22,19 +24,21 @@ from features_list import features_to_visualize_dict
 #     print(f"\definecolor{{cell{i}}}{{rgb}}{{{color[0]:.2f}, {color[1]:.2f}, {color[2]:.2f}}}")
 # print()
 
-data_path = '../results/significant_features_table.csv'
+data_path = f'../results/{generation}_significant_features_table.csv'
 
 with open(data_path) as f:
     reader = csv.DictReader(f, delimiter=',')
     data = list(reader)
 
+# human-continue,human-explain,human-create,continue-explain,explain-create,continue-create
+
 value_headers = [
-    'Hu-Co',
-    'Hu-Ex',
-    'Hu-Cr',
-    'Co-Ex',
-    'Co-Cr',
-    'Ex-Cr'
+    'human-continue',
+    'human-explain',
+    'human-create',
+    'continue-explain',
+    'explain-create',
+    'continue-create'
 ]
 
 value_letters = {0:'\mspace', 1:'En', 2:'x', 3:'De'}

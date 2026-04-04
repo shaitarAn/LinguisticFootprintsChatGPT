@@ -26,21 +26,21 @@ def count_tokens_in_corpus(corpus):
                     for line in f:
                         # add the persona to the dictionnary
                         if persona not in persona_dict:
-                            persona_dict[persona] = len(line)
+                            persona_dict[persona] = len(line.split())
                         else:
-                            persona_dict[persona] += len(line)
+                            persona_dict[persona] += len(line.split())
     return persona_dict
 
 #   # for each corpus, count the number of tokens
 for corpus in list_of_english_corpora:
-    print(corpus)
+    # print(corpus)
     persona_count = count_tokens_in_corpus(corpus)
     # add corpus and count to the dictionnary
     count_tokens[corpus] = persona_count
 
 
 for corpus in list_of_german_corpora:
-    print(corpus)
+    # print(corpus)
     persona_count = count_tokens_in_corpus(corpus)
     # add corpus and count to the dictionnary
     count_tokens[corpus] = persona_count
@@ -48,7 +48,7 @@ for corpus in list_of_german_corpora:
 #   # save the counts to a csv file
 df = pd.DataFrame(count_tokens)
 
-print(df)
+# print(df)
 
 # write the dataframe to a latex table
 with open("../../viz/for_paper/tokens_per_corpora.tex", "w") as f:
@@ -56,4 +56,6 @@ with open("../../viz/for_paper/tokens_per_corpora.tex", "w") as f:
 
 # count total for humans in df
 df["total"] = df.sum(axis=1)//4
+
+print(generation)
 print(df)

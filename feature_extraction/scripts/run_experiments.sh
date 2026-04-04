@@ -13,6 +13,6 @@ CONFIG=../../config/config.yaml
 
 python3 generate_bash_config.py $CONFIG
 
-bash run_extract_BiasMT_features.sh $INPUTDIR $OUTPUTDIR
+# bash run_extract_BiasMT_features.sh $INPUTDIR $OUTPUTDIR
 
 bash run_extract_other_features.sh $INPUTDIR $OUTPUTDIR $CONFIG

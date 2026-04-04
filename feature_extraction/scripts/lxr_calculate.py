@@ -67,16 +67,16 @@ def main():
 
         # print('{},{},{},{}'.format(syst,round(scores['TTR'][syst]*100,2),round(scores['Yules'][syst]*100,2),round(scores['MTLD'][syst],2)), file=sys.stdout)
 
-    # 3. read the other variables.
-    iters = int(args.iterations)
-    sample_size = int(args.sample_size)
-    sample_idxs = np.random.randint(0, length, size=(iters, sample_size))
+    # # 3. read the other variables.
+    # iters = int(args.iterations)
+    # sample_size = int(args.sample_size)
+    # sample_idxs = np.random.randint(0, length, size=(iters, sample_size))
 
-    # 4. Compute Sample metric
-    for metric in metrics:
-        metrics_bs[metric] = {}
-        for syst in sentences:
-            metrics_bs[metric][syst] = compute_ld_metric(metrics[metric], sentences[syst], sample_idxs, iters)
+    # # 4. Compute Sample metric
+    # for metric in metrics:
+    #     metrics_bs[metric] = {}
+    #     for syst in sentences:
+    #         metrics_bs[metric][syst] = compute_ld_metric(metrics[metric], sentences[syst], sample_idxs, iters)
 
     # for metric in metrics:
     #     print("-------------------------------------------------")

@@ -38,6 +38,16 @@ def main(output_dir, config_path):
                             feature_data = df[df.iloc[:, 0] == feature].iloc[:, 1:]  # drop the first column
                             feature_data = feature_data[tasks]  # reorder columns based on tasks
 
+                            # Accumulate and append feature data to its respective file for each corpus
+                            feature_path = os.path.join(output_dir, 'results', 'per_feature', feature, f"{corpus}.csv")
+                            os.makedirs(os.path.dirname(feature_path), exist_ok=True)
+
+                            # Check if file exists; write headers only if it does not
+                            if not os.path.exists(feature_path):
+                                feature_data.to_csv(feature_path, index=False)  # write with headers
+                            else:
+                                feature_data.to_csv(feature_path, mode='a', header=False, index=False)  # append without headers
+
                             # Append to the language specific dictionary
                             if feature not in language_dicts[language]:
                                 language_dicts[language][feature] = [feature_data]
@@ -54,6 +64,7 @@ def main(output_dir, config_path):
 
             except Exception as e:
                 print(f"Error processing {corpus}: {e}")
+
 
     # Save results
     for language, features_dict in language_dicts.items():

@@ -11,8 +11,6 @@ import time
 import copy
 # print (os.environ.keys())
 
-
-
 class OpenAiModels:
 
     def __init__(self, model_name:str, api_key, org_id=None):

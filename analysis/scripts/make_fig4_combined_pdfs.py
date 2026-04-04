@@ -1,143 +1,80 @@
 import pandas as pd
-import os, sys
+import os
 import seaborn as sns
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 from PIL import Image
+from fpdf import FPDF
+import sys
 sys.path.append('../../feature_extraction/scripts/')
 from features_list import features_to_visualize_dict
 from viz_helper import corpus_dict
 
-def make_boxplot(feature, outputfolder, df, corpus, filetype="pdf"):
+def make_boxplot(feature, outputfolder, df, corpus, generation, show_labels=True, show_title=True, filetype="png"):
+    outputfile = f"../../viz/boxplots/{outputfolder}/{generation}_{corpus}_{feature}.{filetype}"
 
     if not os.path.exists(f"../../viz/boxplots/{outputfolder}"):
         os.makedirs(f"../../viz/boxplots/{outputfolder}")
 
-    plt.figure(figsize=(4, 6))
+    plt.figure(figsize=(5, 6))
     sns.boxplot(data=df, palette='Set3', showmeans=True)
 
-    plt.xticks(rotation=45)
-    plt.title(corpus_dict[corpus], fontsize=20)
-    plt.xticks(fontsize=20)
-    plt.yticks(fontsize=15)
-    plt.savefig(f"../../viz/boxplots/{outputfolder}/{corpus}_{feature}.{filetype}", bbox_inches='tight')
-    # plt.show()
+    if show_title:
+        plt.title(corpus_dict[corpus], fontsize=22)
+    plt.yticks(fontsize=18)
+
+    if not show_labels:
+        plt.xticks([])
+    else:
+        plt.xticks(rotation=45, fontsize=22)
+    
+    plt.tight_layout()
+    plt.savefig(outputfile, bbox_inches='tight')
     plt.close()
 
-def combine_pngs(pngs, output_path):
+    return outputfile
 
-    list_of_images = []
-    
-    for png in pngs:
-        print(png)
-
-        try:
-
-            im = Image.open(png)
-            list_of_images.append(im)
-
-            w = max(im.width for im in list_of_images)
-            h = max(im.height for im in list_of_images)
-
-        except FileNotFoundError:
-            continue
-
-        # create big empty image with a white background with 2 images per row
-        new_image = Image.new('RGB', (w * 3, h * 2), color='white')
-
-        # paste the images into the big image left to right, top to bottom
-        for i, im in enumerate(list_of_images):
-            new_image.paste(im, (i % 3 * w, i % 2 * h))
-        
-        # save big image
-        new_image.save(output_path)
-
-def make_boxplot_one_row(pngs, output_path):
-    
-    # Create a new PDF file
+def combine_pngs_into_pdf(pngs, output_path, nrows=2, ncols=5):
     with PdfPages(output_path) as pdf:
-        # Create a figure with a horizontal layout
-        fig, axs = plt.subplots(1, len(pngs), figsize=(15, 5))
 
-        # Loop through each PNG and add it to the corresponding axis
+        fig, axs = plt.subplots(nrows, ncols, figsize=(23,11))
+        # ncols * 4, nrows * 6
+        axs = axs.flatten()
+
         for i, png in enumerate(pngs):
-            # Read the PNG file and display it on the corresponding axis
             img = plt.imread(png)
             axs[i].imshow(img)
-            axs[i].axis('off')
+            axs[i].axis('off')  # Turn off axis lines and labels
 
-        # Adjust layout
         plt.tight_layout()
+        pdf.savefig(fig)
+        # show the combined plots
+        plt.show()
+        plt.close(fig)
 
-        # Save the figure as a page in the PDF file
-        # pdf.savefig()
-        # plt.show()
-        # save the plot as a png file
-        plt.savefig(output_path, bbox_inches='tight')
-
-
-        # Close the figure
-        # plt.close(fig)
-
-    # Print message
     print("PDF file saved successfully with combined plots.")
 
-def main():
-
-    # ##############################################################################
-    # # make boxplots for the selected features in Figure 4
-    # ##############################################################################
-
+def main(root, generations):
     feature = "proportion_unique_tokens"
-    corpora = ["cnn", "20min", "cs_de", "pubmed_en", "pubmed_de"]
+    corpora = ["cnn", "20min", "cs_en", "cs_de"]
+    pngs = []
 
-    for corpus in corpora:
-        df = pd.read_csv(f"../../feature_extraction/results/per_feature/{feature}/{corpus}.csv")
-        make_boxplot(feature, "special", df, corpus, "png")
+    for generation in generations:
+        show_labels = generation != "2309gpt3"  # Only show x-axis labels for generations other than 2309gpt3
+        show_title = generation != "2403gpt4"  # Only show titles for generations other than 2403gpt4
+        df1 = pd.read_csv(f"{root}/{generation}/results/per_language/english/{feature}.csv")
+        df2 = pd.read_csv(f"{root}/{generation}/results/per_language/german/{feature}.csv")
+        df = pd.concat([df1, df2])
 
-    df1 = pd.read_csv(f"../../feature_extraction/results/per_language/english/{feature}.csv")
-    df2 = pd.read_csv(f"../../feature_extraction/results/per_language/german/{feature}.csv")
+        pngs.append(make_boxplot(feature, "special", df, "full", generation, show_labels, show_title))
 
-    df = pd.concat([df1, df2])
+        for corpus in corpora:
+            df = pd.read_csv(f"{root}/{generation}/results/per_feature/{feature}/{corpus}.csv")
+            pngs.append(make_boxplot(feature, "special", df, corpus, generation, show_labels, show_title))
 
-    make_boxplot("uniq", "special", df, "full", "png")
+    combine_pngs_into_pdf(pngs, f"../../viz/boxplots/special/{'_'.join(generations)}_{feature}.pdf")
 
-    # List of PNG paths
-    pngs = ['../../viz/boxplots/special/full_uniq.png'] + [f'../../viz/boxplots/special/{corpus}_{feature}.png' for corpus in corpora]
-    print(pngs)
-
-    # Combine PNGs into a single PDF
-    # combine_pngs(pngs, "../../viz/boxplots/special/unique_tokens_3x2.pdf")
-
-    # make_boxplot_one_row(pngs, "../../viz/boxplots/special/unique_tokens.pdf")
-    # save png
-    make_boxplot_one_row(pngs, "../../viz/boxplots/special/unique_tokens.png")
-
-    # ##############################################################################
-    # # make boxplots with the top and bottom features
-    # ##############################################################################
-
-    # feature_top = ["proportion_unique_tokens", "proportion_unique_tokens"]
-    # feature_bottom = ["proportion_unique_tokens", "proportion_unique_tokens"]
-
-    # for feature in feature_top:
-
-    #     try:
-    #         make_boxplot(feature, "special", pd.read_csv(f"../../feature_extraction/results/per_language/english/{feature}.csv"), "English")
-    #     except FileNotFoundError:
-    #         print(f"FileNotFoundError: {feature}")
-
-    # for feature in feature_bottom:
-    #     try:
-    #         make_boxplot(feature, "special", pd.read_csv(f"../../feature_extraction/results/per_language/english/{feature}.csv"), "German")
-    #     except FileNotFoundError:
-    #         print(f"FileNotFoundError: {feature}")
-
-    # # pngs = [f'../../viz/boxplots/special/English_{feature_top[0]}.png', f'../../viz/boxplots/special/English_{feature_top[1]}.png', f'../../viz/boxplots/special/German_{feature_bottom[0]}.png',  f'../../viz/boxplots/special/German_{feature_bottom[1]}.png']
-            
-    # combine_pngs(pngs, "../../viz/boxplots/special/unique_tokens.pdf")
-
-main()
-
-
-
+if __name__ == "__main__":
+    generations = ["2309gpt3", "2403gpt4"]
+    root = "../../feature_extraction"
+    main(root, generations)

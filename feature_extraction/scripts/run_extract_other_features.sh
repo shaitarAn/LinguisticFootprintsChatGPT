@@ -5,7 +5,7 @@ OUTPUTDIR=$2
 CONFIG=$3
 
 # Iterates through all specified corpora to extract features using the TextDescriptives library, extracts connectives and uses custom formula for German Flesch Reading Ease.
-python3 extract_features.py -i $INPUTDIR -o $OUTPUTDIR
+# python3 extract_features.py -i $INPUTDIR -o $OUTPUTDIR
 
 # Restructures data into a more accessible format, sorting by individual features, language, and domain. Iterates through: `$OUTDIR/results/per_corpus/{corpus}`
 # - Per Feature: `$OUTDIR/results/per_feature/{feature_to_extract}/{corpus}.csv`

@@ -5,19 +5,38 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import json
 import argparse
+import yaml
 
 # parse the input arguments
 parser = argparse.ArgumentParser(description='Combine the significant features from the English and German data')
 parser.add_argument('--alpha', '-a', type=float, default=0.01, help='the significance level (default: 0.01)')
 # add method argument
 parser.add_argument('--method', '-m', choices=['bh', 'holm', 'bon'], default='bh', help='the method for multiple hypothesis testing correction (default: Benjamini-Hochberg)')
+parser.add_argument('--input_dir', '-i', required=True, help='Path to the input directory.')
+parser.add_argument('--config', '-c', required=True, help='Path to the configuration file.')
 
 args = parser.parse_args()
 alpha = args.alpha
 method = args.method
+generation_name = args.input_dir.split('/')[-2]
 
-input_json_en = f'../results/english_significant_features_{alpha}.json'
-input_json_de = f'../results/german_significant_features_{alpha}.json'
+input_json_en = f'../results/{generation_name}_english_significant_features_{alpha}.json'
+input_json_de = f'../results/{generation_name}_german_significant_features_{alpha}.json'
+
+# ########################################################################
+
+def load_config(config_path):
+    with open(config_path, 'r') as file:
+        config = yaml.safe_load(file)
+    return config
+
+config = load_config(args.config)
+domains = config['domains']
+tasks = config['tasks']
+# print(tasks)
+# print(domains)
+
+# ########################################################################
 
 # extract data from the json file
 significant_features_en = {}
@@ -29,7 +48,7 @@ significant_features_de = {}
 with open(input_json_de, 'r') as f:
     significant_features_de = json.load(f)
 
-personas_dict = {'human-continue': 'Hu-Co', 'human-explain': 'Hu-Ex', 'human-create': 'Hu-Cr', 'continue-explain': 'Co-Ex', 'continue-create': 'Co-Cr', 'explain-create': 'Ex-Cr'}
+# personas_dict = {'human-continue': 'Hu-Co', 'human-explain': 'Hu-Ex', 'human-create': 'Hu-Cr', 'continue-explain': 'Co-Ex', 'continue-create': 'Co-Cr', 'explain-create': 'Ex-Cr'}
 
 # Initialize a dictionary to store feature-persona mapping
 feature_persona_mapping = {}
@@ -64,8 +83,9 @@ df.fillna(0, inplace=True)  # Replace NaN with 0 for features not significant fo
 df = df.sort_index()
 
 # Rename the columns to the persona abbreviations
-df.columns = [personas_dict[p] for p in df.columns]
+# df.columns = [personas_dict[p] for p in df.columns]
 
 # Save the DataFrame to a CSV file
-output_csv = '../results/significant_features_table.csv'
+output_csv = f'../results/{generation_name}_significant_features_table.csv'
 df.to_csv(output_csv)
+print(f"Saved the significant features table to {output_csv}")

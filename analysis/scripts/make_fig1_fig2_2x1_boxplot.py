@@ -6,6 +6,8 @@ from PIL import Image, ImageDraw
 sys.path.append('../../feature_extraction/scripts/')
 from features_list import features_to_visualize_dict
 
+GENERATION = "2309gpt3"
+
 def combine_pngs(pngs, draw_line=True):
     
     list_of_images = []
@@ -52,8 +54,8 @@ def make_figure1(features):
     # ##############################################################################
 
     for f in features:
-        f1 = f"../../feature_extraction/results/per_language/english/{f}.csv"
-        f2 = f"../../feature_extraction/results/per_language/german/{f}.csv"
+        f1 = f"../../feature_extraction/{GENERATION}/results/per_language/english/{f}.csv"
+        f2 = f"../../feature_extraction/{GENERATION}/results/per_language/german/{f}.csv"
 
         df = pd.read_csv(f1)
         df_other_lang = pd.read_csv(f2)
@@ -81,7 +83,7 @@ def make_figure2():
     # # Make Figure 2: combine 2 images of cohen's d effect size into one pdf
     # #####################################################################################
 
-    pngs = ["../../viz/effect_size/cohen_d_english_language.png", "../../viz/effect_size/cohen_d_german_language.png"]
+    pngs = [f"../../viz/effect_size/cohen_d_english_{GENERATION}.png", f"../../viz/effect_size/cohen_d_german_{GENERATION}.png"]
 
     list_of_images = combine_pngs(pngs, draw_line=True)
 
@@ -96,7 +98,7 @@ def main():
 
 if __name__ == "__main__":
     make_figure1(["mean_word_length", "pos_prop_PUNCT"])
-    # make_figure2()
+    make_figure2()
 
 
         

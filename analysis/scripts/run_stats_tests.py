@@ -16,6 +16,9 @@ warnings.simplefilter(action='ignore')
 pd.set_option('mode.chained_assignment', None)
 import sys
 from viz_helper import *
+import yaml
+
+# ########################################################################
 
 # parse the input arguments
 parser = argparse.ArgumentParser(description='Calculate the Benjamini-Hochberg correction for multiple hypothesis testing')
@@ -24,44 +27,74 @@ parser.add_argument('language', help='the language of the input files')
 parser.add_argument('--alpha', '-a', type=float, default=0.05, help='the significance level (default: 0.05)')
 # add the option to choose the method for multiple hypothesis testing correction
 parser.add_argument('--method', '-m', choices=['bh', 'holm', 'bon'], default='bh', help='the method for multiple hypothesis testing correction (default: Benjamini-Hochberg)')
+parser.add_argument('--config', '-c', required=True, help='Path to the configuration file.')
+parser.add_argument('--input_dir', '-i', required=True, help='Path to the input directory.')
 
 args = parser.parse_args()
 
 language = args.language
 alpha = args.alpha
 method = args.method
+generation_name = args.input_dir.split('/')[-2]
+
+# ########################################################################
+
+def load_config(config_path):
+    with open(config_path, 'r') as file:
+        config = yaml.safe_load(file)
+    return config
+
+config = load_config(args.config)
+domains = config['domains']
+tasks = config['tasks']
+# print(tasks)
+# print(domains)
+
+# ########################################################################
 
 methods = {'bh': 'Benjamini-Hochberg', 'holm': 'Holm', 'bon': 'Bonferroni'}
-domains = {'news': ['cnn', '20min', 'cs_en', 'cs_de'], 'scholar':['pubmed_en', 'pubmed_de', 'zora_de', 'zora_en'], 'clinical': ['e3c', 'ggponc']}
 
-# initialize a dictionnary of significant features per persona
-significant_features = {'human-continue':{'bon':[], 'bh':[]}, 'human-explain':{'bon':[], 'bh':[]}, 'human-create':{'bon':[], 'bh':[]}, 'continue-explain':{'bon':[], 'bh':[]}, 'continue-create':{'bon':[], 'bh':[]}, 'explain-create':{'bon':[], 'bh':[]}}
+def create_task_pairs(tasks):
+    # Generate all combinations of task pairs
+    return ["-".join(map(str, comb)) for comb in itertools.combinations(tasks, 2)]
 
-def combine_means(outputdir, dfp, input_dir, files):
-    # initialize a dataframe with 5 columns: feature, human, continue, explain, create
-    dfm = pd.DataFrame(columns=['human', 'continue', 'explain', 'create'])
+def initialize_significant_features(task_pairs):
+    return {pair: {'bon': [], 'bh': []} for pair in task_pairs}
 
-    # create a list of the significant features
+task_pairs = create_task_pairs(tasks)
+significant_features = initialize_significant_features(task_pairs)
+
+# ########################################################################
+
+def combine_means(dfp, input_dir, files):
+    
+    # initialize a dataframe with 5 columns: feature + tasks
+    dfm = pd.DataFrame(columns=tasks)
+
+    # create a list of only significant features, where the null hypothesis is rejected
     features_list = dfp[dfp['reject'] == True]['feature'].unique()
+    # print(features_list[:5])
 
     # iterate over the significant features and add the data to the dataframe
     for file in files:
         feature = file.split('.')[0]
         if feature in features_list:
+            # print(feature)
             feat = pd.read_csv(input_dir + file)
+            # print(feat.head())
             # add the values to the dataframe
             dfm = pd.concat([dfm, feat], ignore_index=True)
 
-    # plot the means for each feature
-    # plot_means(outputdir, dfm, language, alpha)
-
+    # print(dfm)
     # save the dataframe to a csv file
-    dfm.to_csv(f'../results/{language}_means_{alpha}.csv', index=False)
+    # plot_means(f'../../viz/per_lang/{language}', dfm, f'{language} means')
+    dfm.to_csv(f'../results/{generation_name}_{language}_SignFeats_{alpha}.csv', index=False)
 
 
-def perform_multiple_test_correction(outputdir, dfp):
+def perform_multiple_test_correction(dfp):
         
     for p in dfp['persona'].unique():
+        # p is a combination of two personas
         dfp_p = dfp[dfp['persona'] == p]
 
         # ############################################################
@@ -113,9 +146,8 @@ def control_normality(dfp, input_dir, files):
         df = pd.read_csv(input_dir + f)
 
         # iterate over all the personas and calculate the t-statistic and p-value
-        personas = ['human', 'continue', 'explain', 'create']
-
-        for p1, p2 in itertools.combinations(personas, 2):
+        for p1, p2 in itertools.combinations(tasks, 2):
+            # print(f'Feature {feature} for {p1} and {p2}')
             # check if both samples have a normal distribution
             # null hypothesis: the sample has a normal distribution
             if stats.shapiro(df[p1])[1] < 0.05 and stats.shapiro(df[p2])[1] < 0.05:
@@ -139,12 +171,14 @@ def control_normality(dfp, input_dir, files):
 def run_stats_tests(input_dir, outputdir):
     
     files = os.listdir(input_dir)
+    # print(files)
 
     # initialize a dataframe to store the feature, t-statistic, and p-value
     dfp = pd.DataFrame(columns=['feature', 'persona', 'test', 't-statistic', 'pvalue'])
 
     # control the normality of the distributions
     dfp = control_normality(dfp, input_dir, files)
+    # print(dfp)
 
     # initialize the columns for the multiple hypothesis testing correction
     dfp['bon'] = np.nan
@@ -157,10 +191,10 @@ def run_stats_tests(input_dir, outputdir):
     dfp = dfp.reset_index(drop=True)
 
     # perform the multiple hypothesis testing correction
-    dfp = perform_multiple_test_correction(outputdir, dfp)
+    dfp = perform_multiple_test_correction(dfp)
 
     # plot_distribtuions(outputdir, dfp.pvalue, dfp.bon, language, language, method, alpha)
-    combine_means(outputdir, dfp, input_dir, files)
+    combine_means(dfp, input_dir, files)
 
     return dfp
 
@@ -169,14 +203,14 @@ def main():
 
     # ######## run statistical analysis tests for each language ########
 
-    input_dir = f'../../feature_extraction/results/per_language/{language}/'
+    input_dir = f'{args.input_dir}/per_language/{language}/'
     output_dir = '../../viz/per_lang'
 
     dfp = run_stats_tests(input_dir, output_dir)
 
-    dfp.to_csv(f'../results/{language}_stats_{alpha}.csv', index=False)
+    dfp.to_csv(f'../results/{generation_name}_{language}_stats_{alpha}.csv', index=False)
 
-    with open(f'../results/{language}_significant_features_{alpha}.json', 'w') as f:
+    with open(f'../results/{generation_name}_{language}_significant_features_{alpha}.json', 'w') as f:
         json.dump(significant_features, f)
 
     # print(language)
@@ -188,16 +222,16 @@ def main():
 
     # ######## run statistical analysis tests for each domain ########
 
-    for domain in ['news', 'science', 'clinical']:
-        input_dir = f'../../feature_extraction/results/per_domain/{domain}/{language}/'
+    for domain in domains:
+        input_dir = f'{args.input_dir}/per_domain/{domain}/{language}/'
         output_dir = f'../../viz/per_domain/{domain}'
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)
 
         dfp = run_stats_tests(input_dir, output_dir)
         
-        dfp.to_json(f'../results/{language}_{domain}_stats_{alpha}.json', orient='records')
-        with open(f'../results/{language}_{domain}_significant_features_{alpha}.json', 'w') as f:
+        dfp.to_csv(f'../results/{generation_name}_{language}_{domain}_stats_{alpha}.csv', index=False)
+        with open(f'../results/{generation_name}_{language}_{domain}_significant_features_{alpha}.json', 'w') as f:
             json.dump(significant_features, f)
 
         # print(domain, language)
@@ -205,8 +239,78 @@ def main():
         #     print(p, v['bon'])
         #     print()
 
+    # ######## run statistical analysis tests on the combined language data ########
+
+    english_input_dir = f'{args.input_dir}/per_language/english/'
+    german_input_dir = f'{args.input_dir}/per_language/german/'
+
+    output_dir = '../../viz/combo_lang'
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    files_en = os.listdir(english_input_dir)
+    # files_de = os.listdir(german_input_dir)
+    # print(files)
+
+    # initialize a dataframe to store the feature, t-statistic, and p-value
+    # Initialize a list to collect data
+    data_entries = []
+
+    for f in files_en:
+        feature = f.split('.')[0]
+        df_en = pd.read_csv(english_input_dir + f)
+        try:
+            df_de = pd.read_csv(german_input_dir + f)
+        except:
+            df_de = pd.DataFrame(columns=tasks)
+        
+        df_comb = pd.concat([df_en, df_de], axis=0)
+
+        for p1, p2 in itertools.combinations(tasks, 2):
+            if stats.shapiro(df_comb[p1])[1] < 0.05 and stats.shapiro(df_comb[p2])[1] < 0.05:
+                test = 'mannwhitneyu'
+                statistic, pvalue = stats.mannwhitneyu(df_comb[p1], df_comb[p2], alternative='two-sided')
+            else:
+                test = 't-test'
+                statistic, pvalue = ttest_ind(df_comb[p1], df_comb[p2], equal_var=False) 
+
+            data_entries.append({
+                'feature': feature,
+                'persona': f'{p1}-{p2}',
+                'test': test,
+                't-statistic': statistic,
+                'pvalue': pvalue
+            })
+
+    # Convert list to DataFrame after the loop
+    dfp2 = pd.DataFrame(data_entries)
+
+    # initialize the columns for the multiple hypothesis testing correction
+    dfp2['bon'] = np.nan
+    dfp2['bh'] = np.nan
+    dfp2['reject'] = np.nan
+
+    # sort the dataframe by the p-value in ascending order
+    dfp2 = dfp2.sort_values(by='pvalue', ascending=True)
+    # reset the index of the dataframe
+    dfp2 = dfp2.reset_index(drop=True)
+
+    # perform the multiple hypothesis testing correction
+    dfp2 = perform_multiple_test_correction(dfp2)
+
+    # plot_distribtuions(outputdir, dfp.pvalue, dfp.bon, language, language, method, alpha)
+    # combine_means(dfp, input_dir, files)
+
+    # write the combined dataframe to a csv file
+    dfp2.to_csv(f'../results/{generation_name}_english_german_stats_{alpha}.csv', index=False)
+
+    with open(f'../results/{generation_name}_english_german_significant_features_{alpha}.json', 'w') as f:
+        json.dump(significant_features, f)
+
+
 
 if __name__ == "__main__":
+    # pass
     main()
 
 

@@ -132,7 +132,7 @@ ax.axhline(y=5.5, color='black', linewidth=2)  # Between GPT-4 and AsHuman group
 
 # Improve layout to handle tight spacing and save the figure
 plt.tight_layout()
-plt.savefig('../../viz/for_paper/connectives_cap_pubmed_de_heatmap_gpt34.pdf', format='pdf', bbox_inches='tight')
+plt.savefig('../../viz/for_paper/connectives_cap_pubmed_de_heatmap_gpt34.png', format='png', bbox_inches='tight')
 plt.show()
 
 

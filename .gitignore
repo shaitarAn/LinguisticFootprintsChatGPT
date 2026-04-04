@@ -1,10 +1,9 @@
 # to remove items from github repo that were just added to .gitignore
-# 1. git rm -r --cached .
+# 1. git rm -r --cached . (or a specific file or folder)
 # 2. git commit -m "Remove cashed from repository"
 # 3. git push 
 
 # ignore data folders
-# ignore concatenated_data folder in all subfolders
 **/concatenated_data/
 **/freq_voc/
 **/lemmas/
